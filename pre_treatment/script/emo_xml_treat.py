@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   emo_xml_treat.py
+@Create on :   2022/07
+@Author    :   Qinyue Liu
+@Version   :   1.0
+@Contact   :   qinyue.liu@etu.univ-grenoble-alpes.fr
+@Desc      :   In readme.md
+'''
+
+# Requirements: csv, xml, os, sys, pandas
+
 import csv
 import xml.etree.ElementTree as ET
 import os, sys

@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   variant_idf_phrases.py
+@Create on :   2022/08
+@Author    :   Qinyue Liu
+@Version   :   1.0
+@Contact   :   qinyue.liu@etu.univ-grenoble-alpes.fr
+@Desc      :   In readme.md
+'''
+
+# Requirements: sklearn, pandas, os, alsatian_tokeniser
+
 import pandas as pd
 import os
 import alsatian_tokeniser as alsatian_tokeniser

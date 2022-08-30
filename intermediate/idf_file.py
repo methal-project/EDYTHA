@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+# -*- encoding: utf-8 -*-
+'''
+@File      :   idf_file.py
+@Create on :   2022/08
+@Author    :   Qinyue Liu
+@Version   :   1.0
+@Contact   :   qinyue.liu@etu.univ-grenoble-alpes.fr
+@Desc      :   In readme.md
+'''
+
+# Requirements: sklearn, pandas, os, glob
+
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import os
@@ -9,7 +22,7 @@ def main():
 
 def make_text_files():
     """Function to extract pure text files (words of characters) from csv files
-    
+
     Returns:
         None, creates .txt files
     """

@@ -204,7 +204,7 @@ rolling-mean Joy / (rolling-mean Anger + rolling-mean Anticipation + ... + rolli
 
 *exemple:*
 ```
-python3 graphic.py --mode group --émotion joy,sadness
+python3 graphic.py --mode group --emotions joy,sadness
 ```
 ![joy_sadness_percentage](graphics/demonstration/joy_sadness_percentage.png)
 
@@ -214,7 +214,7 @@ Dans cette image, on peut voir que pour comedy, les emotions sadness et joy ont 
 
 *exemple:*
 ```
-python3 graphic.py --mode group --émotion joy,sadness --dramatype comedy
+python3 graphic.py --mode group --emotions joy,sadness --dramatype comedy
 ```
 ![comedy](graphics/demonstration/comedy.png)
 6. Pairplot pour obtenir toutes les informations sur toutes les émotions
