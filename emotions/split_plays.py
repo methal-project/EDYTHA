@@ -4,10 +4,10 @@
 Made by madame Bernhard, reference: https://arxiv.org/abs/2005.01653
 '''
 
-# Requirements: os, pandas
+# Requirements: os, pandas, sys
 
 import pandas as pd
-import os
+import os, sys
 
 
 def preprocess(values):
@@ -53,10 +53,17 @@ def optimal_equal_part(values, sums_array, k):
 
 
 if __name__ == '__main__':
-    li_dir = os.listdir(".")
+    if (len(sys.argv) == 1):
+        li_dir = os.listdir(".")
+    else:
+        li_dir = os.listdir(sys.argv[1])
     for dir in li_dir:
-        if os.path.isdir(dir):
+        if (len(sys.argv) == 1):
             file_path = dir + "/rolling_mean.csv"
+        else:
+            file_path = sys.argv[1] + "/" + dir + "/rolling_mean.csv"
+            dir = sys.argv[1] + "/" + dir
+        if os.path.isdir(dir):
             df = pd.read_csv(file_path)
             token_lens = list(df.numTokens)
             sums = preprocess(token_lens)

@@ -1,0 +1,1967 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(sitzt bi dr Lampe-n-un strickt)
+
+          
+Wie heimelig un güet isch's doch eso allei in sim Stiwle
+                        z'Owe, we me si Herr un Meister isch... das heisst, we
+                        me ledig isch... do hat me keine Kinder z'wàsche un
+                        z'b'sorge un ins Bett z'lege, un brücht o uf kei Mann
+                        z'warte un 's Nachtesse in dr Wärme-n-umme z'stelle,
+                        bis ass es ihm g'fallt, heime z'ku, wenn er genüe in
+                        alle Bierhiser umme g'rutscht isch... isch's ebbe nitt
+                        eso?... un do heisst's als noch, ich seig e-n-Original,
+                        wil ich nitt hirothe will!... nei, nei... nur das
+                        nitt!... ne so isch me riehig un frei, un ka esse und
+                        schlofe, we me will... tiens, me klopft a... wer mag
+                        jetz das si... entrez!
+
+        
+",1,lustig-ne-jumpfre-wo-nitt-hirothe-will,164,17,0.1036585365853658,,,,,,,,,,,
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(kunnt hinte-n-ine un streckt in dr Jumpfer Herz
+                        beide Hànd entgege)
+                    
+
+          
+Jumpfer Herz!... Finele, lieb Finele!... endlig hat Sie
+                        sich denn jetz doch entschlosse, mir Ihre Hàndle
+                        z'gà... wenn Sie wisse thàt, wie glicklig ass ich bi,
+                        siter ass ich weiss, ass Sie mi lieb Wiwele will gà!...
+
+          
+
+        
+",2,lustig-ne-jumpfre-wo-nitt-hirothe-will,67,11,0.1641791044776119,,,,,,,,,,,
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Was isch jetz das?... was kämme Sie fir Dummheite ku
+                        schwàtze... hàn Sie eigentlig dr Kopf verlore, Herr
+                        Firig?...
+
+        
+",3,lustig-ne-jumpfre-wo-nitt-hirothe-will,28,8,0.2857142857142857,,,,,,,,,,,
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Üs lüter Glick, jà, wil Sie mich jetz endlig will
+                        hirothe!... Sie brücht sich jo jetz nimmig
+                        z'verstelle... hat Sie denn nitt in Ihrem Oncle
+                        g'antwortet uf ein vo sine Briefe, ass Sie mich gern
+                        hat un ass Sie kei Andrer thàt choisiere?
+
+        
+",4,lustig-ne-jumpfre-wo-nitt-hirothe-will,54,7,0.1296296296296296,,,,,,,,,,,
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Was!... Sie hàn sich an mi Oncle adressiert? Wer hat
+                        Ihne erlaübt...
+
+        
+",5,lustig-ne-jumpfre-wo-nitt-hirothe-will,19,2,0.1052631578947368,0.137248131983073,0.4225659645387805,0.6146149692298205,0.0341810307121103,0.7826562732726388,0.0691731720492415,0.500723333473037,0.0258653613301479,0.0350111491823298,0.137238440664734,0.8683981440314442
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+O, zürnt Sie mir nitt, Jumpfer Herz... er isch e güeter
+                        Frind vo mim Vater, un will er sich an mir interessiert
+                        un Ihre-n-einziger Verwandter isch, so ha-n-ich ihn um
+                        Roth g'frogt, un do hat er mir das g'schriwe...
+
+        
+",6,lustig-ne-jumpfre-wo-nitt-hirothe-will,53,7,0.1320754716981132,0.1694703890666603,0.301356208048568,0.5196786441762217,0.0253921685530559,0.6515862130457576,0.057355516940421,0.4053937679644925,0.0,0.0276934259640372,0.0781077377466277,0.7048024172205185
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Mi Oncle weisst nitt, was er schribt!... er hat jetz
+                        emol im Kopf, mich z'verhirothe, un das bringt em Nieme
+                        meh drüs... awer ich will nitt!... 's isch wohr, ich
+                        ha-n-ihm g'schriwe, ass ich Sie lide ka, un ass ich kei
+                        Anderer thàt choisiere... wenn ich hirothe wott... awer
+                        noch emol, ich hiroth nitt un dermit fertig!
+
+        
+",7,lustig-ne-jumpfre-wo-nitt-hirothe-will,78,4,0.0512820512820512,0.1451532289709216,0.1054318102359526,0.4938660559226863,0.1807602633113465,0.4796965957116871,0.2617370635218581,0.1428367356383825,0.2160233687770863,0.0276934259640372,0.0781077377466277,0.4584964688589406
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Un worum denn nitt?... O Finele, lieb Finele! mir sin jo
+                        mitnander ufg'wachse... Dü kennsch mich jo... ha-n-ich
+                        Dich nitt als, wo mr noch in d'Schüel gange sin, iwer
+                        's Wasser gràtzelt, ass De keine nasse Fiess g'macht
+                        hasch un alle güete Sache mit Dir theilt?... g'wiss, i
+                        mach Di glicklig... uf de Hànd 
+ill ich Di umme trage
+                        un e jeder vo Dine Wünsch soll erfillt werde!...
+
+          
+
+            
+G'sang
+
+            
+(il Baccio)
+
+            
+Längst ha-n-ich, lieb Schàtzle,
+
+            
+Scho Di Fràtzle
+
+            
+In mim Herz notràit,
+
+            
+Wie ne Schimmer;
+
+            
+Dü nur bisch mi Freid!
+
+            
+Wie wà mir froh
+
+            
+Mitnander lewe
+
+            
+Un immer do
+
+            
+Im Himmel schwewe!
+
+            
+Dich, mi lieb Herz,
+
+            
+Wil ich nur liewe
+
+            
+Un nie kei Schmerz
+
+            
+Soll ku 's Glick triewe.
+
+            
+Längst ha etc.
+
+          
+
+        
+",8,lustig-ne-jumpfre-wo-nitt-hirothe-will,156,26,0.1666666666666666,0.0984853528684928,0.3635516071975723,0.6771334965197713,0.1763796875564877,0.7536064216417386,0.2201402411800849,0.5085006204206695,0.2160233687770863,0.0276934259640372,0.1586815928385676,0.8392453166146497
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Bàh, bàh, bàh!... ich will kei jalouser Mann um mich
+                        umme ha, wo mir e jeder Schritt bewacht.
+
+        
+",9,lustig-ne-jumpfre-wo-nitt-hirothe-will,27,4,0.1481481481481481,0.0602726727180461,0.2581197969616197,0.6563561214619378,0.1691482609135463,0.6050334610444453,0.2147166711978788,0.3656638847822869,0.2160233687770863,0.0,0.2346568740537952,0.734537765183042
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Ich jaloux!... g'wiss nitt, Jumpfer Herz, g'wiss nitt...
+                        alle Freiheit soll Sie ha... un derno, Sie ka doch nitt
+                        allewil allei do bliwe in dem abg'legene Hüs... wenn
+                        jo-n-emol Schelme kàmte, so kännt Ere jo nitt emol
+                        nieme z'Hilf ku.
+
+        
+",10,lustig-ne-jumpfre-wo-nitt-hirothe-will,56,9,0.1607142857142857,0.09903517876156,0.2581197969616197,0.7568431729054577,0.1994088064284273,0.719260800914489,0.2341148241819445,0.3656638847822869,0.264880162400699,0.0,0.2922811975047495,0.8484170012842311
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+'s sin noch nie keinè ku... un ich ha kei Angst... un
+                        derno, ich will mi Herr un Meister si, ass ich ka
+                        mache, wie-n-ich will... ich ha ewe ne wenig e freier,
+                        unabhàngiger Character... das ha-n-ich alles scho
+                        hundertmol in mim Oncle g'schriwe, wenn er mich als
+                        plogt hat, Sie z'hirothe... ich weiss sicher nitt, was
+                        ihm jetz uf eimol iku isch, Ihne Hoffnung z'mache...
+ er
+                        meint halt, er seig noch allewil Kummedant bi dr Armee
+                        un kännt im e jede kummediere, was er fir güet findet,
+                        awer bi mir packt's nitt!...
+
+        
+",11,lustig-ne-jumpfre-wo-nitt-hirothe-will,122,14,0.1147540983606557,0.082450897690057,0.3225858642446302,0.885434181489595,0.1957930931069566,0.8541174614926927,0.2912138719272064,0.44565993642864,0.264880162400699,0.0,0.3724882582197552,0.9829889194604904
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Als Vormund un einziger Frind, wo Ihne blibt vo dr
+                        Familie, derft Se doch e wenig uf ihn lose... er hat jo
+                        in Ihrer Müetter versproche uf em Todtbett, ass er Sie
+                        b'schitze un uf Sie wache will... un erst letschthi hat
+                        er noch in mim Vater g'schriwe, ass er e schwerer Stei
+                        ab em Herz hätt, wenn er Sie-n-emol versorgt thàt
+                        wisse!
+
+        
+",12,lustig-ne-jumpfre-wo-nitt-hirothe-will,76,13,0.1710526315789473,0.1030269562326052,0.3225858642446302,1.073174541670669,0.0397170265094969,1.2871835903912543,0.0863013464663925,0.802658633111491,0.0488567936236127,0.0,0.409573439438087,1.453243334547747
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Ich brüch Nieme, fir uf mich z'wache... un züedem isch
+                        er jo scho weiss kei Mensch wie lang furt uf Reise...
+                        er hat sich nie gross um mich bekümmert... ich ha-n-'n
+                        nitt emol nie recht kennt un ha-n-'n scho zeh Johr
+                        nimmig g'sàh, ich bi elfe alt gsi, wo-n-er furt isch...
+                        un wenn ich nitt mi Tante noch g'ha hätt e paar Johr,
+                        wàr's mir possig gange...
+
+        
+",13,lustig-ne-jumpfre-wo-nitt-hirothe-will,87,10,0.1149425287356321,0.1751084722731311,0.1129434987902946,1.1164022583827171,0.0819896531747582,1.3347518909618208,0.171549745985686,0.6680368018942768,0.1183236223812686,0.0663826654200818,0.4179578558414858,1.406894867480588
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Also isch das Ihre letscht Wort, Jumpfer Herz, Sie will
+                        denn nit vo mr wisse?...
+
+        
+",14,lustig-ne-jumpfre-wo-nitt-hirothe-will,22,5,0.2272727272727272,0.2286062244837564,0.1129434987902946,1.0088195451326871,0.0921136504748763,1.2797664137786535,0.1791427439607746,0.6680368018942768,0.1183236223812686,0.0663826654200818,0.2638748368796303,1.2712449185901202
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Lose Se, Herr Firig... glaüwe Sie mir... mr wànn güete
+                        Frind bliwe mitnander wie frieiher, awer bi dem soll's
+                        bliwe...
+
+        
+",14,lustig-ne-jumpfre-wo-nitt-hirothe-will,29,7,0.2413793103448276,0.2280563985906892,0.1129434987902946,0.9569041092934804,0.0690845316029367,1.2176751111851425,0.165168160958915,0.6680368018942768,0.0694668287576559,0.0663826654200818,0.2062505134286761,1.1990525110853054
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(decouragiert)
+
+          
+Eh bien... wenn's eso isch, so mach ich mir ebbes am
+                        Lewe... denn eso ka's nimmig geh... ich spring ins
+                        Wasser... in d'Dollre, oder in d'Ill, dert isch's
+                        tiefer... oder nei, ins Stadtbàchle, 's isch nàcher!
+
+          
+
+          
+
+            
+G'sang
+
+            
+(Auf mei'm Grabstein)
+
+            
+Uf mim Grabstei wirsch Dü grine,
+
+            
+Ebb dr Vollmond kunnt ku schine,
+
+            
+Will Dü mich nitt gnu hasch hit;
+
+            
+Adie Schatz, vergiss mi nitt.
+
+            
+Uf mim Grabstei wirsch Dü kneie,
+
+            
+Vor ebb...
+
+          
+
+        
+",15,lustig-ne-jumpfre-wo-nitt-hirothe-will,103,11,0.1067961165048543,0.2307451596074844,0.0837040880562761,1.123391645703404,0.0700706352360651,1.4627184929349035,0.1060969059473963,0.8733590450925799,0.1030226379453557,0.0663826654200818,0.1642502385585642,1.4558134558585238
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(spöttisch)
+
+          
+Vor ebb's grien wird schneie.
+
+        
+",16,lustig-ne-jumpfre-wo-nitt-hirothe-will,12,2,0.1666666666666666,0.2101691010649362,0.0837040880562761,0.7738111046345659,0.0661767901206351,0.9579286895965714,0.1031765221108238,0.516360348409729,0.1030226379453557,0.0663826654200818,0.1271650573402324,0.9304799779118262
+comedy,Herr FIRIG,M,,,,"
+            
+Herr Firig.
+
+            
+
+              
+An mim Tod bisch Dü jetz Schuld,
+
+              
+Adie, ich stirb mit Geduld!
+
+            
+
+          
+",16,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,6,0.3333333333333333,0.1606090526323318,0.035226656548992,0.591413102773671,0.0303939053144238,0.6911429632597824,0.0227954289858178,0.2853182948446561,0.0950747926984827,0.0,0.0382067858448937,0.6080753998932691
+comedy,Jumpfer HERZ,F,,,,"
+            
+Jumpfer Herz.
+
+            
+
+              
+We mir üsgeht jetz d'Geduld,
+
+              
+So bisch sicher Dü dra d'Schuld!
+
+            
+
+          
+",17,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,4,0.2222222222222222,0.1071113004217065,0.035226656548992,0.5234128409276331,0.0202699080143057,0.6181525110726376,0.0152024310107293,0.2853182948446561,0.0950747926984827,0.0,0.0382067858448937,0.5497138398583445
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Mache Se keine Dummheite, Herr Firig, springe Se nur
+                        iwer 's Wasser, 's geht o, 's hàn's scho Viel eso
+                        g'macht...
+
+        
+",17,lustig-ne-jumpfre-wo-nitt-hirothe-will,30,6,0.2,0.1134800804467809,0.035226656548992,0.5315081101950186,0.0214751457881293,0.6268418506187262,0.0161063593410969,0.2853182948446561,0.0950747926984827,0.0,0.0382067858448937,0.556661644624407
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Oder nei, ich gang mi geh engagiere... in dr Krieg gang
+                        i... hört Se's, Jumpfer Herzlos, ich gang mi geh lo
+                        umbringe... glich morn am Morge pack i uf!...
+
+        
+",18,lustig-ne-jumpfre-wo-nitt-hirothe-will,40,10,0.25,0.1483548993112487,0.0662728232578625,0.3749317865381817,0.0532154306583467,0.3625029091431712,0.0694515534256091,0.0515664784097451,0.1881170834669003,0.0309364765751339,0.0191371025908194,0.2535918489473842
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Voyons, Herr Firig... gehn Se jetz riehig geh schlofe
+                        driwer... bis morn hàn Se derno ganz andere Gedanke.
+
+        
+",19,lustig-ne-jumpfre-wo-nitt-hirothe-will,25,6,0.24,0.1929363594867698,0.0662728232578625,0.4886976398910455,0.0616520950751117,0.5121876876986189,0.0757790517381829,0.1043680585811077,0.1881170834669002,0.0309364765751339,0.0191371025908194,0.4095021402623341
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Ich schlofe!... kei Schlof isch meh möglig fir mich!...
+                        und mi einziger Trost wird si, Ihre Fenster die Nacht
+                        dure noch z'b'schaüe vo witem, züem letschte mol...
+                        wenn Sie also viellicht noch Idee changiert in 
+dr Nacht
+                        un mit mr rede will, so derf Se nur e Liecht dra stene,
+                        un do kumm i... wo nitt, so bin i morn Soldat... Adie,
+                        undarmherzige Jumpfer Herz... Se sieht mich nimmig!
+(er
+                        geht üse)
+
+        
+",20,lustig-ne-jumpfre-wo-nitt-hirothe-will,92,11,0.1195652173913043,0.198338803798542,0.0662728232578625,0.4614971527418404,0.0578172476129458,0.4757740259102979,0.1007657456147433,0.1043680585811077,0.1601539091438171,0.0309364765751339,0.0191371025908194,0.3947064800454055
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(allei)
+
+          
+Er dürt mi, dr Herr Firig... awer i ha jetz emol
+                        keine-n-Idee, fir Hose z'flicke un Zulli
+                        z'fawriziere... awer doch hat er mir ebbes g'sàit,
+                        wo-n-ich noch nie dra denkt ha... wenn emol Schelme
+                        kàmte ku ibreche do... un ich, wo ganz allei bi!... ich
+                        derf nitt dra denke, ich bekumm uf eimol Angst!...
+                        brrr!... still, ich hör glaüb ebbes!... 's kunnt
+                        ebber!...
+
+        
+",21,lustig-ne-jumpfre-wo-nitt-hirothe-will,94,15,0.1595744680851064,0.2790806012240031,0.0911207860355014,0.6701416212077839,0.1203185595485423,0.6851804657338244,0.1955517586886864,0.1598663429228162,0.2774102138404876,0.0309364765751339,0.0191371025908194,0.6085341852301728
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(kunnt hinte-n-ine. Fir sich)
+
+          
+Aha, do isch se jo...
+(lüt)
+ ha-n-ich d'Ehr mit dr
+                        Jumpfer Herz z'rede?
+
+        
+",22,lustig-ne-jumpfre-wo-nitt-hirothe-will,33,6,0.1818181818181818,0.2849654055660172,0.17706491671841,0.7924819136149106,0.1203185595485423,0.8093190306412283,0.3277070522701727,0.2694229966932103,0.2774102138404876,0.1291358946314737,0.0894295744293451,0.7595170795416885
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Jo... awer was wàr Ihne lieb, noch so spot?
+
+        
+",23,lustig-ne-jumpfre-wo-nitt-hirothe-will,15,4,0.2666666666666666,0.2257734266058106,0.2454901169567205,0.71316927363113,0.0839764577237258,0.7862965142983189,0.2709104954697112,0.3983644780076659,0.1508121138843702,0.0981994180563397,0.0702924718385256,0.8185313913763956
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Ich hätt Ere ewe ebbes Wichtigs az'trage.
+
+        
+",23,lustig-ne-jumpfre-wo-nitt-hirothe-will,11,1,0.0909090909090909,0.2016553652284006,0.2454901169567205,0.7093768204568985,0.1261597798075513,0.8055597093456848,0.3025479870325803,0.3455628978363033,0.1508121138843702,0.0981994180563397,0.0702924718385256,0.8184415220305612
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(mit Verdacht)
+
+          
+Das isch awer jetz kei Zit, fir...
+
+        
+",23,lustig-ne-jumpfre-wo-nitt-hirothe-will,15,5,0.3333333333333333,0.2081382984025272,0.2454901169567205,0.6767362358778526,0.1215579628529521,0.7618633151996995,0.3325320196844527,0.3455628978363033,0.1172563046966705,0.0981994180563397,0.0702924718385256,0.8006867297702465
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Fir um's Hirothe z'froge... 's isch möglig... awer das
+                        isch mir eithüen, ich bi pressiert... ich ka nimmig
+                        warte...
+(er verneigt si)
+ Jumpfer Herz, ich bi ku, um
+                        Ihne mi Hand un mi Vermöge az'trage...
+
+        
+",24,lustig-ne-jumpfre-wo-nitt-hirothe-will,50,6,0.12,0.1778627654946011,0.3200270830888712,0.609587951259204,0.0674933153341207,0.6951821996587605,0.3149082672390658,0.2900646134945948,0.0,0.1189329671748354,0.1371161402812448,0.7187876892356801
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(fir sich)
+
+          
+Ah çà... scho wieder Einer... wànn denn alle hirothe
+                        hit?... un noch eso ne-n-Alter...
+(lüt)
+ das isch jetz e
+                        wenig stark...
+
+        
+",25,lustig-ne-jumpfre-wo-nitt-hirothe-will,37,6,0.1621621621621621,0.1744521990282493,0.2340829524059626,0.5323444191559992,0.0590566509173556,0.6288443877347892,0.2275073293791778,0.1805079597242006,0.0,0.0207335491184956,0.1588954428123433,0.631933982592367
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(fir sich)
+
+          
+Das ha-n-i wohl g'wisst, ass ich wird aku, wie
+                        ne-n-Elephant, wo züem e Glaser kunnt ku tanze!
+(lüt)
+
+                        's isch viellicht stark, awer 's isch eso... ich
+                        heiss...
+
+        
+",26,lustig-ne-jumpfre-wo-nitt-hirothe-will,47,9,0.1914893617021276,0.2080963753732727,0.0993849289097895,0.4764413738829215,0.0646810938618656,0.5328697287142361,0.2657802309436752,0.0,0.0,0.0207335491184956,0.1588954428123433,0.4838703035736623
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+'s isch unnöthig... ich brüch Ihre Name gar nitt
+                        z'wisse...
+
+        
+",27,lustig-ne-jumpfre-wo-nitt-hirothe-will,16,2,0.125,0.1876329765751616,0.0993849289097895,0.3664679737042893,0.0140611073612751,0.3639217551114226,0.2278152410682323,0.0,0.0,0.0207335491184956,0.1588954428123433,0.3280498816045468
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(fir sich)
+
+          
+Desto besser, ich brüch ere-n-ewe kei letzer agà.
+
+        
+",27,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,3,0.1666666666666666,0.2320986679488119,0.0993849289097895,0.4506924357616302,0.0309344361948053,0.4561513051505615,0.2813357209207177,0.0,0.0,0.0207335491184956,0.1588954428123433,0.4082946004201681
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Züem erste will ich gar nitt hirothe, un züem andre find
+                        ich Sie ne wenig herzhaft, eso mir nit, dir nit in
+                        ebberm e Hirothsatrag z'mache, wo Sie noch nie g'sàh
+                        hàn.
+
+        
+",28,lustig-ne-jumpfre-wo-nitt-hirothe-will,41,3,0.073170731707317,0.3739346634841117,0.0,0.5853219201520031,0.2142910312610142,0.494484177085209,0.4126213128594868,0.0,0.0,0.0,0.0920717743696241,0.3124339401758242
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Was will Se halt... ich bin e-n-alt Original, un bi vo
+                        jeher g'wohnt gsi, alles üsz'fiehre, was mr in Kopf ku
+                        isch... un jetz ha-n-ich Idee, Sie z'hirothe, un ich
+                        hiroth Se!...
+
+          
+
+            
+G'sang
+
+            
+(Das Jagen ist mein Leben)
+
+            
+'s Hirothe, das isch mir mi Lewe
+
+            
+Sechs Wiwer, wo mir thien scho schwewe
+
+            
+Im Himmel dert owe,
+
+            
+Un thien mich g'wiss lowe;
+
+            
+Denn güet hàn sie's g'ha.
+
+            
+Vorgestert isch d'Sechste verscheide,
+
+            
+Drum kumm ich züe Ihr' jetz mit Freide
+
+            
+Denn vo dàne-n-alle
+
+            
+Thüet Sie mir jetz g'falle
+
+            
+Am beste glaüb noch,
+
+            
+Sie isch d'Schönste doch!
+
+          
+
+          
+
+        
+",29,lustig-ne-jumpfre-wo-nitt-hirothe-will,126,14,0.1111111111111111,0.3283406367756507,0.0276780872884937,0.5523132259608012,0.217906744582485,0.4702270278929261,0.3642512438164176,0.0769611735180036,0.0,0.0,0.065775428412702,0.3196842873017894
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(fir sich)
+
+          
+Merci fir dr Vorzug!
+(lüt)
+ awer Sie kenne mich gar nitt!
+                       
+(fir sich)
+ hat mr ne-n-ebbe mi Oncle o g'schickt,
+                        dà?...
+
+        
+",30,lustig-ne-jumpfre-wo-nitt-hirothe-will,38,7,0.1842105263157894,0.6576975596826126,0.0276780872884937,0.95913360068345,0.2122823016379749,0.7678363824958134,0.7200383590869628,0.0769611735180036,0.0,0.0,0.065775428412702,0.5517207622954347
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Das isch grad 's Original dervo... Sie sin e schöne
+                        Person, wo mir g'fallt, das isch, was ich brüch...
+
+        
+",31,lustig-ne-jumpfre-wo-nitt-hirothe-will,27,4,0.1481481481481481,0.6628134093821403,0.0276780872884937,1.087843453163838,0.2249372982631225,0.976934271605517,0.7295296065558236,0.0769611735180036,0.0,0.0,0.2137156027647825,0.7696796768573169
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Wenn ich Ihne-n-awer sag, ass ich gar nitt hirothe
+                        will!
+
+        
+",32,lustig-ne-jumpfre-wo-nitt-hirothe-will,17,2,0.1176470588235294,0.5618808803470701,0.0276780872884937,0.9322689981098018,0.2080639694295924,0.8308343833090766,0.6147109018623316,0.0769611735180036,0.0,0.0,0.2137156027647825,0.6469780908028213
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Wenn Sie durchüs nitt will hirothe... ich halt nitt so
+                        erschrecklig dra, mr känne jo doch binander wohne.
+
+        
+",32,lustig-ne-jumpfre-wo-nitt-hirothe-will,24,3,0.125,0.3763997532269388,0.0276780872884937,0.6928011299316781,0.0331440387801485,0.7060921782927794,0.4189180459201539,0.0769611735180036,0.0,0.0,0.2137156027647825,0.6628502270533362
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Das isch awer jetz doch züe arg
+(se zeigt uf d'Türe)
+
+                        dert isch d'Thüre!... un nur schnell e wenig oder ich
+                        rief um Hilf
+(fir sich)
+ un kei Mensch im Hüs in dem
+                        Moment, wo mich vertheidige kännt!... Oh!...
+                        e-n-Idee!... ich will 's Liecht ans Fenster stelle, ass
+                        dr Herr Firig kunnt.
+
+        
+",33,lustig-ne-jumpfre-wo-nitt-hirothe-will,74,9,0.1216216216216216,0.4360295207020195,0.0,0.747655993446925,0.0351527684031878,0.7510195667664731,0.4544791624935483,0.057296087121939,0.0,0.0,0.1479401743520804,0.6736349730627724
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(wàhrend ass d'Jumpfer Herz 's Liecht an 's Fenster
+                        stellt)
+
+          
+Sie weiss wohl, ass es Nieme höre thàt, wenn Si o thàt
+                        riefe... also thàt Sie sich decidiere, denn Se bringt
+                        mich nimmig ab... 's müess geh, uf ei Art oder uf
+                        d'Andere...
+
+        
+",34,lustig-ne-jumpfre-wo-nitt-hirothe-will,56,6,0.1071428571428571,0.0764389879163861,0.0,0.5844644045915827,0.0435894328199529,0.8457771580418723,0.0667466439710795,0.4010726098535732,0.0,0.0,0.1479401743520804,0.8754001004627312
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(fir sich)
+
+          
+Gatt!... ich vergang schier vor Angst, wenn nur dr Herr
+                        Firig kunnt!...
+(lüt)
+ Un Sie meine, das Ding geht
+                        eso... Sie känne-n-eso mache, was Sie wàn!...
+
+        
+",35,lustig-ne-jumpfre-wo-nitt-hirothe-will,46,8,0.1739130434782608,0.1400510068868866,0.0465899302080728,0.6081171018324916,0.0372619345073791,0.7473792689708904,0.1666699775252878,0.4010726098535732,0.0,0.0,0.0,0.739463446045274
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Das wà mr jetz glich sàh!...
+(ar geht a Schritt gege
+                        're).
+
+        
+",36,lustig-ne-jumpfre-wo-nitt-hirothe-will,20,2,0.1,0.1502827062859422,0.0465899302080728,0.6631038019218078,0.0625719277576743,0.8318532557722971,0.1856524724630093,0.4010726098535732,0.0,0.0,0.0,0.8173736570298317
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(springt hinter dr Tisch)
+
+          
+Z'Hilf!... Firio... 's brennt!...
+
+        
+",37,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,2,0.1111111111111111,0.1434615733532385,0.0465899302080728,0.6264460018622637,0.0456985989241442,0.7755372645713592,0.1729974758378616,0.4010726098535732,0.0,0.0,0.0,0.76543351637346
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(springt are no)
+
+          
+'s hört's jo Nieme... also isch's unnöthig!...
+
+        
+",37,lustig-ne-jumpfre-wo-nitt-hirothe-will,19,1,0.0526315789473684,0.1028335333335466,0.0465899302080728,0.6128095875412308,0.0906941424802246,0.8051888690867086,0.1726895641488072,0.3437765227316342,0.0,0.0,0.0,0.7904550241765345
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(kunnt hinte-n-ine)
+
+          
+Was sieh-n-i!...
+
+        
+",37,lustig-ne-jumpfre-wo-nitt-hirothe-will,14,2,0.1428571428571428,0.2331673473937581,0.0465899302080728,0.4873233046043402,0.1075674713137548,0.5465980909108045,0.1853445607739549,0.0,0.0,0.0,0.0,0.4616567931854098
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Z'Hilf, Herr Firig... me will mich umbringe!
+(se springt
+                        ins Schlofzimmer rechts)
+.
+
+        
+",38,lustig-ne-jumpfre-wo-nitt-hirothe-will,22,5,0.2272727272727272,0.2179372309343551,0.0,0.402961016729081,0.1113639703012991,0.5088885430592274,0.0835229777259744,0.0,0.0,0.0,0.0,0.4379960930759094
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(nimmt dr Herr Schlaü am Krage)
+
+          
+Was isch, was git's... was hàn Sie um die Zit noch do
+                        z'schaffe?...
+
+        
+",38,lustig-ne-jumpfre-wo-nitt-hirothe-will,29,4,0.1379310344827586,0.2899252708971646,0.0,0.5154546940812865,0.1366739635515944,0.642363601693862,0.1025054726636958,0.0,0.0,0.0,0.0,0.5499031486118441
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(macht si los)
+
+          
+Was hàn Sie selbst do z'schaffe... un üs was fir eme
+                        Recht nàme Sie dr Jumpfer Herz ihre Parthie a?... Sie
+                        sin nitt dr Mann, nitt dr Brüeder, nitt dr Cüsin un nit
+                        eso, soviel as ich weiss!
+
+        
+",39,lustig-ne-jumpfre-wo-nitt-hirothe-will,53,9,0.1698113207547169,0.323569447242188,0.0746241863705996,0.7512186525521694,0.1422984064961045,0.9454644045441538,0.1407783742281932,0.0693573201798336,0.0,0.0542617940530122,0.1809955064326495,0.8524108949030067
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Das geht Sie nit a... un uf dr Stell... züem erste un
+                        züem andre... mache Se, ass Se-n-abfahre, Sie Brigand,
+                        ass Se sin!
+
+        
+",40,lustig-ne-jumpfre-wo-nitt-hirothe-will,34,4,0.1176470588235294,0.3699782387073586,0.0746241863705996,0.9103537969783904,0.1043334166206615,1.1386128233326078,0.112304631821611,0.1982735162041964,0.0,0.0542617940530122,0.322845280748443,1.0635049018192977
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Ah so!... Brigand!... das Wort zahle Se mr!
+
+          
+
+            
+G'sang
+
+            
+(Dame blanche)
+
+            
+Das mien Sie mir ibiesse,
+
+            
+Ich thüe Sie morn erschiesse,
+
+            
+
+            
+Un kei Pardon isch z'hoffe,
+
+            
+Ich bi kennt in dr Stadt;
+
+            
+'s isch mir noch Kein entloffe,
+
+            
+Wo's mit mir z'thüe g'ha hat!
+
+          
+
+        
+",41,lustig-ne-jumpfre-wo-nitt-hirothe-will,63,7,0.1111111111111111,0.2391572008662397,0.1575780102628755,0.8104602716671081,0.0862548500133078,1.0448756008353306,0.0987457068660957,0.2456937661426164,0.0,0.0542617940530122,0.3870839126650225,1.014279528845306
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+
+            
+Er mag jetz noch so schreie
+
+            
+Mit sine Prahlereie!
+
+            
+Das alles sin nur Posse;
+
+            
+Denn glaüwe, thüe-n-ich doch
+
+            
+Die, wo-n-er hat erschosse,
+
+            
+Die lewe-n-alle noch.
+
+          
+
+        
+",42,lustig-ne-jumpfre-wo-nitt-hirothe-will,40,4,0.1,0.252531638918896,0.2544513157726037,0.9626357423143852,0.0887858493383373,1.2153770068825225,0.1006439563598678,0.3324165694446455,0.0,0.0542617940530122,0.4921525737384805,1.2121547383774591
+comedy,Herr SCHLAÜ,M,,,,"
+            
+Herr Schlaü.
+
+            
+
+              
+Das mien Sie mir ibiesse, etc.
+
+            
+
+          
+",42,lustig-ne-jumpfre-wo-nitt-hirothe-will,10,1,0.1,0.1907752983551421,0.2544513157726037,0.905128765051496,0.0887858493383373,1.1663759350492948,0.1006439563598678,0.3324165694446455,0.0,0.0542617940530122,0.4921525737384805,1.1781578938260822
+comedy,Herr FIRIG,M,,,,"
+            
+Herr Firig.
+
+            
+
+              
+Das soll Sie nitt verdriesse;
+
+              
+Doch Sie brücht kein meh z'schiesse;
+
+              
+Denn Sie sin's, wà mr hoffe,
+
+              
+Jo scho im höchste Grad.
+
+              
+Fir ein, wo scho so troffe,
+
+              
+Wàr's jo fir's Pulver schad.
+
+            
+
+          
+",43,lustig-ne-jumpfre-wo-nitt-hirothe-will,48,9,0.1875,0.3123339569302882,0.2443467702071076,0.9529918825645104,0.0887858493383373,1.1479447978777848,0.2028076644282122,0.2999416658835829,0.0,0.0,0.4268716362863174,1.1398601085409914
+comedy,Herr FIRIG,M,,,,"
+          
+Ich will mich messe mit Ihne, morn scho, wenn Sie wànn,
+                        nur mache Se-n-ass Se jetz furt kämme!
+
+        
+",44,lustig-ne-jumpfre-wo-nitt-hirothe-will,24,2,0.0833333333333333,0.2454617666670065,0.2443467702071076,0.6838833379596572,0.0761308527131897,0.7858484054865176,0.1933164169593515,0.1710254698592201,0.0,0.0,0.2850218619705239,0.772945679655585
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Also morn, wenn d'Sunne-n-ufgeht, uf dr Promenade dert
+                        unte... Sie känne-n-Ihre Testament mache... ich bi
+                        ne-n-alter Soldat
+(er stellt si, fir z'fechte)
+ das Ding
+                        kennt mich... un fehle Se nitt
+(er geht gege dr Thüre
+                        un kehrt si noch emol um)
+ Ah so!... ich bi ne
+                        Brigand!... das Wort zahle Se mr mit em Lewe
+(er geht
+                        üse).
+
+        
+",45,lustig-ne-jumpfre-wo-nitt-hirothe-will,86,13,0.1511627906976744,0.2658305460665783,0.2275059039730334,0.7758525987283823,0.0727932711856782,0.9228227349455842,0.214389471137182,0.1899556812519976,0.0,0.0,0.3441981898911318,0.8952504089837833
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(kunnt üs dr Schlofstuwe)
+
+          
+Oh, Herr Firig!... wenn Sie wisse thàte, wie Angst ass
+                        ich g'ha ha!
+
+        
+",46,lustig-ne-jumpfre-wo-nitt-hirothe-will,26,5,0.1923076923076923,0.2524561080139219,0.2051764867962218,0.7281069527924472,0.0702622718606487,0.802580538515901,0.3186633284642252,0.1032328779499685,0.0,0.0,0.2391295288176738,0.7277923884089115
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Was isch denn gsi?... was hat er denn eigentlig welle,
+                        dà espèce Ràiwerhaüptmann?
+
+        
+",46,lustig-ne-jumpfre-wo-nitt-hirothe-will,20,2,0.1,0.3657370897423742,0.2051764867962218,0.7881342072289097,0.0449522786103534,0.8161086953809497,0.2996808335265037,0.1032328779499685,0.0,0.0,0.2391295288176738,0.7178758665271074
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Was er hat welle?... denke Se nur, er hat mich welle
+                        hirothe... awer glich uf dr Stell... und do ha-n-i halt
+                        Angst biku un ha Sie g'rüefe.
+
+        
+",47,lustig-ne-jumpfre-wo-nitt-hirothe-will,38,6,0.1578947368421052,0.2105342548222048,0.2027767529352155,0.714270796702668,0.0393278356658434,0.7538939224883155,0.2477209795776747,0.152294592014106,0.0,0.0,0.2179814760477163,0.6749885488799372
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Diable, diable... dà isch schint's noch mehr pressiert
+                        as ich... ich hätt jo gern noch e paar Tàg g'warte...
+                        also isch's nitt, wil Sie Idee g'schangiert hat, ass
+                        Sie mich g'rüefe hat?... un ich, wo voller Freid bi ku
+                        z'laüfe!
+
+        
+",48,lustig-ne-jumpfre-wo-nitt-hirothe-will,56,7,0.125,0.2487469349726515,0.3082085631711682,0.851240138816095,0.0465592623087849,0.9419623310894998,0.2531445495598808,0.2214649299242813,0.0,0.0276934259640372,0.2960892137943441,0.8775507390761698
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Eh nei... awer ich will o nitt, ass Sie sich gehn geh
+                        schlage wege mir... denn ich ha alles g'hört, was
+                        vorgange-n-isch.
+
+        
+",49,lustig-ne-jumpfre-wo-nitt-hirothe-will,32,4,0.125,0.2254548128876353,0.2420956055129664,0.6891637487435572,0.0426654171933548,0.716249093659848,0.2266479253998442,0.1551144685930838,0.0,0.0276934259640372,0.1726742539571567,0.6585674826346515
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Oh Finele!... was frog ich doch in mim Lewe no, wenn ich
+                        Dich nitt ha!... desto besser, wenn er mich umbringt...
+                        ich will noch hundertmol liewer fir Dich sterwe, as
+                        fir's Vaterland!... Adieu denn!... morn, wenn
+                        d'Sunne-n-ufsteht, so leg ich mich... in d'ewige
+                        Rüeh!...
+
+        
+",50,lustig-ne-jumpfre-wo-nitt-hirothe-will,69,10,0.144927536231884,0.3116396121051624,0.2430557262990947,0.8459257950034058,0.0376034185432958,0.9299575205138666,0.2392757692734979,0.2358140286587991,0.0682873400790688,0.0276934259640372,0.2700351365833269,0.8507604392837098
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Awer, Herr Firig, denke Se doch dra... wenn Sie umkämme,
+                        so kunnt er am End derno wieder do 
+ane, un wer sott
+                        mich derno vertheidige... wer weiss... am End kunnt er
+                        die Nacht noch emol, wenn er denkt, ass Sie furt sin...
+                        oh bliwe Se noch do... Fonsi, liewer Fonsi, blib do, bi
+                        mir... ich vergang schier vor Angst.
+
+        
+",51,lustig-ne-jumpfre-wo-nitt-hirothe-will,78,6,0.0769230769230769,0.2224766917541202,0.3051756332431918,0.8196168791861276,0.0207300897097656,0.8501894415498823,0.315097528332363,0.2358140286587991,0.0682873400790688,0.0276934259640372,0.2700351365833269,0.7788388300232366
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Was, Sie erlaübt mir, doz'bliwe die Nacht bi Ihre?...
+                        oh, Jumpfer Herz oh Finele, ich will jo derno gern
+                        sterwe morn!...
+
+        
+",52,lustig-ne-jumpfre-wo-nitt-hirothe-will,32,6,0.1875,0.2670581519296413,0.2995595885590519,0.7302678713015813,0.0291667541265307,0.7715606678157875,0.232948270960924,0.2305686255377616,0.0682873400790688,0.0600024229220806,0.2665943144105302,0.7198826162264989
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Allons, allons... keine Dummheite!... Sie derfe dobliwe,
+                        wenn Sie mir verspreche, alle Cunditione az'nàh,
+                        wo-n-ich Ihne mache will.
+
+        
+",53,lustig-ne-jumpfre-wo-nitt-hirothe-will,31,4,0.1290322580645161,0.2288454717791946,0.1941277783230993,0.5932985291881544,0.0219353274835891,0.5834922592146033,0.2275247009787179,0.1613982876275864,0.0682873400790688,0.0323089969580434,0.1884865766639025,0.5173204260302662
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Alles, alles nimm ich a, was Se will, un wenn's noch so
+                        schwer isch... wenn ich nur weiss, ass ich in Ihrer
+                        Nàche bi un d'gliche Luft derf iothme!...
+
+        
+",54,lustig-ne-jumpfre-wo-nitt-hirothe-will,41,3,0.073170731707317,0.3180083921302368,0.1941277783230993,0.864825429322875,0.0388086563171193,0.8975803559517633,0.330172794153667,0.1613982876275864,0.1845407172614352,0.0323089969580434,0.1884865766639025,0.7161821595073246
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Eh bien denn... 's. isch gar nitt schwer, was ich vo
+                        Ihne fordre will... Sie schlofe ganz eifach in dem
+                        Lehnstüehl do, un ich dert in mim Schlofzimmer, awer
+                        Sie mien mir verspreche, ass Sie mir d'Schwelle nitt
+                        wànn iwertrete.
+
+        
+",55,lustig-ne-jumpfre-wo-nitt-hirothe-will,52,7,0.1346153846153846,0.1783258407020844,0.1186237692040544,0.6523723253714988,0.0337466576670603,0.7192606158177649,0.2423483154340243,0.1259572248516104,0.1660762531176662,0.0323089969580434,0.0911256940377323,0.5707006464334359
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Das isch scho nitt eso licht, wie Sie meint... awer 's
+                        isch eithüen... ich ha mi Wort gà un will's o süeche
+                        z'halte.
+
+        
+",56,lustig-ne-jumpfre-wo-nitt-hirothe-will,32,7,0.21875,0.218744968661307,0.0565038622599572,0.6017081795812478,0.061564382682613,0.7059512673574371,0.1529676314196438,0.1259572248516104,0.1660762531176662,0.0323089969580434,0.0911256940377323,0.5705376899131769
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Also wà mr denn vor allem die Thüre güet züemache
+(se
+                        b'schliesst d'hintere Thüre)
+ so... un jetz güet Nacht
+                        Herr Firig... ich verloss mich uf Se
+(se geht in ihre
+                        Schlofstuwe)
+.
+
+        
+",57,lustig-ne-jumpfre-wo-nitt-hirothe-will,42,7,0.1666666666666666,0.2123761886362326,0.0,0.5892561456529255,0.0603591449087895,0.7027416669483368,0.1520637030892762,0.1189248950179467,0.1660762531176662,0.0,0.0,0.5460149591081558
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+
+            
+G'sang
+
+            
+(belle Hélène)
+
+            
+'s isch sunderbar (me glaübt doch nitt) 
+bis
+
+            
+Wie's eim ka geh!
+
+            
+Wer hätt jetz denkt (ass ich do hit) 
+bis
+
+            
+Mües Schildwacht steh?
+
+            
+Un mi Nacht so müess züebringe
+
+            
+Vor dr Stuwe-n-anstatt drin;
+
+            
+Ich weiss nitt, eb das wird g'linge,
+
+            
+'s will mir gar nitt in dr Sinn! 
+(bis) Fin
+
+            
+'s wird mir heiss als uf em Ricke,
+
+            
+'s wird mir heiss un wieder kalt,
+
+            
+Un doch müess ich mich dri schicke.
+
+            
+Denn ich ha mi Wort gà halt! 
+(Au commencement.)
+
+          
+
+          
+Ich bi doch g'wiss in ere wunderlige Position do...
+                            doch 's macht nit, ich ha mi Wort gà... awer vom
+                            schlofe wird halt doch kei Red si... un derno
+                            isch's o das Duell, wo mich tracassiert... ich ha
+                            noch nie kei Sawel in de Hànd g'ha un vom
+                            schiesse-n-isch gar kei Red
+(me hört e Schrei im Schlofzimmer)
+
+        
+",58,lustig-ne-jumpfre-wo-nitt-hirothe-will,181,19,0.1049723756906077,0.2473927277669152,0.0528384889687248,0.7185457438402334,0.06302335472461,0.8582877882627455,0.1819463604668028,0.1829488171792105,0.1660762531176662,0.0239786478188584,0.0619891883106903,0.6812010502980246
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(kunnt üse ku z'springe)
+
+          
+Oh! ich ha g'meint, ich hör ebber am Fenster, gehn Se
+                        doch geh lüege, Herr Firig... am End isch's gar dà
+                        Ràiwerhaüptmann, wo züem Fenster inekunnt, wil d'Thüre
+                        jetz züe isch...
+
+        
+",59,lustig-ne-jumpfre-wo-nitt-hirothe-will,50,6,0.12,0.2028112675913941,0.1193384053173789,0.5430686368030997,0.0545866903078449,0.6806120926642013,0.0856257656044276,0.1829488171792105,0.0498228759352998,0.0239786478188584,0.0619891883106903,0.6049300758501778
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Ich derf nitt... ich ha g'schwore, ass ich nitt iwer
+                        d'Schwelle tritt...
+
+        
+",60,lustig-ne-jumpfre-wo-nitt-hirothe-will,19,2,0.1052631578947368,0.3365556481179574,0.1193384053173789,0.5963302625523422,0.0798966835581402,0.7044498746073897,0.0660397905922342,0.1376903198894712,0.0,0.0239786478188584,0.0619891883106903,0.6153437833701138
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Wenn ich drin bi, awer jetz bin ich nitt drin...
+
+        
+",60,lustig-ne-jumpfre-wo-nitt-hirothe-will,15,2,0.1333333333333333,0.2515550599832137,0.1193384053173789,0.5033026695447766,0.0436422941258223,0.6150511715638396,0.060616220610028,0.1376903198894712,0.0,0.0239786478188584,0.0619891883106903,0.5415244490635345
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(geht in d'Schlofstuwe)
+
+          
+(Vo use)
+ 's isch nit... ich sieh Nieme! 
+(er kunnt ine).
+
+          
+
+        
+",61,lustig-ne-jumpfre-wo-nitt-hirothe-will,26,2,0.0769230769230769,0.3470867603593303,0.1193384053173789,0.5653407005150843,0.0617208607331761,0.656910783388749,0.0741751455655433,0.0640239221612638,0.0,0.0239786478188584,0.0619891883106903,0.5495846503937034
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+'s isch eithüen, ich traü nimmig dert ine... ich will
+                        liewer do bliwe...
+
+        
+",61,lustig-ne-jumpfre-wo-nitt-hirothe-will,19,3,0.1578947368421052,0.3120702212286477,0.0664999163486541,0.4360511023277764,0.0590566509173555,0.5013646620743402,0.0442924881880167,3.3306690738754695e-17,0.0,0.0,0.0,0.4143985592038346
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Ich offrier Ihre d'Hälfte vo mim Bett
+(er zeigt uf dr
+                        Fauteuil)
+ we mr ganz eng z'àmmelige, das heisst
+                        z'àmmesitze, so hà mr wohl Platz drin
+(fir sich)
+ un
+                        z'sage, ass we mr g'hirothe wàre, ass mr ganz riehig
+                        ins Bett kännte geh dert im Schlofzimmer!
+
+        
+",62,lustig-ne-jumpfre-wo-nitt-hirothe-will,62,7,0.1129032258064516,0.346034896676016,0.0,0.6946961055223264,0.057851413143532,0.8487083985607281,0.0871730061726537,0.2547003868871649,0.0,0.0,0.0,0.8277800885110054
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Das geht nitt, awer ich ha ne-n-andre-n-Idee...
+(se
+                        nimmt e paar Stiehl un stellt se-n-in e Reihe, mittle
+                        dur's Zimmer)
+ voilà... die Hälfte-n-isch Ihre Zimmer un
+                        die Hälfte-n-isch mi's... Sie schlofe-n-in Ihrem
+                        Fauteuil un ich in mim... awer uf Ihre-n-Ehr, ass Sie
+                        unter keinem Vorwand züe mir iwere kamme, so lang as
+                        ich nitt rief... 's wàr mr sogar lieb, wenn Se mr thàte
+                        dr Ricke kehre un nie ummelüege...
+
+        
+",63,lustig-ne-jumpfre-wo-nitt-hirothe-will,102,9,0.088235294117647,0.250626416769715,0.1171618753424604,0.7541796863431822,0.0325414198932367,0.971227764773504,0.1222394709331417,0.4652600030667893,0.0,0.0654662787042265,0.1072662865551375,1.0513553520285408
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Se brücht kei Angst z'ha, Jumpfer Herz... ich gang nitt
+                        in Ihre Zimmer... awer ich erlaüb Ihre hingege züe mir
+                        iwere z'ku, so vielmol as Sie will... Sie sieht, ass
+                        ich 's Böse mit em Güete vergelte thüe.
+
+        
+",64,lustig-ne-jumpfre-wo-nitt-hirothe-will,50,9,0.18,0.3493596422896462,0.1585751466385251,0.9269011561077825,0.1058094457670347,1.0903239829703346,0.2468798552067189,0.4652600030667893,0.0606534388168615,0.0654662787042265,0.1072662865551375,1.1189973653553875
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(sitzt im Fauteuil un kehrt im Herr Firig dr
+                        Ricke)
+                    
+
+          
+Also... mache Se wie-n-ich un süeche Se z'schlofe... ich
+                        will's o so mache, un b'sunders, kehre Se sich nitt um.
+
+        
+",65,lustig-ne-jumpfre-wo-nitt-hirothe-will,43,5,0.1162790697674418,0.2691130139737082,0.1585751466385251,0.8249007633387256,0.0906234498168576,0.9808383046896172,0.235490358244086,0.4652600030667893,0.0606534388168615,0.0654662787042265,0.1072662865551375,1.0314550253030008
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Isch das dumm, hein, ne so-n-enander dr Ricke z'kehre,
+                        we me gar nitt bös mitnander isch!...
+
+        
+",66,lustig-ne-jumpfre-wo-nitt-hirothe-will,27,5,0.1851851851851851,0.4468328199095843,0.1585751466385251,1.0313695842036643,0.222505896389694,1.144952287826404,0.3536709431157097,0.4652600030667893,0.1698296286872123,0.0654662787042265,0.1072662865551375,1.1227934603340446
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Was fir e Nacht! was fir e Nacht!...
+
+          
+
+          
+
+            
+G;sang
+
+            
+(Richard, coeur de lion).
+
+            
+Ich traü kei Aüg züe z'mache,
+
+            
+Üs Angst, dà Ràiwer kunnt;
+
+          
+
+        
+",67,lustig-ne-jumpfre-wo-nitt-hirothe-will,40,5,0.125,0.5941540349323746,0.2331190349714418,1.066504584609651,0.2152744697467525,0.9269367128481156,0.6558279330033405,0.2105596161796243,0.1698296286872123,0.0654662787042265,0.1072662865551375,0.7870658299104404
+comedy,Jumpfer HERZ,F,,,,"
+            
+Jumpfer Herz.
+
+            
+
+              
+Un doch ka-n-ich nitt wache,
+
+              
+Noch z'wit isch d'Morgestund.
+
+            
+
+          
+",68,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,3,0.1666666666666666,0.5558181343121122,0.1159571596289814,0.9913244218786422,0.2152744697467525,0.829622834960172,0.6017789733051313,4.440892098500626e-17,0.1698296286872123,0.0,0.1607024519461045,0.5774681973069502
+comedy,Herr FIRIG,M,,,,"
+            
+Herr Firig.
+
+            
+
+              
+Ich wott scho liewer wache,
+
+              
+Doch üs me-n-andre Grund!
+
+            
+
+          
+",68,lustig-ne-jumpfre-wo-nitt-hirothe-will,16,4,0.25,0.5239570990554627,0.0745438883329166,1.0193313339502956,0.1546614404981021,0.9575258960917936,0.4866298365004147,4.440892098500626e-17,0.1091761898703508,0.0,0.2812292909056829,0.7026892822747764
+comedy,Herr FIRIG,M,,,,"
+          
+
+            
+Doch halt ich mi Verspreche.
+
+            
+Ass ich ischlofe will.
+
+          
+
+        
+",68,lustig-ne-jumpfre-wo-nitt-hirothe-will,11,2,0.1818181818181818,0.4704593468448374,0.0745438883329166,0.951331072104258,0.144537443197984,0.8845354439046487,0.4790368385253262,4.440892098500626e-17,0.1091761898703508,0.0,0.2812292909056829,0.6443277222398518
+comedy,Herr FIRIG,M,,,,"
+            
+
+              
+Ich möcht mi Wort nitt breche,
+
+              
+Drum d'Aüge züe un still.
+
+            
+
+          
+",69,lustig-ne-jumpfre-wo-nitt-hirothe-will,14,3,0.2142857142857142,0.2927395409089612,0.0745438883329166,0.7448622512393193,0.0126549966251476,0.7204214607678618,0.3608562536537025,4.440892098500626e-17,0.0,0.0,0.2812292909056829,0.5529892872088082
+comedy,Jumpfer HERZ,F,,,,"
+            
+Jumpfer Herz.
+
+            
+
+              
+Er haltet si Verspreche,
+
+              
+Drum d'Aüge züe un still.
+
+            
+
+          
+",69,lustig-ne-jumpfre-wo-nitt-hirothe-will,15,4,0.2666666666666666,0.0668721902632816,0.0,0.3550324545411957,0.0126549966251476,0.454680898121147,0.0094912474688607,4.440892098500626e-17,0.0,0.0,0.2812292909056829,0.3527446292960302
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+(Se losst e Schrei üs im Traüm)
+Oh! dr Ràiwer! dr Ràiwer!
+
+        
+",69,lustig-ne-jumpfre-wo-nitt-hirothe-will,20,3,0.15,0.0668721902632816,0.0,0.2007283818362538,0.0126549966251476,0.2469992793284521,0.0094912474688607,4.440892098500626e-17,0.0,0.0,0.1205268389595783,0.1928630982946734
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(verwacht)
+
+          
+Hein!... was isch... derf i umme lüege... soll i
+                        ku?...
+
+        
+",70,lustig-ne-jumpfre-wo-nitt-hirothe-will,21,3,0.1428571428571428,0.0891629203510422,0.0,0.1133337697433964,0.0168733288335302,0.1216507536452414,0.0126549966251476,4.440892098500626e-17,0.0,0.0,0.0,0.0972692667248745
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Nei, nei... bliwe Se nur... 's isch nit, ich ha nur
+                        träumt!...
+
+        
+",70,lustig-ne-jumpfre-wo-nitt-hirothe-will,21,2,0.0952380952380952,0.0891629203510422,0.0,0.1133337697433964,0.0168733288335302,0.1216507536452414,0.0126549966251476,4.440892098500626e-17,0.0,0.0,0.0,0.0972692667248745
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(im ischlofe)
+
+          
+Das Duell, das Duell, das will mr nitt üs em Kopf!...
+                       
+(im Traüm)
+ Aha!... do isch er... Achtung... ich will
+                        güet ziele!...
+(er nimmt im Traüm e Tasse, wo-n-uf em
+                        Tisch steht un wirft se-n-an d'Wand)
+ bum, 's hat ne!...
+                       
+(er verwacht).
+
+        
+",71,lustig-ne-jumpfre-wo-nitt-hirothe-will,74,8,0.1081081081081081,0.3215117566976048,0.3107895652559563,0.603187779593597,0.023200827146104,0.6017019725388373,0.2823033705083602,0.0644580980121814,0.0,0.0,0.0,0.4271266885079102
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(springt in d'Höcher un losst e Schrei üs).
+
+          
+Was isch... was isch!...
+
+          
+
+        
+",72,lustig-ne-jumpfre-wo-nitt-hirothe-will,21,4,0.1904761904761904,0.4615174234287259,0.3107895652559563,0.758306526784187,0.023200827146104,0.7624460051617887,0.3982495625178626,0.0644580980121814,0.0,0.1520354040919304,0.0,0.5581071024719823
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+'s isch nit... ich ha nur traümt, ich heb dr
+                        Ràiwerhaüptmann erschosse...
+
+        
+",72,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,2,0.1111111111111111,0.5952618039552893,0.3107895652559563,0.9283071813992818,0.0485108203963992,0.9449221356296508,0.4172320574555841,0.0644580980121814,0.0,0.1520354040919304,0.0,0.7040110025592938
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Awer, wie hàn Sie mich jetz verschreckt! wenn's doch nur
+                        scho Morge wàr!...
+(se sitze beide-n-un schlofe wieder
+                        i. Bol geht's Fenster uf un dr Herr Schlaü stigt ine
+                        mit zwei Sàwel)
+.
+
+        
+",73,lustig-ne-jumpfre-wo-nitt-hirothe-will,46,5,0.108695652173913,0.5101915633638693,0.3107895652559563,0.9201155029482756,0.0417614888629871,0.9809336506179612,0.412170058805525,0.1675910548316717,0.0,0.1520354040919304,0.0,0.7725254384533174
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(fir sich)
+
+          
+Was fir e pràchtig Tableau... me kännt's nitt schöner
+                        mole!...
+(er hüeschtet)
+.
+
+        
+",74,lustig-ne-jumpfre-wo-nitt-hirothe-will,25,4,0.16,0.7976416013704966,0.3107895652559563,1.3043588179764107,0.0544164854881348,1.292522335305173,0.7281524304794189,0.1675910548316717,0.0,0.1520354040919304,0.0,1.0237648801399677
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(springt uf un losst e Schrei)
+
+          
+Dr Ràiwer!... dr Troppmann!... dr Schinderhans!...
+
+        
+",75,lustig-ne-jumpfre-wo-nitt-hirothe-will,22,4,0.1818181818181818,0.565292765023934,0.0,0.9184390721970404,0.0480889871755609,0.9673119588028134,0.4585040565962064,0.2320491528438531,0.0,0.1520354040919304,0.0,0.8621819811382757
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(ribt sine-n-Aüge, noch-halwer im Traüm)
+
+          
+Ich gang nimmig dra... ich ha-n-en jo grad tot
+                        g'schosse!
+
+        
+",75,lustig-ne-jumpfre-wo-nitt-hirothe-will,26,3,0.1153846153846153,0.514450018643855,0.0,1.0116094313308204,0.0649623160090911,1.1506998741037706,0.3552128612118516,0.2320491528438531,0.0,0.0,0.1972535658027739,1.0671425793252158
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(springt züem Herr Firig)
+
+          
+Wache Se denn uf, Herr Firig... er isch do, er isch
+                        do!...
+
+        
+",76,lustig-ne-jumpfre-wo-nitt-hirothe-will,25,8,0.32,0.514450018643855,0.0,1.1214405906305884,0.0649623160090911,1.3060009023466497,0.3552128612118516,0.2965072508560346,0.0,0.0,0.2575169852825631,1.2112354148413964
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(verwacht)
+
+          
+Wer isch do?... wo?...
+
+        
+",76,lustig-ne-jumpfre-wo-nitt-hirothe-will,13,2,0.1538461538461538,0.6441017194107961,0.0,1.1862991539532928,0.0801483119592683,1.3308147641809598,0.3666023581744844,0.1933742940365443,0.0,0.0,0.2575169852825631,1.19135561230981
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(züem Herr Firig)
+
+          
+Ich ha's décidément nitt langer känne-n-iwer's Herz
+                        bringe, das Wort Brigand, un warte bis morn, fir mich
+                        z'schlage... mr mache's liewer glich ferig... do sin
+                        zwe Sàwel... choisiere Se-n-einer dervo, un en garde!
+
+        
+",77,lustig-ne-jumpfre-wo-nitt-hirothe-will,56,11,0.1964285714285714,0.4122165128364015,0.0542099612235215,0.966008072224326,0.0859005831525172,1.2045052670074454,0.1408033514877317,0.1933742940365443,0.0364532394072071,0.0113092086100885,0.2939662589785918,1.1094254224257187
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(züem Herr Schlaü)
+
+          
+Oh, ich bitt Se drum... verschone Se ne... wenn er jetz
+                        o ne wenig vif gsi isch, so isch's jo nur gsi, fir mich
+                        z'vertheidige.
+
+        
+",78,lustig-ne-jumpfre-wo-nitt-hirothe-will,40,5,0.125,0.4727760302574436,0.0542099612235215,1.079913465277357,0.0960245804526353,1.204486125327613,0.2096945743038269,0.0644580980121814,0.1355577991115766,0.0113092086100885,0.2939662589785918,1.0745622054788817
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schläu.
+
+          
+Was hat er fir e Recht, fir Sie z'vertheidige? Ich
+                        thàt's noch versteh, wenn's Ihre Mann oder Ihre Brüeder
+                        wàr, oder ufs wenigst nur dr Hochziter...
+
+        
+",79,lustig-ne-jumpfre-wo-nitt-hirothe-will,37,6,0.1621621621621621,0.5752464685774863,0.0542099612235215,1.1458846910458766,0.0875879160358702,1.1607576698331503,0.4076944921279419,0.0644580980121814,0.1355577991115766,0.0113092086100885,0.1985258498166309,1.042241305583119
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(züer Jumpfer Herz)
+
+          
+Do hat Se's jetz... ich ha-n-allewil welle hirothe, awer
+                        Sie hat sich allewil g'weigert.
+
+        
+",80,lustig-ne-jumpfre-wo-nitt-hirothe-will,27,6,0.2222222222222222,0.486083548226444,0.0542099612235215,1.1990445733155857,0.0707145872023401,1.1901578998045104,0.3950394955027942,4.440892098500626e-17,0.1355577991115766,0.0113092086100885,0.4840083710425672,1.1475152057436762
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(streckt im Herr Firig e Sawel ane)
+
+          
+Allons, allons... vorwàrts!...
+
+        
+",80,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,3,0.1666666666666666,0.461965486849034,0.0542099612235215,1.2523510886225195,0.1128979092861655,1.298280496584703,0.4266769870656633,4.440892098500626e-17,0.1355577991115766,0.0113092086100885,0.4840083710425672,1.2547009943503542
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(züem Herr Schlaü)
+
+          
+Un wer sàit Ihne, ass er nitt mi Hochziter isch?
+(lislig
+                        züem Herr Firig)
+ Sage Se wie-n-ich... awer 's isch nur
+                        e List... nitt ass Sie ebbe meine, 's isch mr Ernst.
+
+        
+",81,lustig-ne-jumpfre-wo-nitt-hirothe-will,49,6,0.1224489795918367,0.4612138149913781,0.0,1.2000524402843655,0.1282372991348293,1.2583006726950334,0.3618036153288174,4.440892098500626e-17,0.0991045597043694,0.0,0.4475590973465385,1.2119365868947904
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig
+
+          
+(züem Herr Schlaü)
+
+          
+Jà... wer sàit Ihne, ass ich dr Hochziter nitt bi... mr
+                        hàn jo morn welle hirothe.
+
+        
+",82,lustig-ne-jumpfre-wo-nitt-hirothe-will,27,4,0.1481481481481481,0.4828740369322009,0.0,1.1496931606020262,0.1687332883353018,1.3214280174196706,0.3308773823881651,4.440892098500626e-17,0.0,0.0,0.4475590973465385,1.2683425475807757
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(vergisst si, züem Herr Firig)
+
+          
+'s isch z'er Làbtig nitt wohr!
+(schnell züem Herr
+                        Schlaü)
+ das heisst, nitt morn, awer die Wuche noch...
+
+        
+",83,lustig-ne-jumpfre-wo-nitt-hirothe-will,35,8,0.2285714285714285,0.3323505479420484,0.0,0.9191730172298976,0.185606617168832,1.129999047708245,0.139204962876624,4.440892098500626e-17,0.0,0.0,0.3457459407057255,1.0596310685857726
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Bàh bàh bàh... das glaüb ich alles nur halwer... ich
+                        müess e Bewis ha oder ebbes eso!
+
+        
+",84,lustig-ne-jumpfre-wo-nitt-hirothe-will,23,3,0.1304347826086956,0.2945902206992311,0.0,0.6228391211048695,0.1940432815855971,0.8191376502270822,0.1455324611891978,4.440892098500626e-17,0.0,0.0,0.0,0.7163005734780953
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Wenn Se wànn, ich will im Finele e Schmutz gà uf jede
+                        Backe... ass Sie sàhn, wie güet mir's mitnander känne
+                       
+(d'Jumpfer Herz springt uf d'Site)
+ un derno, do isch mi
+                        Geburtsschin, wo-n-ich express ha mache lo uf d'Hiroth
+                        hi
+(lislig züer Jumpfer Herz)
+ ich ha-n-en grad fire
+                        g'süecht vorig, fir mich z'engagiere morn...
+
+        
+",85,lustig-ne-jumpfre-wo-nitt-hirothe-will,77,17,0.2207792207792207,0.2363906061329697,0.0389840136810956,0.7107512657012398,0.1479276732072508,0.9496654310935276,0.146351103642116,0.2729990033457096,0.0311684384601846,0.0181979273971376,0.0460665719597951,0.9067339984477376
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Enfin... wenn ihr mir wànn schwöre, ass ihr Hochzitslit
+                        sin un ass ihr im Begriff sin z'hirothe die Wuche,
+ o
+                        kännte mir uns viellicht arrangiere... 's wàr halt
+                        derno ebbes ganz anders!
+
+        
+",86,lustig-ne-jumpfre-wo-nitt-hirothe-will,41,6,0.1463414634146341,0.184988013024745,0.0389840136810956,0.6745255492511629,0.1226176799569555,0.921383464802796,0.1273686087043945,0.3258005835170722,0.0311684384601846,0.0181979273971376,0.0460665719597951,0.9134348823814412
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Ich schwör's Ene mit Freide
+(er hebt alle Finger in
+                        d'Höche)
+ wie eher wie liewer... un wenn mr uf dr Stell'
+                        züem Herr Maire wànn geh... ich bi g'rischtet
+
+        
+",87,lustig-ne-jumpfre-wo-nitt-hirothe-will,38,6,0.1578947368421052,0.1575814332374567,0.0389840136810956,0.687988266151209,0.1057443511234253,0.9519610112516066,0.1147136120792469,0.4117447141999807,0.0311684384601846,0.0181979273971376,0.0460665719597951,0.9623454753955064
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(züer Jumpfer Herz)
+
+          
+Un Sie... ka Sie mir 's Gliche schwöre?...
+
+        
+",88,lustig-ne-jumpfre-wo-nitt-hirothe-will,18,3,0.1666666666666666,0.1232926964892278,0.0389840136810956,0.6409058774899924,0.0973076867066602,0.8993024797345239,0.1083861137666731,0.4117447141999807,0.0311684384601846,0.0181979273971376,0.0460665719597951,0.919376982791632
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz.
+
+          
+Ich schwör 's Gliche, awer...
+(lislig züem Herr Firig)
+
+                        's isch noch allewil nur e List, ass Sie's wisse...
+                       
+(züem Herr Schlaü)
+ awer ich müess noch d'Erlaübniss ha
+                        vo mim Oncle un Vormund...
+
+        
+",89,lustig-ne-jumpfre-wo-nitt-hirothe-will,47,6,0.1276595744680851,0.1712847231311008,0.0389840136810956,0.7849828652196811,0.1141810155401904,1.0648738551224834,0.1210411103918207,0.4117447141999807,0.0311684384601846,0.0181979273971376,0.1325030571362264,1.0806406870826577
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Also, wenn Sie d'Erlaübniss hätt vo-n-Ihrem Oncle, so
+                        wàr's in Richtigkeit... do thàt Sie glich dr Herr Firig
+                        hirothe?
+
+        
+",90,lustig-ne-jumpfre-wo-nitt-hirothe-will,30,4,0.1333333333333333,0.2020777579100738,0.1138985771395775,0.7910983168413565,0.1434232950850065,1.0520606297769617,0.1075674713137549,0.266721640224583,0.0,0.1059640695186181,0.2349778165398503,1.030444348060373
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(fir sich)
+
+          
+Ich ka herzhaft jo sage, mi Oncle isch wit... we mr nur
+                        emol dà Ràiwer ab em Hals hàn...
+(lüt)
+ Natirlig... ich
+                        wisst nitt,worum ass ich ne nitt sott hirothe!
+
+        
+",91,lustig-ne-jumpfre-wo-nitt-hirothe-will,45,4,0.0888888888888888,0.2692507385204968,0.1138985771395775,0.8048579395762883,0.1349866306682414,1.0023811552652926,0.1778627540524394,0.2139200600532204,0.0,0.1059640695186181,0.2349778165398503,0.9502697038282673
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Wenn's eso isch, Finele... Di Oncle steht vor Dr un git
+                        Dir d'Erlaübniss un si Sege züe eürer Hochzit... ich bi
+                        di Oncle Schlaü... kennsch mi denn nimmig?
+
+        
+",92,lustig-ne-jumpfre-wo-nitt-hirothe-will,38,2,0.0526315789473684,0.2246692783449757,0.1138985771395775,0.6789015453240366,0.1265499662514763,0.8383285501818477,0.1715352557398655,0.1279759293703118,0.0,0.1059640695186181,0.2349778165398503,0.7894520552782676
+comedy,Jumpfer HERZ,F,,,,"
+          
+Jumpfer Herz
+
+          
+(verstünt)
+
+          
+Dr Oncle!... un ich ha-n-en nitt erkennt!... Dü
+                        wieschter Mensch, wie hasch Dü mich in eso ne Schrecke
+                        känne versetze!
+
+        
+",93,lustig-ne-jumpfre-wo-nitt-hirothe-will,33,4,0.1212121212121212,0.217848145412272,0.1138985771395775,0.6422437452644925,0.1096766374179461,0.7820125589809098,0.1588802591147179,0.1279759293703118,0.0,0.1059640695186181,0.2349778165398503,0.7375119146218958
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü
+
+          
+(streckt d'Arme-n-üsnander)
+
+          
+Allons, allons... mr wànn dr Friede schliesse-n-un dr
+                        Hochzitstag b'stimme
+(se umarme sich)
+.
+
+        
+",94,lustig-ne-jumpfre-wo-nitt-hirothe-will,29,2,0.0689655172413793,0.1732666852367508,0.3340171756565138,0.6429183658381037,0.101239973001181,0.9431981798363164,0.1525527608021441,0.4228324706395103,0.0,0.1059640695186181,0.4567073692871297,0.989705926020176
+comedy,Herr FIRIG,M,,,,"
+          
+Herr Firig.
+
+          
+Isch dà Oncle Schlaü e schlaüer Oncle?
+
+        
+",94,lustig-ne-jumpfre-wo-nitt-hirothe-will,11,2,0.1818181818181818,0.2247913264014492,0.2201185985169362,0.4955842543131241,0.0759299797508858,0.7173610275352,0.1335702658644227,0.2948565412691984,0.0,0.0,0.3081660379237108,0.7422830514661403
+comedy,Herr SCHLAÜ,M,,,,"
+          
+Herr Schlaü.
+
+          
+Ich ha-n-in Dinere Müetter versproche, Dich
+                        z'versorge... jetz isch mi Pflicht erfillt, denn De
+                        bekunnsch e güeter Mann... un Dü wirsch doch nitt
+                        welle-n-anderscht mache-n-as d'Andere... me hat noch
+                        nie kei Jumpfre g'sàh, wo nitt hirothe will.
+
+          
+
+            
+G'sang
+
+            
+(Nicolas)
+
+            
+Uf dr Welt isch's Mode,
+
+            
+Siter ass se steht,
+
+            
+Ass me thüet hirothe
+
+            
+Un züenander geht,
+
+            
+Wil me sunscht halt immer
+
+            
+Züe viel Angst als hätt
+
+            
+Z'Nacht im dunkle Zimmer
+
+            
+Ganz allei im Bett!
+
+          
+
+        
+",95,lustig-ne-jumpfre-wo-nitt-hirothe-will,99,14,0.1414141414141414,0.1614818644772892,0.3126132727426996,0.6083186324421235,0.1256586360157717,0.8843812817102206,0.151945088119435,0.3973430388782225,0.0686447137501632,0.0,0.3491741149040382,0.933546767750718
+comedy,Jumpfer HERZ,F,,,,"
+          
+(Mitnander)
+
+          
+
+            
+Drum wà mir
+
+            
+Thüe derfir
+
+            
+Ah ah ah!
+
+            
+{bis
+
+            
+Liewer zwei
+
+            
+as allei
+
+            
+Ah ah ah!
+
+            
+}bis
+
+          
+
+        
+",96,lustig-ne-jumpfre-wo-nitt-hirothe-will,23,3,0.1304347826086956,0.1783747628577331,0.3126132727426996,0.6032969112835336,0.1742569504765895,0.867762554943963,0.1785020555087631,0.3973430388782225,0.2152150946210013,0.0,0.3491741149040382,0.9266869971440476
+comedy,Herr FIRIG,M,,,,"
+          
+(Mitnander)
+
+          
+
+            
+Drum wà mir
+
+            
+Thüe derfir
+
+            
+Ah ah ah!
+
+            
+{bis
+
+            
+Liewer zwei
+
+            
+as allei
+
+            
+Ah ah ah!
+
+            
+}bis
+
+          
+
+        
+",97,lustig-ne-jumpfre-wo-nitt-hirothe-will,23,3,0.1304347826086956,0.2054993606372325,0.3126132727426996,0.6532618902142598,0.2481652581877027,0.935617814979112,0.2240415178358126,0.3973430388782225,0.3617854754918395,0.0,0.3491741149040382,0.9977374375219348
+comedy,Herr SCHLAÜ,M,,,,"
+          
+(Mitnander)
+
+          
+
+            
+Drum wà mir
+
+            
+Thüe derfir
+
+            
+Ah ah ah!
+
+            
+{bis
+
+            
+Liewer zwei
+
+            
+as allei
+
+            
+Ah ah ah!
+
+            
+}bis
+
+          
+
+        
+",97,lustig-ne-jumpfre-wo-nitt-hirothe-will,23,3,0.1304347826086956,0.2223922590176765,0.0924946742257633,0.521817460782142,0.2967635726485205,0.6204000875699575,0.2505984852251406,0.1024864976090241,0.5083558563626777,0.0,0.0410080769803274,0.6033900215541438

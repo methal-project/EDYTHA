@@ -1,0 +1,1932 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Ja.
+
+        
+",1,kleisecker-dr-schnider-von-gambse,4,1,0.25,,,,,,,,,,,
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+(eintretend)
+
+          
+Jo! jo ’s het alles sin Ursach, sell isch jetzt wohr, Dü kannsch jo nix derfür, daß ’s Pulver erfunde isch worre, Dü dummer Bebelenz, daß d' bisch, sunsch kenntschte nit helluff singe, am nämliche Tag, wo m'r jede Aueblick ze erwarte het üs em Hisel nüs g'schmisse ze wäre un am End gar noch in’s Rappele ze kumme.
+
+        
+",1,kleisecker-dr-schnider-von-gambse,75,6,0.08,,,,,,,,,,,
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+(singt)
+
+          
+Was nit wohr isch, saat m'r isch e Fabel, Alli Wibslitt han e scharfe Schnabel.
+
+        
+",2,kleisecker-dr-schnider-von-gambse,23,3,0.1304347826086956,,,,,,,,,,,
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Jo, ’s isch währli au nothwendi, wenn m'r so e glich- gildicher Mann het, wo als furt ’s nemli G'sicht macht, ob d'Sunn schinnt odder ebs Katze hagelt, ob ’s guet geht oder schlecht.
+
+        
+",2,kleisecker-dr-schnider-von-gambse,44,7,0.1590909090909091,,,,,,,,,,,
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Zuefriddeheit macht ’s Glück vum Mensche üs, mit Brummle un Muere, macht mr nix besser.
+
+        
+",2,kleisecker-dr-schnider-von-gambse,20,3,0.15,0.0,0.0616969789377024,1.4089146158460188,0.0,1.6735453913395244,0.0,0.5889140943493063,0.0,0.0,0.8766764941539199,1.6052739850573745
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Jo, wenn m'r durch sini Dummheit d'ganz Menage ze Grund gericht het.
+
+        
+",3,kleisecker-dr-schnider-von-gambse,17,2,0.1176470588235294,0.0,0.0616969789377024,1.1107027575931492,0.0,1.6099408781845248,0.0,0.2155902815343334,0.0,0.0,0.8766764941539199,1.3828023922596242
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Isch's am End nit wohr, daß Dü durch Dinni dumm Guetheit jetzt kenn Pfenni Geld me hesch, aber Schulde über Hals und Kopf.
+
+        
+",3,kleisecker-dr-schnider-von-gambse,29,4,0.1379310344827586,0.0,0.0,1.069303800296701,0.0,1.5641516946637624,0.0,0.2155902815343334,0.0,0.0,0.8766764941539199,1.3333119001474287
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Mit dinnere Geduld kenne m'r noch bettle gehn, zerscht lehn'sch dim Brueder dine ganze Teil vum elterliche Vermeje un er geht in's Frankrich nin.
+
+        
+",3,kleisecker-dr-schnider-von-gambse,29,5,0.1724137931034483,0.0,0.1502866563630118,1.2291139817506782,0.0,1.753923445252169,0.0,0.5300554511617734,0.0,0.1092785595810314,0.7909952856776024,1.600757476991454
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+Nur Geduld! Dr Jean isch erkenntli, er wurd mr helfe, ich hab'm jo mini Misere g'schriewe.
+
+        
+",4,kleisecker-dr-schnider-von-gambse,23,1,0.0434782608695652,0.0,0.1502866563630118,1.0962504616025694,0.0,1.561363207415728,0.0,0.4634553898119269,0.0,0.1092785595810314,0.7229386691329318,1.4269107189443524
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Jo, do kannsch de warte bis anno Tuwack, der denkt nit an Dich, zum zweite bisch im Schriner-Marti Bürri for zweidöusig Liewer un der loßt Dr sie am Hals und Dü kannsch nit zahle.
+
+        
+",4,kleisecker-dr-schnider-von-gambse,40,3,0.075,0.0,0.3883822230266763,0.6558006840702766,0.0,0.8378227639336746,0.0473218619986324,0.4634553898119269,0.0,0.1589497338774684,0.2478324336759191,0.941859000406678
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Er isch kenn Lump, sunsch hätt'i die Bürgschaft nit angenumme ; er wurd sie schun zahle; übermorje hett er Hochzitt mit's Tannebüere Nanni, die het Spähne, er wurd schun bezahle, wenn er sin Hochzittskleid au bezahlt.
+
+        
+",5,kleisecker-dr-schnider-von-gambse,45,3,0.0666666666666666,0.0,0.5196080956611822,0.6436519756918975,0.0,0.8418310488678561,0.0473218619986324,0.31446516962744,0.0,0.1589497338774684,0.4453665274653463,0.8874622356766076
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Ja, wenn Dü un ich bettelarm sin un im Loch sitze weje Schulde ; het dr Krämermathiß au Geduld mit Dir ? — He! Gell, der isch bal alle Daa do und luejt, ob ebs ze hole isch.
+
+        
+",5,kleisecker-dr-schnider-von-gambse,45,2,0.0444444444444444,0.0,0.5196080956611822,0.873315985265041,0.0,0.9990005935707218,0.0473218619986324,0.57562218612717,0.0,0.1589497338774684,0.4453665274653463,1.150047895535148
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Des isch e Fehler g'sin, daß ich bi ihm Geld gelehnt hab. Awer sunsch, dies muesch doch selwer saue, ich hab doch kenn Geld vervohn un verschwendt ; i hab g'schafft, wenn i Arweit hab g'hett, ich bin doch kenn Lump un Verschwender.
+
+        
+",6,kleisecker-dr-schnider-von-gambse,52,4,0.0769230769230769,0.0,0.3693214392981703,0.5312584269914363,0.0,0.5788330778405294,0.0473218619986324,0.2611570164997298,0.0,0.0496711742964369,0.3576229460826732,0.6799713846187264
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Dü — Isch des kenn Verschwendung, wenn m'r sin für verdients Geld Andere anekeit, daß sie ihri Plän üsführe kenne. Do kenn ich kenn Unterschied. Andri sin growi Lumpe un Dü bisch e finer, awer e dummer Lump, Dü bisch kenn Mann, verstesch mi.
+
+        
+",7,kleisecker-dr-schnider-von-gambse,54,5,0.0925925925925925,0.0,0.3693214392981703,0.8347209008198494,0.1324172063686293,0.8293959998705732,0.1976085183616443,0.354397102389515,0.0,0.0496711742964369,0.3576229460826732,0.9063364852313456
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Theres griff mi nit an der Ehr an, Dü weisch, daß i des nit vertraje kann. Wenn i au Unglück hab g'hett, so mueß mi doch jedermann respektiere un kann mr niemes ebs schlechts nochredde. Drum halt i ebs uff mine Charakter un -
+
+        
+",8,kleisecker-dr-schnider-von-gambse,51,7,0.1372549019607843,0.0741287623393339,0.2143999218545196,0.8504855975653584,0.1783999485702912,0.8298195799134893,0.2287470026107762,0.4604226150181617,0.0,0.0950343341179317,0.2655609557291295,0.9219733252877214
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Des isch ewe Din dummer Eigedünkel, Dü meinsch alsfurt, Dü bisch ebs, Dü bild'sch Dir in, Dü seisch im Bismarck sin Better und hesch e Grattel wie e franzescher Kochhafe, und —
+
+        
+",9,kleisecker-dr-schnider-von-gambse,39,1,0.0256410256410256,0.0741287623393339,0.0831740492200138,0.7015181450503202,0.1783999485702912,0.575076718728576,0.2287470026107762,0.4604226150181617,0.0,0.0950343341179317,0.0680268619397024,0.6736703630984617
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+(aufspringend)
+ Theres jetzt halt's Mül, Dü weisch wenn i wild wurr, kenn i mi nimm, i bin e wiefer Kerl, so geduldi wie i sunsch bin.
+
+        
+",9,kleisecker-dr-schnider-von-gambse,36,3,0.0833333333333333,0.5037537868469188,0.242741739406305,0.9924832631916936,0.4635472111522641,0.859458573761956,0.449288275226303,0.2804846808139571,0.2214583946587311,0.3745963116594182,0.2016020468720126,0.8556724807289466
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Vor Dir hab i kenn Angscht, Dü Jäschtes, Dü wursch doch nit meine, daß ich Dich fercht. Bor dim dumme Hochmut hab i kenn Respekt, im Gejedeil. Georg 
+(springt vom Tisch herunter, wirft die Arbeit weg und sagt)
+ : Ze schaff au, wenn d'mi nit reschpektiere witt, geh Dü süchsch nix als Unfridde und des isch unser Unglück.
+
+        
+",10,kleisecker-dr-schnider-von-gambse,73,9,0.1232876712328767,0.5037537868469188,0.242741739406305,1.0352923746310343,0.4635472111522641,0.8874452926539595,0.5075272111702741,0.2804846808139571,0.2874110182963615,0.4559272659691246,0.2016020468720126,0.8832872218912605
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+(nimmt den Besen)
+
+          
+Geh nüs! un loß mi in Rüeh oder ich geh furt un loß alles leje, schamsch bi net so ze redde. — Allons nüs.
+
+        
+",11,kleisecker-dr-schnider-von-gambse,35,2,0.0571428571428571,0.6977190147079005,0.242741739406305,1.110332131078949,0.6102331995625458,0.828602000216822,0.3572405548072623,0.1872445949241719,0.6224632056910334,0.4559272659691246,0.2955312070988949,0.7658107332503471
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Hahaha, was wit denn Dü mir befehle. 
+(Sie reißt ihm den Besen aus der Hand. Georg flüchtet unter den Tisch.)
+ Do sehner dene Hasefueß mit siner Courage.
+
+        
+",11,kleisecker-dr-schnider-von-gambse,36,1,0.0277777777777777,0.6235902523685665,0.1595676901862912,0.9419404694301852,0.564250457360884,0.6612577482211556,0.2787802085594979,0.0812190822955253,0.6224632056910334,0.360892931851193,0.2275043451591925,0.5810911306230445
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Theres, ich fröj Dich ein for allemol : Wer isch Meister im Hüs, ich oder Dü?
+
+        
+",12,kleisecker-dr-schnider-von-gambse,21,3,0.1428571428571428,0.8087757918402655,0.3481839060957342,1.3757622153031843,0.564250457360884,1.1568740485201865,0.2787802085594979,0.2963489655659043,0.6224632056910334,0.360892931851193,0.4426342284295715,1.0251923360168451
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Dü bisch Meister, Dü, ich sa jo nix derwidder, m'r sieht's jo an dinere Stellung. Ja ja! kumm nur evor, i tue Dir nix. Georgele, i sieh ohnedes der Krämermathis ufs Hüs zuekomme, for dem kannsch Dini Courage zeie, der will leuje, ob er Geld bekummt; Gück, ob de mit dem ferti wursch.
+
+        
+",12,kleisecker-dr-schnider-von-gambse,70,6,0.0857142857142857,0.3791507673326807,0.2829243238641646,1.2790452084465709,0.2791031947789109,1.076081516027919,0.0582389359439711,0.6709041802385418,0.4010048110323022,0.0813309543097064,0.4166239851324508,1.0650022362729843
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+(springt vor, sitzt auf den Tisch und näht)
+
+          
+Ich saa Dir, jetzt kenn Dummheite, halt zue mix, s'isch alles sunsch verlore.
+
+        
+",13,kleisecker-dr-schnider-von-gambse,31,3,0.0967741935483871,0.5521178794577934,0.2829243238641646,1.4005824497170078,0.3863962599161221,1.1858486734145373,0.0,0.6709041802385418,0.3350521873946719,0.0,0.4166239851324508,1.156176023118871
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Theres blie do un helf mir, Dü hesch e Mundstück wie e Bachstelz, Dich fercht er, un zue dem, Dü hesch mich in e Bivität gebrocht, ich fercht ’s g'schieht e Unglück; ich kennt Alles zusammeschlaue.
+
+        
+",14,kleisecker-dr-schnider-von-gambse,45,4,0.0888888888888888,0.3581526515968117,0.2829243238641646,1.0220802194406802,0.1072930651372112,0.994129043821631,0.0,0.6709041802385418,0.0,0.0,0.3226948249055684,1.047287411147165
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Na, mint'wege, ich will numme sehn, was diß for e Sauce gitt.
+
+        
+",14,kleisecker-dr-schnider-von-gambse,18,2,0.1111111111111111,0.3581526515968117,0.507036458226018,1.1709547645422254,0.1072930651372112,1.2280612247887712,0.0,0.6709041802385418,0.0,0.0,0.3226948249055684,1.341506851947463
+comedy,Mathias Zwicker,M,merchant,service_and_sales,lower_middle_class,"
+          
+Mathis :
+
+          
+Guete Daa bisamme, schun so flissi, do wurd g'schafft, do wurd Geld verdient.
+
+        
+",15,kleisecker-dr-schnider-von-gambse,19,3,0.1578947368421052,0.1729671121251126,0.3184202423165748,0.737133018669226,0.1072930651372112,0.7324449244897403,0.0,0.4557742969681627,0.0,0.0,0.1075649416351894,0.8974056465536627
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+Spettle nit, Mathis, mr wisse wie Ihr's meine un wisse au worum Ihr kumme.
+
+        
+",15,kleisecker-dr-schnider-von-gambse,20,2,0.1,0.1729671121251126,0.4092030711749607,0.4374177697006673,0.1072930651372112,0.5090536078080492,0.0,0.0,0.0,0.0,0.0,0.5614794451450849
+comedy,Mathias Zwicker,M,merchant,service_and_sales,lower_middle_class,"
+          
+Mathis:
+
+          
+Will i Euch gescht widder nit getroffe hab. Wie steht's ? kennt ich jetzt endli zue mim Geld kumme ?
+
+        
+",15,kleisecker-dr-schnider-von-gambse,24,4,0.1666666666666666,0.0,0.5017485395815144,0.3351698529355618,0.0,0.4399835068105712,0.0,0.0,0.0,0.0,0.0,0.5169266553051777
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Jo, wenn mer's hätte, woher nemme un nit stehle. Wo nix isch hett d'r Krämermathis ’s Recht verlore.
+
+        
+",15,kleisecker-dr-schnider-von-gambse,25,3,0.12,0.0,0.5017485395815144,0.3351698529355618,0.0,0.4399835068105712,0.0,0.0,0.0,0.0,0.0,0.5169266553051777
+comedy,Mathias Zwicker,M,merchant,service_and_sales,lower_middle_class,"
+          
+Mathis:
+
+          
+Ihr brüche net so spöttisch ze redde ; ’s gilt Ernst. Jett wo der Herr Schneiderschorsch endli emol ze treffe isch, denn einmol isch er in der Stadt im Tuechlade, ’s andermol isch er gange anprobiere, ’s drittemol isch er uff der Geldjagd. Jett welle mir endli emol sueche in's Reine ze kumme, denn ’s wär jetzt endli Zitt.
+
+        
+",16,kleisecker-dr-schnider-von-gambse,69,8,0.1159420289855072,0.0074776938640201,0.3758011918944515,0.2884553948086862,0.0184974532425761,0.3589331132673453,0.0138730899319321,0.0,0.0,0.0,0.0,0.372133948495286
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+Mathis, han Geduld : Ihr wäre bezahlt, so wohr als ich do sitz. Therese 
+(zu Georg)
+ : I saa noch emol, woher nemme ? Zei redd emol, Dü bisch jo so e Finanz-Genie, Dü schmisch s'Geld im Große nüs, lensch heere, bisch Bürri fur Anderi, weisch jetzt au, wie de dini Schulde decke wit ?
+
+        
+",17,kleisecker-dr-schnider-von-gambse,70,4,0.0571428571428571,0.0074776938640201,0.3758011918944515,0.2884553948086862,0.0184974532425761,0.3589331132673453,0.0138730899319321,0.0,0.0,0.0,0.0,0.372133948495286
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+(erzürnt)
+
+          
+Theres mach mi nit wild. Un Ihr Krämer- mathis, han Geduld, Ihr wisse, daß i au Geld drüsse stehn hab, ich bekumm's widder un wur bezahle.
+
+        
+",18,kleisecker-dr-schnider-von-gambse,39,3,0.0769230769230769,0.2641356062464922,0.3502779452676353,0.4218701814162937,0.1963516506873379,0.4125960958680684,0.2344143625474589,0.0812190822955253,0.2214583946587311,0.2218360182240056,0.1335751849323101,0.3031195464126006
+comedy,Mathias Zwicker,M,merchant,service_and_sales,lower_middle_class,"
+          
+Mathis:
+
+          
+Geld üsstehn ! füli Poste, wenn Ihr's au schun hätte. Geduld, haha, wie oft het m'r diß der geduldi Schnie- der schun g'saat, aber mit Geduld bezahlt mr mich nit; ich will emol min Geld, sapristi! noch emol. 
+(schlägt auf den Tisch)
+
+        
+",19,kleisecker-dr-schnider-von-gambse,57,4,0.0701754385964912,0.2641356062464922,0.2577324768610816,0.498319014061491,0.1963516506873379,0.5280908477017329,0.2344143625474589,0.1327655726639363,0.2214583946587311,0.2218360182240056,0.3437703178790531,0.4296764392960529
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Eh! Eh! nur langsam, Mathis 
+(sie steht auf)
+.
+
+        
+",20,kleisecker-dr-schnider-von-gambse,16,2,0.125,0.2641356062464922,0.2577324768610816,0.498319014061491,0.1963516506873379,0.5280908477017329,0.2344143625474589,0.1327655726639363,0.2214583946587311,0.2218360182240056,0.3437703178790531,0.4296764392960529
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+(gleich zornig)
+ Oho! numme e bissele doucement. In mim Hüs, wurd nit so gedewert, oder cru tonnerre! i vergiß mich! 
+(springt ab)
+
+        
+",20,kleisecker-dr-schnider-von-gambse,34,2,0.0588235294117647,0.6686452789773382,0.1595676901862912,0.8120319728638752,0.1778541974447618,0.6382705183503685,0.5271265274790077,0.1327655726639363,0.2214583946587311,0.2218360182240056,0.3437703178790531,0.3380918423442139
+comedy,Mathias Zwicker,M,merchant,service_and_sales,lower_middle_class,"
+          
+Mathis :
+
+          
+In Eurem Hüs ? Haha, wo jeder Ziegel verschulde isch. Lueg emol, wie lang daß Ihr noch in Eurem Hisel kampiere ; es isch alles schun ferti. Dr Hüssier kann jedi Stund kumme ; ich hab numme noch e letschtsmol welle sehn, ob am End doch noch bezahlt wurd, awer jetzt —
+
+        
+",21,kleisecker-dr-schnider-von-gambse,60,5,0.0833333333333333,0.6686452789773382,0.3232489186562755,0.921260539660231,0.1778541974447618,0.7867904109621395,0.5271265274790077,0.1327655726639363,0.2214583946587311,0.2218360182240056,0.3437703178790531,0.5151682091989678
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Nüs! Mille de bongre! Alter Wucherer! numme nüs, diß loß ich mir nit g'falle 
+(er stößt ihn zur Thür hinaus. Therese wehrt ab)
+
+        
+",22,kleisecker-dr-schnider-von-gambse,32,2,0.0625,0.4119873665948662,0.1636812284699843,0.7991990412875905,0.0,0.8320110307199601,0.3065852548634808,0.051546490368411,0.0,0.0,0.5052016343424732,0.6836537564732998
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Georg, sei verständi, stell kenn Unglück an!
+
+        
+",22,kleisecker-dr-schnider-von-gambse,12,2,0.1666666666666666,0.4119873665948662,0.1636812284699843,0.6606517726977209,0.0,0.6478325036051519,0.3065852548634808,0.0,0.0,0.0,0.2950065013957302,0.4828611254215544
+comedy,Mathias Zwicker,M,merchant,service_and_sales,lower_middle_class,"
+          
+Mathis :
+
+          
+(unter der Thüre)
+ Des soll Euch gedenke. Hit nacht schlofe-n-r im Rappele — — Ihr Lumpepack! elends !
+
+        
+",22,kleisecker-dr-schnider-von-gambse,26,2,0.0769230769230769,0.4119873665948662,0.1636812284699843,0.6606517726977209,0.0,0.6478325036051519,0.3065852548634808,0.0,0.0,0.0,0.2950065013957302,0.4828611254215544
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+(allein)
+
+          
+Sapristi un kenn End! Bal hätt's e Unglück genn. I hätt ne grad erwürgt, wenn i ne an der Gurgel kriegt hätt. I zitt'r noch an Lieb und Seel, so hett mich der Ufftritt in Zorn gebrocht. Der elend Gizhals, het's Geld en masse und zieht mr de Hals zue. Er hett Freid dran, mich ze ruiniere, un ich weiß au worum. Will i in de letschte Wahle im Löwe öffentli uffgetrette bin gege die Wucherer, o mini Vivität, min Zorn, der het mr schon manche dumme Streich g’spielt. Der Zorn, der Zorn! Wenn i numme emol denne bemeistere könnt; ich suech im durch Geduld de Hals zebreche, awer do komme als widder Mo- mente, wo ’s mir wie im e Kochhafe kocht, uff einmol der Deckel e sprengt und alles iwerläuft un Unheil anstellt üwer Unheil. — Was wurd jetzt widder komme. Mille de bongre, der Wucherer isch alles im Stand, wer weiß, ob mir am End nit noch hit nüs g'schmisse wäre oder von der Polizei ab- g'führt, do däht i mi awer wehre, au tonnerre! — Ha, armseliger Schnieder. Diner Zorn däht's Unglück noch größer mache, denn in mim einfältige Zorn bin i schun manchmol so fuchsteufelswild worre, daß i minner selbsch nimmer mächtig bin. Awer jetzt will i sehn, ob's mit Geduld und heiterm Sinn nit besser geht. Jo, jo, Schnieder, hesch als gemeint, bisch e moralischer Mensch, d. h. einer der e bissel besser isch als anderi ehrliche Mitburjer, dis isch der Hochmuet, un der bringt dich zum Zorn, sobal einer dir in's Garn lauft; Awer Theres het erecht: Dü bisch e in- gebildter Plebs. Dis het mi g'stoche, wie sie mir dis g'saat het, 's isch grad g'sin, wie wenn sie mir mit 'm Messer in- wendi ebs durchschniede tät. Diß isch d'r Hochmuet g'sin. Ehrg'fiel mueß m'r henn, awer i mueß acht genn, daß der Hochmuet nit am Ehrg'fiel. festwachst. Drum isch's manch- mol ganz guet, wenn so e kleins Donnerwetter kommt, daß m'r nit ze übermütig wurd. —
+
+        
+",23,kleisecker-dr-schnider-von-gambse,411,42,0.1021897810218978,0.0717267705202341,0.2072018245865025,0.4639859549285547,0.0476476243493554,0.6484774448833578,0.0721296084465196,0.0612772954916378,0.0671873594502049,0.0,0.4217687962665809,0.6879333275631376
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+(streckt den Kopf zum Fenster herein)
+
+          
+Schorsch! Er isch furt; der hett abscheili gethon, un wenn er alles üsführt, was er g'schwore hett, ze geht's uns hitt noch schlecht ; i will jetzt niewer zue der G'schwei un sehn, ob der Mathis jo am End d'Polizei holt, un schaff Dü unterdesse numme ruhig furt, daß im Martin sini Hose ferti werde.
+
+        
+",24,kleisecker-dr-schnider-von-gambse,76,3,0.0394736842105263,0.0717267705202341,0.192928685691087,0.789118007090307,0.0476476243493554,0.910920805259988,0.0721296084465196,0.0612772954916378,0.0671873594502049,0.2596415811149594,0.4217687962665809,0.7892887653251911
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+Jo, geh' numme, liebs Theresele! I mueß jetzt widder e bissele arti sin mit Ihre, denn i mein als, i wur Sie bal brüche. I mein als, uns geht's in kurzer Zitt e bissele schlecht un e verständige Frau het schon manchmol im e tappige Mann üs der Klemm g'holfe — jetzt awer schaffe, sapristi, daß der Martin sini Hose bekummt, sunsch kann er nit Hochzitt mache.
+
+        
+",25,kleisecker-dr-schnider-von-gambse,81,7,0.0864197530864197,0.0717267705202341,0.2522338885156739,1.160473476319013,0.0476476243493554,1.3903378849068773,0.0721296084465196,0.1278773568414844,0.0671873594502049,0.2596415811149594,0.6870644631928806,1.2890631645581088
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni :
+
+          
+(springt herein)
+
+          
+Salü Schorsch! Lüj, wie der druf los räumert, mr däht meine wunder was pressants daß er hett.
+
+        
+",26,kleisecker-dr-schnider-von-gambse,27,3,0.1111111111111111,0.0717267705202341,0.4723980124242054,1.6664800075254873,0.0476476243493554,1.98266133384197,0.0721296084465196,0.6276540037144065,0.0671873594502049,0.7148818189991816,0.8156054074870382,1.9071727340119016
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Pressant? zell will i meine, im Schriner sini Hoch- zitskleider !
+
+        
+",26,kleisecker-dr-schnider-von-gambse,16,2,0.125,0.3850148842037992,0.4723980124242054,2.013586384281132,0.0476476243493554,2.342355308679774,0.3315802766341886,0.6276540037144065,0.0671873594502049,1.0550886554306946,0.8156054074870382,2.2002652050409703
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Potz Gewitter noch e mol, was ? Des trefft sich güt, do wursch de wohl nit andersch könne, wursch müesse mit- mache. Grad wejeder Hochzitt kumm i zu dir.
+
+        
+",26,kleisecker-dr-schnider-von-gambse,37,6,0.1621621621621621,0.4091837969991228,0.597614278827103,2.0789492640814107,0.0,2.425099984927729,0.3344897784071878,0.6708060794506238,0.0443493559217014,1.2077719763115484,0.9171133436403308,2.2706411522066974
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Wieso? Was solls denn genn? soll i am End fer- viere bim Esse ?
+
+        
+",27,kleisecker-dr-schnider-von-gambse,19,1,0.0526315789473684,0.4091837969991228,0.4482061892525342,1.644588645123303,0.0,2.0141367319393284,0.3344897784071878,0.6708060794506238,0.0443493559217014,0.9481303951965888,0.9171133436403308,1.9922093475898897
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Nein, dr Gesangverein soll ebs singe, e Ständerle, un ich un du solle zell Duette singe, het dr Präsident g'saat, weisch s'Hochzittsduettel: Was e scheene Zit, wenn zwei bravi Lit. — Na! wit mit mache?
+
+        
+",27,kleisecker-dr-schnider-von-gambse,48,5,0.1041666666666666,0.4091837969991228,0.3889009864279473,1.137683015770285,0.0,1.2984684993716076,0.3344897784071878,0.6042060181007771,0.0443493559217014,0.9481303951965888,0.3568111753183009,1.244492326828739
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Singe isch min Freid, awer sapperlot, wenn i numme die Hose schun ferti hät, un dr Frack isch au erscht ze Fade gschlaa un üwermorje isch Hochzitt, un wer weiß, o jerum, wer noch kummt villicht hit noch. 
+(seufzt)
+
+        
+",28,kleisecker-dr-schnider-von-gambse,50,4,0.08,0.4091837969991228,0.1687368625194159,0.631676484563811,0.0,0.7061450504365148,0.3344897784071878,0.104429371227855,0.0443493559217014,0.4928901573123667,0.2282702310241431,0.6263827573749463
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Was hesch de denn ze sitze un ze krächze, mer däht meine, du hesch dr Bendelwurm. So e Schnieder wi Dü bisch, bringt doch alles ferti.
+
+        
+",28,kleisecker-dr-schnider-von-gambse,33,1,0.0303030303030303,0.0958956833155576,0.1687368625194159,0.2845701078081665,0.0,0.3464510755987106,0.0750391102195188,0.104429371227855,0.0443493559217014,0.1526833208808536,0.2282702310241431,0.3332902863458772
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+Dü hesch güt rede, Dü stecksch in güete Hose, bi mir awer rauchts in alle Ecke, hitt kenne m'r noch viel erlewe. O jeh! o jeh!
+
+        
+",29,kleisecker-dr-schnider-von-gambse,34,2,0.0588235294117647,0.0,0.0,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Des isch e Gekrächs un e Gemachs, ze saa doch, was-'s isch, kann ich dir helfe ? Saa mirs, süm di nit.
+
+        
+",29,kleisecker-dr-schnider-von-gambse,30,2,0.0666666666666666,0.0,0.0,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+D'Polizei sitt m'r uf-'m Hals, 's Hisel isch verpfändt, grad durch die Bürgschaft vom Schniedermartin, wo ich hab bezahle müesse, wo i Geld vum Krämermathis' uff- genumme hab, un jetz zieht er m'r d'Gurgel zue, hitt noch kann alles zammekrache, kenn Stier un nix isch bezahlt. O jeh, was soll i anfange! S'isch züem Verzwifle.
+
+        
+",30,kleisecker-dr-schnider-von-gambse,73,6,0.0821917808219178,0.0,0.0656129363172528,0.1499804968814213,0.0,0.2518319530002559,0.0,0.0,0.0,0.0,0.2091147188685711,0.2576693283716961
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Jo, jo, wenn des isch, hm, hm, so tief geht min Elle- böje au nit, awer viellicht kann i doch ebs mache. I wur mit'm Martin redde unter vier Aue, sini Hochzittere isch e rechts Maidel, er wurd's schun inrichte kenne, jo, jo, es wurd schun gehn. Allons, Schnieder, lusti, nit verzwatzelt, stolz, Herrschaft von Benfeld, macht der e Armsündergsicht, m'r meint er het Kritzspinne gfresse.
+
+        
+",31,kleisecker-dr-schnider-von-gambse,92,9,0.0978260869565217,0.014891208328652,0.0656129363172528,0.2163311716374667,0.0,0.3583649683076659,0.0,0.0,0.0,0.0,0.2620476428477594,0.369199862748149
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Dü weisch nit, wie mir ze Müet isch, stell Dich in mine Platz.
+
+        
+",32,kleisecker-dr-schnider-von-gambse,18,3,0.1666666666666666,0.014891208328652,0.0656129363172528,0.2163311716374667,0.0,0.3583649683076659,0.0,0.0,0.0,0.0,0.2620476428477594,0.369199862748149
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Allons, stell Dü Dich an dene Plag un sing mit mir des Hochzittsduettel, will sehn, obs noch geht, Allons marsch, kumm vum Bock, Dich mien mr bi der Hochzitt han, daß der Gsangverein Ehr inleijt, un wenn alli Bredel breche, ze müesch Dü derzue. Also here jetzt.
+
+        
+",32,kleisecker-dr-schnider-von-gambse,60,9,0.15,0.014891208328652,0.180106560013231,0.4579158425807,0.0,0.6234492444298969,0.1623358404970395,0.0824642876000585,0.1004201997547563,0.1226620273043207,0.3149574243564169,0.6597165508447939
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+Na, schlechter kanns ellewej nit wäre, wenn i au e bissel sing, im Gejedeil, es heitert mich uff, awer wenn's d'Therese hört, mille de bongre.
+
+        
+",33,kleisecker-dr-schnider-von-gambse,36,4,0.1111111111111111,0.014891208328652,0.180106560013231,0.4579158425807,0.0,0.6234492444298969,0.1623358404970395,0.0824642876000585,0.1004201997547563,0.1226620273043207,0.3149574243564169,0.6597165508447939
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Jetzt ken Mucketänz gemacht, vorwärts! 
+(stimmt an)
+
+        
+",33,kleisecker-dr-schnider-von-gambse,13,1,0.0769230769230769,0.014891208328652,0.1144936236959782,0.3079353456992789,0.0,0.3716172914296408,0.1623358404970395,0.0824642876000585,0.1004201997547563,0.1226620273043207,0.1058427054878455,0.4020472224730976
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+(singt mit kräftiger Stimme)
+
+          
+O schöni Zit, wenn bravi Litt - -
+
+        
+",33,kleisecker-dr-schnider-von-gambse,17,4,0.2352941176470588,0.0,0.1144936236959782,0.2415846709432334,0.0,0.2650842761222309,0.1623358404970395,0.0824642876000585,0.1004201997547563,0.1226620273043207,0.0529097815086573,0.2905166880966447
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Au, Piano! i bitt di! mit dinere Bärestimm!
+
+        
+",33,kleisecker-dr-schnider-von-gambse,14,1,0.0714285714285714,0.0,0.1144936236959782,0.8887304725527013,0.0,0.6142024059378649,0.1623358404970395,0.0824642876000585,0.6155823181412405,0.1226620273043207,0.0529097815086573,0.6013169743959287
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Ach, bah! G'sang isch G'sang, do mueß m'r herzhaft inbrenne, ich bin kenn Pensionsmamsellele, mit so me Silber- stimmele. 
+(ahmt es nach)
+
+        
+",34,kleisecker-dr-schnider-von-gambse,33,2,0.0606060606060606,0.0,0.0,0.6471458016094679,0.0,0.3491181298156339,0.0,0.0,0.5151621183864842,0.0,0.0,0.3108002862992838
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Also denn! Daß i ferti wur 
+(sie singen das Lied)
+
+        
+",34,kleisecker-dr-schnider-von-gambse,15,1,0.0666666666666666,0.0,0.0,1.1329615298494031,0.0,0.7914127900686632,0.0,0.4469706605534606,0.5151621183864842,0.0,0.0,0.9085041365998324
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+O schöni Zit, wenn bravi Lit Dr Bund fors Lewe schließe.
+
+        
+",34,kleisecker-dr-schnider-von-gambse,15,5,0.3333333333333333,0.0,0.0928313973675301,1.3588519031348156,0.0,1.1001666782603656,0.0,0.530075071740796,0.5151621183864842,0.0,0.2546369973300355,1.219908242173667
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+In dr Liederschall, mischt sich der Knall, Bun Katzeköpf un Böller.
+
+        
+",34,kleisecker-dr-schnider-von-gambse,16,2,0.125,0.6222772519453457,0.0928313973675301,2.0988760150675767,0.6359018085946452,1.6306926686312735,0.3865913102870489,0.530075071740796,0.706032063593077,0.4409461577630346,0.2546369973300355,1.591107962768932
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Dü Schorsch, ich mein dini Stimm isch hit nit ganz rein.
+
+        
+",35,kleisecker-dr-schnider-von-gambse,15,2,0.1333333333333333,0.6222772519453457,0.0928313973675301,1.890956445438411,0.6359018085946452,1.9238325653891957,0.3865913102870489,0.6790652919252829,0.1908699452065927,0.4409461577630346,0.6710180917504227,1.993925387374656
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Im Gejedeil, ich ha vori schun saue welle, m'r däht meine, Dü hesch e Frosch in der Gurgel stecke, ich will Dir eine Vers vorsinge:
+
+        
+",35,kleisecker-dr-schnider-von-gambse,32,2,0.0625,0.6222772519453457,0.0928313973675301,1.890956445438411,0.6359018085946452,1.9238325653891957,0.3865913102870489,0.6790652919252829,0.1908699452065927,0.4409461577630346,0.6710180917504227,1.993925387374656
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Dr G'sangverein un d'ganz Gemein Will Euch dr Glückwunsch bringe.
+
+        
+",35,kleisecker-dr-schnider-von-gambse,14,3,0.2142857142857142,0.6222772519453457,0.0928313973675301,1.7707414882665442,0.6359018085946452,1.929742605670335,0.3865913102870489,0.6172379126239059,0.1908699452065927,0.4409461577630346,0.6710180917504227,1.95813259637422
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+M'r kumme all mit Freudeschall E Festhymnes ze singe.
+
+        
+",35,kleisecker-dr-schnider-von-gambse,12,2,0.1666666666666666,0.6222772519453457,0.1850909368131074,1.6690479868704764,0.6359018085946452,1.7583562680409195,0.3865913102870489,0.5341335014365705,0.1908699452065927,0.4409461577630346,0.416381094420387,1.7951999671369716
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+’s geht so ziemli, wenn Du numme stärker singe dätsch.
+
+        
+",35,kleisecker-dr-schnider-von-gambse,14,3,0.2142857142857142,0.0,0.3319760036257827,1.070962836677478,0.0,1.4496311783223754,0.0,0.7005322848547944,0.0,0.0,0.5884119105482395,1.6660833994188633
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Ich sing mit Kunstsinn, mit Nuance, piano un forte, Dü bisch awer nit recht gschüelt im Singe, dine Gsang isch als furt glich dick wie e Knackwurscht.
+
+        
+",36,kleisecker-dr-schnider-von-gambse,34,4,0.1176470588235294,0.0,0.3319760036257827,0.6317366046971762,0.0,0.8073731517488195,0.0,0.5515420646703075,0.0,0.0,0.1720308161278522,0.9524656885138556
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Dü pfifsch numme, wie so e Schermüs, des isch kenn Gsang, m'r müeß's doch äußere. Enfin, ’s geht, ’s isch jo numme e Repetition.
+
+        
+",36,kleisecker-dr-schnider-von-gambse,34,1,0.0294117647058823,0.0,0.3319760036257827,0.6317366046971762,0.0,0.8073731517488195,0.0,0.5515420646703075,0.0,0.0,0.1720308161278522,0.9524656885138556
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Jetzt der vierte und lezte Vers, awer mit piano un forte un mit Gfühl.
+
+        
+",36,kleisecker-dr-schnider-von-gambse,18,1,0.0555555555555555,0.0,0.3319760036257827,0.2661358336291072,0.0,0.3591684512146504,0.0,0.1663987834182239,0.0,0.0,0.1720308161278522,0.3905546292137425
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Beide:
+
+          
+E dreifach hoch von fern un noch, dem Hochzittspaar zu Ehre.
+
+        
+",37,kleisecker-dr-schnider-von-gambse,15,2,0.1333333333333333,0.3132881136835651,0.1468850668126752,0.4890453384954072,0.0,0.5814948754901673,0.259450668187669,0.1663987834182239,0.0,0.3402068364315129,0.1720308161278522,0.5351756239062253
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Piano! Ganz Gambse soll uf Euer Wohl — forte — mit uns e Gläsel — noch e mol fortissimo — Ganz Gambse soll leere 
+(während der lezten Töne tritt Therese auf)
+
+        
+",37,kleisecker-dr-schnider-von-gambse,36,5,0.1388888888888889,0.3132881136835651,0.087743581382673,0.762073068437727,0.0,1.023555186958322,0.259450668187669,0.4801432666766244,0.0,0.390378753723433,0.1415070708603425,1.129456899904661
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+(springt herein)
+
+          
+Sie kumme, sie kumme, Schorsch, hesch's g'hört ?
+
+        
+",37,kleisecker-dr-schnider-von-gambse,18,2,0.1111111111111111,0.3132881136835651,0.8281073286351027,1.2588605559951047,0.0,1.5730253892074717,0.259450668187669,0.4801432666766244,0.0,0.390378753723433,0.1415070708603425,1.7233428052510065
+comedy,Toni Brüllberger,M,choir_member,associative_world,,"
+          
+Toni:
+
+          
+Wer kummt, was isch denn los?
+
+        
+",37,kleisecker-dr-schnider-von-gambse,10,1,0.1,0.3132881136835651,1.488599700360697,1.969006195783841,0.0,2.41486871722489,0.259450668187669,1.0940190505224627,0.0,0.8706453106031716,0.5271299037428159,2.6016246397398475
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+d'Schandarme, schnell, dummer Daadieb, versteck dich, sie welle Dich arretiere.
+
+        
+",38,kleisecker-dr-schnider-von-gambse,18,4,0.2222222222222222,0.3132881136835651,1.488599700360697,2.126272722147301,0.0,2.5239741420526056,0.4095082290379322,1.0940190505224627,0.0,0.8706453106031716,0.5271299037428159,2.7084155595695605
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+(rennt umher)
+
+          
+Ja, was welle-mr jezt mache, schnell versteckt.
+
+        
+",38,kleisecker-dr-schnider-von-gambse,16,3,0.1875,0.0,1.488599700360697,2.1328080206079063,0.0,2.413667047571918,0.3501343086506144,1.2681237281889497,0.0,0.5304384741716585,0.5271299037428159,2.7129580973879994
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+In der Keller, uf d'Bühn, in der Geisestall, der steht doch leer.
+
+        
+",38,kleisecker-dr-schnider-von-gambse,19,2,0.1052631578947368,0.0,1.4008561189780242,1.952538120463468,0.0,2.0994561575380946,0.3501343086506144,1.0790896337823734,0.0,0.4802665568797384,0.3856228328824732,2.256578950049545
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Jetzt süeche sie mi überall, awer wo sunsch hin? halt!
+
+        
+",38,kleisecker-dr-schnider-von-gambse,15,3,0.2,0.2984882990400243,0.6604923717255943,1.7876871917402777,0.1072930651372112,1.7781146066575768,0.4993868832490028,1.0790896337823734,0.1717125982605033,0.4802665568797384,0.3856228328824732,1.822901376116323
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Schnell, mach, daß dü dich verstecksch, sei's wo's will.
+
+        
+",38,kleisecker-dr-schnider-von-gambse,17,1,0.0588235294117647,0.2984882990400243,0.0,1.0775415519515414,0.1072930651372112,0.9362712786401586,0.4993868832490028,0.465213849936535,0.1717125982605033,0.0,0.0,0.944619541627482
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Do kummt m'r e Gedanke! in d'Kinderkutsch, Dü gibsch mich for e Kneckes üs ; ich üwerloß Dirs, Dü bisch alt und g'scheidt genue, spiel dini Roll gut.
+
+        
+",39,kleisecker-dr-schnider-von-gambse,36,4,0.1111111111111111,0.2984882990400243,0.0,0.9202750255880808,0.1072930651372112,0.8271658538124429,0.3493293223987394,0.465213849936535,0.1717125982605033,0.0,0.0,0.8378286217977688
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Gerechter Gott, sie sin schun bal do! 
+(Georg schlupft in die Kinderkutsche, Therese deckt ihn zu und wiegt hin und her; singt)
+ Schlof Männele schlof, der Vater —
+
+        
+",39,kleisecker-dr-schnider-von-gambse,37,5,0.1351351351351351,0.3738010111889712,0.0866287371002005,0.8568218429247514,0.1072930651372112,0.9616402426956224,0.2556287087942371,0.5290915433196051,0.2747401572168053,0.0,0.2751534149695216,0.8857015757914258
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Guten Tag! Sind Sie die Frau des Schnei- dermeisters Georg Lügenbühler ?
+
+        
+",39,kleisecker-dr-schnider-von-gambse,16,2,0.125,0.5499566529099694,0.0866287371002005,1.142717150554711,0.4234152741470992,1.0281692831730154,0.5126775757164189,0.4636276994880201,0.5988452502925996,0.0,0.2751534149695216,0.914731593453194
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+(schluchzend)
+
+          
+O dü liewer Gott, leider jo, daß Gott erbarm !
+
+        
+",40,kleisecker-dr-schnider-von-gambse,17,5,0.2941176470588235,0.3327958569771049,0.4331436855010029,1.3683868027317556,0.4341858025819927,1.5111926721982176,0.5409216908988292,0.8538149864269402,0.7109947709669552,0.0,0.7168883801829412,1.357769862941677
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Wo ist Ihr Mann?
+
+        
+",40,kleisecker-dr-schnider-von-gambse,7,1,0.1428571428571428,0.3327958569771049,0.4331436855010029,1.8536238869418569,0.4341858025819927,2.191268500477203,0.5409216908988292,1.320015415875866,0.7109947709669552,0.0,0.7168883801829412,2.084096308439939
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Ich weiß nit, er isch vor-ere Viertelstund furt, for ze sehn, daß er Geld bekummt, wo er ze guet hat. 
+(Der Schneider quikt, Therese singt.)
+ Schlof Kindele, schlof, der Bater hütet d'Schof.
+
+        
+",40,kleisecker-dr-schnider-von-gambse,47,3,0.0638297872340425,0.3327958569771049,0.5825517750755718,1.9528735836762203,0.4341858025819927,2.347223287788629,0.5409216908988292,1.320015415875866,0.7109947709669552,0.0,0.7168883801829412,2.2802426023068043
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Haben Sie noch kleine Kinder?
+
+        
+",40,kleisecker-dr-schnider-von-gambse,8,2,0.25,0.257483144828158,0.7592138233507415,1.900823121197075,0.4341858025819927,2.160856154636014,0.4345455567029804,1.3282153065075737,0.6079672120106532,0.0,0.4417349652134194,2.3409670611238984
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Mer han do eins angenumme, so-n-e arms Würmel vun dr G'schwei in Wyersche, wo noch siewe so anderi d'heimme hett, vier drunter han die dreckete Krankheit d'Difteri, oder wie mr saat.
+
+        
+",41,kleisecker-dr-schnider-von-gambse,42,3,0.0714285714285714,0.0813275031071597,0.7592138233507415,1.562478398849099,0.1180635935721046,1.9750725572137124,0.1774966897807987,1.1025699780691098,0.2838621189348588,0.0,0.6151597550724099,2.134582695997388
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Ah! Typhus, vielleicht ?
+
+        
+",41,kleisecker-dr-schnider-von-gambse,8,1,0.125,0.0,0.4126988749499391,1.0048721878378664,4.440892098500626e-17,1.2639205168198786,0.0,0.7123826911301899,0.0,0.0,0.1734247898589903,1.531336095095782
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Nein, nit de Kühfuß, so e Krankheit kennt mr bi uns net, Dif, Dif, ri — dr Schinder wie heißt denn des Ding nume uff ditsch — Dif — te — ri —
+
+        
+",41,kleisecker-dr-schnider-von-gambse,40,3,0.075,0.2284878817086059,0.4126988749499391,0.8182570542189911,4.440892098500626e-17,0.8056166287874647,0.267584684902861,0.2461822616812642,0.236648163198199,0.0,0.1734247898589903,0.8761410760906884
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Die Diphteritis ganz recht!
+
+        
+",42,kleisecker-dr-schnider-von-gambse,7,2,0.2857142857142857,0.2284878817086059,0.2632907853753702,0.8801235183780447,4.440892098500626e-17,0.9003964177267699,0.267584684902861,0.3951724818657511,0.236648163198199,0.0,0.1734247898589903,0.9826945091431528
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Des Büewel het au de Anfang drvun, gehn nur net ze noch mit Eurem G'sicht an de Waue, sunscht könnte Ihr au angsteckt were, Ihr sin jo alleweg au Familievadder, Schlof Kindele, schlof!
+
+        
+",42,kleisecker-dr-schnider-von-gambse,41,2,0.048780487804878,0.2284878817086059,0.0,0.8859546209448184,4.440892098500626e-17,0.96461675537857,0.267584684902861,0.3735753585719831,0.236648163198199,0.0,0.1734247898589903,0.8925737740649472
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Schrecklich! Die Diphteritis! Gut, daß Sie mir das sagen, liebe Frau; ich habe fünf Kinder zu Hause, Donner und Wetter.
+
+        
+",42,kleisecker-dr-schnider-von-gambse,29,4,0.1379310344827586,0.2284878817086059,0.1316453926876851,0.8227762591620781,4.440892098500626e-17,0.8329680582806247,0.267584684902861,0.4966664894126152,0.236648163198199,0.0,0.0,0.8930590508216806
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Und ich ein halb Dutzend — Müssen wir gerade in diese Bude kommen.
+
+        
+",43,kleisecker-dr-schnider-von-gambse,16,2,0.125,0.2284878817086059,0.1316453926876851,0.8227762591620781,4.440892098500626e-17,0.8329680582806247,0.267584684902861,0.4966664894126152,0.236648163198199,0.0,0.0,0.8930590508216806
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Na so gehn numme wider furt, s'kunnt sunscht e Unglück zu Ihne.
+
+        
+",43,kleisecker-dr-schnider-von-gambse,17,1,0.0588235294117647,0.0,0.1316453926876851,0.524154308570852,4.440892098500626e-17,0.6111961180340538,0.0,0.4966664894126152,0.0,0.0,0.0,0.8219276243285117
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Ach nein! gute Frau, das geht nicht. Der Dienst muß besorgt werden, warum habt Ihr denn das ‚kranke Kind angenommen, Ihr wißt doch, daß die schreck- liche Krankheit ansteckend ist.
+
+        
+",43,kleisecker-dr-schnider-von-gambse,40,7,0.175,0.0,0.2880199622162316,0.6460659599317238,0.1632669918441407,0.5562378848730324,0.1889450030276307,0.451105088529291,0.148400315380297,0.0,0.0,0.7301254759401413
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Der Dokter in Hördt hat g'saat, e Luftveränderung tuet ihm guet. Un Euch tuets viellicht au guet, wenn Ihr jetzt e Luftveränderung mache täte nüs üs dere Kranke- zimmerluft, min, Mann isch desweje au furtgange, for wider frische Luft ze schöpfe ; gehn numme un sueche mine Mann drüß, denn do finde Ihr ne nit.
+
+        
+",44,kleisecker-dr-schnider-von-gambse,66,12,0.1818181818181818,0.0499809695713522,0.2880199622162316,0.6677812809851379,0.2131156679001332,0.6252571497599075,0.2431223474515535,0.3819200932914367,0.148400315380297,0.0,0.050687382195604,0.7176768876699068
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Das versteht Ihr nicht, Frau Lügenbühler. Wir kommen, um Ihren Mann abzuholen, damit er eine Luftveränderung für einige Zeit macht, weil er doch so für Luftwechsel schwärmt. Sagt uns gerade heraus, wo er ist, es ist besser, als lang Versteckens zu spielen. Das macht die Sache nur schlimmer. 
+(Georg quiekt)
+
+        
+",45,kleisecker-dr-schnider-von-gambse,65,10,0.1538461538461538,0.0499809695713522,0.2112210763185018,0.8803384123160735,0.2131156679001332,0.9500694966806305,0.2431223474515535,0.3592864508915933,0.184139215369062,0.0390661083451259,0.2412459085206816,0.8933662798862241
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Jo min Hammele, numme still, sie tuen dir nix, numme schön drunte gebliewe, schlof Kindele, schlof, {lof Hammele, schlof.
+
+        
+",46,kleisecker-dr-schnider-von-gambse,30,2,0.0666666666666666,0.0499809695713522,0.4681181182359566,1.109553338724782,0.2131156679001332,1.2218154929725702,0.2431223474515535,0.7077073032875896,0.1883051133461017,0.1223840678859221,0.5124921545812736,1.2462785780806107
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Ihr brüche mir nit Dolle ze saue, ich bin e ehrliche Frau e unglücklichi.
+
+        
+",46,kleisecker-dr-schnider-von-gambse,18,3,0.1666666666666666,0.3136513951906547,0.4681181182359566,1.353002441312467,0.4399202255211419,1.33235829606819,0.4780410482663118,0.7077073032875896,0.3288170278318445,0.1223840678859221,0.5124921545812736,1.3019396777092307
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Ich hab ja gesagt drollig, seid doch vernünftig.
+
+        
+",47,kleisecker-dr-schnider-von-gambse,12,1,0.0833333333333333,0.3136513951906547,0.3117435487074101,1.5293026482044652,0.2766532336770012,1.450921042384211,0.289096045238681,1.1265925169858866,0.1804167124515475,0.1223840678859221,0.5124921545812736,1.6162134188953516
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Ze sueche doch numme e mol. Gehn nüs in dr Keller, uf d'Bühn, in de leere Kuhstall un ins Gaiseschöpfel, sueche, ich hab jo nix derwidder, un wenn m'r fröje derf, weje was welle ihr ne denn hohle? Was soll er denn an- gestellt han.
+
+        
+",47,kleisecker-dr-schnider-von-gambse,58,4,0.0689655172413793,0.2636704256193025,0.3117435487074101,1.3809665902793251,0.2268045576210087,1.2950124648012016,0.2349187008147582,1.116746959971269,0.1804167124515475,0.1223840678859221,0.4618047723856694,1.5025429613541024
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Schulden, Betrugsversuch, Steuerrückstände, Beleidigung des Kaufmanns Mathias Zwicker hier.
+
+        
+",47,kleisecker-dr-schnider-von-gambse,15,2,0.1333333333333333,0.2636704256193025,0.2568970419174548,1.0493404439115026,0.2268045576210087,0.8714530498366383,0.2349187008147582,1.0162894715304802,0.1446778124627825,0.083317959540796,0.2712462460605917,1.1237373583086558
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Na, Mahlberg, gehn wir mal und machen Haussuchung, kommen Sie mit, Frau Lügenbühler 
+(willgehen)
+
+        
+",48,kleisecker-dr-schnider-von-gambse,22,1,0.0454545454545454,0.2636704256193025,0.0,0.8201255175027942,0.2268045576210087,0.5997070535446986,0.2349187008147582,0.667868619134484,0.1405119144857427,0.0,0.0,0.7708250601142692
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Mit gehn, jo ’s lejt mr an, von dem arme kranke Kind weg ze gehn. 
+(Georg quiekt)
+ Here Sie, wie's winselt vor Schmerze. Schlof, Männele, fchlof, numme zefridde, die böse Männer gehn bal wider furt, numme stille, krejich au e guets Stückele Bäredreck dernoh; Schlof Kin- dele, schlof.
+
+        
+",48,kleisecker-dr-schnider-von-gambse,68,9,0.1323529411764706,0.0772137256181812,0.0520050843702994,0.7525914924704622,0.0756824026966466,0.6128003314818532,0.1269777736570535,0.7164944351536531,0.1338141676701628,0.0813309543097064,0.0,0.8435152653979486
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Na, das Kind ist ja ruhig, eine Viertelstunde wird es wohl auch ohne Sie durchbringen können. Kommen Sie mit.
+
+        
+",49,kleisecker-dr-schnider-von-gambse,25,4,0.16,0.0772137256181812,0.2786960009318147,0.5930562014586414,0.0756824026966466,0.6183483717161357,0.1269777736570535,0.5908110532889713,0.1338141676701628,0.1440458509246065,0.1768838385754282,0.880237642656678
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Nit um Alles, sueche ne wo Ihr welle, ich geh nit von dem Kind eweg, i wott wette, sobol i vun-'m eweg bin, ze will er in der Hiz zum Bettel rüß, un wenn'm e Unglück g’schehn tät, wer mueßt's verantworte! Ich!
+
+        
+",49,kleisecker-dr-schnider-von-gambse,56,6,0.1071428571428571,0.0772137256181812,0.3567036274872639,0.6735096937398205,0.0756824026966466,0.6274007307199188,0.1269777736570535,0.5181951911827006,0.2046291526468397,0.1440458509246065,0.2710818705531221,0.9478489673884556
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Dann bleib ich allein hier und Sie gehen mit Wahlberg im Hause herum; wir dürfen einmal heute nicht zu unserm Chef kommen, ohne den Schneider mitzubringen, steckt er wo er will. Also, Mahlberg, fort, und Sie gehen mit, Frau, damit der Mann nicht am Ende auf einer Keller- treppe den Hals bricht.
+
+        
+",50,kleisecker-dr-schnider-von-gambse,65,4,0.0615384615384615,0.0772137256181812,0.3567036274872639,0.9549615295954824,0.0756824026966466,1.0531266752557198,0.1269777736570535,0.6347452985449321,0.2046291526468397,0.1440458509246065,0.4658130563893417,1.3129863256997931
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Wenns partout nit andersch ze mache isch, ze well i mit, awer warte emol, i will'm noch e Stückel Bäredreck ins Schnüffele stecke; — so liebs Hämmele, jetzt schlutz dü numme, meinsch, des isch emol güet. 
+(Georg quiekt)
+ jo, jo, luj wie er trett, unter finere Couvert, — soll dr wohl tuen bis in dr große Zehnele, daß d'widder gsund wursch, — sei jetzt brav un ruehi, ’s Bäsel kummt bal wider — i will dir nur e Memmele hole. Adien Schätzele, halt di guet.
+
+        
+",51,kleisecker-dr-schnider-von-gambse,109,10,0.091743119266055,0.129103859255715,0.4720040881776998,1.081704583698171,0.1078703222378099,1.205941920367466,0.1411743322566433,0.6974029212816452,0.2046291526468397,0.1840331618594976,0.584593247507487,1.4993730894684358
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Jetz macht einmal ein Ende mit Eurer Narretei und kommt mit.
+
+        
+",52,kleisecker-dr-schnider-von-gambse,14,1,0.0714285714285714,0.0518901336375337,0.4199990038074003,1.3505970629694786,0.0321879195411633,1.7501516759107942,0.0141965585995896,0.6487771052624761,0.070814984976677,0.1027022075497911,1.060989563320181,1.861622645387587
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Ich möcht numme Euch sehn, mit Euere sechs Kneckes d'heim, ihr sin ganz gewiß noch viel ärjer vernarrt, mer hört jo genu verzehle.
+
+        
+",52,kleisecker-dr-schnider-von-gambse,30,4,0.1333333333333333,0.0518901336375337,0.3053641544268117,1.31101579416544,0.0321879195411633,1.87473568413554,0.0141965585995896,0.3266415642199416,0.070814984976677,0.039987310934891,1.0497717842328464,1.7770364651428323
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Geht jetz Frau und macht ein End, Ihr habt ja ein Mundstück, wie eine Dampf-Kaffeemühle.
+
+        
+",53,kleisecker-dr-schnider-von-gambse,20,2,0.1,0.0518901336375337,0.2273565278713625,1.5652816941019123,0.0321879195411633,2.1819506270793263,0.0141965585995896,0.5148598566909178,0.0,0.039987310934891,1.1937719101614994,2.027318589916751
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Ich geh jo, awer Ihr müesse alls-furt e bissele hin un her wajle un au e bissele singe: Schlof Kindele, schlof, sunsch wenn's Fuhrwerk still steht, wurd er unruehig un dernoh han'r Euri liewe Not mit'm awer uff dene Bäredreck wurd'r wohl ruehi sin un zefridde.
+
+        
+",53,kleisecker-dr-schnider-von-gambse,56,9,0.1607142857142857,0.1549245210329345,0.2761029619728475,1.417148724780177,0.0986398959647749,1.8722619198611912,0.1460614752080271,0.4679293301472563,0.1621734820554332,0.0678605983192911,1.077655763692137,1.8034604541385095
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Pressierts denn e so, Ihr sin jo uff. der Monat bezahlt oder han'rs im Akkord? So g’fährli isch's doch nit, denk-i.
+
+        
+",54,kleisecker-dr-schnider-von-gambse,29,2,0.0689655172413793,0.1030343873954007,0.1608025012824116,1.290405670677489,0.0664519764236116,1.7194466747494448,0.1318649166084374,0.4052717074105433,0.1621734820554332,0.0278732873843999,0.9588755725739916,1.617073690369867
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Jetz macht mal, daß Ihr fort kommt.
+
+        
+",54,kleisecker-dr-schnider-von-gambse,11,1,0.0909090909090909,0.1030343873954007,0.1608025012824116,1.2904056706774885,0.0664519764236116,1.7194466747494452,0.1318649166084374,0.4052717074105433,0.1621734820554332,0.0278732873843999,0.958875572573992,1.6170736903698668
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Halt!! Bob liewer Alledaa, d'Hauptsach hätt i bal vergesse! was ich Euch bitt, wenn Euch Euer Lewe un's Lewe un G'sundheit vun Eure Kinder un Madam lieb isch, ze bliewe mit Eurem Kopf, un bsunders mit'm Mül vun dem Bettel eweg. Ihr kenne der Dif-dif-ri — Schinder zur Difteri — ebä ze losse-n-Euch rote un tuen was ich saa, oder es isch Euer eigener Schade. Adieu, Herzkäferle, schlof wohl, er schloft prächti, jezt numme ruhig, liewer Herr Wachtmeister, ich geh jetzt.
+
+        
+",55,kleisecker-dr-schnider-von-gambse,105,21,0.2,0.1820057021292761,0.2522029961079993,1.4149791759307837,0.1069252369394328,1.651596998542649,0.2060427357043646,0.5043914314188213,0.2941488430544217,0.0659657521813147,0.9338649204669645,1.5717003167670616
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Ja, ja, nur endlich fort, das ist ja schrecklich.
+
+        
+",56,kleisecker-dr-schnider-von-gambse,15,5,0.3333333333333333,0.1820057021292761,0.2522029961079993,1.789701822407626,0.1069252369394328,1.7263148964820487,0.2060427357043646,1.1833996743181188,0.2941488430544217,0.0659657521813147,0.6956667625606172,2.0091226019835404
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Bleibt doch nur, das darf ja nicht sein.
+
+        
+",56,kleisecker-dr-schnider-von-gambse,12,1,0.0833333333333333,0.0789713147338753,0.2034565620065143,2.1157109750199865,0.0404732605158212,1.9246167485701144,0.0741778190959272,1.6360941264990083,0.1319753609989884,0.0380924647969146,0.6170517231937602,2.3930146991675243
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+(bringt eine Flasche voll Wasser und ein Gläschen)
+
+          
+Do, ich jtells emol do ane, à votre service, Ihr könne mache, was Ihr welle. 
+(Schenkt ein und geht mit dem Gendarm fort.)
+
+        
+",56,kleisecker-dr-schnider-von-gambse,43,1,0.0232558139534883,0.0789713147338753,0.2034565620065143,2.1157109750199865,0.0404732605158212,1.9246167485701144,0.0741778190959272,1.6360941264990083,0.1319753609989884,0.0380924647969146,0.6170517231937602,2.3930146991675243
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Hahaha, Pos Glinten und Kanonenkugeln ! So was ist mir noch nicht vorgekommen! In meiner langen Dienstzeit noch nicht vorgekommen. Muß ich da Kinderwärterin spielen! In der Tat, unbekannt ist mir diese Funktion gerade nicht. Habe es oft praktiziert bei meinen fünf Rangen zu Hause; aber im Dienst — zum Kuckuck, das ist denn doch einzig und gehört in den Kladderadatsch. Ein Gendarmerie-Wachtmeister, ein krankes Kind hütend. Alles im Dienst, im Namen des Gesetzes! Haha, und doch es muß sein. Strenge Ordre. — Dieser Schneider ift nicht nur ein heruntergekommener, verschuldeter Kerl, sondern, was für uns die Hauptsache ist, ein Sozialist, ein Redner bei Wahlen und dergleichen. Einige Zeit ins Trockene, wird ihn kurieren. 
+(Georg quiekt)
+ Was Du regst dich auch, kleiner Unglücksvogel! Ich werde mich wohl hüten, dir nahe zu kommen. 
+(Schaut in den Wagen)
+ Ein ziemlich großer Bengel. Na! schlafe nur, schlaf, Kindchen, schlaf, 
+(er wiegt)
+ der Vater hüt die Schaf, hahaha! Muß über mich selber lachen, hab von der drolligen Frau das Geschäft abgelernt. Ia, sei nur still, so du bist verständig, liegst ganz verständig auf dem Gesicht in deinem Kissen drin, Du kleiner Mann. - — Ich wollte. nur meine Frau sähe mich hier sien; die würde mir dann jeden Abend Kindermagd-Dienst komman- dieren und mit meinem Abendschoppen wäre es vorbei. - 
+(Betrachtet das Glas)
+ Und haha, dann der gutmütige Einfall dieser einfältigen alten Frau, einem Gendarm, der ihren Mann holen will, ein Glas Kirschbranntwein einzuschenken. 
+( en eigentlich gar nicht.)
+ übel, echt — follen wir nicht ver- suchen? Bah dienstwidrig! 
+(Riecht)
+ Die Probe könnte man ja machen. 
+(nippt)
+ Nicht übel, echter selbstgebrannter Firsch Haha, man kann ja nachhelfen, man muß sich zu helfen wissen. 
+(Georg quiekt, während er trinken will)
+ Still! kommt jemand? 
+(Georg quiekt)
+ Nein, das ist der Herzkäfer da in in seiner Kutsche. Schlaf Kindchen, schlaf, der Vater hüt die Schaf. 
+(wiegt)
+ Sei nur brav, Kindchen, ja! 
+(trinkt und schenkt wieder voll ein)
+ So, jezt meint man, ich hätte es stehen lassen, gut, haha! — Aber verflirt langweilig ist die Kinderwärterei doch, muß doch mal ein bischen hinausgucken, ob die Haus- suchung noch nicht zu End. 
+(Geht ab ; der Schneider hebt sich in die Höhe, trinkt das Glas leer und schenkt wieder ein.)
+
+        
+",57,kleisecker-dr-schnider-von-gambse,480,53,0.1104166666666666,0.0843745107892644,0.23091370793379,2.063348224669242,0.1115354670467979,1.6774783101986483,0.1209653665454875,1.9308890446738367,0.174842413446337,0.0501966283801384,0.174064650069506,2.374006734373642
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Oh! Wie guet macht eim so e Schnäpsel, wenn m'r üs'm Schlof verwacht, i wott awer doch, i käm bal üs dere Malefizkütsch herüs, i bin grad wie gerädert, ganz krizlahm; awer des tüet eine e bissele stärke. 
+(trinkt wieder leer und schenkt wieder ein.)
+ So jetz awer wider nunter ; er kennt kumme. Schlof Männele, schlof, haha! schnell er kunnt. 
+(Drückt sich schnell hinunter.)
+
+        
+",58,kleisecker-dr-schnider-von-gambse,87,10,0.1149425287356321,0.005403196055389,0.0644753332898972,1.8254046846990792,0.0710622065309766,1.5199381710055784,0.0467875474495602,1.787072254610213,0.0428670524473486,0.0121041635832236,0.1472574774540238,2.1614776263459605
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+(eintretend)
+
+          
+Noch keine Spur von dem Malefiz- schneider, langweiliges Kesseltreiben in der dumpfigen Bude hier. Na, werde mir noch eins unter die Binde gießen, die gute Alte hat mirs ja angeboten, brauchts übrigens gar nicht mal zu merken. 
+(will trinken, Georg quiekt)
+ Ja, liebs Kerlchen, nur ruhig, ich komme gleich 
+(trinkt und schenkt ein)
+ Sei Du nur hübsch ruhig; schlaf Kindchen, schlaf, sei nur still und brav. 
+(Georg quiekt)
+ Still, hab ich nicht etwas gehört, vielleicht der Schneider. 
+(Geht hinaus)
+
+        
+",59,kleisecker-dr-schnider-von-gambse,110,10,0.0909090909090909,0.005403196055389,0.0644753332898972,1.1823454578942776,0.0710622065309766,1.0798634458375544,0.0467875474495602,1.0558326084109697,0.0428670524473486,0.0121041635832236,0.1472574774540238,1.4262377787420484
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+(trinkt wieder leer und schenkt ein, und geht schnell hinunter)
+
+          
+Oh, e guets Tröpfel.
+
+        
+",60,kleisecker-dr-schnider-von-gambse,21,3,0.1428571428571428,0.005403196055389,0.0644753332898972,0.985713626699597,0.0710622065309766,0.829671100001401,0.0467875474495602,0.5335185754115097,0.3849830181517658,0.0121041635832236,0.1472574774540238,0.9323761791005956
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm :
+
+          
+Nicht eine Spur von dem schlauen Schneider zu entdecken — das ganze Haus, alle Ecken und Winkel durch- sucht ; alles umsonst.
+
+        
+",60,kleisecker-dr-schnider-von-gambse,27,3,0.1111111111111111,0.005403196055389,0.0644753332898972,1.2226318921262105,0.0710622065309766,1.2457076293138267,0.0467875474495602,0.8685417320446847,0.3849830181517658,0.0121041635832236,0.1472574774540238,1.4352723907604146
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Was macht denn min Schorschele? Pipero, Lüej wie der so nett schloft.
+
+        
+",60,kleisecker-dr-schnider-von-gambse,17,2,0.1176470588235294,0.0,0.2573457875816344,1.279682194649126,0.0,1.434920121563416,0.0,0.8233449889971922,0.3421159657044171,0.0,0.5840871220554076,1.5804036656948106
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Wißt Ihr venn gar nicht. Frau, wo er auf der Geldjagd ist; wo er immer Geld holen will? Das müßt Ihr doch wissen.
+
+        
+",61,kleisecker-dr-schnider-von-gambse,30,1,0.0333333333333333,0.0,0.2203276002190128,1.1328407700355665,0.0,1.2158387990985224,0.0,0.7935469449602948,0.3421159657044171,0.0,0.4702388872898234,1.3609986305942423
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Bim Schrinermartin viellicht — üßm Dorf nüs isch er nit kumme.
+
+        
+",61,kleisecker-dr-schnider-von-gambse,14,2,0.1428571428571428,0.0,0.4054185370321203,1.0733064342663965,0.0,1.227470713898517,0.0,0.5846213317605111,0.3421159657044171,0.0,0.4702388872898234,1.2994015790439968
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+So muß er aufzutreiben sein ! Bomben und Granaten, das wollen wir doch sehen. Jetzt geht Ihr mit mir, Frau. Ich werde ihn schon erwischen und müßte ich ganz Gambsheim umkehren. Allons : vorwärts.
+
+        
+",61,kleisecker-dr-schnider-von-gambse,42,3,0.0714285714285714,0.0,0.4054185370321203,1.2511533700967106,0.0,1.6168759251241134,0.2916543057590051,0.6839481452168357,0.2088587424557101,0.0,0.4702388872898234,1.557934416107539
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Ich mit euch gehn. Zell isch awer nit wohr! Was dhäte do d'Litt im Dorf denke un babble. Ich bin e recht- schaffeni Frau - mich vum e Schandarm durch's Dorf füchre ze loffe ? - Wachtmeifter: Ich führe euch. ja nicht; Ihr führt mich.
+
+        
+",62,kleisecker-dr-schnider-von-gambse,57,5,0.087719298245614,0.0,0.4054185370321203,1.2409506667933297,0.0,1.4200764906286854,0.3294412952866246,0.4533877951835524,0.2088587424557101,0.0,0.5630879221449728,1.2578956432201842
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Eh bäh! Ze will ich Euch kettle, Allons here!
+
+        
+",63,kleisecker-dr-schnider-von-gambse,14,1,0.0714285714285714,0.0,0.1850909368131074,0.7914555577944974,0.0,0.8101566001744593,0.3294412952866246,0.2037896200562166,0.2088587424557101,0.0,0.0928490348551491,0.6411714722482199
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Unsinn! Dummes Weib, so geht meinetwegen allein voraus. Ich folge euch in die Häuser, wo Ihr den Ausreißer vermutet.
+
+        
+",63,kleisecker-dr-schnider-von-gambse,26,4,0.1538461538461538,0.0665240338825522,0.3632161365001606,1.0522097585285577,0.0,1.0245060387200178,0.3915834531196535,0.2037896200562166,0.2088587424557101,0.0515464903684109,0.226481248249134,0.8825030314360266
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Zell welle mer gälte lon, awer wer hüet unterdesse des arm Würmele.
+
+        
+",63,kleisecker-dr-schnider-von-gambse,16,3,0.1875,0.1886251237018556,0.4275459773907021,1.223385523385279,0.1177240877477297,1.0569146935899962,0.5910515757707862,0.2037896200562166,0.6076699619759856,0.1679773238151389,0.2985046022659772,0.9238802161579328
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Mahlberg! Sie bleiben hier, bis wir wieder- kommen.
+
+        
+",63,kleisecker-dr-schnider-von-gambse,14,1,0.0714285714285714,0.1886251237018556,0.4275459773907021,0.7828423996033588,0.1177240877477297,0.6033627387948218,0.2993972700117811,0.104462806599892,0.3988112195202754,0.1679773238151389,0.2985046022659772,0.6340376590187631
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Sehr angenehm, Herr Wachtmeister! Bin das Kinderhüten gewöhnt, werde meine Pflicht tun.
+
+        
+",63,kleisecker-dr-schnider-von-gambse,18,4,0.2222222222222222,0.3288506776819956,0.4275459773907021,0.8322176212782171,0.3110661381456076,0.6821233718832198,0.5031074390052358,1.7763568394002506e-16,0.5831939867898657,0.1679773238151389,0.2056555674108278,0.6817737807473503
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+(nimmt die Flasche zur Hand, will einschenken, sieht das  Gläschen noh voll und macht kuriose Augen.)
+
+          
+Herr Wachtmeister, ja, han Sie denn nix getrunke, kurios; ich ha ge- meint, s'isch noch mehr in den Budell gewehn un doch steht das Gläsel noch voll do. 
+(zum Gendarm)
+ Do trinke Ihr, ge- niere Euch nit, à votre Service !
+
+        
+",64,kleisecker-dr-schnider-von-gambse,77,5,0.0649350649350649,0.3408149878644279,0.4275459773907021,1.0773427489650111,0.3406620633337294,0.977338960811046,0.5253043828963271,0.1044628065998921,0.5831939867898657,0.1679773238151389,0.3009348305733667,0.9760315511364068
+comedy,Therese,F,,,,"
+          
+Wachtmeister:
+
+          
+Mahlberg! Sie werden wissen, daß das im Dienst nicht erlaubt ist. Die Frau meint es gut, aber das darf nicht sein.
+
+        
+",65,kleisecker-dr-schnider-von-gambse,28,1,0.0357142857142857,0.2742909539818757,0.249420777703649,0.816588548230951,0.3406620633337294,0.7629895222654877,0.4631622250632983,0.1044628065998921,0.5831939867898657,0.1164308334467278,0.1673026171793818,0.7346999919486005
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Keine Sorge, Herr Wachtmeister, ich werde meine Pflicht tun.
+
+        
+",65,kleisecker-dr-schnider-von-gambse,14,3,0.2142857142857142,0.1721303811332926,0.0,0.6283792656385587,0.2722645175662027,0.7578443230523205,0.3006890088973178,0.1044628065998921,0.1843827672695902,0.0,0.0952792631625386,0.6966902213556923
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Au revoir Schorschele! au revoir; er schloft wie e Kalb — hüete-n-e güet. 
+(Wachtmeister und Therese ab)
+
+        
+",65,kleisecker-dr-schnider-von-gambse,26,1,0.0384615384615384,0.1721303811332926,0.0,0.6283792656385587,0.2722645175662027,0.7578443230523205,0.3006890088973177,0.1044628065998921,0.1843827672695902,0.0,0.0952792631625386,0.6966902213556923
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Haha, drollige Lage, Kinderfrau spielen — schlaf Lämmchen, schlaf, der Papa hüt die Schaf. Na nur still. 
+(Georg quiekt)
+ ich tue Dir gewiß kein Leid, aber ich werde mich auch hüten. Dich aufzudecken oder sonst irgend etwas mit dir zu unternehmen, — Diphteritis, das sollte mir noch fehlen mit meinen sechs Trabanten, wo's so. wie so noch nicht langen will, wenn alles gefund ist. Nein, schlaf Du nur! — Wenn die Geschichte nur nicht gar zu lange dauert, denn verflucht langweilig ist es da schon, 
+(steht auf)
+ Übrigens scheinen mir die Leute nicht jo übel zu sein, nehmen da ein krankes Kind an; das ist doch schön — schlechte Leute tun das nicht und wie freundlich die gute alte Frau uns hier ein Gläschen angeboten hat, haha! Könnte man da mal eine Probe machen obs eine gute Sorte ist? 
+(will trinken Georg quikt)
+ Donnerwetter, ich glaube es kommt jemand, werde mal draußen nachsehen, 
+(ab)
+
+        
+",66,kleisecker-dr-schnider-von-gambse,191,23,0.1204188481675392,0.0613629678023778,0.0665349961333547,0.5455252309781363,0.1385749738989947,0.6337094805526842,0.1040520470646568,0.1729616556810514,0.0495057981739366,0.02423030445795,0.169328091266582,0.6289902502360374
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+(steht auf, trinkt aus, schenkt ein)
+
+          
+Wenn m'r am Morje üsg schlofe het, nimmt m'r gewöhnli e Schnäpsel un wenn m'r owes ins Bett geht, nimmt m'r au eins 
+(nimmt noch eins und schenkt wieder ein)
+ so, jetz geh i wider ins Bett, guet Nacht bisamme! 
+(schnarcht)
+
+        
+",67,kleisecker-dr-schnider-von-gambse,62,3,0.0483870967741935,0.0493986576199455,0.0665349961333547,0.3004001032913425,0.1089790487108729,0.338493891624858,0.0818551031735654,0.0684988490811594,0.0495057981739366,0.02423030445795,0.0740488281040432,0.3347324798469805
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+(tritt wieder ein)
+
+          
+Keine Seele weit und breit, wie ausgestorben die ganze Nachbarschaft. Alles auf dem Felde, und ich muß da sitzen, Unsinn ! wenn es nicht des Schneiders wegen wäre, des Kindes wegen könnte man die Bude schon schließen und abgehen, der kleine Kerl ist bräver als meine. jechs alle miteinander, freilich die Krankheit kann einen schon brav machen. — Wie der Kirsch so angenehm duftet. Sap- perlot! na nur nicht so schüchtern, man hat es uns ja an- geboten. 
+(nimmt das Gläschen, leert es auf einen Zug und schenkt wieder ein)
+ So jetz steht immer noh das erste Gläschen da, das der Zu Wachtmeister nicht annehmen wollte, oder sollte er am Ende auch den gleichen Gedanken gehabt haben ? Kaum glaublich, dazu ist er zu diensteifrig. — Aber horch! welch ein Lärm da draußen. 
+(man hört Lärm und Schreien hinter der Szene)
+ Mehrere Stimmen: Hewene, hewene! Schmisse-n-e rab! Hauene dene Schereschliffer, druff uf dene Schereschliffer !
+
+        
+",68,kleisecker-dr-schnider-von-gambse,195,18,0.0923076923076923,0.100407441568166,0.0665349961333547,0.7121078673527413,0.1309076663823253,0.81249258158355,0.1486853230496178,0.3706252495492922,0.1282012512253819,0.112703222533572,0.0740488281040432,0.8362524698869226
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Gendarm:
+
+          
+Was hat das zu bedeuten? Ein Auflauf, ein Streit, eine Prügelszene? Da muß ich doch mal nachsehen! Hat der Wachtmeister schließlich den Schneider gefunden und er ist ihm wieder durchgegangen. 
+(Man hört einen Schuß)
+ - Sapperlot! ein Schuß! jezt wird es aber doch zu bunt. Auf, hinaus, den- Säbel locker gemacht. Wenn Schüsse fallen, jo muß auch der Säbel blitzen. 
+(ab. Großer Lärm und Stimmengewirr hinter der Szene, immer stärker werdend. Georg steht auf)
+
+        
+",69,kleisecker-dr-schnider-von-gambse,98,9,0.0918367346938775,0.3839106157160841,0.0665349961333547,1.0801726246037788,0.2368569719316569,1.0385450679900092,0.4738326552396417,0.4196251917606421,0.3648895097514555,0.4809610594990037,0.0740488281040432,0.8445314651356425
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Was isch jetz los, mille de bongre! e Revolution! cru tonnerre, do möcht i au derbi sin! 
+(er trinkt das Glas leer)
+ Vive la liberté, égalité, fraternité! 
+(schhenkt wieder ein)
+ haw-i denn kenn alti Flint oder — halt, i hab noch e alter rostiger Sawel, jetz gilt's 's Vaterland ge vertheidige! vaincre ou mourir! cré mille de bible 
+(steht auf die Zehen und schaut hinaus)
+ Sie kumme, d'Schandarme, o jerum.
+
+        
+",70,kleisecker-dr-schnider-von-gambse,95,8,0.0842105263157894,0.4487732827630014,0.1953692768023308,1.2955074698469513,0.2770918713581111,1.288837863467449,0.4738326552396417,0.496359664741372,0.3648895097514554,0.5409943791089711,0.196003307563285,1.0979659169160274
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Witt de glich 's Mül halte mit dem Gebrülls, wenn d'Schandarme in der Näh sin, schnell in dini Kütsch! Do bisch am sicherste uffg'hebt. Großer Gott, was isch des for e Spektakel g'sin. 
+(Georg geht an den Wagen, Therese wirft ihn hinein)
+ furt mit dem Speckmesser un lüj do, au fascht aller Schnapps isch weg! Do hesch du d'Glegeheit pofitiert, drum bischte au so kuraschiert, wenn de redde solsch, ze stehsch do, wie dr Hans im Dreck.
+
+        
+",71,kleisecker-dr-schnider-von-gambse,97,7,0.0721649484536082,0.4739768455748344,0.1907119500262622,1.4000858820921758,0.36407401980049,1.4028031823582237,0.569542460206564,0.4975371168993055,0.4001799419687578,0.6460721413281354,0.2008357232473521,1.2238386722390957
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Still! ich hör Litt kumme.
+
+        
+",72,kleisecker-dr-schnider-von-gambse,9,2,0.2222222222222222,0.4739768455748344,0.3758028868393697,1.5242827539815202,0.36407401980049,1.5401707329205112,0.569542460206564,0.4975371168993055,0.4001799419687578,0.6460721413281354,0.2008357232473521,1.372310148575682
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+(stürzt herein)
+
+          
+Oh! ces filous, ces canailles! va bongre, de bongre! Madame, parlez-vous le français, hé!
+
+        
+",72,kleisecker-dr-schnider-von-gambse,28,2,0.0714285714285714,0.4229680616266139,0.3758028868393697,1.3605708824703655,0.3421454021290376,1.2448665429056442,0.5027122403305118,0.4560068621825843,0.3214844889173125,0.5575992232525133,0.2008357232473521,1.1170678347403704
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+'s isch m'r liewer, Ihr redde ditsch mit mir? Was welle Ihr! Worum Ihr jetz grad zu uns dorin renne. Ihr han drüße e Höllespektakel angestift. Was welle Ihr dobin ?
+
+        
+",72,kleisecker-dr-schnider-von-gambse,38,2,0.0526315789473684,0.1195243705079754,0.3758028868393697,1.1118330829373613,0.186869554599503,1.2275646175034842,0.1405700016553355,0.4070069199712343,0.0847962303912389,0.1893413862870817,0.5318787391689255,1.3575034908572654
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Ah, sapristi! Ich nix kann viel ditsch, ich üs Frankreich kumme, ce gendarme, les gendarmes, cré diable, gann Sie nit mich verstecke; ich ihm donne viel beaucoup d'argents.
+
+        
+",73,kleisecker-dr-schnider-von-gambse,40,2,0.05,0.0546617034610582,0.432059542983501,1.0206951095835328,0.1466346551730489,1.1146393725883317,0.1405700016553355,0.3302724469905045,0.0847962303912389,0.1293080666771143,0.4099242597096837,1.2525405154134668
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Verstecke! Au weh! Bi uns will alles sich ver- stecke! Non, do wurd jetzt kenn Versteckles meh g'spielt, i hab jetz genue for hitt. ?
+
+        
+",73,kleisecker-dr-schnider-von-gambse,34,1,0.0294117647058823,0.53837445495896,0.3701818736262149,1.4964974410121463,0.4559000703695024,1.1596144090464104,0.5692426510569568,0.2789237867712911,0.7574172185779704,0.0,0.3310430159215731,1.238098994748173
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Dummes paysanne ! oh misère ! ils viennent! Sie komm.
+
+        
+",73,kleisecker-dr-schnider-von-gambse,14,1,0.0714285714285714,0.53837445495896,0.1850909368131074,1.3723005691228018,0.4559000703695024,1.022246858484123,0.5692426510569569,0.2789237867712911,0.7574172185779704,0.0,0.3310430159215731,1.089627518411587
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Mahlberg! Sie bleiben hier an der Türe stehen, damit die aufgeregten Bauern in ihrem Zorn nicht hereindringen. Das war ja ein Höllenspektakel. Mein Herr! Sie werden uns begleiten. Wir sehen ein, daß Sie zwar nicht schuld sind, an dem Auflauf des Bolkes, aber nachdem die Hauptschreier hinter Schloß und Riegel sind, müssen Sie ebenfalls verhört werden. Also vorwärts auf's Gemeinde- haus.
+
+        
+",74,kleisecker-dr-schnider-von-gambse,77,11,0.1428571428571428,0.6719259717480642,0.1850909368131074,1.5779417402138716,0.6992598247349309,1.2425916482046286,0.7662768014963124,0.1663003575663288,0.9931300135421844,0.0,0.4687980588840755,1.2409869562964586
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean :
+
+          
+Permission! Brigadier ! macht Sie, s’il vous plait in dis Hüs ici d' Procés-verbal, ich will nit gehn mit Sie in Mairie, denn ces paysans là wild und bös und ordinair, mich gehn schlag tot, ah ces brigants, ich ganz welle alles expliziere sur mon personalité, glaub Sie, ich sein un honnette homme, un guet Mann, kein filou.
+
+        
+",75,kleisecker-dr-schnider-von-gambse,73,11,0.1506849315068493,0.8050984506308867,0.228609397773005,1.6657259241077154,0.8096874807898496,1.2054620156318552,0.9287005651555088,0.2579220045394629,1.1090508390211833,0.0605007322429105,0.2174933948361044,1.09537281796273
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Nun so wollen wir denn hier das Protokoll auffetzen, der das ganze Dorf auf die Beine bringt.
+
+        
+",76,kleisecker-dr-schnider-von-gambse,21,1,0.0476190476190476,0.8050984506308867,0.0435184609598976,1.935962450052376,0.8096874807898496,1.6819254446351095,0.9287005651555088,0.6226695163069483,1.1090508390211833,0.0605007322429105,0.2174933948361044,1.687949794805213
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Nur ruhig, Frau Lügenbühler, die Angelegen- heit mit Ihrem Mann kommt nachher. 
+(Er ist noch nicht.)
+ zu finden, desto schlimmer.
+
+        
+",76,kleisecker-dr-schnider-von-gambse,31,2,0.064516129032258,0.2667239956719267,0.0435184609598976,1.4049634993459204,0.3537874104203471,1.689160118019989,0.359457914098552,0.8374420900115318,0.3516336204432128,0.0605007322429105,0.2174933948361044,1.7567881935151726
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Also Sie sind hier fremd ?
+
+        
+",76,kleisecker-dr-schnider-von-gambse,8,1,0.125,0.6190352791139232,0.0435184609598976,2.1149079889405176,0.986031828440123,2.0680810150150064,0.8735556479429155,0.8374420900115318,0.9998438065948017,0.0605007322429105,0.2174933948361044,2.0090473299978107
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Lü-schän-bühlär, verflixter Name, der Teufel soll ihn schreiben. Haben Sie noch Verwandte hier. Wollten Sie hier blos durchreisen, oder hier Aufenthalt nehmen! Und warum ?
+
+        
+",77,kleisecker-dr-schnider-von-gambse,33,3,0.0909090909090909,0.485483762324819,0.0435184609598976,1.6612709252992033,0.7426720740746947,1.669041725350676,0.6765214975035598,0.6894693734650825,0.7641310116305873,0.0605007322429105,0.079738351873602,1.611410215908308
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Ich ici in Gambsheim noh hab e Brueder, ich ihm wollt mache e Visite. 
+(Georg quikt, er regt sich merklich)
+
+        
+",77,kleisecker-dr-schnider-von-gambse,27,1,0.037037037037037,0.3523112834419964,0.0,1.3469964295336527,0.632244418019776,1.3327897907000517,0.5140977338443633,0.5978477264919484,0.6482101861515887,0.0,0.0,1.3564708124108376
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Io, jo, lieb's Schorschele, numme ruehig, er kreijt wieder so e Attaque. Schlof, Männele schlof.
+
+        
+",77,kleisecker-dr-schnider-von-gambse,25,2,0.08,0.3523112834419964,0.3226948249055685,1.2107255472386058,0.632244418019776,1.065554481462588,0.5140977338443633,0.6655414855417536,0.6482101861515887,0.0,0.0,1.0681221861156034
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Eh bien, oui, wie ich kumm in des village, wir mache toujours unseri Voyage par velocipèdes, kumm sie e ganzi Bande de gamins und schreit und schmißt mit de pierres so große 
+(macht eine Faust)
+ schmiff mir widder die Rad so grand baquette, schmiß mit de füli Äpf! und crient toujours, ewene! ewene! Scheereschliff, wuethi, abschmiß ! hau! Ah! ces canailles, cette bande de brigants! Was ich hab wohl ma, ich prend mon Revolver, schieß in die Luft, for sie zu verschreck un comme ça isch kumme ce grand trouble, ik nit sin coupable non! Glaube Sie mir Brigadier !
+
+        
+",78,kleisecker-dr-schnider-von-gambse,124,15,0.1209677419354838,0.4543113108984901,0.5092920016439397,1.343089369994248,0.6722561400510104,1.1570885621937452,0.645549121866002,0.5853023780454143,0.7263508385856917,0.0689805944410249,0.105643814994089,1.1060879695014605
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+So isch's -g'sin, er saat was wohr isch, Sie hätte ne schier grad tot g’schlawe, die elende Hund. ’s isch e Schand vor ganz Gambse.
+
+        
+",79,kleisecker-dr-schnider-von-gambse,34,7,0.2058823529411764,0.1020000274564936,0.5092920016439397,0.8219956055409549,0.0400117220312343,1.0552276055378162,0.1314513880216387,0.6278710123838391,0.078140652434103,0.0689805944410249,0.2745524437683916,1.141600167264286
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Eh bien! Wie Sie kommen, nehme Sie mon Re- volver, ich retrire in cette maison, fonft hätt mich, die mi- serables massakrier ; ich kann nir derfür, ich sin froh, daß noch vivre kann.
+
+        
+",79,kleisecker-dr-schnider-von-gambse,46,4,0.0869565217391304,0.4401890262232071,0.663772217147774,1.2865502985048547,0.2928758942273842,1.4351725463555278,0.3923339031639858,0.8554198931422222,0.3447505553951625,0.0689805944410249,0.4423649068566632,1.4055980848437584
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Sie haben einen Bruder hier! Wo soll der wohnen und was hat er für ein Geschäft ?
+
+        
+",80,kleisecker-dr-schnider-von-gambse,20,2,0.1,0.4401890262232071,0.663772217147774,1.2865502985048547,0.2928758942273842,1.4351725463555278,0.3923339031639858,0.8554198931422222,0.3447505553951625,0.0689805944410249,0.4423649068566632,1.4055980848437584
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Io, Männele, schlof, blie drunte. Schlof Kindele schlof.
+
+        
+",80,kleisecker-dr-schnider-von-gambse,15,1,0.0666666666666666,0.4401890262232071,0.3410773922422054,1.0283877829658967,0.2928758942273842,1.0885768760274497,0.3923339031639858,0.4229786223249315,0.3447505553951625,0.0689805944410249,0.4423649068566632,0.9528982579599236
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Ruhe jetzt mit dem dumme Geleier!
+
+        
+",80,kleisecker-dr-schnider-von-gambse,9,2,0.2222222222222222,0.3381889987667135,0.1544802155038342,0.653405418105204,0.2528641721961499,0.6570048811567999,0.2608825151423471,0.2701175150968081,0.2666099029610594,0.0,0.3367210918625739,0.5517692518249359
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Er wird unruehig, wenn's euch net paßt, ze gehn uff's Gemeindehüs.
+
+        
+",80,kleisecker-dr-schnider-von-gambse,18,2,0.1111111111111111,0.3381889987667135,0.1544802155038342,0.4645546929638998,0.2528641721961499,0.3799449408177117,0.2608825151423471,0.2275488807583833,0.2666099029610594,0.0,0.1678124630882713,0.2639979175794721
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Weiter, wie heißt Ihr Brueder mit Zunamen ?
+
+        
+",81,kleisecker-dr-schnider-von-gambse,11,1,0.0909090909090909,0.0,0.0,0.0,0.0,0.0,0.0,1.7763568394002506e-16,0.0,0.0,0.0,0.0
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Georg, Georg Lügenbühler, Er mir écrire, er het Schulde et nix d'argent, kayn bezahle nit, wie er nit be- kumme Geld ; er häng sich uff; ich pense, ich will helf. Ich kumm par velocipede a Gambsheim, ich hab beaucoup d’argent; ich will helfe jetz ihm, ish min Brueder ! Bri- gadier, kenne Sie ihn nit.
+
+        
+",81,kleisecker-dr-schnider-von-gambse,75,9,0.12,0.0,0.0411313192918016,0.0275993048642987,0.0,0.0305261223471749,0.0,1.7763568394002506e-16,0.0,0.0,0.0,0.0329936614081299
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+(hervorsteigend)
+ Do isch er, do isch er, juchhe, Jean, Jean, ob, mon frère 
+(fällt ihm um den Hals. Der Wacht- meister und Therese stehen wie versteinert, Therese schlägt die Hände über dem Kopfe zusammen.)
+
+        
+",82,kleisecker-dr-schnider-von-gambse,50,4,0.08,0.0,0.182593481223884,0.3831203363396271,0.0,0.3237630325044741,0.2416957659496607,0.1613474124527844,0.0,0.0,0.161347412452784,0.2977064937055675
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+E Gewitter noch emol, i glaub er isch verruckt, Jerum, jerum, her jerum.
+
+        
+",82,kleisecker-dr-schnider-von-gambse,20,3,0.15,0.1917913666311153,0.3738279039582607,0.6957634813122267,0.0,0.5630345367451811,0.3917739863886985,0.1613474124527844,0.0886987118434029,0.2217467796085073,0.161347412452784,0.3638334498601743
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Ha, ha, ha. So das ist das kranke Bübchen gewesen! Na jetzt nur mit, haha! D'r Spaß ist köstlich, aber ein böses Nachspiel wird's geben. Allons, Schneider, geht mit! Die Sache mit Ihnen, Herr Lügenbühler, wird keine schlimmen Folgen haben; bei Ihrer Abreise erhalten Sie Ihren Revolver wieder, vorher nicht, sonst könnte noch ein Unglück geschehen.
+
+        
+",83,kleisecker-dr-schnider-von-gambse,76,10,0.131578947368421,0.2592949482569157,0.4976667598738281,1.0671323318755803,0.0147979625940609,0.8991208921228898,0.5231305489420796,0.2372062770010155,0.2326974690750575,0.2727205311950471,0.2230886531385031,0.66327157963498
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Ah! mon frère Schorsch, Comment Sie welle arre- tier mon bon frère et pourquoi ?
+
+        
+",84,kleisecker-dr-schnider-von-gambse,20,1,0.05,0.903053339080183,0.4976667598738281,1.7686145217610794,0.0147979625940609,1.5471585497932758,1.363911080729051,0.2372062770010155,0.2326974690750575,0.2727205311950471,0.2230886531385031,1.0653691666781284
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Schulden, Steuerrückstände usw., Schwindel!
+
+        
+",85,kleisecker-dr-schnider-von-gambse,10,2,0.2,0.9030533390801828,0.4565354405820264,1.7410152168967803,0.0147979625940609,1.5166324274461007,1.363911080729051,0.2372062770010155,0.2326974690750575,0.2727205311950471,0.2230886531385031,1.032375505269998
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Eh bien ! Ich alles bezahl! Voila! 
+(legt eine Brieftasche auf den Tisch)
+ er het g'holf mir mit Geld von unser parents, ich worre bin un homme comme il faut avec argent viel; ich ihm maintenant auch helf. Brigadier, je vous prie, nit nehme mon frère mit in prisons, ich alles mach guet. Ich alles bezahl, coute que coute, koscht was will.
+
+        
+",85,kleisecker-dr-schnider-von-gambse,78,5,0.0641025641025641,0.9030533390801828,0.3150732786499441,1.5169514104747084,0.0147979625940609,1.3767005628438669,1.2234929233767582,0.0758588645482312,0.2326974690750575,0.2727205311950471,0.0617412406857188,0.8794938897784291
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+(vor Freude hüpfend und springend)
+
+          
+Juchhe! So isch's, oh mon frère, Jean, merci beaucoup! Oh wie dank ich Dir! Theres, Sisch, ich hab Dir als g'saat, der alt Gott lebt noch un min Brueder isch nit undankbar, er ifch e Ehre mann. Do isch er jetzt, gelt dis isch e Mann, ah bongre ! Geh nur glich nüs un rischt en-Esse was d'Küch un Keller uffdresche kann. Ich mueß ebs druff gen, mim Brueder ze Ehre. Ah bongre. Juchhe. 
+(springt)
+
+        
+",86,kleisecker-dr-schnider-von-gambse,106,12,0.1132075471698113,0.7112619724490676,0.1918727141979561,1.4339394746434475,0.0147979625940609,1.4798259770970934,1.0804249485363937,0.2719035167540107,0.1439987572316546,0.0509737515865397,0.1455540340246193,1.152981836757487
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Ich weiß in der Tat nicht mehr, wo mir der Kopf steht, von allem dem, was ich heute hier erlebt babe; glaube aber, daß unter den jetzigen Umständen eine Ber- haftung des Herrn Schneidermeisters Lügenbühler wohl unterbleiben kann, das Weitere wird Ihnen vom Amtsgericht zugehn.
+
+        
+",87,kleisecker-dr-schnider-von-gambse,55,5,0.0909090909090909,0.6437583908232672,0.1557774396650618,1.2815041351357883,0.0,1.5614136079751235,0.9490683859830124,0.3213598976792056,0.0,0.05017191729192,0.472607473043093,1.3496301527736294
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Wir bezahle tout! tout! Eh Brigadier! kann ich Sie invetiere pour ce soir, sie zu trinke une bouteille de Champagne, vous êtes un brave-homme. 
+(schüttelt ihm die Hand)
+ Wenn Sie nit wäre kumme, ces canailles mich hätt g' schlaa tot.
+
+        
+",88,kleisecker-dr-schnider-von-gambse,52,4,0.0769230769230769,0.0,0.2483229080716155,0.806441912511532,0.0,1.1736910325297123,0.2348848649427505,0.3213598976792056,0.0,0.05017191729192,0.472607473043093,1.1615573249061095
+comedy,Therese,F,,,,"
+          
+Wachtmeister :
+
+          
+Wir haben unsere Pflicht gethan. — Also jetzt will ich fort meinen Rapport abgeben. Auf Wiedersehen. Mahlberg! fort, kommen Sie 
+(ab)
+
+        
+",89,kleisecker-dr-schnider-von-gambse,30,2,0.0666666666666666,0.0,0.2483229080716155,0.9727432281647492,0.0,1.407810079867021,0.2348848649427505,0.3213598976792056,0.0,0.05017191729192,0.721590631202813,1.407273710132004
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean :
+
+          
+Au revoir! Brigadier, au revoir, gut Abend!
+
+        
+",89,kleisecker-dr-schnider-von-gambse,13,2,0.1538461538461538,0.0,0.2483229080716155,1.1699290657446333,0.0,1.6377676481996182,0.3868012778388022,0.3213598976792056,0.0,0.05017191729192,0.721590631202813,1.575020535340807
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Eh hien, min liewer Schorsch ! Dis isch Dini Madam !
+
+        
+",90,kleisecker-dr-schnider-von-gambse,14,4,0.2857142857142857,0.0,0.1802890497892267,0.9402978566032946,0.0,1.2953707297056845,0.379791032240129,0.1253152454734262,0.0,0.05017191729192,0.6377778378639125,1.2354056322071425
+comedy,Therese,F,,,,"
+          
+Therese :
+
+          
+Ze diene! Es macht, m'r Freid! so e flotte Herr als Schwöjer kenne ze lehre; Un b'sunders, will er grad zur rechte Zitt kumme isch, um e Unglück ze verhüete.
+
+        
+",90,kleisecker-dr-schnider-von-gambse,39,11,0.282051282051282,0.0490767625715688,0.1639380405336739,1.0086883633848938,0.052009432017191,1.286182750267567,0.4208084464116718,1.7763568394002506e-16,0.0390025500157867,0.0,0.4596954319946352,1.1265993244607375
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Glück het er in's Hüs gebrocht! Juchhe, ich wur ganz verruckt 
+(rennt umher. Jean lacht. Der Schneider rennt gegen den eintretenden Schreinermartin.)
+
+        
+",90,kleisecker-dr-schnider-von-gambse,32,6,0.1875,0.0490767625715688,0.0713925721271202,0.8359737830881236,0.052009432017191,1.109445860126169,0.294211435664962,0.0496634067281624,0.0390025500157867,0.0,0.4596954319946352,1.0134744742582185
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean :
+
+          
+Maintenant mueß alles lustig sin! toujours lusti!
+
+        
+",91,kleisecker-dr-schnider-von-gambse,11,2,0.1818181818181818,0.0490767625715688,0.0713925721271202,0.6696724674349067,0.052009432017191,0.8753268127888605,0.294211435664962,0.0496634067281624,0.0390025500157867,0.0,0.2107122738349151,0.7677580890323241
+comedy,Martin Tannspahn,M,carpenter,crafts,lower_middle_class,"
+          
+Martin:
+
+          
+Na! Na! Potz Hagelwetter ! Heißt m'r diß schaffe? Wenn krej i denn miner Hochzittsfrack, Schnieder ? he ?
+
+        
+",91,kleisecker-dr-schnider-von-gambse,25,2,0.08,0.4694670284650546,0.0713925721271202,0.8407779159933743,0.052009432017191,0.93740187368255,0.5536755181078555,0.0496634067281624,0.4593928159092725,0.0,0.2107122738349151,0.5237461941716097
+comedy,Therese,F,,,,"
+          
+Therese:
+
+          
+Jetz saa i nix meh, der wurd jetz viel Lust han zum schaffe.
+
+        
+",91,kleisecker-dr-schnider-von-gambse,17,1,0.0588235294117647,0.4694670284650546,0.0713925721271202,0.8407779159933743,0.052009432017191,0.93740187368255,0.5536755181078555,0.0496634067281624,0.4593928159092725,0.0,0.2107122738349151,0.5237461941716097
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Dü kriegsch ne, un wenn i d'ganz Nacht dran schaffe mueß, luej i hab Visite, min Brueder vun Lyon, o was e Freid.
+
+        
+",91,kleisecker-dr-schnider-von-gambse,31,3,0.0967741935483871,0.4203902658934858,0.0,0.6608646720850251,0.0,0.6960722510320839,0.5126581039363127,0.148990220184487,0.4203902658934858,0.0,0.0,0.3382658740732864
+comedy,Martin Tannspahn,M,carpenter,crafts,lower_middle_class,"
+          
+Martin:
+
+          
+Bon jour! Euer Brueder isch e braver Mann, awer leider durch allerhand unglückliche Zuefäll e biffele zeruck kumme, awer Gott sei dank, ich kann ihm hit au e kleini unerwarti Freid mache. Er het mir emol in der Not Bürgschaft geleischt for 2000 Franke un het als e Ehre- mann die Summ bezahlt, was ich nit im Stand bin g'sin. Er isch dodurch e armer Mann worre; Hitt kumm ich, zwei Tag vor minnere Hochzitt, um alles in Richtigkeit ze mache! Voila 2000 Mark mit Zinse von fünf Johr. S'wurd alles stimme.
+
+        
+",92,kleisecker-dr-schnider-von-gambse,109,21,0.1926605504587156,0.4659799535768035,0.0812733663283872,0.943115897941506,0.0565897978891917,1.0514056046841105,0.5780933959854808,0.3496257065794302,0.5031120711803693,0.0225822719709228,0.0861689245606858,0.6866262450262455
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+Theres ! hebs uff, so viel Glück macht mi gan des parat! Hebs uff! un rischt e Esse, un grand diner! Martin, Dü bisch invitiert un au dr Toni un die zwei Gendarme un Sie alle, ihr Herre un Dame. Der alt Gott lebt noch! Er verloßt en ehrliche Mann net, deß steht fest. Theres, daß D' mir nie mehr verzagsch: also, jeht numme dr Hochzitts- M fertig gemacht. Nochher am Owe gitts glich au e flott's Effe.
+
+        
+",93,kleisecker-dr-schnider-von-gambse,98,14,0.1428571428571428,0.4659799535768035,0.1658860068509631,1.1628206665485528,0.0565897978891917,1.3136790326257333,0.5841021779272008,0.4881509125706241,0.5031120711803693,0.1004125704506289,0.2024296237154557,0.9505903684635888
+comedy,Martin Tannspahn,M,carpenter,crafts,lower_middle_class,"
+          
+Martin:
+
+          
+Und ich lad Euch alli zue der Hochzitt un do welle m'r uff's neje d'Frindschaft hoch lewe lon, d'Frindschaft unter brave Handwerkslitt, wo statt enander ze beniede, enander helfe, wo sie kenne.
+
+        
+",94,kleisecker-dr-schnider-von-gambse,42,10,0.238095238095238,0.1448776373658216,0.2871279388458229,0.8880388497254043,0.0919070242135107,1.109375153818052,0.1831746444237613,0.6008372748726991,0.1425467598757751,0.2033831877709499,0.3478041481379249,1.1843537137411655
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean :
+
+          
+C'est bien! c'est bien! Dis will ich meine! mon idée tout mon opinion.
+
+        
+",95,kleisecker-dr-schnider-von-gambse,19,1,0.0526315789473684,0.1448776373658216,0.2871279388458229,0.8880388497254043,0.0919070242135107,1.109375153818052,0.1831746444237613,0.6008372748726991,0.1425467598757751,0.2033831877709499,0.3478041481379249,1.1843537137411655
+comedy,Martin Tannspahn,M,carpenter,crafts,lower_middle_class,"
+          
+Martin:
+
+          
+Eh bien, un au Sie, Monsieur Jean, kumme zür Hochzitt und unterhalte uns vun Ihre Reise und Erlebnisse.
+
+        
+",95,kleisecker-dr-schnider-von-gambse,24,5,0.2083333333333333,0.1448776373658216,0.3611643135710659,0.9779636187316582,0.0919070242135107,1.1444810909213403,0.1831746444237613,0.6727962504761859,0.1425467598757751,0.2033831877709499,0.3478041481379249,1.2406359886218603
+comedy,Jean Lügenbühler,M,,,,"
+          
+Jean:
+
+          
+Avec plaisir! Monsieur !
+
+        
+",95,kleisecker-dr-schnider-von-gambse,7,1,0.1428571428571428,0.099287949682504,0.2798909472426786,1.3810266730739305,0.0353172263243189,1.4029321069213894,0.1177393523745933,1.307614982142463,0.0598249545888916,0.180800915800027,0.2616352235772388,1.7122253754632228
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+Vor alle Dinge! Dr erst Toast gilt mim Brueder, dem Helfer in der Not, un der zweit alle rechtschaffene Litt, die Ihr Wort halte und Ihre Pflicht erfülle; un wenn alli Luschtbarkeit ze End isch, ze singe m'r alli mitenander, wenn mr heim gehn, das schön Liedel und dis derf nix anders sin als : „Schlof! Kindele schlof !“ 
+(Vorhang fällt)
+ Gesangs-Einlagen zu „In der Kütsch“ oder „Schlof, Kindele schlof“. Refrain : Refrain : Refrain : I. In der Welt passiere doch au Sache, Manchmol trürig, manchmol au zum Lache. tehmt m'r nur e Zittung jetz in d'Hand, Lest m'r Dings, s""isch wirkli intressant. B'sunders gern thue ich mich amüsiere, Hinte die Annonce ze stüdiere, Denn do steckt manchmol e praktischer Sinn Oder au e gueti Lehr noch drinn. Un ’s het alles sin Ursach, ’s het alles sin Grund ’s het alles sin Zitt und 'Shet alles sin Stund. II. I hab do d'Nummer grad vum Samstag z'owe, Liewer Vater Dü, im Himmel drowe! Schlachtfest, Tanz, Konzert un Keglerei, Hahne-, Spate-, Pschorr- un Löwebräu, Uewerall Pläsir un lustig Lewe Awer — d'Zwangsverkaif stehn glich d'newe; Denn Vergnügungsucht füehrt zum Bankrott, Sie stürzt in Schulde un bringt Schand un Spott. Ja! ’s het alles usw. III. Do isch eim e Jagdhund zuegelaufe, Un was isch do nit alles ze verkaufe; Brennholz, Hammelfleisch un altes Zinn, Möbel, Hasepelz und roter Win. Alles, alles kann m'r do hin finde: ges, Salwendichueh, Berliner Flinte ― woll’ne Unterrök und Bairisch Bier E starker Schubkarch un e neus Klavier. Ja! ’s het alles usw. Do isch e Wohnung leer am Schlachthüsstade, Des wär ebs for gewissi Advokate, Ob sie ’s- welle, des isch zwiefelhaft, Awer ’s wär dort guete Nochberschaft ; Denn die wo dort im Chambre garni wohne, Sin akkurat so freisinnige Patrone Die Herre könnte jo vun Zit ze Zit Dort Ihre Brueder mache e Visit. Refrain : Ja! ’s het alles usw. V. Uf dere Sitt do isch e nett's Kapitel, Vereinsvergnuege heißt der lustig Titel, Wer die Vereis"" wott zähle; s'gäb kenn End, In jedem Hüs wohnt jetz e Präsident. Do gibt ’s denn Stiftungsfest' un Fahneweih Konzert un Bäll, Usflüg un Gasterei M'r macht oft furt drei Tag un ganze Nächt Un nochher saat m'r : d'Zitte sin so schlecht. Refrain : Ja! ’s het alles usw. VI. Jo, jo, mir lewe in kuriose zitte, Der Fortschrittsgaul wurd wirkli stark geritte, Un doch gibt's Litt, die meine noch derzue, Das Volk sei noch nit liberal genue. Die Brüeder, wo so flott Ihr Fähnel schwenke, Die solle an de Aubettesaal nur denke, Dort het e liberaler Geist s'letscht g'spuckt, M'r het dort g'sehn wo uns der Stiefel druckt. Refrain : Ja! ’s het alles usw. Lied am Schluß des Stückes. Schlof, Kindele, schlof. Deß gilt dene Brueder, wo bim Win un bim Bier In de Wirtskneipe size bis am Morge am vier; Denn, wenn die ken Dampf han, ze kumt ne ken Schlof. Schlof, Kindele, schlof. Schlof, Kindele, schlof.
+
+        
+",96,kleisecker-dr-schnider-von-gambse,622,70,0.112540192926045,0.1413314782086183,0.2878264142436521,1.55809987664967,0.0635535838789209,1.526629856642676,0.1509148501521841,1.4734902091653956,0.104989246746544,0.1191600584471037,0.2554340656261268,1.930292185469067
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg :
+
+          
+So hab i g'hört singe e strammer Soldat, Wo d'Kinderkutsch g'führt het uf der Esplanade, Na! denk i. Du bisch au e guetmüetig's Schof. Schlof, Kindele, schlof. Schlof, Kindele, schlof.
+
+        
+",97,kleisecker-dr-schnider-von-gambse,44,3,0.0681818181818181,0.0420435285261142,0.1665844822487923,1.489597709972974,0.028236357554602,1.5186962753934683,0.0391842797193104,1.5548766283766864,0.0451642921576523,0.0161894411267827,0.1100595412036576,1.9142862140622925
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+E Mann schwenkt vum Bierhüs zuem.heimische Dach ; ’s schlat eins un sin Frau isch bim Kleinste noch wach ; Jetz poltert er d'Stäy ruf; er het widder en Aff. Schlaf, Kindelein, schlaf. Schlaf, Kindelein, schlaf.
+
+        
+",98,kleisecker-dr-schnider-von-gambse,49,2,0.0408163265306122,0.0420435285261142,0.1665844822487923,2.0476383022969693,0.028236357554602,2.28326842796258,0.0391842797193104,1.7879768431011491,0.0451642921576523,0.0161894411267827,0.438560895571528,2.604272698288284
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+E Burjer wo d'Sundasruehj nit recht versteht, Lejt zitter all’ Sunda bis nyne im Bett; Wenns litt macht er d'Läde uf, er meint, sunsch gäbs trof. Schlof, Kindete, schlof. Schlof, Kindele, schlof.
+
+        
+",99,kleisecker-dr-schnider-von-gambse,47,3,0.0638297872340425,0.0420435285261142,0.0925481075235493,2.1550364726624203,0.028236357554602,2.5367216002753006,0.0391842797193104,1.810763835554703,0.0451642921576523,0.0161894411267827,0.5973596675090926,2.763047746763278
+comedy,Georg Lügenbühler,M,taylor,crafts,lower_middle_class,"
+          
+Georg:
+
+          
+So singt au e Maidel, wo d'Kinderkütsch füehrt Un newe her mit em Ulan dischkerirt; Drum wünscht sie dem Kindel g'segnete Schlof. Schlof, Kindele, schlof. Schlof, Kindele, schlof. : So ruef ich Euch, Dame un Herre jetz zue Un wünsch Euch guet Nacht un e angenehm' Rueh ; Daß er träume vum Schnieder, un singe im Schlof. Schlof, Kindele, schlof. Schlof, Kindele, schlof.
+
+        
+",100,kleisecker-dr-schnider-von-gambse,84,10,0.119047619047619,0.0420435285261142,0.0925481075235493,1.459068825294526,0.028236357554602,1.8909098965190905,0.0391842797193104,0.9896784065785248,0.0451642921576523,0.0161894411267827,0.5973596675090926,1.940762538837467

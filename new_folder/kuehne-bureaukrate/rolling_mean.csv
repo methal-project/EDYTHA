@@ -1,0 +1,2173 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(liest Zeitung)
+
+          
+",1,kuehne-bureaukrate,6,1,0.1666666666666666,,,,,,,,,,,
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(rechnet eifrig.)
+
+          
+",1,kuehne-bureaukrate,7,1,0.1428571428571428,,,,,,,,,,,
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+(starrt in die Luft und trämut ; das Schweigen dauert etwa eine Minute, fällt schliesslich
+            Frei auf ; er beugt den Kopf leicht um den Aufsatz seines Pultes herum, gewahrt das Idyll, nimmt eine
+            Zitronen- oder Orangenschale und wirft sie über das Pult Dindeschleckers hinweg, auf Frisch's
+            Zeitung. Worauf er eifriges Schreiben markiert.)
+
+          
+",2,kuehne-bureaukrate,65,6,0.0923076923076923,,,,,,,,,,,
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(fährt auf)
+
+            
+Ninevierzig noch emol ! Jetz stecke mr emol die Fisik uff, Babbe Dindeschlecker ! Nit emol riehwig
+            sinne Zitung lase ka mr im Dienscht ! 
+            
+(nimmt die Schale und wirft sie über den Aufsatz Dindeschleckers hinweg, diesem gerade auf
+            seine Arbeit.)
+
+          
+",3,kuehne-bureaukrate,52,6,0.1153846153846153,,,,,,,,,,,
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(gemütlich)
+
+            
+Allons, allons ! 
+            
+(wirft die Schale in den Papierkorb.)
+
+          
+",4,kuehne-bureaukrate,18,1,0.0555555555555555,0.0,0.8664248689143612,1.7722587979161264,0.0,1.4919233318731029,0.0,0.8097981438912412,0.0,0.407330301285094,0.6836531839766256,1.6844627083321662
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+(nimmt eine weitere Schale und wirft sie an die Zimmerdecke, derart, dass sie zurückfallend
+            auf Dindeschleckers Arbeit fällt.)
+
+          
+",4,kuehne-bureaukrate,25,2,0.08,0.0,0.8664248689143612,1.515960075996068,0.0,1.3142503025683638,0.0,1.0295880624590326,0.0,0.407330301285094,0.8816799500362199,1.5706016597729646
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(gemütlich)
+
+            
+Allons, allons, Herr Frisch, wenn Sie's salwer nit verputze kenne, wurum warfe Sie mir so Dings a!
+            
+            
+(wirft die Schale weg.)
+
+          
+",5,kuehne-bureaukrate,35,5,0.1428571428571428,0.0095595257653064,0.1219936286347068,1.1137413279548831,0.0236472479457579,1.247356216496841,0.3015185880508472,0.6095539301909361,0.1346390334601614,0.1660331382541626,0.4620624541390534,1.2992320191400968
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Was? Ich?
+
+          
+",5,kuehne-bureaukrate,6,1,0.1666666666666666,0.0095595257653064,0.0,1.132483077192893,0.0236472479457579,1.181811021501928,0.3015185880508472,0.3165007054338808,0.1346390334601614,0.1660331382541626,0.1980267660595943,1.1416007273470108
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+Am And gar ich, hm ?
+
+          
+",5,kuehne-bureaukrate,9,1,0.1111111111111111,0.0095595257653064,0.0,1.3199861292030055,0.0236472479457579,1.434230922923449,0.3015185880508472,0.6593697557033743,0.1346390334601614,0.1660331382541626,0.594080298178783,1.4994197831625486
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Egal wer ! Ich will minne Rüehj ha! Einer von Euich isch's sicher, wu so Fisik tribt ; wenn's jetz
+            nit uffheert, pack i eifach dr eint un verhaui dr ander drmit, drno isch dr Richtig scho drbi, soviel
+            weiss i drno wenigschtens.
+
+          
+",6,kuehne-bureaukrate,53,6,0.1132075471698113,0.0095595257653064,0.0,1.5919965362971653,0.0236472479457579,1.8414530380152327,0.3015185880508472,0.7997637094411572,0.1346390334601614,0.1660331382541626,0.8826018910184331,1.977973052354623
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+Dü verstehsch awer o gar kä Spass !
+
+          
+",6,kuehne-bureaukrate,10,2,0.2,0.0095595257653064,0.2819207257662842,2.0134758028967745,0.0236472479457579,2.1635847017266565,0.3015185880508472,1.1812700962074645,0.1346390334601614,0.1660331382541626,0.8826018910184329,2.4222089968231955
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Spass hin, Spass har! Ich bin gwis e dummer Teuifel, awer alles wird eim emol z'güet - halt nei: E
+            gueter Teuifel awer alles wird eim z'dumm mit dr Zit : Wenn i schaff, hann i nix drgege, wenn
+            Dummheite g'macht ware, awer wenn i Zittung lies, drno mecht i minne Rüehj ha!
+
+          
+",7,kuehne-bureaukrate,66,16,0.2424242424242424,0.0255060306998714,0.4228810886494264,1.9418610710920652,0.0,2.055028624204817,0.030328272408083,1.4012619484169058,0.0348921716758144,0.0,0.9344872467228588,2.487089706232652
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(tritt ein)
+
+            
+Messieurs, jetz awer gmietlig, dr Alt müess glich kumme, ich mein, ich heer ne scho !
+
+          
+",8,kuehne-bureaukrate,26,3,0.1153846153846153,0.0255060306998714,0.5711003859812184,1.6169149468782265,0.0,1.7701632530467015,0.030328272408083,1.4012619484169058,0.0348921716758144,0.0,0.9344872467228588,2.217741949220552
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+( im leichten Staubmantel, tritt ein, bleibt jedoch hinter der geöffneten Tür stehen. Im
+            Tonfalle Linsespalter's :)
+
+            
+Bonjour Messieurs ! Tout le monde est là, personne ne manque ?
+
+          
+",8,kuehne-bureaukrate,37,1,0.027027027027027,0.0255060306998714,0.5711003859812184,1.2807084786598009,0.0,1.3357729637592668,0.030328272408083,0.9616821112813227,0.0348921716758144,0.0,0.5384337146036702,1.6689790621729188
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(wirft schnell die Zeitung in den Papierkorb ; Hasepfeffer kichernd ab.)
+
+          
+",9,kuehne-bureaukrate,16,3,0.1875,0.0255060306998714,0.5711003859812184,1.4265066519855822,0.0,1.2090019938978431,0.030328272408083,1.1185643633585354,0.0348921716758144,0.0,0.2499121217640202,1.657082874232699
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+(tritt lachend vollends herein)
+
+          
+",9,kuehne-bureaukrate,8,2,0.25,0.0255060306998714,0.2891796602149342,0.8369241512767605,0.0,0.6696751855427019,0.030328272408083,0.5172680580244371,0.0348921716758144,0.0,0.0518853557044258,0.93846548624031
+comedy,alle,M,,,,"
+            
+Alle :
+
+            
+(durcheinander)
+
+            
+So ne Hanswurscht ! E so ne Kamel ! Alle Morge d'gliche Fisik im Schadel.
+
+          
+",9,kuehne-bureaukrate,22,2,0.0909090909090909,0.0,0.2909575523646004,0.8761299232479468,0.0,0.5566881136404878,0.0713691275164041,0.5307959910486699,0.0,0.2009754630861941,4.440892098500626e-17,0.8680872205658299
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+(mit seiner wirklichen Stimme)
+
+            
+Un alle Morge falle Ihr prompt uff dr gliche Schwindel inne ! 
+            
+(auf seinen Platz deutend, im Tonfall Linsespalters)
+ C'est vraiment étonnant ! Toujours
+            quand je suis là, il n'est pas ici et quand je suis ici, il n'est pas là ! 
+            
+(die andern lachen)
+ C'est pourtant déjà 8 heures 40 !
+
+          
+",10,kuehne-bureaukrate,69,6,0.0869565217391304,0.0,0.1427382550328083,0.8546438483026157,0.0,0.5628443363913185,0.0713691275164041,0.6275067779147593,0.0,0.2009754630861941,4.440892098500626e-17,0.87542923471317
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(tritt hastig ein)
+
+            
+Achtung, Ihr Herre! Jetz kummtr wirklig!
+
+          
+",11,kuehne-bureaukrate,16,3,0.1875,0.0,0.1427382550328083,0.8546438483026157,0.0,0.5628443363913185,0.0713691275164041,0.6275067779147593,0.0,0.2009754630861941,4.440892098500626e-17,0.87542923471317
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(tritt schnell ein)
+
+            
+Bonjour, Messieurs ! Tout le monde est là, personne ne manque ?
+
+          
+",12,kuehne-bureaukrate,21,1,0.0476190476190476,0.0,0.1427382550328083,0.436835267882675,0.0,0.2823931911609584,0.0713691275164041,0.3302305720997637,0.0,0.2009754630861941,4.440892098500626e-17,0.4087721534613154
+comedy,alle,M,,,,"
+            
+Alle :
+
+            
+(während Fröhlich eiligst den Hut; an den Nagel hängt, sich auf den leeren Platz setzt und die
+            Feder zur Hand nimmt)
+
+            
+Bonjour Monsieur Linsespalter !
+
+          
+",12,kuehne-bureaukrate,31,2,0.064516129032258,0.0,0.1427382550328083,0.436835267882675,0.0,0.2823931911609584,0.0713691275164041,0.3302305720997637,0.0,0.2009754630861941,4.440892098500626e-17,0.4087721534613154
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(will in sein Zimmer gehen, stutzt)
+
+            
+Sie hann jo dr Mantel noch a, Monsieur Fröhlich? Sinn Sie jetzt erscht kumme ?
+
+          
+",13,kuehne-bureaukrate,28,2,0.0714285714285714,0.0,0.2223289459976881,0.2271535045932497,0.0,0.2811632297266822,0.0,0.0967107868660893,0.0,0.0,4.440892098500626e-17,0.3045788518246376
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Nei, nei, Monsieur Linsespalter, ich bin scho sitter am achte do! S'isch m'r numme e bizzi
+            z'frisch gsi, do inne !
+
+          
+",13,kuehne-bureaukrate,30,2,0.0666666666666666,0.0,0.2223289459976881,0.3613847257377841,0.0,0.3624382911597389,0.0,0.0,0.0,0.0,4.440892098500626e-17,0.3724633486478875
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Doch, doch, s'isch so ! Lüege Se, ich schrieb jo scho'ne ganze Zit lang ! 
+            
+(er kritzelt schnell einige Buchstaben auf's Papier und zeigt es Linsespalter)
+ S'isch
+            jo noch nass, sahn Se ! 
+            
+(wischt mit der Hand darüber)
+
+          
+",14,kuehne-bureaukrate,51,5,0.0980392156862745,0.0,0.2223289459976881,0.451780140398355,0.0,0.503114781117324,0.0,0.0835920658688977,0.0,0.0,4.440892098500626e-17,0.5422952710371974
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(streng)
+
+            
+Ich weiss Bscheid! Sage Sie mir kurz un bindig, worum Sie hit scho widder 3/4 Stund z'spot sinn
+            !
+
+          
+",15,kuehne-bureaukrate,27,2,0.074074074074074,0.0,0.2223289459976881,0.451780140398355,0.0,0.503114781117324,0.0,0.0835920658688977,0.0,0.0,4.440892098500626e-17,0.5422952710371974
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Après vous M. le Chef !
+
+          
+",15,kuehne-bureaukrate,8,2,0.25,0.0,0.2223289459976881,0.6344865009372146,0.0,0.7948504174343187,0.0,0.0835920658688977,0.0,0.0,0.2221684552841329,0.7517136884331992
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Reschpektiere Sie mi Grad !
+
+          
+",16,kuehne-bureaukrate,7,1,0.1428571428571428,0.0,0.0,0.8644013359089258,0.0,1.2548107945990008,0.0,0.0835920658688977,0.0,0.0,0.7762669379511865,1.2438165101449414
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Garn !
+
+            
+(einlenkend)
+
+            
+Awer sahn Sie, Monsieur Linsespalter, das mien Sie doch versteh kenne, dass mr sich emol
+            vrschloft, bsundersch, wenn mr e so ne unriehwige Nacht g'ha hat wie ich! Minne Fraui hat hinicht e
+            Kindbett g'ha!
+
+          
+",16,kuehne-bureaukrate,49,4,0.0816326530612244,0.0,0.1829904429520603,0.9446444441569228,0.0,1.4416932215782878,0.0,0.3288163880152625,0.0,0.0,0.9838083607688898,1.5201535090835772
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+(trocken)
+
+            
+O, quant à cela ! Ich dank, das se noch mankmol eins wird ha ..... Vor 3 Wuche hat se sich erscht
+            als Hewamm etabliert.
+
+          
+",17,kuehne-bureaukrate,33,3,0.0909090909090909,0.0,0.3375283937342475,1.0712111771462205,0.0,1.4734445437003352,0.0,0.3548473020115615,0.0,0.0,1.1950609782174462,1.552438955820724
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Uff alle Fall därf das kä Grund si fir Sie, alle Tag z'spot z'ku ! Vous rattraperez le temps ... 
+            
+(ab nach links)
+
+          
+",18,kuehne-bureaukrate,30,5,0.1666666666666666,0.0733155902437638,0.4517189977604942,1.4006095311075688,0.0,1.803136610176113,0.1117903322577762,0.4709002462508688,0.0,0.0,1.1950609782174462,1.866159122251204
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Oui, Monsieur ! 
+            
+(leiser)
+... le 31 février !
+
+          
+",18,kuehne-bureaukrate,14,1,0.0714285714285714,0.0733155902437638,0.4517189977604942,1.2179031705687091,0.0,1.5114009738591183,0.1117903322577762,0.4709002462508688,0.0,0.0,0.9728925229333134,1.656740704855202
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Ja, ja, die güete, alte Zitte. Zu minnre Zit, do isch's noch gmietliger gsi, do isch's noch
+            gmietliger zuegange uff dr Administration ! Wu'n ich noch in Paris gsi bin, uff'm ministère des
+            décorations, do sinn die Herre kumme un gange, wie se hann welle un kä Mensch hat e Starweswärtle
+            drzüe gsait! Awer hit-ze-tags ! .....
+
+          
+",19,kuehne-bureaukrate,72,10,0.1388888888888889,0.0733155902437638,0.4961847869600319,1.2564245124692126,0.0,1.3355367716334436,0.1117903322577762,0.9311771021660716,0.0,0.0,0.4187940402662597,1.55435156182972
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+..... Un g'schafft dr zehnte Teil drvu !
+
+          
+",20,kuehne-bureaukrate,10,2,0.2,0.0733155902437638,0.3131943440079715,1.1967233886120945,0.0,1.1979129422491883,0.1117903322577762,0.91880123761137,0.0,0.0,0.2112526174485564,1.3666041142706562
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(dringender, immer aus seinem Bureau)
+
+            
+Hasepfeffer ! ! Ha-se-pfeffer ! ! !
+
+          
+",20,kuehne-bureaukrate,17,1,0.0588235294117647,0.0733155902437638,0.1586563932257843,0.9797612409622256,0.0,1.025485130169556,0.1117903322577762,0.8091782577461732,0.0,0.0,8.881784197001253e-17,1.1644867451441996
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Ha jo ! Ich kumm scho ! 
+            
+(will links ab)
+
+          
+",20,kuehne-bureaukrate,14,1,0.0714285714285714,0.0,0.0444657891995376,0.6503628870008772,0.0,0.695793063693778,0.0,0.693125313506866,0.0,0.0,8.881784197001253e-17,0.85076657871372
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(erscheint unter seiner Tür wütend)
+
+            
+Hasepfeffer, wurum kumme Sie eigetlig nit glich, wenn i rief ?
+
+          
+",21,kuehne-bureaukrate,22,3,0.1363636363636363,0.0,0.1926850865313297,0.7498187188163093,0.0,0.8057958664841186,0.0,0.693125313506866,0.0,0.0,8.881784197001253e-17,0.9696613137846388
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Awer Monsieur le Chef, ich kumm jo scho ! Wu'n ich noch in Paris uff'm ministère des décorations
+            gsi bin, do....
+
+          
+",21,kuehne-bureaukrate,27,3,0.1111111111111111,0.0,0.148219297331792,0.609942548320389,0.0,0.7835039626532727,0.0,0.4262700313238419,0.0,0.0,0.1481123035227553,0.7936913091925198
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(kurz)
+
+            
+Ich kenn das ! .. Do isch's ewe gmietliger züegange! Awer bi uns geht's ewe nit gmietlig züe! Do
+            gehl's sogar arg ungmietlig züe ! Merke Sie sich das !
+
+          
+",22,kuehne-bureaukrate,40,2,0.05,0.0,0.148219297331792,0.3771995859148746,0.0,0.5368112780840131,0.0,0.1934215737321787,0.0,0.0,0.1481123035227553,0.5109805117714386
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Oui, Monsieur le Chef !
+
+          
+",23,kuehne-bureaukrate,8,1,0.125,0.0,0.148219297331792,0.7426123069925938,0.0,1.1202825507180028,0.0,0.1934215737321787,0.0,0.0,0.592449214091021,0.9298173465634422
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Wurum Sie bi mir dr Bode nit gfajt hann ? — Un sage Sie nit « hä » zue ihrem Chef !
+
+          
+",23,kuehne-bureaukrate,24,1,0.0416666666666666,0.0,0.148219297331792,1.108025028070313,0.0,1.7037538233519924,0.0,0.1934215737321787,0.0,0.0,1.0367861246592869,1.3486541813554458
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Oui, Monsieur le Chef !
+
+          
+",23,kuehne-bureaukrate,8,1,0.125,0.0,0.0,1.3739819173326002,0.0,2.177222293195641,0.0,0.1934215737321787,0.0,0.0,1.4811230352275524,1.648596281076531
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Oui, Monsieur le Chef .....
+
+          
+",23,kuehne-bureaukrate,8,1,0.125,0.0,0.0,1.4616508843108769,0.0,2.3338850905359587,0.0,0.0,0.0,0.0,1.7773476422730627,1.6753473391680145
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Oui, Monsieur le Chef !
+
+          
+",23,kuehne-bureaukrate,8,1,0.125,0.0,0.0,1.827063605388596,0.0,2.917356363169948,0.0,0.0,0.0,0.0,2.221684552841329,2.094184173960018
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Un putze mir dr Bode uff !
+
+          
+",24,kuehne-bureaukrate,9,2,0.2222222222222222,0.0,0.0,1.6955601549211807,0.0,2.6823621671594724,0.0,0.2901323605982681,0.0,0.0,1.7773476422730632,2.0540575868227924
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Oui, Monsieur le Chef !
+
+          
+",24,kuehne-bureaukrate,8,1,0.125,0.0,0.0,1.6955601549211807,0.0,2.6823621671594724,0.0,0.2901323605982681,0.0,0.0,1.7773476422730627,2.0540575868227924
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(aufgebracht)
+
+            
+Sage Sie nit immer « Oui, Monsieur le Chef! »
+
+          
+",24,kuehne-bureaukrate,17,1,0.0588235294117647,0.0,0.0,1.6955601549211807,0.0,2.6823621671594724,0.0,0.2901323605982681,0.0,0.0,1.7773476422730632,2.0540575868227924
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Non, Monsieur le Chef !
+
+          
+",24,kuehne-bureaukrate,8,1,0.125,0.0,0.0,1.6955601549211807,0.0,2.6823621671594724,0.0,0.2901323605982681,0.0,0.0,1.7773476422730627,2.0540575868227924
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+..... un mache sie ringer Ihre Arbeit besser ! 
+            
+(ab)
+
+          
+",24,kuehne-bureaukrate,14,1,0.0714285714285714,0.0,0.0,1.3301474338434611,0.0,2.098890894525483,0.0,0.2901323605982681,0.0,0.0,1.3330107317047972,1.6352207520307886
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Non, Monsieur le Chef! ..... Eh... eh ... Oui Monsieur le Chef ! ..... Nundebibbl noch emol, isch
+            das e Behandlung, wu m'r im e alte, im Dienscht graui gwordene Beamte z'Teil warde losst? ! Züe
+            minnre Zit, wu'n ich noch in Paris gsi bin, am ministère des décorations .....
+
+          
+",25,kuehne-bureaukrate,62,8,0.1290322580645161,0.0,0.361227711572103,1.6651994406943031,0.0,2.5189649597196797,0.0,0.3697690297444406,0.0,0.0,1.9386740663461512,2.007021936560862
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(klopft ihm begütigend auf die Schultern)
+
+            
+Ja, ja, Hasepfeffer, do isch's noch gmietliger zuegange ! Zu minnre Zit ewefalls ! Ich bsinn mi
+            noch ganz guet ! Sallemols, wu'n ich als junger Dachs in das bâtiment kumme bin, hat mich mi Chef ab
+            d'Sitte gnumme un hat gsait : « Dindeschlecker, » hat'r gsait, sait'r, « merke Euich eins güet :
+            Rachts wenn'r üs'm Kaschte kumme, isch e Wirtschaft, dert git's 'sbeschte Bier un vis-à-vis in sallre
+            Metzge d'beschte Groschewirschtle ! Merke Euich das güet, schriewe's Euich hinter d'Ohre, sodass'r 's
+            z'Nacht, wenn mr Euich üs'm tiefschte Schlof tat schittle, fählerlos harsage kennte - grad wie's
+            Vaterunser ! S'andre lehre-n-Ihr drno alles naweszue mit dr Zit! » Un eso, Hasepfeffer, isch's
+            g'halte worde, ich ha alles andre no-z'no o kapiert un bin uff die Art e brüchbarer Beamter worde
+            !
+
+          
+",26,kuehne-bureaukrate,177,20,0.1129943502824858,0.023180692617328,0.4501592899711782,1.6057413805135354,0.0,2.291474333540201,0.0,0.5304274124198605,0.0,0.0,1.6119654452017549,1.9980281997878069
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+So isch's, Herr Dindeschlecker ! Mir Alte, mir kenne ebbs vrzehle, awer do, die junge Litt, die
+            meine, 's müess alles trapp-trapp gschah, die meine, unsereins hätt vier Hand un an jedre zeh Finger
+            !
+
+          
+",27,kuehne-bureaukrate,46,6,0.1304347826086956,0.0311469640884167,0.4501592899711782,1.2831406071999645,0.0197060399547983,1.7737734363696736,0.0147795299660987,0.5304274124198605,0.0,0.0,1.1676285346334887,1.639851267800422
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+Un was nutzt's? Dr Amtsschimmel galoppiert doch nit schnaller ! Immer langsam vora .....
+
+          
+",28,kuehne-bureaukrate,18,1,0.0555555555555555,0.0311469640884167,0.4501592899711782,0.9177278861222452,0.0197060399547983,1.190302163735684,0.0147795299660987,0.5304274124198605,0.0,0.0,0.7232916240652231,1.2210144330084185
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+..... So kummt m'r am wittschte ! 
+            
+(zieht hinter dem Ofen Schaufel und Besen hervor, die er jedoch sofort hinter seinem Rücken
+            versteckt, wie er hört, dass Linsespalter's Tür geht.)
+
+          
+",28,kuehne-bureaukrate,39,2,0.0512820512820512,0.0311469640884167,0.4501592899711782,1.2175885194831204,0.0197060399547983,1.4065366260784051,0.3139589125148651,0.5304274124198605,0.0,0.0,0.7232916240652231,1.4043080017013485
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(indem er sich umwendet und gegen die Tür rechts geht, Besen und Schaufel aber so hält, dass
+            Linsespalter sie nicht sieht)
+
+            
+Oui, oui, Monsieur le Chef, ich kumm glich, grad hann i gmerkt, dass i Base un Schüfel noch unte
+            an dr Porte hann — ich kumm glich ! 
+            
+(rechts ab.)
+
+          
+",29,kuehne-bureaukrate,65,7,0.1076923076923077,0.0311469640884167,0.0889315783990752,0.7549859997037718,0.0197060399547983,0.8106191776870071,0.3139589125148651,0.1606583826754198,0.0,0.0,0.2602619170289145,0.8094082493893715
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Monsieur Frisch, voilà encore une affaire que vous avez mal traitée! C'est pourtant un cas
+            intéressant!
+
+          
+",30,kuehne-bureaukrate,21,1,0.0476190476190476,0.0079662714710886,0.0,0.8734332948360916,0.0197060399547983,0.8495067051809521,0.3139589125148651,0.0,0.0,0.0,0.1426336276050457,0.7878076434534416
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Soll m'r denn dam alte Invalid d'augmentation vu sinnre Rante nit bewillige ?
+
+          
+",30,kuehne-bureaukrate,16,2,0.125,0.0,0.0,1.0428223250865796,0.0,0.9811704166917172,0.2991793825487663,0.0,0.0,0.0,0.1426336276050457,0.9212689866903322
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Mais bien sûr! Nadirlig soll mr's ihm bewillige, mais dans la forme prescrite, eso wie's
+            d'Dienschtvorschrifte vorschriewe ! Namme Sie emol Ihre Dienschtvorschrifte mit heim z'nacht un
+            stecke Sie d'Nas dri statt Dummheite z'mache ! Wu'n ich noch jung gsi bin wie Sie, wisse Sie, was ich
+            do gmacht hann ?
+
+          
+",31,kuehne-bureaukrate,64,3,0.046875,0.0,0.0,1.0428223250865796,0.0,0.9811704166917172,0.2991793825487663,0.0,0.0,0.0,0.1426336276050457,0.9212689866903322
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(ironisch)
+
+            
+Nei !
+
+          
+",32,kuehne-bureaukrate,7,1,0.1428571428571428,0.0,0.0,1.1673636477549754,0.0,1.159804128297452,0.0,0.0,0.0,0.0,0.1426336276050457,1.1262179100804204
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Uff eigne Koschte, mit minne erschte ersparte Sü hann i mr se alle agschafft ! Fir dass i se immer
+            d'heim hann un se nit brüch uff's Bureau z'ruckbringe am e Morge ! Un am e Sunntig z'mittag, do isch
+            gebiffelt worde, statt Schnackedanz im Kopf z'ha !
+
+          
+",33,kuehne-bureaukrate,58,5,0.0862068965517241,0.0733155902437638,0.0,1.6387965282105104,0.0,1.7707991790644129,0.0795885819223746,0.464211776957229,0.0,0.0,0.1660331382541627,1.7955226147745982
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Ja, was isch denn do latz an dare ordre ?
+
+          
+",34,kuehne-bureaukrate,13,3,0.2307692307692307,0.0733155902437638,0.0,1.5230750229930712,0.0,1.6219852939226134,0.0795885819223746,0.6543542498210526,0.0,0.0,0.1660331382541627,1.72787692225887
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Was latz isch? Alles! Sie schriewe do ganz eifach, dass d'augmentation vu 75 uff 80 Franke im
+            Monet bewilligt isch ! Mais ce n'est pas exact! Ce n'est pas exact ! Wisse Sie denn nit, was in dr
+            Dienschtvorschrift 1279 § 715 bis Absatz 25 steht? Erscht isch d'jetzige Rante ganz z'striche un drno
+            erscht d'neije z'beantrage.
+
+          
+",35,kuehne-bureaukrate,73,6,0.0821917808219178,0.1540102837556448,0.0,1.7180282022904894,0.0669918210287313,2.0391352265355054,0.1079459152555592,0.9851938753177932,0.0,0.0,0.2061901673367261,2.198430308322525
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Wenn awer da Invalid in dr Zwischezit vrhungert, ich mein in dr Zit zwische dr Strichung un dr
+            Neuibewilligung ?
+
+          
+",36,kuehne-bureaukrate,23,3,0.1304347826086956,0.1540102837556448,0.0,1.859495520966913,0.0669918210287313,2.1707579511849904,0.1079459152555592,0.9851938753177932,0.0,0.0,0.2061901673367261,2.327844472350198
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Ganz egal! D'Dienschtvorschrifte welle's eso ha un eso wird's gmacht !
+
+          
+",36,kuehne-bureaukrate,17,2,0.1176470588235294,0.1540102837556448,0.0,1.6249815635654836,0.0669918210287313,2.071400088598458,0.1079459152555592,1.1607905042907818,0.0,0.0,0.2061901673367261,2.2963572865702497
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Drno kummt's awer doch uff eins üsse !
+
+          
+",36,kuehne-bureaukrate,11,2,0.1818181818181818,0.0806946935118809,0.0,1.4933001740530916,0.0669918210287313,1.833682508002927,0.0283573333331845,0.9867110879318208,0.0,0.0,0.0401570290825634,2.044272395699484
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Hann Sie sich um das z'bekimmere ? Um d'Dienschtvorschrifte hann Sie sich z'bekimmere, voilà tout!
+            Un jetz kumme Sie emol mit m'r ! 
+            
+(im Abgehen)
+ as intéres sant, un cas vraiment intéressant, e enorm interessanter Fall !
+            
+            
+(mit Frisch links ab)
+
+          
+",37,kuehne-bureaukrate,54,4,0.074074074074074,0.0806946935118809,0.2539027280316523,1.5443058579212932,0.0669918210287313,1.91929348558072,0.0686095212524365,0.7965686150679974,0.0,0.0,0.0401570290825634,2.043795753676912
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+(ironisch)
+
+            
+Hann'r 's g'heert, Babbe Dindeschlecker, was fir interessante Fall bi uns vorkumme, hann'r 's
+            g'hert ?
+
+          
+",38,kuehne-bureaukrate,24,4,0.1666666666666666,0.0916444878047048,0.3966409830644607,1.4319450077557725,0.0,1.542586010776566,0.1799901032414722,0.4657289895712566,0.0,0.0,8.881784197001253e-17,1.5819162057824587
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+Ar isch, glauib, güet g'lünt, hit dr Chef ! Wohrschints isch'r mit'm linke Bei z'erscht uffgstande
+            !
+
+          
+",38,kuehne-bureaukrate,23,4,0.1739130434782608,0.0916444878047048,0.3966409830644607,1.5077260102877152,0.0,1.744389171398688,0.1799901032414722,0.621884640577149,0.0,0.0,0.1110842276420665,1.7610414786396371
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Wisse-n-Ihr awer o, Babbe Dindeschlecker, wels dr interessanteschte, m'r möcht sage, dr einzig
+            interessante Fall isch in re Verwaltung ?
+
+          
+",39,kuehne-bureaukrate,28,4,0.1428571428571428,0.0916444878047048,0.5393792380972691,1.4968317834710152,0.0,1.5993249808413443,0.2202422911607241,0.4462880116041605,0.0,0.0,0.1110842276420665,1.538174655557341
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Ich will's Euich verrote, vu allei kumme Ihr doch nit druff! Das isch, wenn dr quatorze juillet
+            uff e Fritig oder uff e Zischtig fallt !
+
+          
+",39,kuehne-bureaukrate,32,7,0.21875,0.108162861952112,0.6029017940966085,1.3910980837374969,0.0450087809337611,1.5401399795178436,0.2479749743623344,0.4877354916896273,0.0892586282692215,0.0,0.1110842276420665,1.4923781529553302
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+... Ihr meine?...
+
+          
+",40,kuehne-bureaukrate,7,1,0.1428571428571428,0.108162861952112,0.3489990660649561,1.0314119490574631,0.0450087809337611,1.2084747131333942,0.2077227864430825,0.4877354916896273,0.0892586282692215,0.0,0.1110842276420665,1.1722579954106125
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Denn drno wird vum Fritig uff dr Sunndig oder vum Sunndig uff dr Zischtig dr « pont » gmacht !
+
+          
+",40,kuehne-bureaukrate,22,5,0.2272727272727272,0.0165183741474072,0.2062608110321478,1.110873474887416,0.0450087809337611,1.5281614909480512,0.0679848711208623,0.9519472686468564,0.0892586282692215,0.0,0.1110842276420665,1.575399307447546
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(lacht)
+
+            
+Was Ihr allewil fir Plan im Schadel hann ! Ihr sinn immer dr glich, Herr Fröhlich !
+
+          
+",40,kuehne-bureaukrate,23,6,0.2608695652173913,0.0855809708216324,0.3147418848570821,1.1937172816887305,0.0647148208885594,1.5576280704383465,0.1490882193556065,0.7957916176409641,0.0892586282692215,0.0,0.1031702774601408,1.6050506999832224
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(kommt kopfschüttelnd aus Linsespalters Bureau)
+
+            
+Do lüeg emol einer da Kitt a! Ich ha gschriewe : « Je vous envoie », dr Herr Sous-Inspecteur
+            schickt's zuruck, 's miesst heisse : « Je vous transmets. » Heiliger Bürokratius, erbarme di ! Isch
+            denn das nit g'hoppst wie gsprun-ge : « je vous envoie » un « je vous transmets ! »
+
+          
+",41,kuehne-bureaukrate,70,4,0.0571428571428571,0.0975303780282655,0.1720036298242738,1.1850419205311282,0.0942738808207569,1.6045545563160748,0.1310053263855027,0.7957916176409641,0.0892586282692215,0.0,0.1031702774601408,1.6592126939901306
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(kommt schnaubend von rechts)
+
+            
+Messieurs, do unte isch e Obstkarre mit Orange ! Scheene guldegale, sechs Stick fir e Franke ! 
+            
+(geht in Linsespalters Zimmer, ab)
+ Fröhlich — Frei : Uh, Juhu ! Ju ! 
+            
+(eilen lärmend rechts ab.)
+
+          
+",42,kuehne-bureaukrate,52,7,0.1346153846153846,0.1333802826264038,0.1084810738249343,0.9588660301482774,0.0492650998869958,1.2298443919276871,0.1601216302713028,0.5270088965480266,0.0,0.0,0.1597493534771678,1.249947601611194
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(kopfschüttelnd)
+
+            
+Junge Lit, junge Lit! D'Jugend will üstowe, was will mr mache drgege ? Am beschte : Nix ! So lang
+            as 's Asah vu dr Vrwaltung nit gschadigt wird, so lang ass noch Reschpakt do isch vor dr Owrigkeit,
+            solle se ihre Freid un Luscht ha, so viel ass's uff mich akummt! 
+            
+(den andern nach, ab.)
+
+          
+",43,kuehne-bureaukrate,74,10,0.1351351351351351,0.1333802826264038,0.1084810738249343,1.1527615669265532,0.0492650998869958,1.4779260916246584,0.1601216302713028,0.7353760843465957,0.0,0.0,0.2266650474365483,1.529308525125596
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+So, jetz isch's changiert ! Jetz han i « transmets » gsetzt fir « envoie. » Jetz bin i gspannt,
+            was dr Herr Inspecteur drzüe sait, dr Herr Sous-Inspecteur isch z'friedegstellt. Awer 1000 :1 will i
+            wette, dass dr Herr Inspecteur noch emol e Anderung vornimmt ! 
+            
+(ebenfalls rechts ab.)
+
+          
+",44,kuehne-bureaukrate,63,7,0.1111111111111111,0.2472026555774907,0.1084810738249343,1.3319130319471146,0.20128312239544,1.6558999197543025,0.3309841342400464,0.2711643073893667,0.0,0.0,0.3183437895261921,1.593276551658688
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(kommt aus Linsespalters Zimmer, geht zum Ofen und zieht dort einen Eimer hervor,
+            kopfschüttelnd)
+
+            
+Dr Kalander hann i ihm vrgasse abz'risse, m'r wird halt schwach im Kopf im Alter! Awer das hätt'r
+            schliesslig salwer merke solle, dass hit nimm Sundig isch ! 
+            
+(ab in Linsespalters Zimmer. Die Bühne bleibt einige Augenblicke leer, dann steckt Walfisch
+            den Kopf zur Tür rechts herein.)
+
+          
+",45,kuehne-bureaukrate,75,6,0.08,0.1781400589032655,0.0953112773942953,1.149247142975265,0.2024786783604434,1.4492324302704318,0.2498807860053022,0.2974167118646376,0.0,0.0496621919054486,0.3889075773514423,1.434925136151378
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+Nu, das heisst jetz à Vrwaltung ! Löb, wie wird dr ! Kei Mensch weit, kei Mensch breit ! A
+            Stilleben, à Stilleben, à Maler könnt dran han seine Freid ! Grad wie an dr Poscht, grad wie an dr
+            Bahn : 36 Schalter un uff 35 steht : « Fermé. » Nu komme Se halt herein, Herr Löb Walfisch — nei Löb
+            Walfisch — selig ! 
+            
+(tritt ein)
+ S'isch halt à Vrwaltung, à Ad-mi-ni-stra-ti-on, was will mr meh! Bi mir im
+            Geschäft wär sowas nit vorkumme, trotzdem isch's Geschäftlich gegange pleite ! 
+            
+(geht an den ersten Tisch rechts, setzt sich und frägt ins Leere)
+ Nu, wer sinn Sie, was
+            welle Sie? 
+            
+(steht auf, stellt sich vor den Tisch hin und spricht zu diesem hin)
+ Nu, ich möcht halt
+            rede mit'm Monsieur le Chef de Bureau ! 
+            
+(setzt sich wieder wie vorhin)
+ Dr Herr Chef de Bureau isch no nit do ! 
+            
+(steht auf, wie oben)
+ Nu, wie heisst, ich kann warte ! 
+            
+(setzt sich wieder, etc. wie oben)
+ So, setze Sie sich derwilsch ! 
+            
+(steht auf etc. wie oben, mit höflicher Verbeugung gegen den leeren Platz)
+ Merci,
+            vielmols, Ihr Herre ! Das isch emol e heeflige Vrwaltung, so wird mr nit empfange iwerall ! 
+            
+(mit Verbeugung)
+ Ich bin so frech ! 
+            
+(setzt sich in der Nähe der Tür Linsespalters auf einen Stuhl, zieht ein Zeitungsblatt aus der
+            Tasche, entfaltet es bedachtsam und liest in ruhigem Tonfall)
+ « Statt besonderer Anzeige ! » «
+            Heute entriss uns der Tod unsern innigstgeliebten Löb Walfisch » 
+            
+(zum Publikum, auf sich deutend)
+ Das bin ich! .... « in der Blüte seiner Jahre, auf dem
+            Höhepunkt seines Schaf-fens..... 
+            
+(er lässt das Blatt sinken und wiederholt leise)
+ « in der Blüte seiner Jahre, auf dem
+            Höhepunkt seines Schaffens ! » ..... Isch das scheen, isch das scheen ! Grad hile kennt mr, grad
+            hile, so scheen isch's — wenn m'r 
+            
+(er spricht « wennémr)
+ da Schwindel nit hätt' gemacht salwer ins Blättle ! Awer was
+            will mr 
+            
+(willémr)
+ mache ? Was will mr mache ? Was will mr mache, wenn mr 
+            
+(wennémr)
+ hat gsteckt dem Mündel sei Geld in sei eiges Gschäftlich, wo 
+            
+das Gschäftelich hat gemächt pleite? Was wit mache, Löb Walfisch, jetzt wo dr Windmacher
+            isch gekomme heim — unverhofft — unerwarte — dod geglauibt un dod erklärt vor 3 Wuche -, wo dr
+            Windmacher isch gekomme heim, e Sportsgrösse, e ge'achter, grausser, amerikanischer Boxer, ä
+            Boxprofesser! Was willsch do mache, Löb Walfisch, sag, was kannsch do mache, wenn'r reklamiert sei
+            Geld ? Dei' eigne Todesannonce in 's Blättelich setze, still wie de Nacht iwer's Bächle schwimme un
+            schaue, wie de's witterscht tribsch ! 
+            
+(weiter lesend)
+ « Alle, die ihn kannten, werden unsern Schmerz zu würdigen wissen » 
+            
+(für sich)
+ am meischte dr Windmacher ! 
+            
+(lesend)
+ « Das Leichenbegängnis findet nicht hier statt. » 
+            
+(für sich)
+ Das vrsteht sich! 
+            
+(lesend)
+ « Blumenund Kranzspenden dankend verbeten. » 
+            
+(mit leisem Lachen)
+ Das hätt ich eigetlig nit solle setze ins Blättle, mr hätt gsah,
+            wer noch ahanglig isch an so me arme bankrotte Walfisch ! 
+            
+(Die Tür links wird aufgestossen und der fegende Hasepfeffer jagt Walfisch eine ganze Ladung
+            Staub auf Gesicht und Kleidung)
+ Au weih gschrie! Wos ä Untat, was ä Untat! Die ganz Wüste
+            Saharah jagt mir dr Herr uff d'Kleider !
+
+          
+",46,kuehne-bureaukrate,665,58,0.0872180451127819,0.2351465071888635,0.1731182825547655,1.4274834548990305,0.2040244679394388,1.7501034019640858,0.3160347610283911,0.4028761571241931,0.1379564656221266,0.1309403256898745,0.6223997263227086,1.7269895233219212
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Ach, Pardon Monsieur, awer wie kumme Sie denn do inne, sage Se emol !
+
+          
+",47,kuehne-bureaukrate,19,1,0.0526315789473684,0.1827782284433179,0.6177761745501418,1.6116502918367566,0.2040244679394388,1.9680958124492536,0.2591857739409807,0.3400790375333956,0.1379564656221266,0.1309403256898745,0.5658206503056817,1.9659038298193383
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+Nu, Herr Amtsvorstand, wie wir ich kumme si do inne ? Dur das Tirelich, wu sunscht ?
+
+          
+",48,kuehne-bureaukrate,23,2,0.0869565217391304,0.2066770428565839,0.8401051205478298,1.6953743460740731,0.2631425878038337,2.082329443328182,0.3035243638392769,0.1317118497348264,0.1379564656221266,0.1309403256898745,0.4989049563463011,2.04686471732517
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+(mit Dindeschlecker und Fröhlich von rechts)
+
+            
+E wunderscheener Summermorge hit! Un mir arme Süschriewer, mir Unglickswirmer mien in da Stall
+            hocke — acht Stunde lang, Tag fir Tag !
+
+          
+",48,kuehne-bureaukrate,36,5,0.1388888888888889,0.1661702601492609,0.8401051205478298,1.3018489699890237,0.1111245652953895,1.5036146896411102,0.2122504417929079,0.219627817161943,0.1379564656221266,0.1309403256898745,0.4864369206804951,1.54183815274591
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+S'isch unser Los, was welle-n-r ?
+
+          
+",49,kuehne-bureaukrate,12,1,0.0833333333333333,0.1661702601492609,1.4406871833819217,1.9326306474636952,0.0902229693755879,2.2343540315322263,0.2122504417929079,0.8401536163315122,0.1379564656221266,0.5872859436761038,0.7189942415345436,2.28735458793594
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Allez, Kinder, grine nit drwage ! Hit isch jo scho Mantig un iwer — iwer — iwer — iwer — iwer-morn
+            scho widder Sunntig !
+
+          
+",49,kuehne-bureaukrate,29,3,0.1034482758620689,0.0972144046570298,1.5619524645738747,1.6641303922186264,0.059118119864395,1.8854343619141023,0.1239271718206708,0.9208308245914852,0.0,0.5060078098916778,0.4855020925632772,2.114389162340506
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Ssst! Ssst! Ihr Herre! Dr Alt isch ferchterlig bees g'lünt hit !
+
+          
+",49,kuehne-bureaukrate,17,3,0.1764705882352941,0.0972144046570298,1.1172945725784986,1.36576289677233,0.059118119864395,1.5554259535430806,0.1239271718206708,0.9208308245914852,0.0,0.5060078098916778,0.4855020925632772,1.7577049571277492
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(eintretend, hat die letzten Worte gehört ; eifrig)
+
+            
+Drno schitte nüumme Oel uffs Fir ! Hasepfeffer, bringe-n ihm schnall das Gsudels wieder zruck un
+            sage'n'm, dr Herr Inspecteur isch nit d'accord mit'm Herr Sous-Inspecteur un losst sage, das war
+            miserabel Franzeesch, s'miesst heisse: « Veuillez trouver ci-inclus ..... »
+
+          
+",50,kuehne-bureaukrate,63,9,0.1428571428571428,0.1352898643020913,0.9776802088341056,1.3890966460453675,0.0525494398794622,1.5017495432005663,0.1632165406777349,0.9675012837323848,0.0,0.5512667322566882,0.5321262587740735,1.6950619421624662
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Bon! Do vrplatzt'r vor Wuet, dr Alt!
+
+          
+",51,kuehne-bureaukrate,12,1,0.0833333333333333,0.0619742740583274,0.9776802088341056,1.229215724133369,0.0525494398794622,1.3449271461603716,0.0836279587553603,0.8795853163052684,0.0,0.5512667322566882,0.4529155523502357,1.53018408396099
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch:
+
+            
+Sage awer racht ditlig : « Miserawel ! »
+
+          
+",51,kuehne-bureaukrate,11,4,0.3636363636363636,0.2080846983957363,0.2817868686057183,0.7283360288044098,0.210790479227398,0.6191691459811066,0.2466773395472799,0.2328071126604282,0.1900115225326462,0.0452589223650104,0.0466241662107963,0.7394379356615788
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Très bien, 's wird bsorgt !
+
+          
+",51,kuehne-bureaukrate,9,1,0.1111111111111111,0.2080846983957363,0.0827145822532949,0.5482815614721739,0.210790479227398,0.4698452372232685,0.2466773395472799,0.0466704591408996,0.1900115225326462,0.0452589223650104,0.0466241662107963,0.4322884968587873
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Un dr ganz Kitt soll neij gschriewe warde, — s' isch jetz scho zwei Mol radiert - nochhar direkt
+            im Herr Inspecteur divisionnaire vorz'lege !
+
+          
+",52,kuehne-bureaukrate,28,4,0.1428571428571428,0.2200341056023693,0.0827145822532949,0.8135439714396344,0.2403495391595955,0.8149729995865386,0.2688466344964281,0.1344687736273939,0.1900115225326462,0.0452589223650104,0.0466241662107963,0.798716627238005
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+Was hann Sie welle, Monsieur ?
+
+          
+",52,kuehne-bureaukrate,9,1,0.1111111111111111,0.1580598315440418,0.0,0.84879709936943,0.1878000992801333,0.940724368640588,0.1852186757410677,0.5273781516220772,0.1900115225326462,0.0,0.3960535321191888,1.0498007182306877
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Mit'm Chef rede will dr Herr !
+
+          
+",52,kuehne-bureaukrate,10,2,0.2,0.1819586459573078,0.0,1.1599393032007337,0.2469182191445283,1.4297711313479708,0.229557265639364,0.5273781516220772,0.1900115225326462,0.0,0.6182219874033217,1.4411988440405452
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+Namme grad dr Herr mit inne !
+
+          
+",52,kuehne-bureaukrate,9,2,0.2222222222222222,0.0597470360331651,0.0,1.2305962166570628,0.1477952996609874,1.7783582314235726,0.1108464747457405,0.5273781516220772,0.0,0.0,0.8952712287368485,1.823791313809624
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(klopft kräftig an ; es erfolgt keine Antwort. Er klopft noch einmal und tritt dann
+            energischen Schrittes ein. Er trägt ein Lederköfferchen in der Hand, welches er im Ver- lauf der
+            folgenden Scène in der Nähe des Ofens absetzt.)
+
+            
+Bonjour Messieurs !
+
+          
+",53,kuehne-bureaukrate,52,4,0.0769230769230769,0.0597470360331651,0.0,1.2305962166570628,0.1477952996609874,1.7783582314235726,0.1108464747457405,0.5273781516220772,0.0,0.0,0.8952712287368485,1.823791313809624
+comedy,die_andern,M,,,,"
+            
+Die Andern :
+
+            
+(antworten nicht ; alle schreiben eifrig. Einer knurrt eine unverständliche Antwort.)
+
+          
+",54,kuehne-bureaukrate,18,2,0.1111111111111111,0.4494720329374638,0.3722156201398272,1.8128072645010465,0.2878092867077663,1.9230972510853968,0.4009884818083772,0.6495969032696312,0.0,0.203665150642547,1.1050799766854316,1.8065845485046652
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(lauter)
+
+            
+Bonjour Messieurs !
+
+          
+",54,kuehne-bureaukrate,9,1,0.1111111111111111,0.4494720329374638,0.3722156201398272,1.476600796282621,0.2878092867077663,1.488706961797962,0.4009884818083772,0.2100170661340483,0.0,0.203665150642547,0.7090264445662429,1.257821661457032
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(betrachtet sie eine Weile mit verschränkten Armen, dann tritt er heftig gegen den Ofenschirm
+            ; schreit)
+
+            
+Bonjour Messieurs ! !
+
+          
+",54,kuehne-bureaukrate,26,3,0.1153846153846153,0.4255732185241978,0.3722156201398272,1.4763676147535958,0.2286911668433712,1.229693346667838,0.3566498919100809,0.2100170661340483,0.0,0.4712517994107184,0.4868579892821101,1.0217063665001205
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(voller Würde)
+
+            
+Sie brüche sich do nit eso uffz'fiehre, Sie solle wisse, wie m'r sich in re Vrwaltung gegeniwer
+            benimmt !
+
+          
+",55,kuehne-bureaukrate,27,1,0.037037037037037,0.4016744041109318,0.3722156201398272,1.1583824801137224,0.1695730469789763,0.7198999296023534,0.3123113020117847,0.2100170661340483,0.0,0.4712517994107184,0.2098087479485833,0.5045041959272044
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Was welle Sie eigetlig ?
+
+          
+",55,kuehne-bureaukrate,7,1,0.1428571428571428,0.4016744041109318,0.3722156201398272,1.582784436142994,0.1695730469789763,1.1147681035508097,0.3123113020117847,0.2100170661340483,0.0,0.4712517994107184,0.2098087479485833,0.8927466880102226
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Mi Namme isch Windmaker 
+            
+(spr. Ueindmeker)
+ Fred Windmaker, Professeur de Boxe in Michigan U. S. A. !
+
+          
+",55,kuehne-bureaukrate,24,2,0.0833333333333333,0.0,0.0,0.949884075112338,0.0,1.009150064605437,0.0,8.881784197001253e-17,0.0,0.2675866487681714,0.3065749623872011,0.8965632419546757
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+Hahaha ! Nit schlacht! Sie sinn dr Windmacher Freddy üs Pfatzehüsse ?
+
+          
+",56,kuehne-bureaukrate,15,2,0.1333333333333333,0.0,0.0,1.1179873092215509,0.0,1.226345209249155,0.0,0.2197899185677915,0.0,0.2675866487681714,0.5046017284467955,1.1709446854784926
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+So isch's ! Was isch do lacherligs drbi ?
+
+          
+",56,kuehne-bureaukrate,13,1,0.0769230769230769,0.0,0.0,0.8070782869192726,0.0,0.9963120616718952,0.0,0.2197899185677915,0.0,0.0,0.5046017284467955,1.0156618546255467
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+(lachend und mit abwehrender Gebärde)
+
+            
+Drno gehn Se numme glich widder uff Michigan U. S. A. Sie sinn dod!
+
+          
+",56,kuehne-bureaukrate,24,3,0.125,0.0,0.0,0.9630178006594752,0.0,1.228630112754238,0.0,0.4132114922999703,0.0,0.0,0.5046017284467955,1.2681353530620652
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+Sie sinn dod fir uns !
+
+          
+",57,kuehne-bureaukrate,8,1,0.125,0.3665779512188192,0.0,1.001813985971771,0.0,1.1834836347193232,0.397942909611873,0.4132114922999703,0.0,0.0,0.5046017284467955,1.155519264938793
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(stellt sich breitspurig vor Dindeschlecker hin)
+
+            
+Oho, ich bin dod !
+
+          
+",57,kuehne-bureaukrate,17,1,0.0588235294117647,0.774674442416762,0.0,1.332112848734147,0.0,1.0930628063807015,0.8831952681412012,0.4132114922999703,0.5582747468130307,0.0,0.1980267660595944,0.9371460734542152
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+Vor 3 Wuche erscht sinn Sie fir dod erklärt worde !
+
+          
+",57,kuehne-bureaukrate,13,2,0.1538461538461538,0.9579634180261716,0.0,1.5637119194049305,0.0,1.267923654337472,1.082166722947138,0.4132114922999703,0.5582747468130307,0.0,0.1980267660595944,1.0749592754340882
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Drum gehn Se ringer glich widder, nit dass Se noch mit'm Staalsanwalt in Konflikt kumme !
+
+          
+",58,kuehne-bureaukrate,20,3,0.15,1.187424852954485,0.148219297331792,1.9783265367782377,0.0,1.5709647951761367,1.3261539802165516,0.4132114922999703,0.7367927244407297,0.0,0.1980267660595944,1.31213849044358
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Nit iwel ! Un drbi bin i fidel un munter wie ne Fisch im Wasser !
+
+          
+",58,kuehne-bureaukrate,19,2,0.1052631578947368,1.187424852954485,0.3845938476661226,2.2191681627301683,0.0,1.6836930916505526,1.3261539802165516,0.4607320930631718,0.7367927244407297,0.2141073825492125,0.1980267660595944,1.4480980522793554
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Gehn Se, Mann, gehn Se! Ich rot Ihne numme güet ! Gehn Se !
+
+          
+",58,kuehne-bureaukrate,19,4,0.2105263157894736,0.8208469017356659,0.4782301429676449,1.9760223338450276,0.0,1.6277235214385857,0.9282110706046784,0.4607320930631718,0.7367927244407297,0.2141073825492125,0.3755083891420973,1.476763098970991
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Fir uns sinn Se dod !
+
+          
+",59,kuehne-bureaukrate,8,2,0.25,0.5960393861471326,0.4782301429676449,1.6627494449726463,0.0,1.5087564546542558,0.6419301668812867,0.4607320930631718,0.1785179776276989,0.2141073825492125,0.3755083891420973,1.47991157341673
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei :
+
+            
+Müsdod !
+
+          
+",59,kuehne-bureaukrate,4,1,0.25,0.412750410537723,0.4782301429676449,1.5992536084110758,0.0,1.5510907513412024,0.4429587120753501,0.6805220116309634,0.1785179776276989,0.2141073825492125,0.5735351552016916,1.6164798149606738
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+Do steht's schwarz uff wiss in unsre Akte ! Vor 6 Monet scho hat m'r Sie in de hiesige Zittungen
+            uffgebotte ; worum hann Sie sich nit g'malde, wenn Se noch am Lawe sinn ?
+
+          
+",59,kuehne-bureaukrate,39,3,0.0769230769230769,0.1832889756094096,0.4841810171403097,1.5557050072857384,0.0,1.7226737670240038,0.1989714548059364,1.0119596196882887,0.0,0.2141073825492125,0.7407479225601046,1.923464899185777
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Was Sie sich ibilde! Glauiwe Sie villicht, ich lies driwe in Amerika Euire Kasblättle ? Awer,
+            schliesslig, — was gehn mich Euire Bürokratefisik a! Me voilà gsund un lawandig ! Mir-a kenne Ihr
+            Euich danke, ich seig widder ufferstande !
+
+          
+",60,kuehne-bureaukrate,49,6,0.1224489795918367,0.1832889756094096,0.3431177442002744,1.306076325494714,0.0209015959198016,1.5435102283165918,0.1989714548059364,0.8694260212087344,0.0,0.0496621919054486,0.8164953061734657,1.7734120759534495
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+Fir uns sinn un bliwe Sie dod !
+
+          
+",60,kuehne-bureaukrate,10,1,0.1,0.5498669268282288,0.2494814488987521,1.549222154379855,0.0209015959198016,1.599479798528559,0.5969143644178097,0.8694260212087344,0.0,0.0496621919054486,0.6390136830909628,1.744747029261814
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(drohend)
+
+            
+Herr! 
+            
+(krempelt die Aermel auf und packt Dindeschlecker am Kragen)
+ Herr ! Noch ei Wort un Sie
+            bekumme eine g'langt — von're Dodehand — dass Se noch 6 Wuche dra danke !
+
+          
+",61,kuehne-bureaukrate,41,6,0.1463414634146341,0.5536554504718533,0.3798999951822391,1.7117016166624552,0.2053520644632731,1.898763988190101,0.5634327747021299,0.9415821927492892,0.0,0.0496621919054486,0.6390136830909627,2.0560572565757558
+comedy,alle,M,,,,"
+            
+Alle :
+
+            
+(durcheinander)
+
+            
+Das isch Beamtebeleidigung — Körperverletzung — Drohung. — M'r verklage Sie !
+
+          
+",61,kuehne-bureaukrate,18,1,0.0555555555555555,0.5536554504718533,0.3798999951822391,1.3754951484440296,0.2053520644632731,1.4643736989026663,0.5634327747021299,0.5020023556137064,0.0,0.0496621919054486,0.2429601509717741,1.5072943695281218
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Was isch das? Vrklage welle Ihr mich? Très bien! Z'erscht heisst's, ich seig dod un jetz welle Ihr
+            dà dode Mann o noch vrklage ! Nit schlacht, nit iwel ! 
+            
+(einlen- kend)
+ Nei, Ihr Herre ! Spass apartig ! Ich ha o Vrstandnis fir Humor, awer was
+            mich do anefiehrt, das isch e hocharnschte Sach ! Mi Vrmöge will i widder, mi Eige- tum, wu ne
+            gwisser Walfisch, Löb Walfisch, vrwalte hat, un — wie'n ich erfahre hann - schlacht vrwalte, pour
+            ainsi dire : unterschlage hat ! Un jetz lehn Se mich zu Ihrem Chef inne, do isch dankwohl d'Tire ! 
+            
+(will links ab).
+
+          
+",62,kuehne-bureaukrate,132,13,0.0984848484848484,0.5818537544117623,0.2691022430264415,1.1904346345198211,0.2053520644632731,1.1533559190602127,0.594043767749197,0.286880373398288,0.0,0.0496621919054486,0.1099271459647661,1.1638597555498325
+comedy,alle,M,,,,"
+            
+Alle :
+
+            
+(ihn zurückhaltend)
+
+            
+Grad isch e Herr drinne bim Chef ! Sie derfe jetz nit inne. — Warte Sie noch e Rung !
+
+          
+",63,kuehne-bureaukrate,27,5,0.1851851851851851,0.5914132801770687,0.3002612632667525,1.4162503597081135,0.2080977164892294,1.4995933136651105,0.7533872682944271,0.1884717973824621,0.0,0.0263840620182764,0.3189019598006167,1.4116531380831296
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Bon! Ich bin kä Unmensch ! Ich kann warte — awer nit länger als 5 Minüte wart i! 
+            
+(Auf und ab)
+ Do drinn ka's e gsunder Mensch gar nit üshalte ; e Luft, e Luft —
+            s'reinschte Bazilleheim ! 
+            
+(will rechts ab ; bleibt an der Tür stehen, zieht aus einem Aktenschrank ein Bündel Akten
+            heraus, die, Staub aufwirbelnd, zu Boden fallen)
+ A propos, was hann'r denn do fir Gekrizels —
+            das Dings isch jo ganz fattig — stauiwig, vrschmiert un vrschimmelt !
+
+          
+",64,kuehne-bureaukrate,101,10,0.099009900990099,0.2614931240801315,0.3634964120840558,1.2617160724452454,0.2785533191734237,1.476933544846478,0.4828310940472896,0.2235911231770598,0.023180692617328,0.0395760930274146,0.4401318451848404,1.4355689591332783
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(aufgebracht)
+
+            
+Monsieur ! Das sinn Akte ! Lehn Se do d'Finger drvu !
+
+          
+",65,kuehne-bureaukrate,18,1,0.0555555555555555,0.0744156248270974,0.2330778658005689,1.2920394955211334,0.0941028506299521,1.3976566811766211,0.3173412289570327,0.1514349516365048,0.023180692617328,0.0395760930274146,0.4401318451848404,1.3746880219224829
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(lachend)
+
+            
+Soo ! Akte ! Wisse Sie was, jeune homme de bonne famille ? Warfe Sie emol e Hand voll « Akte » in
+            kochig Wasser, das git e prima Fleischsupp ! 
+            
+(ab)
+
+          
+",65,kuehne-bureaukrate,42,6,0.1428571428571428,0.0744156248270974,0.3177692304533684,1.5213683274843142,0.0941028506299521,1.7071878247031411,0.4547505891352829,0.2882733587946238,0.023180692617328,0.0395760930274146,0.5427130711350854,1.6288813788920256
+comedy,Frei,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frei:
+
+            
+Monsieur, Ihre Koffer !
+
+          
+",66,kuehne-bureaukrate,7,1,0.1428571428571428,0.0462173208871883,0.2743968111047093,1.6715692933789783,0.0941028506299521,1.977971737311564,0.4241395960882158,0.6115375700882997,0.023180692617328,0.0395760930274146,0.9045868409028688,1.9769145806833528
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(zurückrufend)
+
+            
+Lehn Se ne numme steh', villicht hat'r Junge, bis i zruckkumm ! 
+            
+(Linsespalter kommt mit Walfisch aus seinem Bureau heraus.)
+
+          
+",66,kuehne-bureaukrate,31,2,0.064516129032258,0.0366577951218819,0.1479265134701029,1.2986011102895767,0.0704556026841941,1.4658515338573197,0.2647960955429856,0.6115375700882997,0.023180692617328,0.0131920310091382,0.6198646434536574,1.4907409611100897
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+D'Vrwaltung nimmt jo harzlig, racht harzlig Ateil an dam schware Vrluscht, wu Sie dur dr Dod vu
+            Ihrem .....
+
+          
+",66,kuehne-bureaukrate,24,5,0.2083333333333333,0.0,0.0846913646527996,0.9899372562108776,0.0,1.1387896067624106,0.13740936017825,0.5764182442937019,0.0,0.0,0.4986347580694337,1.1911987361001946
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+... vu Ihrem Cousin Walfisch erlitte hann. Dr Vrwaltung kann jo viel — g'wisse Lit sage, kei Ding
+            seig're unmeglig — awer alles ka se doch no nit un so isch's're leider nit gà, da arme Mann widder
+            züem Lawe z'erwecke !
+
+          
+",67,kuehne-bureaukrate,49,6,0.1224489795918367,0.0675455084257145,0.161776450405028,0.8495344051024144,0.0980561943957268,0.984652252629602,0.2289331630799966,0.6454262614562754,0.2268378968848076,0.0,0.5822411417486402,0.9977774079557749
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+(während er sein Taschentuch zieht und dureh Gebärdenspiel Leid auszudrücken sucht ; für
+            sich)
+
+            
+Nu, wenn de tätsch wisse !
+
+          
+",68,kuehne-bureaukrate,26,1,0.0384615384615384,0.7429702269544919,0.0770850857522284,1.471762940125782,0.7612382879157471,1.059985080474662,0.7221915926539006,0.5085878542981563,0.8230823225570495,0.0,0.4796599157983952,0.8625477011696363
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Un drno wage dare Vrmögensvrwaltung vu Ihrem vrstorwene Cousin — wisse Sie, fir dane vrschollene
+            —
+
+          
+",68,kuehne-bureaukrate,19,1,0.0526315789473684,1.109548178173311,0.0770850857522284,1.598754613248924,0.7612382879157471,0.9753164871007686,1.1201345022657736,0.0690080171625735,0.8230823225570493,0.0,0.0836063836792065,0.5894112180817488
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+— fir « dod » erklärte —
+
+          
+",68,kuehne-bureaukrate,10,1,0.1,1.4761261293921302,0.0770850857522284,2.0619527545904908,0.7612382879157471,1.32503818301431,1.518077411877647,0.0690080171625735,0.8230823225570493,0.0,0.0836063836792065,0.8650376220414948
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Ja, fir dane « dod » erklärte Fred Windmacher, do wird Sie d'Vrwaltung emol bstelle - so in e paar
+            Wuche — zur Abrachnung !
+
+          
+",69,kuehne-bureaukrate,30,2,0.0666666666666666,1.6594151050015398,0.0770850857522284,2.5443715234643878,0.7612382879157471,1.6715463772068369,1.7170488666835833,0.3542217264583089,0.8230823225570493,0.0,0.0836063836792065,1.2896247773307938
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+Non, non, non! Ich will nit! Ich will mitm Gschäftlich vom selige Walfisch nix hawe ze tüen ! Nix,
+            gar nix !
+
+          
+",69,kuehne-bureaukrate,30,1,0.0333333333333333,1.5918695965758252,4.440892098500626e-17,2.706669791392555,0.6631820935200201,1.907091874167626,1.6255250637818368,0.8315324138957652,0.5962444256722418,0.0,8.881784197001253e-17,1.6114538353273111
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+Wie heisst « Cousin » ? Ich schlag se üs die Erbschaft, ich schlag se üs ! Wie heisst Cousin ? A
+            cousin, wu mr nit hat gegriesst, wenn m'r 
+            
+(wennémr)
+ ne hat gsah! 
+            
+A cousin, wu m'r sich hat scheniert ze sage, mr isch in dr Verwandtschaft ! A cousin, wu
+            hat — mit eim Wort — gsteckt das Geld vum Windmacher in sei Gschäftelich, wo gegange isch pleite
+            !
+
+          
+",70,kuehne-bureaukrate,84,7,0.0833333333333333,0.9772178191193612,0.1057078734414398,2.027396511817904,0.0,1.685006130181159,1.060858006232663,0.9082032480276736,0.0849713889761507,0.0624785733457892,0.0939103505080597,1.6427865406265765
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Was heer ich do ? Dr Walfisch hat im Windmacher si Vrmöge unterschlage ! 
+            
+(schreiend)
+ Das isch unerheert, das isch — do steht jo Zuchthüs druff !
+
+          
+",71,kuehne-bureaukrate,32,2,0.0625,0.8515820423959226,0.1057078734414398,1.9787102630916125,0.0,1.615622367152053,0.6629150966207896,0.9082032480276736,0.0849713889761507,0.0624785733457892,0.0939103505080597,1.4979083782768827
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+(ruhig)
+
+            
+Nu, Herr Linsepalter, was schreie Se denn eso mit mir? Bin ich dr Löb Walfisch oder bin ich nit dr
+            Walfisch Löb ?
+
+          
+",72,kuehne-bureaukrate,32,2,0.0625,0.5089029055903694,0.1057078734414398,1.6439479650424889,0.0591181198643949,1.4632117976289003,0.3093107769072127,0.9082032480276736,0.0849713889761507,0.0624785733457892,0.0939103505080597,1.4042616827309922
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Gwiss, gwiss ! Sie sinn ne nit, dr Löb Walfisch !
+
+          
+",73,kuehne-bureaukrate,15,2,0.1333333333333333,0.3256139299809598,0.1057078734414398,1.927191003746757,0.0591181198643949,2.6618120922609845,0.1103393221012761,1.518315726464802,0.0849713889761507,0.0624785733457892,1.5196430475613407,2.7204876282799937
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+Nu also! 
+            
+(triumphierend)
+ Wenn Sie's salwer sage, ich bin nit dr Walfisch Löb !
+
+          
+",73,kuehne-bureaukrate,22,1,0.0454545454545454,0.3256139299809598,0.8193991486054817,2.4366689865974664,0.0591181198643949,3.2954684466196653,0.1103393221012761,2.00770580038283,0.0849713889761507,0.0624785733457892,2.2241990744032827,3.2875062385539597
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Awer unerheert, schandlig, strofbar isch's doch !
+
+          
+",73,kuehne-bureaukrate,12,1,0.0833333333333333,0.2648409889086465,0.7136912751640417,2.2643848991855684,0.0591181198643949,3.132690219234553,0.0443385898982962,1.9310349662509216,0.0,0.0,2.130288723895223,3.13720988307129
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Gwiss, gwiss, z'mache isch nix meh ! Awer dr Staatsanwalt müess doch preweniert warde, ich will's
+            glich bsorge! Au revoir, Monsieur ! 
+            
+(will ab in sein Zimmer, unter der Tür)
+ Monsieur Fröhlich !
+
+          
+",74,kuehne-bureaukrate,45,6,0.1333333333333333,0.023898814413266,0.7136912751640418,2.195721564247985,0.0591181198643949,3.499882391571095,0.0443385898982962,2.229477028828543,0.0,0.0,2.708114182196561,3.681647831080908
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Herr Linsespalter ?
+
+          
+",74,kuehne-bureaukrate,5,2,0.4,0.023898814413266,0.7136912751640418,2.195721564247985,0.0591181198643949,3.499882391571095,0.0443385898982962,2.229477028828543,0.0,0.0,2.708114182196561,3.681647831080908
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Dr Herr Inspecteur divisionnaire will nit ha, dass mr schribt « Veuillez trouver ci-inclus » 's
+            muess kurz un bindig heisse : « Je vous communique. » Andere Sie das Schriwe entsprachend ab, Sie
+            wisse doch — ?
+
+          
+",75,kuehne-bureaukrate,43,3,0.0697674418604651,0.0398313573554434,0.7136912751640418,1.6725571731742388,0.0985301997739916,2.3186741653759144,0.0952132292487264,1.334150841095679,0.0,0.0,1.4809389222050366,2.3152667759480705
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Ja, ja, ich weiss, das wu m'r scho X-Mol umg'andert hann !
+
+          
+",75,kuehne-bureaukrate,17,3,0.1764705882352941,0.0398313573554434,0.0,1.3856343460161875,0.0985301997739916,1.66646775086948,0.0952132292487264,1.059011954032916,0.0,0.0,0.7763828953630948,1.9963284858974597
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+Jetz, Walfisch, los ! Jetz schwimm iwers Bachle ! 
+            
+(gewahrt den Koffer Windmachers)
+ Au weih gschrie — sei Koffer! Das isch sei Koffer !
+            Jetz awer los !
+
+          
+",76,kuehne-bureaukrate,36,3,0.0833333333333333,0.0398313573554434,1.0950705543295958,2.5557014946717524,0.0985301997739916,3.014452005074369,0.1370164210883296,2.01268106320373,0.0,0.6746770798555703,1.318104743549014,3.438035415214408
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(öffnet die Tür ein wenig, steckt den Kopf durch den Spalt, zu Frisch)
+
+            
+Ich'r jetz allei, Euier Chef ?
+
+          
+",76,kuehne-bureaukrate,27,4,0.1481481481481481,0.0687385121134061,1.0950705543295958,2.6128885623037243,0.1772955664080735,2.793653477371155,0.1855486166911478,1.714239000626108,0.1562025994711375,0.8285489187809378,0.8513635128897418,3.144688533741071
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+(leise)
+
+            
+Au weih! Au weih! Ar salwer ! 
+            
+(springt hinter den Ofenschirm, wo er — dem Publikum sichtbar, aber unsichtbar für Windmacher
+            — sich einen Trauerflor umbindet. Fröhlich, mit einem Schreiben in der Hand rechts ab.)
+
+          
+",77,kuehne-bureaukrate,50,1,0.02,0.04483969770014,1.0950705543295958,2.484452719011281,0.1181774465436786,2.596342350980767,0.1412100267928515,1.714239000626108,0.1562025994711375,0.8285489187809378,0.8513635128897418,2.962708825327216
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+(zu Windmacher)
+
+            
+Ja, Monsieur, jetz isch'r do ! Gehn Se grad inne !
+
+          
+",78,kuehne-bureaukrate,19,3,0.1578947368421052,0.0289071547579627,1.0950705543295958,2.6770019475503144,0.0787653666340819,2.686817904274723,0.0903353874424213,1.904381473489932,0.1562025994711375,0.8285489187809378,0.8375055700503369,3.1323552206284155
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(von drinnen, scharf)
+
+            
+Entrez sans frapper ! !
+
+          
+",78,kuehne-bureaukrate,13,1,0.0769230769230769,0.0289071547579627,1.0950705543295958,2.878056641226145,0.0787653666340819,2.823770774602589,0.0903353874424213,1.1438115820346373,0.1562025994711375,1.5743004708854442,0.8375055700503369,2.684516809646245
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(trocken)
+
+            
+Merci fir d'Belehrung ! 
+            
+(tritt ein, ab).
+
+          
+",79,kuehne-bureaukrate,18,1,0.0555555555555555,0.3954851059767819,0.0,2.1711876339121474,0.0787653666340819,1.8255082163112413,0.4464751052146912,0.1901424728638238,0.1562025994711375,0.8996233910298738,0.2957837218644178,1.518436284289042
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+(leise)
+
+            
+Gott der Gerechte! Jetz hann i gelosse drinne dr Hüet! Was mache? Ohne Hüet kann i nit furt! Do
+            fall i glich uff an dr Brucke !
+
+          
+",79,kuehne-bureaukrate,37,4,0.1081081081081081,0.3665779512188192,0.2809088859045668,2.332749687148532,0.0,2.189546434712466,0.465029889477293,0.665790451818942,0.0,0.7457515521045064,0.5660961116700154,1.9067426314366385
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(kommt aus Linsespalters Zimmer)
+
+            
+Ssst! Ssst! Herr Dindeschlecker !
+
+          
+",80,kuehne-bureaukrate,15,1,0.0666666666666666,0.4143755800453513,0.2809088859045668,2.5896213737334195,0.1182362397287899,2.584168687493243,0.5537070692738856,0.665790451818942,0.0,0.7457515521045064,0.5660961116700154,2.27070204826435
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+Dr Alt hat d'Antwort drinn uff Ihre Demande fir Ghaltsuffbesserung ! Ich ha se g'lase !
+
+          
+",80,kuehne-bureaukrate,19,2,0.1052631578947368,0.597664555654761,0.2809088859045668,2.6200830699710544,0.1182362397287899,2.6531307961501405,0.752678524079822,0.7657803395533865,0.0,0.7457515521045064,0.3813966174476642,2.2431470568923366
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+(leise)
+
+            
+Was fir glickliche Leit ! Allewil G'haltsuffbesserung, allewil Teuerungszuelag !
+
+          
+",81,kuehne-bureaukrate,17,4,0.2352941176470588,0.6893090434594658,0.2809088859045668,2.3607058327494395,0.1182362397287899,2.694373080505061,0.8521642514827903,0.7657803395533865,0.0,0.0,1.000418282208509,2.6157767531196408
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(geheimnisvoll)
+
+            
+S'steht drin. dass dr Vrwaltung leider kä Kredit mehr offe steh hat. fir in dam p. Dindeschlecker
+            e Uffbesserung züekumme z'losse .....
+
+          
+",81,kuehne-bureaukrate,31,6,0.1935483870967742,0.5600108119921212,0.4147022102886525,2.220802542015032,0.2794415318254585,2.5856836718287672,0.7190668783066387,0.7657803395533865,0.2386492924448558,0.0624553752540866,1.0390527699040557,2.539733341929193
+comedy,alle,M,,,,"
+            
+Alle :
+
+            
+(enttäuscht)
+
+            
+Oh ! Oh!
+
+          
+",81,kuehne-bureaukrate,9,1,0.1111111111111111,0.9573941140034596,0.1337933243840856,2.195184514472868,0.6539867130315475,2.070113231613033,0.6519798984412188,0.2901323605982683,0.9649015340517848,0.0624553752540866,0.6576561524563918,1.850663015493898
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+..... dass se awer, als Bewis vu Ihrem « Wohlwolle », im Personal geseniwer, bschlosse hat 
+            
+(zitierend)
+ « die von dem p. Dindeschlecker innegehabte Dienstwohnung, bisher zu 450
+            Francs veranschlagt, vom 1. 8. a. c. ab mit 900 Francs zu veranschlagen, was gewissermassen » — 's
+            steht so drinn, wortwörtlig — « was gewissermassen einer Erhöhung seiner Bezüre um 450 Francs
+            gleichkommt! »
+
+          
+",82,kuehne-bureaukrate,75,3,0.04,0.9095964851769274,0.1337933243840856,2.399774253253246,0.5357504733027576,2.1970666216308747,0.5633027186446263,0.7282436447123014,0.9649015340517848,0.0624553752540866,1.0828258347807835,2.006640036266945
+comedy,alle,M,,,,"
+            
+Alle :
+
+            
+(geben Zeichen ihrer grossen Enttäuschung)
+
+          
+",83,kuehne-bureaukrate,9,2,0.2222222222222222,0.7263075095675179,0.1337933243840856,2.2140328918364625,0.7053235202817338,1.8655689118146843,0.3643312638386898,0.4381112841140332,1.3040476280097375,0.0624553752540866,1.0828258347807835,1.555776183947386
+comedy,Dindeschlecker,M,office_worker,intermediate_professionals,lower_middle_class,"
+            
+Dindeschlecker :
+
+            
+(erblassend)
+
+            
+O, Malheur ! Do bikumm ich jo gar nix, im Gegeteil : Ich müess noch 450 Franes mehr vrstire !
+
+          
+",83,kuehne-bureaukrate,27,2,0.074074074074074,0.6346630217628131,0.1337933243840856,1.6035029068406133,0.7053235202817338,1.229647500503215,0.2648455364357215,0.4381112841140332,1.3040476280097375,0.0624553752540866,0.4638041700199388,0.8662543565437826
+comedy,Frisch,M,office_worker,intermediate_professionals,lower_class,"
+            
+Frisch :
+
+            
+Was hann i gsait! Hätte Ihr numme das Gsüech nit gmacht, sallemols !
+
+          
+",83,kuehne-bureaukrate,17,2,0.1176470588235294,0.3973833020113383,0.0,1.4924090342480891,0.5441182281850654,1.1860493002401955,0.0,0.4381112841140332,1.0653983355648815,0.0,0.425169682324392,0.8607926098159939
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+So isch's! Ich hann Euich ewefalls abg'rote ! Ich kenn mi üs! Wu'n i noch in Paris gsi bin, am
+            ministère des décorations — 
+            
+(eilt rechts ab, da Windmacher und Linsespalter aus des letzteren Zimmer heraustreten, beide
+            lebhaft gestikulierend und sprechend).
+
+          
+",84,kuehne-bureaukrate,52,2,0.0384615384615384,0.0,0.2663699384019518,1.774952801474648,0.1695730469789763,1.50634771474659,0.0,0.4381112841140332,0.3391460939579526,0.0,0.425169682324392,1.336163851904743
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Babberlababb ! Fir d'Vrwaltung sinn Sie — dod !
+
+          
+",85,kuehne-bureaukrate,12,1,0.0833333333333333,0.3665779512188192,0.2663699384019518,1.7766895174509505,0.1695730469789763,1.3344937678615127,0.3979429096118731,1.7763568394002506e-16,0.3391460939579526,0.0,1.7763568394002506e-16,1.091853818263731
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Awer Monsieur, ich stand doch vor Ihne, « en chair et en os »! Ich vrsicher Sie : Fred Windmacher
+            üs Pfatzehüse, Professeur de Boxe in Michigan U. S. A.
+
+          
+",85,kuehne-bureaukrate,37,3,0.081081081081081,0.3665779512188192,0.2663699384019518,1.6399712687738384,0.0,1.3988193818172328,0.3979429096118731,1.7763568394002506e-16,0.0,0.0,0.2043833082581342,1.2615528336277806
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+So ka ne jeder kumme ! isch Ihre Todeserklärung !
+
+          
+",85,kuehne-bureaukrate,12,1,0.0833333333333333,0.3665779512188192,0.711027830397328,1.9383387642201355,0.0,1.7288277901882545,0.3979429096118731,1.7763568394002506e-16,0.0,0.0,0.2043833082581342,1.6182370388405372
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(scharf)
+
+            
+Das müess d'Vrwaltung besser wisse als Sie!
+
+          
+",86,kuehne-bureaukrate,14,1,0.0714285714285714,0.3665779512188192,0.711027830397328,2.596045008422964,0.0,2.126072830170576,0.3979429096118731,1.7763568394002506e-16,0.0,0.7457515521045064,0.2043833082581342,1.741007923975327
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Jetz heert awer alles uff ! Jetz hann i gnüe ! 
+            
+(zieht den Rock aus, eilt an den Koffer, entnimmt ihm ein paar Boxhandschuhe und macht. sich
+            zum Boxen fertig.)
+
+          
+",86,kuehne-bureaukrate,39,4,0.1025641025641025,0.3665779512188192,0.5778428611963521,2.258054964933492,0.0,2.0502478170230694,0.3979429096118731,0.1450661802991342,0.0,0.7457515521045064,0.3804782693525126,1.6340192142355108
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(ängstlich schreiend)
+
+            
+Herr Frei, Herr Frisch ! Alarmiere Sie d'Polizei, ar wird aggressiv! Ar wird handgriflig ! Ich
+            teleponier in dr Staatsanwaltschaft ! 
+            
+(in sein Zimmer, ab : er schliesst hörbar die Tür hinter sich zu, Frei und Frisch nach rechts
+            ab ; Dindeschlecker einige Male 
+            
+ängstlich um den sich fertig machenden Windmacher herumhüpfend, eilt, einem plötzlichen
+            Gedanken folgend, hinter den Ofenschirm, zu dem sich angswoll zusammendrückenden Walfisch. Beide
+            zittern.)
+
+          
+",87,kuehne-bureaukrate,88,14,0.1590909090909091,0.0685114399622086,0.8250276443418425,2.621393998350729,0.0337817827796542,2.345580563107282,0.3052306715593765,0.2706604194807293,0.0,0.8089749178496092,0.4936364213865666,1.9219029719932224
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+(mit derbem Lachen)
+
+            
+Ja, wu sinn se jetzt die Gselle ! Wu stacke se, unsre Bureaukrate ? Allons, Messieurs, uff dr «
+            Ring » ! Alle mitenander, wennr welle! « Premier round ! »
+
+          
+",88,kuehne-bureaukrate,45,4,0.0888888888888888,0.0685114399622086,0.8250276443418425,2.720709751570245,0.0337817827796542,2.349476945817103,0.3052306715593765,0.5583334544277312,0.0,0.8089749178496092,0.2892531131284325,2.019286459796183
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+(in seinem Zimmer)
+
+            
+Ich mach Sie druff uffmerksam ! Das isch Bedrohung vu Beamte im Dienscht ! Dienscht- vorschrift
+            273 e § 88, Absatz A, alinéa 2 ff. — Sie kumme ins Gfangnis, ich telefonier in dr Staatsanwaltschaft
+            !
+
+          
+",89,kuehne-bureaukrate,48,5,0.1041666666666666,0.0685114399622086,0.4693013307455416,2.58151974462859,0.0337817827796542,2.2444151817814344,0.3052306715593765,0.5583334544277312,0.0,0.8089749178496092,0.4207230603955162,1.855716714464758
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Quatsch, mi Liewer ! Ich bin jo dod! Sie wisse's jo besser als ich! Jetz muess i doch lüege, ob
+            d'bewaffnete Macht boll aruckt ! 
+            
+(lachend rechts ab).
+
+          
+",90,kuehne-bureaukrate,40,4,0.1,0.2683449970081403,0.4693013307455416,2.1090615845657488,0.0337817827796542,2.114171170066764,0.5059206581355049,0.5583334544277312,0.0,0.0632233657451028,0.5968180214898947,1.7715293033792066
+comedy,Löb Walfisch,M,law_advisor,professionals_scientific_technical,upper_middle_class,"
+            
+Löb Walfisch :
+
+            
+(kommt mit Dindeschlecker hinter dem Ofen hervor. An der Tür links)
+
+            
+Monsieur, gann Sie mir mi Hüet, wenn's b'liebt! Sinn Se so güet, gann Sie mir mi Hüet ! 
+            
+(er horcht an der Tür links, wobei er öfters bittend « Monsieur » sagt.)
+
+          
+",91,kuehne-bureaukrate,58,4,0.0689655172413793,0.2683449970081403,0.3361163615445657,1.6255282098247783,0.0337817827796542,1.59449841300462,0.5059206581355049,0.4132672741285971,0.0,0.0632233657451028,0.4207230603955162,1.3220714421716386
+comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté :
+
+            
+Ja, ja, mi liewer Windmacher, Dü mach'sch dr kä Begriff, wie mich das freit, e alter,
+            Schüelkamerad widder az'traffe ! Voyons! Wit hasch's brocht, viel witerscht as ich! Bisch e grosser,
+            geachteter Sportsmann worde, bi mir hats numme zuem bessre Schutzmann g'langt !
+
+          
+",92,kuehne-bureaukrate,61,6,0.0983606557377049,0.1998335570459316,0.207966377931113,1.3025181248322393,0.0,1.4101753033256474,0.2006899865761284,0.8237536659301516,0.0,0.0966813780755555,0.4055515900334923,1.3993127845849944
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Wahrhaftig, ar isch's !
+
+          
+",93,kuehne-bureaukrate,9,1,0.1111111111111111,0.1998335570459316,0.207966377931113,1.060153640425531,0.0,1.1501130918960123,0.2006899865761284,0.5360806309831498,0.0,0.0966813780755555,0.4055515900334923,1.0665706841028926
+comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté :
+
+            
+(jüdelnd, aber freundlich)
+
+            
+Ja, kleiner Walfisch, ich ha g'meint, dü bisch gstorwe ! S'steht doch so scheen in dr Zitung :
+            ..... « In der Blüte seiner Jahre, auf dem Höhepunkt seines Schaffens ! » .....
+
+          
+",93,kuehne-bureaukrate,50,6,0.12,0.1998335570459316,0.2502220095039543,1.1055083576523057,0.0,1.095306796899742,0.2006899865761284,0.74359804739099,0.0,0.2390071247432007,0.3444489063362506,1.0891845798941464
+comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté:
+
+            
+Wie reimt sich denn das zamme, sag, Alterle ?
+
+          
+",94,kuehne-bureaukrate,17,1,0.0588235294117647,0.0,0.2502220095039543,1.185334422206276,0.0,1.38664935425863,0.0,1.1935090272544022,0.0,0.2390071247432007,0.1683539452418721,1.790521913923813
+comedy,Ein Inspecteur de la Sureté,M,policeman,government_executive_officials,upper_middle_class,"
+            
+Der Inspecteur de la Sureté :
+
+            
+Nu, weischte was, kleiner Walfisch, schwimm mit mr, saisch im Untersüechungsrichter, was ze sage
+            isch ! 
+            
+(er nimmt den ganz Verzweifellen am Gelenk ; im Abgehen)
+ A tout à l'heure, mon ami ! A
+            tout à l'heure ! 
+            
+(mit Walfisch ab.)
+
+          
+",95,kuehne-bureaukrate,58,3,0.0517241379310344,0.0,0.4174347768623672,1.484383014597065,0.0,1.7490213931459366,0.0418031918396032,1.4018716175474213,0.0,0.2390071247432007,0.1683539452418721,2.2362579153051447
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+Kumm inne, edle Akteseele, ich mach dr nix ! Grad hann se ne Doder zuem Lawe erweckt, villicht
+            kumm o ich emol an d'Reih'! Einschtwile, au revoir — Sie Kaffer !
+
+          
+",96,kuehne-bureaukrate,40,5,0.125,0.0,0.3909020802330034,1.1857515428744307,0.0,1.5586666403606673,0.0418031918396032,0.9486006071593596,0.0,0.1423257466676452,0.2815146205183007,1.9046098765168016
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Oh ! Ich bin Chef !
+
+          
+",96,kuehne-bureaukrate,8,1,0.125,0.0,0.3909020802330034,1.5511642639521497,0.0,2.1421379129946567,0.0418031918396032,0.9486006071593596,0.0,0.1423257466676452,0.7258515310865663,2.3234467113088053
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+« Chef » isch d'Mehrzahl vu « Schaf ! »
+
+          
+",96,kuehne-bureaukrate,14,1,0.0714285714285714,0.0,0.2597148702610869,1.7120447792984526,0.0,2.555468836289564,0.0418031918396032,0.7410831907515195,0.0,0.0,1.0998211780849902,2.5265551904282235
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Das isch Beleidigung, ich zeig Se a!
+
+          
+",97,kuehne-bureaukrate,11,1,0.0909090909090909,0.0,0.2597148702610869,1.234769652589859,0.0,1.799691163688798,0.0418031918396032,0.2911722108881074,0.0,0.0,1.0998211780849902,1.592513136307809
+comedy,Fred Windmacher,M,,,,"
+            
+Fred Windmacher :
+
+            
+O racht, — Sie Kaffer ! 
+            
+(ab !)
+
+          
+",97,kuehne-bureaukrate,14,1,0.0714285714285714,0.0,0.0925021029026739,0.9357210601990704,0.0,1.4373191248014918,0.0,0.0828096205950883,0.0,0.0,1.0998211780849902,1.1467771349264773
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+(eiligst von rechts herein)
+
+            
+Herr Linsespalter, Herr Linsespalter !
+
+          
+",97,kuehne-bureaukrate,14,3,0.2142857142857142,0.0637301717687094,0.0,1.0733210242686213,0.1576483196383866,1.6931055489756814,0.1182362397287899,1.7763568394002506e-16,0.0,0.0,0.8886738211365316,1.3229528920209557
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Was gits, Herr Fröhlich, was bringe Sie ?
+
+          
+",97,kuehne-bureaukrate,12,2,0.1666666666666666,0.0876289861819755,0.0,0.8363441464833459,0.2167664395027816,1.3069454027320802,0.1625748296270862,1.7763568394002506e-16,0.0,0.0,0.4443369105682659,1.0860957656428076
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+Dr Herr Inspecteur en Chef kocht vor Wüet. S'därf nit heisse : « je vous transmets », wie's dr
+            Herr Sous-Inspecteur gsait hat, un nit « Veuillez trouver ci-inclus », wie's dr Herr Inspecteur hat
+            welle ha, un o nit « je vous communique », wie dr Herr Inspecteur divisionnaire g'meint hat un nit «
+            je vous adresse », wie's dr Herr Inspecteur principal adjoint a git un o nit: « Jai l'honneur de vous
+            faire parvenir », wie's dr Herr Inspecteur principal salwer anegesetzt hat! Dr Herr Inspecteur en
+            Chef will's anderscht ha!
+
+          
+",98,kuehne-bureaukrate,113,14,0.1238938053097345,0.254920687074838,0.0,1.4743859630463665,0.6305932785535464,2.271358092726234,0.4729449589151598,1.7763568394002506e-16,0.0,0.0,0.1269534030195047,2.060784556831222
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+— dass me schribt: Je vous envoie ! »
+
+          
+",99,kuehne-bureaukrate,12,1,0.0833333333333333,0.254920687074838,0.0,1.4743859630463665,0.6305932785535464,2.271358092726234,0.4729449589151597,1.7763568394002506e-16,0.0,0.0,0.1269534030195047,2.060784556831222
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Ja, un was hann Sie denn z'erscht gschriwwe g'ha ?
+
+          
+",99,kuehne-bureaukrate,13,1,0.0769230769230769,0.254920687074838,0.0,1.9760253594525916,0.6305932785535464,2.614652785197747,0.4729449589151597,0.5704274185914711,0.0,0.0,0.1269534030195047,2.634332463450074
+comedy,Fröhlich,M,office_worker,intermediate_professionals,lower_class,"
+            
+Fröhlich :
+
+            
+« Je vous envoie ! »
+
+          
+",100,kuehne-bureaukrate,8,1,0.125,0.1911905153061285,0.0,1.6335297773394082,0.4729449589151597,2.0884897814900443,0.3547087191863698,0.5704274185914711,0.0,0.0,0.1269534030195047,2.149053241013126
+comedy,Linsenspalter,M,office_manager,intermediate_professionals,lower_middle_class,"
+            
+Linsespalter :
+
+            
+Drno hann mir's jo racht g'ha ! Sag i's nit immer: E Bürokrat trifft allewil dr Nagel uff dr Kopf
+            !
+
+          
+",100,kuehne-bureaukrate,26,3,0.1153846153846153,0.1672917008928624,0.0,1.8259435976739864,0.4138268390507648,2.306327035293027,0.3103701292880736,0.7638489923236498,0.0,0.0,0.3332939579397863,2.426418773173677
+comedy,Hasepfeffer,M,office_helper,intermediate_professionals,lower_class,"
+            
+Hasepfeffer :
+
+            
+(eintretend, breit)
+
+            
+Wurum denn ebbis eifach mache, wenn's kompliziert so scheen geht ? !
+
+          
+",100,kuehne-bureaukrate,21,2,0.0952380952380952,0.0,0.0,0.8224890600332468,0.0,0.7584430726648833,0.0,0.7638489923236498,0.0,0.0,0.2063405549202818,1.0328931471932592

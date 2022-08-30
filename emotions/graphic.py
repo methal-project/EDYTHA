@@ -10,7 +10,7 @@
 '''
 
 # Requirements: seaborn, pandas, matplotlib, sys, scipy, argparse
-# Pairplot and most_positice inspired by https://rawgit.com/kujjwal02/French_Tragedies_Dataset/master/French%20Tragedies%20Final.html
+# Pairplot and most_positive inspired by https://rawgit.com/kujjwal02/French_Tragedies_Dataset/master/French%20Tragedies%20Final.html
 
 import seaborn as sb
 import pandas as pd

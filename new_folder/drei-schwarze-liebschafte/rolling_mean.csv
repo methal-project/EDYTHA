@@ -1,0 +1,4081 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(sitzt im Lehnstüehl mit eme Federwisch in de
+                        Hànd)
+                    
+
+          
+'s hat's doch noch nie kei Bedienter besser g'ha as
+                        ich!... niene thàt ich eso ne Platz finde!... mi Herr
+                        isch Astronom, das heisst mit andere Worte, er isch
+                        narràchtig... er isch awer güet z'ha... wenn ich ihm
+                        nur allewil Recht gib un si Specktifig un si Weltkugle
+                        dert abstàib, so geht alles güet
+(er steht uf)
+, er
+                        bekümmert sich sunscht um nit... er isch allewil in de
+                        Wulke... mr känne mache, was mr wànn, 's Kàtele un
+                        ich... 's isch mi Fraü, wo Kàtele heisst... mr hàn jetz
+                        sogar e Bureau de placement ag'fange... mr
+                        verschaffe-n-in de Dienstbote Plàtz... um Bezahlung! un
+                        iwerhaüpt, was sich presentiert, fir Geld z'verdiene,
+                        das iwernàmme mr, seig's was es will... hitigstags derf
+                        me nimmig halwer eso blöd si, we me züe ebbes ku will.
+                    
+
+        
+",1,lustig-drei-schwarze-liebschafte,178,14,0.0786516853932584,,,,,,,,,,,
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(streckt dr Kopf ine rechts)
+
+          
+Bisch allei, Joseph?
+
+        
+",2,lustig-drei-schwarze-liebschafte,13,1,0.0769230769230769,,,,,,,,,,,
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Jà, liewe Fraü... kumm nur ine.
+
+        
+",2,lustig-drei-schwarze-liebschafte,11,2,0.1818181818181818,,,,,,,,,,,
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Los, Kàtele... sag em doch nitt allewil dr Alt, im Herr
+                        Himmel, 's isch doch allewil unser Herr.
+                    
+
+        
+",2,lustig-drei-schwarze-liebschafte,25,6,0.24,,,,,,,,,,,
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Oh! loss mi geh mit dim Herr... Dü machsch Dich jo als
+                        z'erst lustig iwer ne, wenn er Dir vo sine Narrheite
+                        verzählt.
+                    
+
+        
+",2,lustig-drei-schwarze-liebschafte,30,3,0.1,0.340341705689213,0.483894375290783,1.25553080115864,0.5152399310589758,1.3967948408461528,0.5151195167043224,0.2126719022578556,0.7395327824710789,0.235149158725386,0.7386772092812421,1.4427463185738714
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ich müess awer o ebbes höre allewil... erst gestert hat
+                        er mir wieder dr Kopf versàgt... er hat mr verzählt,
+                        wie wit as es isch vo do bis in dr Mond un bis in
+                        d'Sunne.
+                    
+
+        
+",2,lustig-drei-schwarze-liebschafte,42,1,0.0238095238095238,0.2581922619312178,0.3934771097134751,1.3757096260837351,0.4565169307737854,1.570697548802806,0.4321138165110343,0.1787643473187103,0.7335182050292133,0.2135745600498185,1.0885843192470734,1.6900977154795018
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Das glicht em wieder... me ka jo sage so wit as me
+                        will... 's geht's Nieme geh messe!
+                    
+
+        
+",3,lustig-drei-schwarze-liebschafte,24,1,0.0416666666666666,0.1636724851670123,0.3934771097134751,1.2015990754701575,0.1989722179392072,1.3342455990656266,0.2734246500170014,0.1787643473187103,0.2227714727540975,0.2135745600498185,1.0885843192470734,1.4425116750113904
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Er isch doch sunscht nitt eso g'spràchig, dr Herr.
+
+        
+",3,lustig-drei-schwarze-liebschafte,13,1,0.0769230769230769,0.1909438324267146,0.3934771097134751,1.3481594203664575,0.2664329190553131,1.559400711488625,0.3240201758540807,0.1787643473187103,0.2227714727540975,0.2135745600498185,1.0885843192470734,1.650171843275587
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Jà, sunscht bringt me-n-em kei Wort züem Mül üse... awer
+                        wenn er vo dr Astronomie red', so isch's ganz
+                        anderscht... me müess em halt die unschuldige Freid
+                        lo... hat er nitt sogar in siner Narrheit scho g'sàit,
+                        er heb dr Mond un d'Sunne g'woge!
+                    
+
+        
+",3,lustig-drei-schwarze-liebschafte,57,8,0.1403508771929824,0.2100663360923737,0.42795926005662,1.0308651409426486,0.2574252915686473,1.109322051736461,0.3512298180864009,0.0409114629925255,0.2836956988555917,0.1842816783082525,0.6374964710016485,1.173866317731779
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(schlat d'Hànd z'amme)
+
+          
+Ich's möglig, ass dr Mensch eso wit awe ka ku!
+
+        
+",3,lustig-drei-schwarze-liebschafte,21,1,0.0476190476190476,0.0645747490984963,0.901990470494851,1.2989183980263177,0.1034268743735105,1.4738307553719423,0.1115355186274524,0.0409114629925255,0.0609242261014942,0.0542148771590343,0.5570379963202431,1.5982860259490697
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Un wie gross meinsch Dü, ass er isch, dr Mond?
+
+        
+",4,lustig-drei-schwarze-liebschafte,15,1,0.0666666666666666,0.7778218416673048,1.4266056913963392,1.578281778397859,0.5819639557015561,1.6899873312324627,0.7182024779474167,0.3090349942167424,0.8126834381906825,0.7725977534909418,0.4629675241009087,1.7001445862894944
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Dr Mond... wie mi kleine Pfanne ung'fàhr... do brücht me
+                        kei Specktifig, fir das z'sàh!
+                    
+
+        
+",4,lustig-drei-schwarze-liebschafte,22,2,0.0909090909090909,0.9072793982268648,1.4266056913963392,1.7418609008781814,0.5819639557015561,1.8134920757985296,0.8587366168864042,0.3090349942167424,0.8126834381906825,0.7725977534909418,0.4629675241009087,1.797482466708351
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ich weiss nitt, wie gross as Di kleine Pfanne-n-isch,
+                        awer wenn Dü-n-em eso ebbes thàtsch sage... doch los...
+                        siter ebbes Zit hat er e wenig g'schangiert... er lüegt
+                        weniger dur si Specktifig un isch iwerhaüpt unrüehig...
+                        un red' als Sache... me wott schiergar meine, er seig
+                        verliebt.
+                    
+
+        
+",4,lustig-drei-schwarze-liebschafte,62,6,0.0967741935483871,0.9988825663952972,1.6288866136195304,1.8366075042944077,0.5942594348067913,1.84975316827074,0.9092522509359856,0.4604617052874754,0.9379766402055472,0.9758359917801934,0.603512742952603,1.8489144460658449
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Ah!... hasch Dü das o bemerkt?... 's isch mr doch
+                        gsi!... denn ich o ha ne scho hore rede fir sich
+                        vo-n-ere Venüs, wo-n-eso schön soll si... was ka jetz
+                        das fir e Jumpfer Venüs si... er isch als ganz
+                        verklàrt!
+                    
+
+        
+",5,lustig-drei-schwarze-liebschafte,57,5,0.087719298245614,1.168711255051799,1.5653794152289282,2.025981161795202,0.5582932615493865,2.0322961962099964,1.0731668804479924,0.6014033797377358,0.8784440898450067,0.9494546294402356,0.6721222661525615,2.00507784089744
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Nitt wohr? Erst gestert ha-n-ich g'hört, ass er
+                        deklamiert hat do, wo-n-er allei gsi isch... « Endlig,
+                        endlig isch er jetz do, dà schöne Tag... Morn ka-n-ich
+                        se jetz endlig sàh... Morn geht se dure... Die
+                        G'legeheit will ich jetz awer o benutze, wenn nur schön
+                        Wetter isch... »
+                    
+
+        
+",5,lustig-drei-schwarze-liebschafte,68,6,0.088235294117647,1.184464551179167,1.3275921197277432,1.8925169488571376,0.6012173803551495,1.923911354107333,1.0996150748636644,0.69839904361669,0.9647282750083208,0.9726492251227996,0.747633560985797,2.0743682784828072
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Ah!... voilà... do hat er schint's e Brief biku vo-n-
+                        ere, ass se kunnt, un jetz hat er Angst, as es kunnt ku
+                        regne un ass se das viellicht kännt abhalte... Wer mag
+                        jetz das si, die Jumpfer Venüs? kennsch Dü ebber eso do
+                        ummenander?
+                    
+
+        
+",6,lustig-drei-schwarze-liebschafte,59,5,0.0847457627118644,0.4712174586103582,1.239592936801803,1.639401461408562,0.1226802990271039,1.6021877945480163,0.6728020411289947,0.6472152620356819,0.2129690629191326,0.2542663487908919,0.3066700674848123,1.7769378475953157
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Nei, awer uf das kasch Dü nitt geh... Venüs isch
+                        wohrschinlig ihre Vorname... ich ha-n-en scho g'sah im
+                        Kalender.
+                    
+
+          
+
+        
+",6,lustig-drei-schwarze-liebschafte,27,1,0.037037037037037,0.3417599020507982,1.239592936801803,1.4758223389282392,0.1226802990271039,1.478683049981949,0.5322679021900072,0.6472152620356819,0.2129690629191326,0.2542663487908919,0.3066700674848123,1.6795999671764583
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Aha... still... jetz kunnt mr ebbes i... 's Marie, wo
+                        Magd isch dert àne-n-an uns, hat mr g'sàit, ass si
+                        Herrschaft e Nièce erwartet dà Morge... isch das ebbe
+                        Die, un will se dr Herr Himmel viellicht hirothe? Was
+                        meinsch, Joseph, we mr e Fraü in's Hüs bekàmte!
+                    
+
+        
+",7,lustig-drei-schwarze-liebschafte,64,8,0.125,0.2262943050301262,1.1268126840506327,1.3356435450992112,0.0513567064452762,1.3438723913324122,0.4374811830329813,0.5498072195539591,0.0876758609042679,0.0510281105016403,0.2031382974558224,1.5940526427096662
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Jà... derno wàr halt unsere schöne Zit umme!... awer er
+                        in sim Alter hirothe... ich ka's schier nitt glaüwe, un
+                        doch...
+                    
+
+        
+",7,lustig-drei-schwarze-liebschafte,30,4,0.1333333333333333,0.0191622145348303,1.040992680025147,0.997266254155418,0.0513567064452762,1.068561514487016,0.2126265607306012,0.367954082111173,0.0862841851633141,0.0231945956825637,0.2664101106866058,1.3167619797944867
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+
+            
+G'sang
+
+            
+(Partant pour la Syrie)
+
+            
+Mir lehn's bi dem nitt bliwe,
+
+            
+'s derf uns kei Fraü in's Hüs,
+
+            
+Sie thàt uns G'setze schriwe
+
+          
+
+        
+",8,lustig-drei-schwarze-liebschafte,31,2,0.064516129032258,0.0034089184074627,0.5261167074475688,0.6256899443596121,0.0084325876395132,0.6183479113368803,0.1861783663149291,0.2709584182322188,0.0,0.0,0.1908988158533704,0.6437195243088013
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+(Mitnander)
+
+          
+
+            
+Drum thien mir jetz o schwöre,
+
+            
+Das soll un derf nitt g'schàh,
+
+            
+Mir wànn dàr Venüs lehre,
+
+            
+Wo si ne Mann soll nàh.
+
+            
+}bis
+
+          
+
+        
+",8,lustig-drei-schwarze-liebschafte,31,3,0.0967741935483871,0.0034089184074627,0.0895006694720207,0.3401845114075265,0.0084325876395132,0.5411846452833065,0.0063244407296349,0.05401866858901,0.0,0.0,0.4199874777541209,0.5784343549597036
+comedy,KÀTELE,F,,,,"
+          
+(Mitnander)
+
+          
+
+            
+Drum thien mir jetz o schwöre,
+
+            
+Das soll un derf nitt g'schàh,
+
+            
+Mir wànn dàr Venüs lehre,
+
+            
+Wo si ne Mann soll nàh.
+
+            
+}bis
+
+          
+
+        
+",8,lustig-drei-schwarze-liebschafte,31,3,0.0967741935483871,0.0034089184074627,0.0895006694720207,0.5085333210635908,0.0084325876395132,0.832527153918238,0.0063244407296349,0.05401866858901,0.0,0.0,0.6490761396548713,0.8539886309789573
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Un züedem hà mir o noch d'Chance fir z'erwe, wenn er
+                        nitt hirothet!
+                    
+
+        
+",8,lustig-drei-schwarze-liebschafte,19,2,0.1052631578947368,0.1294575565595599,0.3258738058470969,0.8808530555460518,0.0,1.2120267430655964,0.1405341389389875,0.0,0.0,0.0,0.6120626908321668,1.1455524574258775
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Tiens... 's isch jo wohr... er hat jo glaüb keine
+                        Frind?
+                    
+
+        
+",9,lustig-drei-schwarze-liebschafte,16,3,0.1875,0.1294575565595599,0.3258738058470969,0.8101455082780881,0.0,1.0887901526628934,0.1405341389389875,0.0,0.0,0.0,0.4581773238015009,1.0162172016403257
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+So viel ich weiss alleweg nitt... siter ass mr do sin,
+                        isch jo noch nie kei Mensch züe-n-em ku... un schriwe
+                        thüet er o in Nieme... doch halt... 
+jetz kunnt mr ebbes
+                        i: gestert z'Nacht hat er par extra ordinaire e Brief
+                        g'schriwe un hat ne noch salwer uf d'Post tràit... er
+                        hat g'sàit, er gieng doch üs.
+                    
+
+        
+",9,lustig-drei-schwarze-liebschafte,73,3,0.0410958904109589,0.1294575565595599,0.5767615618733514,0.978492349189378,0.0,1.2749896344138263,0.1405341389389875,0.0,0.0,0.0,0.4581773238015009,1.2174678742737646
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Eh... das isch an si Venüs gsi... wege dem kunnt se
+                        viellicht hit?
+                    
+
+        
+",9,lustig-drei-schwarze-liebschafte,18,2,0.1111111111111111,0.1294575565595599,0.5767615618733514,0.8101435395333138,0.0,0.983647125778895,0.1405341389389875,0.0,0.0,0.0,0.2290886619007504,0.941913598254511
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+'s isch möglich... doch i glaüb i hör ne ku... gang...
+                        fahr ab in Di Kuche 
+('s Kàtele geht üse rechts, dr
+                            Joseph stàibt ab).
+
+                    
+
+        
+",10,lustig-drei-schwarze-liebschafte,34,2,0.0588235294117647,0.1294575565595599,0.9530931959127328,0.8943149912441839,0.0,0.9716038397703632,0.1405341389389875,0.0,0.0,0.0,0.0,0.9682353311854164
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Aha... sin Ihr do Joseph?... was doch das ebbes schön's
+                        isch, d'Astronomie!... 's blibt ere nit verborge... gar
+                        nit!... me weisst jetz sogar, was dr Mond un d'Sunne un
+                        d'Sterne fir Metall in si hàn!... d'Sterne, wo doch
+                        scho-n-eso wit sin vo do, ass ihre Heitere, wo doch 77
+                        Taüsend Stund z'rucklegt in ere Secunde, 75 Johr brücht
+                        fir do uf d'Erde z'ku!
+                    
+
+        
+",10,lustig-drei-schwarze-liebschafte,93,10,0.1075268817204301,0.1062931799736182,0.8002105319327496,0.744756606227204,0.0067460701116105,0.8166122478683826,0.1174868637348979,0.1850870747514278,0.0006958378704769,0.0139167574095382,0.1473301631713697,0.8711165010980146
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Aha!... jetz packt's en wieder a... ich will em e wenig
+                        helfe.
+(lüt)
+ Meine Se, hat's o Lit dert owe, Herr
+                        Himmel?
+                    
+
+        
+",11,lustig-drei-schwarze-liebschafte,34,5,0.1470588235294117,0.1117474494255586,0.8002105319327496,0.8109674797393162,0.0202382103348317,0.925907113553264,0.1276059689023138,0.271516944493844,0.0006958378704769,0.0139167574095382,0.2065516812876968,1.0062564048078362
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Z'erst will ich Eüch sage... 's git kei « unte » un kei
+                        « owe »... d'Mensche heisse g'wöhnlig « owe », wo se dr
+                        Kopf hàn... un « unte », wo se d'Fiess hàn... awer
+                        z'Nacht derno sage se 's gliche, un ihre Position isch
+                        doch grad 's Gegetheil... denn mr sin 
+grad wie Gufe, wo
+                        ringsum in ere Balle thàte stecke un wo me derno thàt
+                        ummedràihe...
+                    
+
+        
+",11,lustig-drei-schwarze-liebschafte,86,7,0.0813953488372093,0.1156433561769447,0.5493227759064953,0.6899141199081064,0.0298754533514182,0.8177753930058174,0.1348339011647537,0.333252565738427,0.0006958378704769,0.0139167574095382,0.2488527656565019,0.9015342348242696
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das isch alles recht... awer, wie kunnts denn derno, ass
+                        z'Nacht züem Exempel d'Milch nitt üslaüft, wenn dr Hafe
+                        z'unterscht z'ewerscht steht?
+                    
+
+        
+",12,lustig-drei-schwarze-liebschafte,33,2,0.0606060606060606,0.1156433561769447,0.5493227759064953,0.8809688480716966,0.485049559124054,0.9819079879476404,0.1348339011647537,0.333252565738427,0.0006958378704769,0.0139167574095382,0.2488527656565019,1.121191171689175
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Das kunnt her, will d'Erde-n-alle Gegestànd an sich
+                        zieht, am Tag wie z'Nacht.
+                    
+
+        
+",12,lustig-drei-schwarze-liebschafte,23,2,0.0869565217391304,0.1292790298067958,0.1729911418671136,0.7939757704850421,0.518779909682107,0.975845929533444,0.1601316640832934,0.5493272400944675,0.0006958378704769,0.0139167574095382,0.3969065609473197,1.1571649220135698
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Dass müess si... denn se hat mich diemol o azoge
+                        z'Nacht... d'Stege-n-awe!... ich ha-n-è Fehltritt
+                        g'macht un hasch mi g'sàh... ich bin eso g'schwind
+                        dunte gsi as wenn's am Tag gsi wàr.
+                    
+
+        
+",12,lustig-drei-schwarze-liebschafte,47,1,0.0212765957446808,0.0229858498331776,0.0,0.4700862665360628,0.5120338395704963,0.6247323860423941,0.0426448003483954,0.3642401653430396,0.0,0.0,0.24957639777595,0.7891751024991532
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Un Ihr meine noch, eb's o Lit hat dert owe!...
+                        Wisse-n-Ihr denn nitt, ass es dert viel grössere un
+                        schönere Welte hat, wo màngmol bis acht Mond drum umme
+                        gehn, wàhrend ass mir do nur einer hàn.
+                    
+
+        
+",13,lustig-drei-schwarze-liebschafte,50,5,0.1,0.0229858498331776,0.0,0.4700862665360628,0.5120338395704963,0.6247323860423941,0.0426448003483954,0.3642401653430396,0.0,0.0,0.24957639777595,0.7891751024991532
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Jo... un dà müess noch voll si, bis ass er e wenig
+                        Effekt macht!
+                    
+
+        
+",13,lustig-drei-schwarze-liebschafte,19,2,0.1052631578947368,0.0190899430817916,0.0,0.6802947944122159,0.5023965965539098,0.9332849552538852,0.0354168680859555,0.3025045440984567,0.0,0.0,0.4830642619049825,0.9766586525244254
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Was isch denn derno dr Mensch uf dr Erde, Joseph... uf
+                        dem Sandkärnle, wo in dr Unendligkeit mit noch viel
+                        Andere-n-umme schwebt!... Wie Omeise laüfe mr drum
+                        umme, un wenn d'ganze Menschheit uf eimol z'Grund
+                        gieng, so thàt das in dem allem nitt 's G'ringste
+                        changiere.
+                    
+
+        
+",14,lustig-drei-schwarze-liebschafte,61,7,0.1147540983606557,0.0229858498331776,0.0,0.5905969050920644,0.0568597337978606,0.9313554002133508,0.0426448003483954,0.4142346012358118,0.0,0.0,0.5253653462737875,0.9551026710078936
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Ich bi nitt vo dr gliche Meinung... wenn jetz nur er
+                        allei thàt sterwe un hätt uns nitt in si Testement
+                        g'setzt, so wàre mir do im e schöne Dunkes, 's
+                        Kàtele-n-un ich!
+                    
+
+        
+",14,lustig-drei-schwarze-liebschafte,44,4,0.0909090909090909,0.0977088986741578,0.157745202333997,0.650587832788354,0.0875155614484522,0.9468916019442446,0.1272863985228577,0.1981599268797713,0.1276866830687789,0.0,0.3773115509829697,0.9236419268808352
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Nit, Joseph...
+
+        
+",15,lustig-drei-schwarze-liebschafte,7,2,0.2857142857142857,0.111344572304009,0.157745202333997,0.8161150165686344,0.1212459120065051,1.220128766156448,0.1525841614413974,0.4142346012358118,0.1276866830687789,0.0,0.5253653462737875,1.2614916861553889
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(unterbricht ne)
+
+          
+Hein!... worum nitt...
+
+        
+",15,lustig-drei-schwarze-liebschafte,11,1,0.0909090909090909,0.1058903028520685,0.157745202333997,0.7499041430565223,0.1077537717832839,1.1108339004715666,0.1424650562739816,0.3278047314933956,0.1276866830687789,0.0,0.4661438281574604,1.126351782445567
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Nit thüet dr Geist so in d'Höche schwinge, wie
+                        d'Astronomie!
+                    
+
+        
+",15,lustig-drei-schwarze-liebschafte,17,3,0.1764705882352941,0.114980751938636,0.157745202333997,0.751680966511459,0.1302406721553192,1.1408047870380935,0.159330231553008,0.6759733048453231,0.1276866830687789,0.0,0.2890574098535013,1.34506982585796
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+            
+
+              
+G'sang
+
+              
+(Ah te dirais-je Maman)
+
+              
+Sternle, wie sin Ihr so schön,
+
+              
+Wenn ihr z'Nacht am Himmel stehn!
+
+              
+Wie so gern thüe-n-eüch b'schaüe
+
+              
+Un mi Seel eüch avertraüe!
+
+              
+Sternle, Sternle-n-unbekannt,
+
+              
+Sin ihr viellicht 's g'lobte Land?
+
+            
+
+          
+",15,lustig-drei-schwarze-liebschafte,49,7,0.1428571428571428,0.1110848451872499,0.2740759228634174,0.8308306395803244,0.1206034291387327,1.256814656714674,0.1521022992905681,0.8558278856780088,0.1286807371694602,0.0513477325782267,0.4425312806485021,1.5396037047035112
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+            
+Joseph
+
+            
+(züe glicher Zit mit ere Variation)
+
+            
+
+              
+Was hat er z'verzähle wieder?
+
+              
+Vor de Sterne kneit er nieder,
+
+              
+In de Wulke thüet er schwewe,
+
+              
+Kràbst wer weiss wie hoch.
+
+              
+Glaübt me, we me-n-ihn thüet b'schaüe,
+
+              
+Ass er jetzt noch denkt an d'Fraüe,
+
+              
+Un thàt's ebber denn errothe,
+
+              
+Ass er hat im Sinn z'hirothe?
+
+              
+D'Astronome sin halt Narre,
+
+              
+Ich ha's ebbe scho-n-erfahre,
+
+              
+We me müess mit ihne lewe,
+
+              
+Wird me's wisse doch.
+
+            
+
+          
+",16,lustig-drei-schwarze-liebschafte,97,8,0.0824742268041237,0.0227261227164186,0.1801762514665918,0.6944015239661486,0.0562172509300881,1.0683860059659285,0.0421629381975661,0.9129836046043328,0.0009940541006812,0.0513477325782267,0.5117780604068225,1.354010780425666
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Zeige jetz, Joseph... mache-n-ass Ihr fertig werde un
+                        lehn mi derno-n-allei... ich will durchüs nitt
+                        derangiert si dà Morge... höre-n-Ihr, Joseph? durchüs
+                        hitt!
+(fir sich)
+ am Zehne-n-un 17 Minüte müess sie sich
+                        ifinde
+(er lüegt uf d'Ühre)
+ 's isch jetz Dreiviertel... 
+
+                        ich ha grad dr Zit mich z'rischte
+(er macht sich
+                        z'schaffe-n-am Tisch)
+.
+                    
+
+        
+",17,lustig-drei-schwarze-liebschafte,84,11,0.1309523809523809,0.0437001070086608,0.2235987574714912,0.6795059560173083,0.0520328470948247,1.0006673499263008,0.0793952150788381,0.7361952346766631,0.0474255752166008,0.0513477325782267,0.4407865821684875,1.2269866696583986
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Also am Zehne-n-un 17 Minüte... güet... ich will jetz
+                        emol lüege, was das fir Eine-n-isch, wo-n-em eso dr
+                        Kopf verdreiht.
+(lüt)
+ Hàn Sie nit meh z'b'sorge, Herr?
+                        ich gang jetz...
+                    
+
+        
+",18,lustig-drei-schwarze-liebschafte,52,5,0.0961538461538461,0.2562864669558972,0.2235987574714912,0.9705446209650846,0.0655249873180458,1.2433059637166082,0.314368942548634,0.7361952346766631,0.0474255752166008,0.0513477325782267,0.4407865821684875,1.4242593119814089
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Nei... 's isch güet,
+(Joseph geht hinte-n-üse) Herr
+                        Himmel, allei:)
+ Mi Herz schlat voller Erwartung... 's
+                        isch ewe ne seltene-n-Erschinung, wo me benutze
+                        müess... me sieht nitt alle Tag d'Venüs vor dr Sunne
+                        duregeh... wie lang ha-n-ich scho blangt druf, fir
+                        g'wisse Rechnunge z'verifiziere... wenn nur keine Wulke
+                        kämme!...
+(er richtet si Fernrohr)
+ bis dohi isch nit
+                        z'ferchte
+(er lüegt uf d'Ühre)
+ noch e Minüte-n-un mi
+                        Wunsch wird erfillt
+(er sitzt an si Femrohr un nimmt
+                        d'Ühre-n-in d'Hand)
+ jetz heisst's ufpasst... wenn nur
+                        im Nochber si Amsle nitt grad wieder afangt z'pfiffe...
+                        me glaübt nitt, wie mich das Vieh agàçiert mit sim «
+                        Schnider isch e Fadedieb! » 's isch als kei Red meh vom
+                        Rechne... ich kenn als kei Zahle meh!....
+(er lüegt
+                        in's Fernrohr)
+ o weh!... jetz kunnt grad e Wulke
+                        dert... wenn sie's scho express thàt mache, so hätt's
+                        se's nitt besser känne-n-errothe... se kunnt... se
+                        kunnt... un hasch mi g'sàh... jetz isch d'Sunne
+                        derhinter!... das isch jetz awer do ch züe arg, me
+                        möcht si d'Hoor üsrisse!...
+(me hört d'Amsle pfiffe)
+
+                        So... un das jetz o noch!... Oh!... ich müess furt...
+                        ich müess üse... dr Zorn bringt mi sunscht um... wenn
+                        ich nur das Vieh kännt ha, ass ich em emol kennt dr
+                        Hals umdreihe!... Oh, ich müess se ha... ich kaüf's em
+                        eher ab... awer ich will se ha... ich müess se ha!
+(er
+                        geht hinte-n-üse)
+.
+                    
+
+        
+",19,lustig-drei-schwarze-liebschafte,328,29,0.0884146341463414,0.278854646411815,0.3122369745566452,0.9111416705810208,0.0906494921927552,1.068116155700812,0.3634951625656243,0.4743656648649873,0.0871388066997895,0.071848448056757,0.4302395652412394,1.2235278223564443
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+D'Jumpfer Venüs denn!... 's isch e schöne, grosse
+                        Person... dr Herr isch nitt emol dumm... am Zehne scho
+                        bin i awe-n-un ha-n-ufpasst... un küm bin i dert gsi,
+                        so isch se-n-aku... noch frieiher, ass se dr Herr
+                        erwartet hat... se hat e Reistàsche g'ha un isch bim
+                        Nochber ine.
+                    
+
+        
+",20,lustig-drei-schwarze-liebschafte,69,7,0.1014492753623188,0.2944382734173592,0.29819273342382,0.8826654797962347,0.1291984642591014,0.985187602013367,0.392406891615384,0.1827810268949464,0.0861447525991082,0.0205007154785303,0.2344646100774337,1.0513643795549286
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Ah so! Dü gehsch geh uf d'schöne Jumpfraüe passe un
+                        losch mich allei in dr Kuche!
+                    
+
+        
+",21,lustig-drei-schwarze-liebschafte,21,3,0.1428571428571428,0.3259448656720943,0.2343472024866486,0.8516133341383665,0.2150467018706274,0.963660203398075,0.4453032804467283,0.1256253079686224,0.2563936633574801,0.0205007154785303,0.1652178303191132,1.0130969688413154
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+'s isch jo fir uns alle beide, ass ich g'lüegt ha... mr
+                        mien doch wisse, was mr z'ferchte hàn un was
+                        z'mache-n-isch.
+                    
+
+        
+",21,lustig-drei-schwarze-liebschafte,32,2,0.0625,0.4207927643095608,0.1909246964817491,0.864560840787249,0.185500755147838,0.8816464397915666,0.5233073795859042,0.0863390035402514,0.2099621422415605,0.0205007154785303,0.0881555132666304,0.8996092007528859
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Jà meinsch Dü wirklig, ass dr Herr im Sinn hat
+                        z'hirothe?
+                    
+
+        
+",21,lustig-drei-schwarze-liebschafte,16,2,0.125,0.2218420779921756,0.1909246964817491,0.646802348287623,0.2057389654826697,0.7515853822127587,0.3136314150346479,0.0863390035402514,0.2099621422415605,0.0205007154785303,0.0881555132666304,0.8061666425619739
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Eb er im Sinn hat z'hirothe!... er isch jo ganz firig un
+                        red vo nit meh as vo siner Venüs... erst vorig isch er
+                        d'Stege-n-awe wie ne Pfil un hat g'sàit fir sich: «Ich
+                        will se ha, ich müess se ha! » un meinsch 
+ nur, was er
+                        diemol g'sàit hat!... 's kunnt mr jetz grad i... ich ha
+                        g'lost an dr Thüre un do hat er vo siner Venüs g'ha...
+                        un ich ha ganz ditlig g'hört, wo-n-er g'sàit hat: «
+                        Wenn ich das wott wisse, so miesst ich se halt känne
+                        b'schaüe glich am Morge, wenn se-n-ufsteht. »
+                       
+(schelmisch)
+ Was meinsch, Kàtele... was wott er
+                        wisse... hein?
+                    
+
+        
+",22,lustig-drei-schwarze-liebschafte,139,8,0.0575539568345323,0.2225478385895804,0.1022864793965951,0.6647858247093146,0.1581275602359251,0.8164585935818056,0.282773554473378,0.1636458519701023,0.1702489107583719,0.0,0.0,0.8609777159292488
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Oh! Joseph... wenn nur Dü o noch so wàrsch gege Di
+                        Kàtele!
+                    
+
+        
+",23,lustig-drei-schwarze-liebschafte,17,1,0.0588235294117647,0.2069642115840362,0.0,0.5127555035817964,0.1195785881695789,0.6211742376913825,0.2538618254236183,0.1636458519701023,0.1702489107583719,0.0,0.0,0.64050632453684
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Vor allem z'àmme, Kàtele, wà mr z'erst lüege, wie mr in
+                        dere G'fohr känne-n-üswiche... denn nitt wohr, mr wànn
+                        durchüs kei Fraü im Hüs ha?
+                    
+
+        
+",23,lustig-drei-schwarze-liebschafte,37,3,0.081081081081081,0.1754576193293011,0.0,0.6972809137299686,0.0337303505580529,0.713673148941765,0.4237125438383325,0.1636458519701023,0.1918320283044346,0.0,0.0,0.6765462995741014
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(lost)
+
+          
+Still!... ich hör 's Kleine grine... 's hat Mundfile, dà
+                        arme Tropf! hörsch's, Joseph?... gang nimm's e wenig un
+                        mach's z'schwige.
+                    
+
+        
+",23,lustig-drei-schwarze-liebschafte,38,4,0.1052631578947368,0.0460000627697411,0.0,0.5337017912496458,0.0337303505580529,0.5901684043756978,0.283178404899345,0.1636458519701023,0.1918320283044346,0.0,0.0,0.5792084191552447
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(zornig)
+
+          
+Un Dü... was bisch Dü anders!
+
+        
+",24,lustig-drei-schwarze-liebschafte,12,2,0.1666666666666666,0.4621774733973348,0.0,0.8942885063770729,0.0,0.7520343525316745,0.5777311147510291,0.1636458519701023,0.1918320283044346,0.0,0.0,0.5357231643466054
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Alleweg emol si Müetter nitt... sàll isch sicher!
+
+        
+",24,lustig-drei-schwarze-liebschafte,12,1,0.0833333333333333,0.4298130842574448,0.0,0.6764291479282751,0.0,0.4457597321969185,0.5425975800162822,0.0,0.1918320283044346,0.0,0.0,0.1789134845167578
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Dü bisch e dummer Gàiferi, ass De's nur weisch!
+(se geht
+                        hinte-n-üse)
+.
+                    
+
+        
+",24,lustig-drei-schwarze-liebschafte,22,1,0.0454545454545454,0.4298130842574448,0.0,0.6764291479282751,0.0,0.4457597321969185,0.5425975800162822,0.0,0.1918320283044346,0.0,0.0,0.1789134845167578
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Die Hiroth... die Hiroth steckt mr im Kopf... was isch
+                        nur o z'mache, ass das Ding züe nit geht.
+                    
+
+        
+",24,lustig-drei-schwarze-liebschafte,29,1,0.0344827586206896,0.6887281973765648,0.0,0.7610251325362226,0.0,0.5214529934996104,0.6009187506481989,0.0,0.0,0.0,0.0,0.2550205901611727
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(kunnt z'ruck)
+
+          
+Do isch e junger Mensch, Joseph, wo mit Dir rede wott
+                       
+(Herr Silwer kunnt hinte-n-ine un salütiert. Kàtele
+                        geht hinte-n-üse rechts)
+.
+                    
+
+        
+",24,lustig-drei-schwarze-liebschafte,37,4,0.1081081081081081,0.8177545029323504,0.0,0.9733043875251722,0.104848510034247,0.6793540693299699,0.7822610126114784,0.0,0.0,0.1835258930137222,0.0,0.378993387562847
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+So, so... un was wàr Ihne g'fàllig, güeter Frind?
+
+        
+",25,lustig-drei-schwarze-liebschafte,15,2,0.1333333333333333,0.3879414186749055,0.0,0.539437499949595,0.104848510034247,0.4049105649624938,0.4624105398412546,0.0,0.0,0.1835258930137222,0.0,0.3186485582393881
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(salütiert)
+
+          
+Sie sin dr Herr Kütz?... ich hätt Ene do ne Brief abz'gà
+                        vo mim Vater.
+                    
+
+        
+",25,lustig-drei-schwarze-liebschafte,23,4,0.1739130434782608,0.4152127659346078,0.0,0.6859978448458952,0.1723092111503529,0.6300656773854925,0.513006065678334,0.0,0.0,0.1835258930137222,0.0,0.5263087265035846
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(nimmt en un liest)
+
+          
+Eh, tiens!... 's isch jo wohr... Sie sin jo mi
+                        Gottekind... dr Suhn vo mim güete Frind Silwer vo
+                        Colmer!... ich hatt Sie schier nimmig erkennt... 's
+                        isch halt scho ziemlig lang; ass Sie vo hie furt sin!
+                    
+
+        
+",25,lustig-drei-schwarze-liebschafte,55,9,0.1636363636363636,0.4152127659346078,0.0,0.6859978448458952,0.1723092111503529,0.6300656773854925,0.513006065678334,0.0,0.0,0.1835258930137222,0.0,0.5263087265035846
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Jo... 's wird jetz zeh Johr.
+
+        
+",25,lustig-drei-schwarze-liebschafte,11,2,0.1818181818181818,0.1699333264453391,0.0,0.4321197723333999,0.2060395617084058,0.4956337444648574,0.2572355507188985,0.0,0.0,0.1835258930137222,0.0,0.4354630497979693
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ihre Vater hat Ene schint's g'sàit, Sie solle sich an
+                        mich, Ihre Gätte, wende... ich kännt Ene viellicht e
+                        Platz verschaffe hie... hat's Ene denn nimmig g'falle
+                        z'Colmer bi Ihrem Guldschmidt? 's isch doch e schön
+                        Handwerk, Bijoutier!
+                    
+
+        
+",26,lustig-drei-schwarze-liebschafte,51,6,0.1176470588235294,0.0732221847767697,0.1570464116884963,0.3924392974182799,0.1155943818638893,0.5207977780773655,0.0932511482150379,0.1761132920702931,0.0151937438151477,0.0735353259255546,0.1507846477801608,0.5379760089045036
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+'s hätt mr wohl g'falle... awer 's isch... 's wàr... ich
+                        hätt...
+                    
+
+          
+
+        
+",26,lustig-drei-schwarze-liebschafte,19,4,0.2105263157894736,0.0800400215916952,0.2708971350985146,0.511216353354024,0.1324595571429158,0.7364577780467263,0.1059000296743078,0.3387147168882566,0.0151937438151477,0.1386353479276277,0.3343955983614891,0.8494647156246877
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Güet, güet... ich merk's scho... 's wird e-n-àime ne
+                        Liebschaft nitt üsg'falle si no Ihrem Wunsch... ich ha
+                        das Ding zwische de Zilde g'lese-n-in Ihrem Brief.
+('s
+                        Kàtele kunnt iue rechts)
+.
+                    
+
+        
+",26,lustig-drei-schwarze-liebschafte,46,3,0.0652173913043478,0.0527686743319929,0.2708971350985146,0.3646560084577238,0.0649988560268099,0.5113026656237276,0.0553045038372284,0.3387147168882566,0.0151937438151477,0.1386353479276277,0.3343955983614891,0.641804547360491
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Eh bien... ich will ufrichtig si... als güeter Frind vo
+                        mim Vater ka-n-ich's Ihne wohl sage, 's isch wohr...
+                        ich ha ne Jumpfere gern g'ha... awer ihre-n-Eltere
+                        hàn's nitt welle lide, wil ich kei Vermöge ha... un
+                        jetz hàn Sie se uf Strossburg g'schickt züe-n-ere
+                        Tante, fir ass ich se nimmig sott sàh... ich ha nitt
+                        emol meh dr Zit g'ha, mit ere z'sede, so g'schwind
+                        isch's gange.
+                    
+
+        
+",27,lustig-drei-schwarze-liebschafte,93,18,0.1935483870967742,0.0686679221308163,0.3424565427372281,0.4834239360787729,0.1036697057895078,0.6482996567772016,0.1191022752280927,0.405413005359183,0.0623538076242955,0.1653390502587664,0.4097118832998727,0.8045854288178031
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Se hàn's o nitt welle ha, wil Sie ne wenig lichtsinnig
+                        sin... nitt wohr?
+                    
+
+        
+",27,lustig-drei-schwarze-liebschafte,20,3,0.15,0.0550322485009652,0.4916070161633138,0.4984743921383421,0.0699393552314549,0.7052537493348796,0.093804512309553,0.405413005359183,0.0623538076242955,0.1653390502587664,0.4097118832998727,0.8666291045582121
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Wil ich e wenig müethwillig bi, wànn Se sage?
+
+          
+
+            
+G'ang
+
+	    
+(Enfants de Bacchus)
+
+            
+Wer sich viel Kummer macht,
+
+            
+Wer nie singt un nie lacht,
+
+            
+Dà isch z'bedüre halt,
+
+            
+Denn g'wiss, er wird nitt alt!
+
+            
+Drum will ich liewer nitt
+
+            
+Mich züe arg krànke hit
+
+            
+Un d'Zit nàh, wie se-n-isch,
+
+            
+So blib ich g'sund un frisch.
+
+            
+Ich will kei Sorge ha,
+
+            
+Will üs em Kopf sie schla,
+
+            
+Denn dis nutzt jo doch nit,
+
+            
+'s kunnt alles mit dr Zit!
+
+          
+
+        
+",28,lustig-drei-schwarze-liebschafte,101,15,0.1485148514851485,0.0827189383878621,0.3988442147819174,0.5370339859527805,0.0965766138137943,0.7243719198557248,0.1202955660145741,0.2292997132888898,0.137706866090465,0.0918037243332118,0.2956990953194235,0.8024891068265699
+comedy,Herr SILWER,M,,,,"
+          
+(Mitnander)
+
+          
+
+            
+Mir wànn kei Sorge ha,
+
+            
+Wànn üs em Kopf sie schla,
+
+            
+Denn das nutzt jo doch alles nitt,
+
+            
+'s kunnt alles mit dr Zit!
+
+          
+
+        
+",29,lustig-drei-schwarze-liebschafte,31,4,0.1290322580645161,0.0759011015729365,0.41419417495396,0.6138976833467915,0.0797114385347678,0.5991092529715287,0.2594312274626847,0.0666982884709263,0.3060353989687191,0.0267037023311387,0.1120881447380952,0.5641993501312574
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+(Mitnander)
+
+          
+
+            
+Mir wànn kei Sorge ha,
+
+            
+Wànn üs em Kopf sie schla,
+
+            
+Denn das nutzt jo doch alles nitt,
+
+            
+'s kunnt alles mit dr Zit!
+
+          
+
+        
+",29,lustig-drei-schwarze-liebschafte,31,4,0.1290322580645161,0.0759011015729365,0.5433948585360209,0.8095384366765467,0.0797114385347678,0.6895065860566935,0.4112157703700651,0.0666982884709263,0.4743639318469732,0.0267037023311387,0.1120881447380952,0.6373983001561291
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+So, so... un do sin Sie also uf Milhüse ku, fir sich e
+                        wenig z'vergesse?
+                    
+
+        
+",29,lustig-drei-schwarze-liebschafte,22,4,0.1818181818181818,0.124730632053893,0.6600012679169982,0.8988202009791264,0.04104058877207,0.7539115784994528,0.4176850684486947,0.0,0.4272038680378254,0.0,0.0367718597997116,0.6742243633833249
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Un fir ebbes z'verdiene... denn ich müess Ihne g'steh,
+                        ass ich kei Rappe meh im Sack ha.
+                    
+
+        
+",29,lustig-drei-schwarze-liebschafte,24,4,0.1666666666666666,0.1962772471485986,0.5108507944909124,0.9289192199356436,0.0579057640510964,0.7024210801190589,0.5006010193774583,0.0,0.4272038680378254,0.0,0.0367718597997116,0.6089345857862952
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Diable, diable!... zeig, Kàtele, Dü wo mit alle
+                        Gottebàsi üs em Quartier thüesch ràtsche... weisch Dü
+                        nit fir dà junge Mensch?
+                    
+
+        
+",30,lustig-drei-schwarze-liebschafte,30,2,0.0666666666666666,0.2657329499340455,0.4465671841838124,0.881339968527698,0.0168651752790264,0.6237425447214135,0.5972862451520058,0.0,0.3366570657565082,0.0,0.0,0.5439267074285854
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Wart... ich müess mi b'sinne...
+(se b'schaüt dr Herr
+                        Silwer vo alle Site)
+.
+                    
+
+        
+",30,lustig-drei-schwarze-liebschafte,20,3,0.15,0.2748233990206129,0.5793698882227656,0.9025053154814262,0.0393520756510617,0.7920785446644218,0.5144404559019088,0.0,0.1683285328782541,0.0546587914892342,0.1761638077051672,0.7260086343741825
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Ich müess doch lüege, züe was as er güet möcht si
+
+        
+",30,lustig-drei-schwarze-liebschafte,14,1,0.0714285714285714,0.2748233990206129,0.4501692046407046,0.7068645621516711,0.0393520756510617,0.7016812115792571,0.3626559129945282,0.0,2.220446049250313e-17,0.0546587914892342,0.1761638077051672,0.6528096843493109
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+In sim Alter isch me fir alles güet.
+
+        
+",30,lustig-drei-schwarze-liebschafte,11,3,0.2727272727272727,0.2963996584472063,0.2620033876210138,0.702144348238876,0.0393520756510617,0.7469311782306726,0.3860782694843595,0.0,2.220446049250313e-17,0.0546587914892342,0.3813442970793885,0.6905416676581104
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Aha, still!... ich weiss ebbes... dr Seiler dert unte
+                        süecht ebber, fir ihm 's Rad z'dràihe.
+                    
+
+        
+",30,lustig-drei-schwarze-liebschafte,25,3,0.12,0.311158081058874,0.2620033876210138,0.6927674490948547,0.0224869003720352,0.7112265242192675,0.396851744514921,0.0,2.220446049250313e-17,0.0546587914892342,0.3813442970793885,0.6548496056618708
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das war eso ebbes, junger Mensch... 's isch nitt
+                        difficil un...
+                    
+
+          
+
+        
+",30,lustig-drei-schwarze-liebschafte,16,1,0.0625,0.181700524499314,0.2620033876210138,0.529188326614532,0.0224869003720352,0.5877217796532002,0.2563176055759334,0.0,2.220446049250313e-17,0.0546587914892342,0.3813442970793885,0.5575117252430141
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Ich 's Rad dràihe!... par Exemple... merçi, worum nitt
+                        glich e-n-Orgle dràihe!
+                    
+
+        
+",31,lustig-drei-schwarze-liebschafte,22,2,0.0909090909090909,0.1862457490425977,0.0,0.3856623987791986,0.0337303505580529,0.4415660028365263,0.2126766148371897,0.0,2.220446049250313e-17,0.0,0.2051804893742213,0.4060609324046436
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ebbes anders denn... Kàtele, Dü hasch 's Wort.
+
+        
+",31,lustig-drei-schwarze-liebschafte,13,2,0.1538461538461538,0.1862457490425977,0.2925042084476709,0.7542652630831743,0.0337303505580529,0.7542839167460282,0.2126766148371897,0.0,2.220446049250313e-17,0.0,0.2051804893742213,0.6367349829690672
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Dà Rentier do nàwes will in sim Kleine d'Müsik lehre
+                        lo... 's Klavier glaüb...
+                    
+
+        
+",31,lustig-drei-schwarze-liebschafte,19,5,0.2631578947368421,0.1596261542782948,0.4144260489343432,0.7342673329326884,0.0912762277699005,0.7345252922263844,0.2164911773424616,0.0,0.0974787617623907,0.0569137087692377,0.1726596461003286,0.6129107599007746
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Aha!... voilà... das wàr ebbes bessers... nitt wohr,
+                        junger Mensch?... Müsikprofesser, das isch kei schlecht
+                        Handwerk... Sie werde jo wohl e wenig Müsik versteh?
+                    
+
+        
+",31,lustig-drei-schwarze-liebschafte,36,5,0.1388888888888889,0.0733211165719215,0.5055066276623579,0.6909241603818086,0.0912762277699005,0.7796857733398952,0.1228017513831366,0.1300811398543707,0.0974787617623907,0.1089937263708962,0.3195484065653912,0.7556777713448447
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+E wenig, jo... ich ha ne Zit lang d'Gige g'lehrt.
+
+        
+",31,lustig-drei-schwarze-liebschafte,17,4,0.2352941176470588,0.0801389533868471,0.5055066276623579,0.7275642466058836,0.1081414030489269,0.8359745514456447,0.1354506328424064,0.1300811398543707,0.0974787617623907,0.1089937263708962,0.3195484065653912,0.8075928134108938
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Eh parbleu... das isch, was Se brüche... wenn Sie d'Gige
+                        g'lehrt hàn, so känne Sie ganz güet Klavierstunde gà.
+                    
+
+        
+",32,lustig-drei-schwarze-liebschafte,27,4,0.1481481481481481,0.0665032797569959,0.6285724226799756,0.8554902913313688,0.074411052490874,1.05232956714368,0.1101528699238667,0.2119040658394219,0.0974787617623907,0.1089937263708962,0.4651946910313582,1.02789182084453
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Oho!... 's isch jo gar kei Verglich zwische dàne zwei
+                        Instrumente!
+                    
+
+        
+",32,lustig-drei-schwarze-liebschafte,17,2,0.1176470588235294,0.0801389533868471,0.3360682142323046,0.5601675994755432,0.1081414030489269,0.8521892094456772,0.1354506328424064,0.2119040658394219,0.0974787617623907,0.1089937263708962,0.4651946910313582,0.9010478544122048
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+'s isch allewil Müsik... mit e wenig Toupet ziehn Sie
+                        sich scho drüs... gehn Sie nur awe züe dem Herr un
+                        proposiere Sie sich un lehn Sie sich glich e Monet
+                        vorzahle... se sage, 's seig eso Ihre G'wohnet... we me
+                        derno nitt z'friede mit Ene-n-isch, was froge Sie
+                        derno... 's Geld hàn Se.
+                    
+
+        
+",32,lustig-drei-schwarze-liebschafte,67,5,0.0746268656716417,0.0259077798967172,0.3164039425525416,0.5503999061586919,0.0640876660603005,0.9038576229818196,0.0480657495452253,0.3488816463807703,2.220446049250313e-17,0.0520800176016585,0.5427024344047666,1.016357426507924
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Das geht nitt... ich kenn jo gar nit vom Klavier.. ich
+                        weiss nitt emol, wie d'Note placiert sin.
+                    
+
+        
+",33,lustig-drei-schwarze-liebschafte,26,2,0.0769230769230769,0.0395434535265683,0.2253233638245269,0.5579705028375067,0.0978180166183534,0.8889382017024301,0.073363512463765,0.2188005065263995,2.220446049250313e-17,0.0,0.3958136739397039,0.9125285789167144
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Sie froge-n-Ihre-n-Elève... er weisst viellicht.
+
+        
+",33,lustig-drei-schwarze-liebschafte,13,1,0.0769230769230769,0.0327256167116427,0.2253233638245269,0.5213304166134317,0.0809528413393269,0.8326494235966806,0.0607146310044951,0.2188005065263995,2.220446049250313e-17,0.0,0.395813673939704,0.8606135368506651
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Do wàr's also mi Élève, wo mir Lectione gàb?
+
+        
+",33,lustig-drei-schwarze-liebschafte,15,2,0.1333333333333333,0.0463612903414939,0.1022575688069092,0.3934043718879465,0.1146831918973798,0.6162944078986456,0.0860123939230348,0.1369775805413483,2.220446049250313e-17,0.0,0.2501673894737369,0.6403145294170288
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das hat me scho vielmol g'sàh, ass dr Elève stärker isch
+                        as dr Meister .
+                    
+
+        
+",33,lustig-drei-schwarze-liebschafte,18,2,0.1111111111111111,0.0327256167116427,0.4363782296759969,0.7370958817520046,0.0809528413393269,1.0393958020347598,0.0607146310044951,0.518065380571749,2.220446049250313e-17,0.0,0.6312551895041376,1.012232298880215
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Das isch e wenig z'stark... ich traü's nitt z'woge.
+
+        
+",33,lustig-drei-schwarze-liebschafte,17,3,0.1764705882352941,0.0363617963462697,0.3341206608690875,0.6123854755072751,0.089947601488141,0.835885766911612,0.0674607011161057,0.3810878000304006,2.220446049250313e-17,0.0,0.3810878000304006,0.7526280779475465
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Junger Mensch, ich sieh scho, dr güete Wille fehlt
+                        Ene... was nutzt's Ihne Plàtz az'trage, wenn Sie keiner
+                        wànn anàh.
+                    
+
+        
+",34,lustig-drei-schwarze-liebschafte,28,3,0.1071428571428571,0.0227261227164186,0.3341206608690875,0.7018904040966218,0.0562172509300881,0.8190239799822517,0.2273475904795185,0.3810878000304006,0.248837170737347,0.2684928473829278,0.3810878000304006,0.7412683244225546
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Possige Plàtz, wo-n-er mir do atràit.
+
+        
+",34,lustig-drei-schwarze-liebschafte,16,3,0.1875,0.1181216095093593,0.3341206608690875,0.8597966007156037,0.0787041513021234,0.9764121805006294,0.3379021917178699,0.3810878000304006,0.248837170737347,0.2684928473829278,0.3810878000304006,0.8753803007898581
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Voyons, Kàtele... hasch viellicht noch ebbes anders?
+
+        
+",34,lustig-drei-schwarze-liebschafte,12,2,0.1666666666666666,0.1044859358795081,0.3341206608690875,0.7865164282674536,0.0449738007440705,0.86383462428913,0.3126044287993302,0.3810878000304006,0.248837170737347,0.2684928473829278,0.3810878000304006,0.7715502166577599
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Jetz gr ad nitt... still! 's kunnt ebber 's wird doch
+                        ebbe dr Herr nitt si... awer nei... dà kunnt jetz no
+                        nitt heim...
+(se geht hinte-n-üse geh lüege)
+.
+                    
+
+        
+",34,lustig-drei-schwarze-liebschafte,41,2,0.048780487804878,0.1181216095093593,0.0,0.4428249184033955,0.0787041513021234,0.4407332301530157,0.3379021917178699,0.0,0.248837170737347,0.2684928473829278,0.0,0.3996324471945737
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+We me hitigstags will Geld verdiene, so derf me nitt so
+                        verschrocke si... 's Toupet macht alles!
+                    
+
+        
+",35,lustig-drei-schwarze-liebschafte,22,4,0.1818181818181818,0.1090311604227919,0.0,0.5227224745827455,0.0562172509300881,0.5589916912195051,0.3210370164388435,0.0,0.248837170737347,0.2684928473829278,0.1378944742489187,0.4724184174440805
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(kunnt ine)
+
+          
+'s isch die Wittfraü, die riche, vo do unte... d'Madame
+                        Frindlig... se hat schint's züe arg Zahnweh siter die
+                        Nacht... se kunnt ku froge, eb mir nitt e güeter
+                        Zahnarzt kenne... se isch decidiert, ihre Zahn lo
+                        üsz'zieh, wc-n-ere so weh macht.
+                    
+
+        
+",35,lustig-drei-schwarze-liebschafte,61,7,0.1147540983606557,0.2167464694971186,0.1946103529303035,0.6579804776889879,0.1524341600711811,0.7309760559531131,0.2743125052757172,0.0022155863771911,0.1611901127927584,0.0406526491208841,0.2418387802196425,0.6173407408255273
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+D'Madame Frindlig... isch sie selbst ufe ku?
+
+          
+
+        
+",35,lustig-drei-schwarze-liebschafte,12,2,0.1666666666666666,0.1213509827041778,0.5709419869696851,0.7525945424369409,0.1299472596991459,0.8528870780611351,0.1637579040373657,0.0022155863771911,0.1611901127927584,0.0406526491208841,0.2418387802196425,0.7851047734083826
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Mach se-n-uf dr Stell ine z'ku... ne riche Dame, wo nitt
+                        màrtet... décidément, junger Mensch, Sie hàn e
+                        Chance... 's Glick kunnt Ihne-n-entgege
+(Kàtele geht
+                        hinte-n-üse geh se hole)
+.
+                    
+
+        
+",36,lustig-drei-schwarze-liebschafte,47,7,0.1489361702127659,0.1213509827041778,0.7715721126515362,0.9706206226580536,0.1299472596991459,1.1249814291485731,0.1637579040373657,0.0022155863771911,0.1611901127927584,0.0406526491208841,0.3432952049626904,1.066329293837954
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(verwundert)
+
+          
+Mir?... ich verstand Se nitt.
+
+        
+",36,lustig-drei-schwarze-liebschafte,13,3,0.2307692307692307,0.1168057581608941,0.7715721126515362,0.9461938985086704,0.1187038095131282,1.0874555770780732,0.1553253163978524,0.0022155863771911,0.1611901127927584,0.0406526491208841,0.3432952049626904,1.0317192657939214
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(ifrig)
+
+          
+Sie sin jung un stark un hàn e solide Hand... me brücht
+                        nitt mehr, fir e-n-excellenter Zahnarzt z'si... ziehn
+                        Sie-n-in dere Darne-n-ihre lahn üs... se zahlt güet...
+                        ich will du reste dr Pris scho mit ere üsmache.
+                    
+
+        
+",36,lustig-drei-schwarze-liebschafte,54,7,0.1296296296296296,0.1537936314636255,0.7715721126515362,0.8641797861677889,0.1187038095131282,0.9294324817466036,0.1954779275232774,0.0022155863771911,0.1611901127927584,0.0406526491208841,0.2054007307137716,0.9175240624331652
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Herr Siwer.
+
+          
+Ich e Zahn üszieh!... was denke Se... ich ha jo kei Idee
+                        vo dem Dings... ich kännt die Dame blessiere!
+                    
+
+        
+",37,lustig-drei-schwarze-liebschafte,28,2,0.0714285714285714,0.05971399601915,0.5769617597212326,0.6394168544721996,0.0562172509300881,0.7743099039423557,0.082315549322991,0.0,0.0,0.0,0.1014564247430478,0.7839614925767104
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+'s isch kei G'fohr!... ich ha dert e Pfàtzzàngle un e
+                        Bisszange... das isch g'schwind g'schàh... Sie hàn doch
+                        o scho Nägel üsg'risse mit ere Bisszange? 's isch 's
+                        ganz gliche.
+                    
+
+        
+",37,lustig-drei-schwarze-liebschafte,39,1,0.0256410256410256,0.05971399601915,0.2006301256818509,0.740825748762699,0.0562172509300881,1.0458075497024346,0.082315549322991,0.3272917039402047,0.0,0.0,0.1014564247430478,1.1470359030768182
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Das isch awer jetz...
+
+        
+",37,lustig-drei-schwarze-liebschafte,8,2,0.25,0.0733496696490011,0.0,0.5960798409897363,0.089947601488141,0.8862907548264959,0.1076133122415307,0.3272917039402047,0.0,0.0,0.0,0.9696414667793448
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Scht!... still! do isch se.
+(d'Madame Frindlig kunnt me
+                        mit em Kàtele, dr Kopf ganz umwickelt, un jommert)
+.
+                    
+
+        
+",37,lustig-drei-schwarze-liebschafte,30,3,0.1,0.0642592205624337,0.0,0.6652027779101143,0.0674607011161058,0.9948380068143224,0.0907481369625043,0.4363889385869395,0.0,0.0,0.0,1.122071550508035
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(laüft ere ergege un git ere ne Stüehl)
+
+          
+Was ha-n-i erfahre, Madame Frindlig, Sie heb eso arg 's
+                        Zahnweh... Sie well sich einer lo üszieh?
+                    
+
+        
+",38,lustig-drei-schwarze-liebschafte,34,3,0.088235294117647,0.1267470854964863,0.2032030674777872,0.7556696558840608,0.1633704964691851,1.04636397118338,0.2131021732780743,0.4363889385869395,0.1624646029373179,0.0948561812820629,0.0586774149331306,1.1745642930536566
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig
+
+          
+(schmerzhaft)
+
+          
+Oh, jo... jo... ich bi ganz decidiert... ich ka nimmig
+                        schlofe ich ka nimmig esse... ich ka dà Zahn nimmig
+                        b'halte... kenne Sie ne güeter Zahnarzt do in dr
+                        Näche?... ich bi ewe no nitt lan ghie...
+                    
+
+        
+",38,lustig-drei-schwarze-liebschafte,51,4,0.0784313725490196,0.2320788447677591,0.2032030674777872,0.9559891731282892,0.2804239259751553,1.159111990168982,0.3965372438989217,0.5182118645719908,0.3543715840506389,0.0948561812820629,0.0586774149331306,1.2767254045604464
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+In dem Quartier nitt... Se miesst scho ziemlig wit
+                        geh...
+                    
+
+        
+",39,lustig-drei-schwarze-liebschafte,14,1,0.0714285714285714,0.2320788447677591,0.2032030674777872,0.602060017470855,0.2804239259751553,0.6083151217825039,0.3965372438989217,0.190920160631786,0.3543715840506389,0.0948561812820629,0.0586774149331306,0.6117749851101797
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig.
+
+          
+O Gott!... isch's möglig... un ich ha-n-eso Schmerze!
+                    
+
+        
+",39,lustig-drei-schwarze-liebschafte,18,3,0.1666666666666666,0.2184431711379079,0.3726695467561542,0.7101509943330233,0.2466935754171024,0.8059592611095031,0.4041523922451889,0.3817450184968895,0.3543715840506389,0.0948561812820629,0.2747121622776606,0.7733490152198217
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Berüehige Sie sich, liewe Nochbere... dr Züefall thüet
+                        Sie pràchtig serwiere... dà junge Mensch, wo Sie dert
+                        sieht, isch Zahnarzt... er kunnt schnüersgrad vo Paris,
+                        wo-n-er sich scho ne famose Repütation g'macht hat in
+                        dem Fach.
+                    
+
+        
+",39,lustig-drei-schwarze-liebschafte,48,5,0.1041666666666666,0.2184431711379079,0.3726695467561542,0.5921746091138785,0.2466935754171024,0.6223603049806768,0.4041523922451889,0.2726477838501546,0.3543715840506389,0.0948561812820629,0.2747121622776606,0.5516988754030662
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig.
+
+          
+Was, dà junge Herr isch Zahnarzt? .. er schint mr awer
+                        noch gar jung...
+                    
+
+        
+",39,lustig-drei-schwarze-liebschafte,20,4,0.2,0.1257852697160495,0.169466479278367,0.491610925226772,0.1676489553430495,0.5918360488413499,0.2542946262634636,0.2726477838501546,0.191906981113321,0.0,0.2160347473445299,0.5233103519466774
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Er isch noch jung, 's isch wohr... awer stark wie ne
+                        Leb... wo-n-er nin Johr ait gsi isch, hat er scho in
+                        siner Portnere Zähn üszoge... siter hat er in König un
+                        Kaiser d'gliche Operation g'macht un hat nocb nie kei
+                        Zahn g'fehlt... isch's wohr oder nitt, junger Herr
+                        Dokter ?
+                    
+
+          
+
+        
+",40,lustig-drei-schwarze-liebschafte,64,10,0.15625,0.0095449715408958,0.169466479278367,0.3078159212527931,0.023611245390637,0.4702777285631286,0.0506213453077845,0.1908248578651034,0.0,0.0,0.2850422697333861,0.4060503537360662
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(embarrassiert)
+
+          
+Ne Zahn g'fehlt... nei, ich ka herzhaft sage, ass ich
+                        noch nie kei Zahn g'fehlt ha... wil ich noch nie...
+                    
+
+        
+",40,lustig-drei-schwarze-liebschafte,30,3,0.1,0.0186354206274632,0.3186169527044527,0.4449999980592792,0.0460981457626722,0.7148610814733053,0.067486520586811,0.1908248578651034,0.0,0.0,0.2850422697333861,0.641144169696639
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Güet, Güet... do hört Se's, Madame Frindlig.
+
+        
+",41,lustig-drei-schwarze-liebschafte,14,3,0.2142857142857142,0.0186354206274632,0.1491504734260856,0.2636288487489607,0.0460981457626722,0.4046393859348068,0.0345736093220042,0.0,0.0,0.0,0.0690075223888561,0.3757400554548987
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig.
+
+          
+Eh bien... wil dà Herr denn eso g'schickt isch so will
+                        ich mich ihm avertraüe...
+(züem Herr Silwer)
+ awer känne
+                        Sie viellicht do operiere? ich wàr eso froh wenn ich dà
+                        Zahn uf dr Stell kännt ab biku.
+                    
+
+        
+",41,lustig-drei-schwarze-liebschafte,47,11,0.2340425531914893,0.0608675818279487,0.2481388897812855,0.4569785852415274,0.0706293098048925,0.6597911080092725,0.0529719823536694,0.0858919444457846,0.0,0.0,0.1969141851966402,0.6499975188802847
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Natirlig ka-n-er do operiere... er hat
+                        sine-n-Instrumente-n-allewil uf si... nur, vor ebb ihr
+                        afange, soll er Ihre si Pris sage... er isch hait e
+                        wenig thir... awer 's Talent will halt bezahlt si.
+                    
+
+        
+",41,lustig-drei-schwarze-liebschafte,48,5,0.1041666666666666,0.0540497450130231,0.2481388897812855,0.5058597689544894,0.0537641345258661,0.6983168815809833,0.0403231008943995,0.0858919444457846,0.0,0.0,0.303920978340704,0.7053647399973193
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig.
+
+          
+Jà, was heischt denn dr Herr fir e Zahn üsz'zieh?
+
+        
+",42,lustig-drei-schwarze-liebschafte,15,3,0.2,0.1467180970799936,0.2481388897812855,0.5739612798550716,0.0695049647862908,0.7519378271804806,0.1458181495490431,0.0858919444457846,0.0,0.0,0.2349134559518478,0.7507455189363459
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Ich...
+
+        
+",42,lustig-drei-schwarze-liebschafte,5,2,0.4,0.1512633216232773,0.0989884163551998,0.5100573754967357,0.0807484149723084,0.6199320304818032,0.1542507371885563,0.0858919444457846,0.0,0.0,0.2349134559518478,0.6194817871078714
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(unterbricht ne)
+
+          
+Zeh Franke... nie weniger.
+
+        
+",42,lustig-drei-schwarze-liebschafte,11,1,0.0909090909090909,0.1512633216232773,0.0989884163551998,0.5100573754967357,0.0807484149723084,0.6199320304818032,0.1542507371885563,0.0858919444457846,0.0,0.0,0.2349134559518478,0.6194817871078714
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig.
+
+          
+Zeh Franke!... mi Magd hat mr doch g'sàit, sie heb Ein
+                        lo üszieh fir e Mark.
+                    
+
+        
+",42,lustig-drei-schwarze-liebschafte,23,3,0.1304347826086956,0.2948119363659492,0.2032030674777872,0.5629641574355656,0.1521270462831675,0.5339298390297923,0.3920484375572112,0.0,0.1624646029373179,0.0948561812820629,0.1656842080771944,0.4904198094841613
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das isch licht möglig un wohrschinlig o noch e Stick vo
+                        dr Backe mit... 's hat halt Zahnàrzt un Zahnàrzt... ich
+                        fir mi Theil, we nie mich thàt zahle, so wott ich mi
+                        Mül in keim Charlatan avertraüe.
+                    
+
+        
+",42,lustig-drei-schwarze-liebschafte,45,6,0.1333333333333333,0.3379644552191358,0.2032030674777872,0.7486335641791236,0.1521270462831675,0.7303870942692832,0.4388931505368736,0.0869982029190565,0.1624646029373179,0.1197145935197439,0.1666696233119793,0.7561035914094508
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Diable! fir 10 Franke kännt me's viellicht doch woge,
+                        
+(lüt)
+ jo, jo Madame, 's Talent isch nitt z'bezahle... 
+
+                        vor allem müess ich Ihne sage, ass ich d'Zähn nitt
+                        üszieh wie d'Andere... ich ha mi b'sundere Methode..
+                        eins... zwei... cràc!... un 's isch ferig!
+                    
+
+        
+",43,lustig-drei-schwarze-liebschafte,68,7,0.1029411764705882,0.3944163683885068,0.2032030674777872,0.798612128237125,0.1392773889277188,0.7463121893154108,0.4961769260626621,0.0869982029190565,0.1624646029373179,0.1197145935197439,0.1666696233119793,0.7629006452728689
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Aha! 's Geld macht si Effect
+(lüt)
+ hört Se's!... do
+                        sieht Se jetz, wie ihn das ufweckt, we me-n-ihm vo
+                        siner Kunst red'...
+                    
+
+        
+",44,lustig-drei-schwarze-liebschafte,39,5,0.1282051282051282,0.4325637173824795,0.2032030674777872,0.8937644083635972,0.1055470383696659,0.8377846630963294,0.5270928187197175,0.0869982029190565,0.1624646029373179,0.1197145935197439,0.2769852027111144,0.8116105343783714
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig.
+
+          
+Awer zeh Franke, fir eim e Zahn z'nàh!
+
+        
+",44,lustig-drei-schwarze-liebschafte,14,2,0.1428571428571428,0.5620212739420396,0.2032030674777872,1.05734353084392,0.1055470383696659,0.9612894076623968,0.667626957658705,0.0869982029190565,0.1624646029373179,0.1197145935197439,0.2769852027111144,0.908948414797228
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Er git's ene jo wieder... un wenn se-n-emol üsg'risse
+                        gsi sin, so mache se-n-eim nimmig weh... un was isch
+                        doch e wenig Geld fir keine Schmerze meh z'ha!
+                    
+
+        
+",44,lustig-drei-schwarze-liebschafte,40,4,0.1,0.5548642634811459,0.0,1.0565380431592584,0.1060844874986897,0.9242979316460364,0.6021232151050782,0.0908754790791411,0.1602342451843388,0.0248584122376809,0.2183077877779837,0.8746873087304687
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+
+            
+G'sang
+
+            
+(Si j'étais roi de Béotie)
+
+            
+(Joseph, Kàtele, Herr Silwer mitnander, d'Madame Frindlig laüft ummenander un hebt ihre Backe).
+
+            
+G'wiss, güete Fraü, das geht uns z'Herze,
+
+            
+Ass Sie so viel müess lide hit,
+
+            
+Denn we me hat, wie Sie, Zahnschmerze,
+
+            
+So isch eim z'viel e jeder Schritt.
+
+            
+Un doch ka Sie vo Glick noch rede,
+
+            
+Ass Sie ne güeter Zahnarzt hat,
+
+            
+Wo flink un g'schickt dà Schmerz ka töte
+
+            
+Un ass Sie nitt brücht geh in d'Stadt.
+
+            
+G'wiss Sie ka jetz vo Glick noch rede,
+
+            
+Ass Sie ne güeter Zahnarzt hat.
+
+          
+
+        
+",45,lustig-drei-schwarze-liebschafte,116,16,0.1379310344827586,0.5711970322108202,0.0,0.8822988153852773,0.2031869010569977,0.6977821077764649,0.6707720371454704,0.0038772761600844,0.267776139307882,0.0408365182502153,0.1103155793991349,0.5372050287367631
+comedy,KÀTELE,F,,,,"
+          
+
+            
+G'sang
+
+            
+(Si j'étais roi de Béotie)
+
+            
+(Joseph, Kàtele, Herr Silwer mitnander, d'Madame Frindlig laüft ummenander un hebt ihre Backe).
+
+            
+G'wiss, güete Fraü, das geht uns z'Herze,
+
+            
+Ass Sie so viel müess lide hit,
+
+            
+Denn we me hat, wie Sie, Zahnschmerze,
+
+            
+So isch eim z'viel e jeder Schritt.
+
+            
+Un doch ka Sie vo Glick noch rede,
+
+            
+Ass Sie ne güeter Zahnarzt hat,
+
+            
+Wo flink un g'schickt dà Schmerz ka töte
+
+            
+Un ass Sie nitt brücht geh in d'Stadt.
+
+            
+G'wiss Sie ka jetz vo Glick noch rede,
+
+            
+Ass Sie ne güeter Zahnarzt hat.
+
+          
+
+        
+",46,lustig-drei-schwarze-liebschafte,116,16,0.1379310344827586,0.4788349198313693,0.0,0.7713655036149084,0.290652071598719,0.5892247952593392,0.6184271954013851,0.0038772761600844,0.3753180334314252,0.0816730365004307,0.1103155793991349,0.4317797636207093
+comedy,Herr SILWER,M,,,,"
+          
+
+            
+G'sang
+
+            
+(Si j'étais roi de Béotie)
+
+            
+(Joseph, Kàtele, Herr Silwer mitnander, d'Madame Frindlig laüft ummenander un hebt ihre Backe).
+
+            
+G'wiss, güete Fraü, das geht uns z'Herze,
+
+            
+Ass Sie so viel müess lide hit,
+
+            
+Denn we me hat, wie Sie, Zahnschmerze,
+
+            
+So isch eim z'viel e jeder Schritt.
+
+            
+Un doch ka Sie vo Glick noch rede,
+
+            
+Ass Sie ne güeter Zahnarzt hat,
+
+            
+Wo flink un g'schickt dà Schmerz ka töte
+
+            
+Un ass Sie nitt brücht geh in d'Stadt.
+
+            
+G'wiss Sie ka jetz vo Glick noch rede,
+
+            
+Ass Sie ne güeter Zahnarzt hat.
+
+          
+
+        
+",47,lustig-drei-schwarze-liebschafte,116,16,0.1379310344827586,0.4865371847904061,0.0,0.6998844999469002,0.3877544851570269,0.4499307483143009,0.6777070748458447,0.0038772761600844,0.4828599275549684,0.122509554750646,0.0,0.3147235554977766
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig
+
+          
+(schmerzlig)
+
+          
+Oh!... jetz packt's mi wieder uf e frisch's a!... nu, so
+                        ziehn Se. mir ne denn üs, ich zahl, was Sie wànn... nur
+                        dummle Sie sich
+(se losst sich uf dr Stüehl sinke)
+.
+                    
+
+          
+
+        
+",48,lustig-drei-schwarze-liebschafte,52,5,0.0961538461538461,0.3570796282308461,0.0,0.691216874559395,0.3877544851570269,0.4705573375266375,0.5371729359068572,0.0038772761600844,0.4828599275549684,0.122509554750646,0.0,0.359098560302942
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(holt zwei Zange fire un schiebt se im Herr Silwer
+                        in d'Hand.)
+                    
+
+          
+Allons, junger Mensch, nàmme Se-n-Ihre Instrumente un
+                        b'sunders lehn Se sich dr kranke Zahn güet zeige, ass
+                        Sie sich nitt trumpiere.
+                    
+
+        
+",48,lustig-drei-schwarze-liebschafte,44,6,0.1363636363636363,0.1830010872918662,0.0,0.4701925679620433,0.3025506908609413,0.3759251349910426,0.3549131926996772,0.0,0.3226256823706296,0.122509554750646,0.0,0.2827742086120585
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Enfin... wenn's denn si müess, so wà mr's liewer glich
+                        fertig mache.
+                    
+
+        
+",48,lustig-drei-schwarze-liebschafte,23,4,0.1739130434782608,0.1950624148037109,0.0,0.4916707665196655,0.2223134525816598,0.4292103023324463,0.3223356086083862,0.0,0.2150837882470864,0.0816730365004307,0.0,0.3478744257728682
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig
+
+          
+(macht 's Mül uf)
+
+          
+'s isch dà do... sàhn Se, Herr...
+
+        
+",49,lustig-drei-schwarze-liebschafte,18,5,0.2777777777777778,0.1410313966727905,0.0,0.5780208403925595,0.1387031792465731,0.6224062170416632,0.2169611787557473,0.0,0.1075418941235432,0.0706666129354324,0.1103155793991349,0.5948257101424311
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(imitiert se)
+
+          
+Aha... ga go... jà jà... ich sieh-n-en.
+
+        
+",49,lustig-drei-schwarze-liebschafte,19,3,0.1578947368421052,0.0906365581764971,0.0,0.5299228397847122,0.0640876660603004,0.6327019381352831,0.1183328190147191,0.0,0.0,0.0298300946852171,0.1103155793991349,0.6285620011158288
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig.
+
+          
+Riehre Sie ne e klei wenig a, fir ass ich sicher bi;
+(er
+                        riehrt en a)
+ genüe!... oh! genue... 's isch ne... ich
+                        sieh 's Fir im Schwarzwald!
+                    
+
+        
+",49,lustig-drei-schwarze-liebschafte,41,4,0.0975609756097561,0.3495516712956171,0.0,0.70216958765254,0.0640876660603004,0.7355800934890137,0.3994010968926942,0.0,0.0,0.0298300946852171,0.1103155793991349,0.6815248767295201
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Dà wà mr jetz glich ha... ka Sie 's Mül nitt noch e
+                        wenig witer uf mache?
+                    
+
+        
+",49,lustig-drei-schwarze-liebschafte,22,4,0.1818181818181818,0.3518242835672589,0.0,0.7781187624994252,0.0697093911533092,0.8271839484067705,0.4036173907124508,0.0,0.0,0.0671177130417385,0.1103155793991349,0.8579526342032036
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Courage, Fraü Nochbere... ich will se ne wenig hewe-n-an
+                        de-n-Achsle, ass Sie nitt bougiert wàhrend dr
+                        Operation... un 's Kàtele ka-n-Ere viellicht d'Knie
+                        hewe?
+(se macht jo mit em Kopf. 's Kàtele kneit
+                        vorne-n-an se, un hebt ere d'Knie)
+.
+                    
+
+        
+",50,lustig-drei-schwarze-liebschafte,61,3,0.0491803278688524,0.2802776684725533,0.0,0.8313571210060109,0.0528442158742828,0.966889684961306,0.3207014397836872,0.0,0.0,0.0671177130417385,0.2941748783976933,0.9467100203778224
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(nimmt eimol die un eimol d'andre Zange. Fir sich)
+                    
+
+          
+Ich weiss sicher nitt, welle ass ich nàh sott... 's
+                        Pfàtzzàngle 'isch unkummod un d'Bisszange isch
+                        z'breit... Ich ka nitt anderscht as drei Zähn mitnander
+                        nàh!
+                    
+
+        
+",50,lustig-drei-schwarze-liebschafte,47,6,0.1276595744680851,0.3225211424170833,0.0,0.7270086965359936,0.0505955258370793,0.7876318874638981,0.3658596352354471,0.0,0.0,0.0372876183565214,0.1838592989985583,0.7313309590772434
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(ungeduldig)
+
+          
+Eh bien, Herr Zahnarzt... uf was warte Se?... Se
+                        känne-n-uns nitt ewig in dere Position lo... mache Se,
+                        ass es emol fertig wird!
+                    
+
+        
+",51,lustig-drei-schwarze-liebschafte,36,7,0.1944444444444444,0.3599590593262379,0.1794933901775007,0.8171295247008544,0.0788500664900931,0.8467337301273826,0.444234005436407,0.0,0.0696276869731362,0.097217957274342,0.2711382357382119,0.7918145204813059
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(entschlosse)
+
+          
+Ma foi, tant pis!... ich nimm d'Bisszange
+(er setzt a un
+                        zieht mit alle Kräfte. D'Madame Frindlig springt in
+                        d'Hoche, dr Joseph un 's Kàtele falle beide hintersi)
+.
+                    
+
+        
+",51,lustig-drei-schwarze-liebschafte,44,6,0.1363636363636363,0.213990120629044,0.1794933901775007,0.7262265253343122,0.0900935166761107,0.8083531205096642,0.2613709482784295,0.0,0.1400706278524692,0.2149330655520633,0.2711382357382119,0.7748607236103785
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig
+
+          
+(schreit wie ab)
+
+          
+Oh là là!... aïe aïe!... Se hà mr jo d'ganze
+                        Backe-n-eweg g'risse!
+(se fahrt furt mit jommere)
+.
+                    
+
+        
+",51,lustig-drei-schwarze-liebschafte,35,3,0.0857142857142857,0.2071722838141184,0.1794933901775007,0.7519984611192139,0.0732283413970843,0.8755390638162778,0.2487220668191597,0.1166536837498016,0.1400706278524692,0.1776454471955419,0.2711382357382119,0.8008253277224986
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(b'schaüt freidig si Bisszange un schreit noch viel
+                        starker)
+                    
+
+          
+Voilà!... ça y est!... ich ha-n-en!
+
+        
+",52,lustig-drei-schwarze-liebschafte,26,3,0.1153846153846153,0.2162627329006858,0.1794933901775007,0.6291839034471585,0.0957152417691196,0.6928438810139587,0.2655872420981861,0.1166536837498016,0.1400706278524692,0.1776454471955419,0.0872789367396535,0.6807040153604677
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(steht uf)
+
+          
+Sapristi, er müess schint's famos g'hebt ha, dà Zahn...
+                        voyons, Fraü Nochbere, berüehige Sie sich... 's isch
+                        fertig... zeig, Kàteie, stand doch emol uf un hol e
+                        Glas Wasser un e Cuvette, ass sich d'Madame Frindlig 's
+                        Mül üsschwenke ka... bravo, Herr Zahnarzt... Sie hàn e
+                        g'schickte Band, zeige Se jetz emol dà famose Zahn.
+                    
+
+        
+",52,lustig-drei-schwarze-liebschafte,77,9,0.1168831168831168,0.1715951391997379,0.1794933901775007,0.5948423158026759,0.091967425040447,0.6715407616384395,0.2159316665720191,0.1166536837498016,0.1400706278524692,0.1942177220206625,0.0872789367396535,0.707442598518023
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(hebt si Zange in d'Höche)
+
+          
+Do... schaüe Se-n-emol!
+
+        
+",53,lustig-drei-schwarze-liebschafte,17,2,0.1176470588235294,0.1387024468338671,0.0,0.5291482117871984,0.0749563345734508,0.6499647710454548,0.1459898840105725,0.1166536837498016,0.0704429408793329,0.1342873831028418,0.0,0.6815690651579934
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Was sieh-n-i!... thien mich mine Aüge nitt trumpiere?...
+                        's isch nitt nur ei Zahn, 's sin drei, wo Sie mitnander
+                        üsezoge hàn... das isch jo famos.. . das müess me-n-in
+                        d'Zitung setze!... kei Mensch thàt's glaüwe!
+('s Kàtele
+                        geht üse rechts)
+.
+                    
+
+        
+",53,lustig-drei-schwarze-liebschafte,63,3,0.0476190476190476,0.025756272411941,0.0,0.2928929661930955,0.0637128843874332,0.4413358915310387,0.0477846632905749,0.1166536837498016,0.0,0.0165722748251206,0.0,0.5038471011912072
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig
+
+          
+(schmerzhaft)
+
+          
+Drei Zähn!... ah, wege dem isch mi ganze
+                        Kinnlade-n-üsnander... ich ha Sie jo awer nitt heisse
+                        drei Zähn üsrisse... 's hat nur Einer weh tho!
+                    
+
+          
+
+        
+",54,lustig-drei-schwarze-liebschafte,38,5,0.131578947368421,0.2120462084948272,0.0,0.5214569285083022,0.2614977040243343,0.4892352637519252,0.311111139223844,0.0730940311779486,0.2817129810381279,0.0165722748251206,0.0,0.4906613695807202
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Jetz heisst's awer Toupet zeigt!
+(lüt)
+ pardon, Madame
+                        Frindlig, pardon... die drei Zahn sin ag'steckt, wege
+                        dem sin se-n-o alle drei mitnander üse ku.
+('s Kàtele
+                        kunnt mit Wasser un Cuvette, d'Madame Frindlig schwenkt
+                        sich 's Mül üs)
+.
+                    
+
+        
+",54,lustig-drei-schwarze-liebschafte,60,9,0.15,0.2347542550059067,0.0836292520087513,0.6096815206183788,0.2465064371096441,0.5610865332040323,0.3310974976909347,0.0730940311779486,0.2817129810381279,0.0331445496502412,0.0,0.6039500824714208
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das isch sicher... b'schaüe Se-n-emol... alle drei sin
+                        schwarz... dà do links grad no nitt... awer er wàr's o
+                        worde un so isch Sie fir 's ganze Lewe debarrassiert vo
+                        ebbes, wo Ihre hätt kanne d'grösste Schmerze
+                        verursache... Dank Ihne, junger Mensch... das isch
+                        e-n-Operation, wo Ihne-n-Ehr macht... drei Zähn
+                        mitnander! das wàr hundert Franke werth un wàr nitt
+                        z'thir... awer wil Sie üsg'macht hàn, ass Sie nur zeh
+                        Franke nàmme fir e Zahn, so isch's also nur drissig
+                        Franke, wo Ihne d'Fraü Nochbere z'zahle hat.
+                    
+
+        
+",55,lustig-drei-schwarze-liebschafte,116,16,0.1379310344827586,0.2964528835901642,0.184168087449219,0.8443877493714338,0.239010803652299,0.826492493203143,0.4340894303700107,0.1753632014400081,0.2817129810381279,0.0630192083311659,0.1428414298985317,0.843965310732574
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig
+
+          
+(wo grad 's Mül voll Wasser hat, speit alles im
+                        Kàtele in's G'sicht)
+                    
+
+          
+Drissig Franke!... par exemple!... drissig Franke, fir
+                        mi Mül lo z'vermassakriere!
+                    
+
+        
+",56,lustig-drei-schwarze-liebschafte,37,8,0.2162162162162162,0.352485000938997,0.2603692377533892,0.9909253968794444,0.2412466263516509,0.9230278687400784,0.504865194976591,0.1753632014400081,0.3426372071396221,0.1731655130249824,0.1648454604984557,1.112829020679438
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Me hat Ihne gar nit vermassakriert... liewe Nochbere...
+                        Sie hat e wenig glitte, 's isch möglig, awer Sie ka
+                        Gott danke un dem junge Artist, ass Sie Ihre, Zahn ab
+                        hat... un zeh Franke isch jo der Pris gsi, wo Sie agnu
+                        hat... un wil drei mol zeh drissig macht, so sieht Se,
+                        ass me-n-Ihre kei Centime z'viel heischt.
+                    
+
+        
+",56,lustig-drei-schwarze-liebschafte,76,8,0.1052631578947368,0.352485000938997,0.3798505950175591,1.2151349407389975,0.2412466263516509,1.2687924305978795,0.5172075367008936,0.3035821566302841,0.3426372071396221,0.1731655130249824,0.3148057278771138,1.4561972344154237
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+Do sin se, Ihre Zähn, Madame Frindlig... Sie sieht, ass
+                        es drei sin... keiner mehr un keiner weniger.
+                    
+
+        
+",57,lustig-drei-schwarze-liebschafte,26,3,0.1153846153846153,0.1752855139426783,0.3798505950175591,0.9092765919413874,0.0659487070867851,1.0996291122231228,0.2707462360466509,0.2304881254523355,0.0609242261014942,0.1731655130249824,0.3148057278771138,1.3016006324841398
+comedy,Madame FRINDLIG,F,,,,"
+          
+Madame Frindlig
+
+          
+(lüegt se betriebt a un hebt ihr' Backe)
+
+          
+'s isch eithüen... das ich züe arg thir.. un Sie hà mr
+                        famos weh g'macht
+(se zieht 's Portemonnaie üse,
+ un
+                        zahlt, thüet d'Zähn am Platz vom Geld)
+ awer wenn Sie mr
+                        halt versichère, ass se ag'steckt gsi sin...
+                    
+
+        
+",57,lustig-drei-schwarze-liebschafte,60,5,0.0833333333333333,0.2346030081070184,0.2962213430088076,0.9031277271378032,0.1356108692151226,1.0090506844884648,0.3302349114022933,0.2335899463804031,0.1891116222489652,0.1565932381998617,0.3148057278771138,1.1689042151257645
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Kàtele, gib doch unsrer werthe Nochbere dr Arm un
+                        begleit se bis an ihre Thüre
+(Katele un Madame Frindlig
+                        gehn üse)
+.
+                    
+
+        
+",57,lustig-drei-schwarze-liebschafte,27,4,0.1481481481481481,0.1698742298272384,0.1956825075683399,0.7077689506517971,0.1356108692151226,0.7280590982960369,0.2216212536302085,0.1313207761183435,0.3209693132687892,0.1101463046938164,0.171964297978582,0.89545720066457
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(b'schaüt si Geld uf dr Hand)
+
+          
+Isch das shön Geld... hein!
+
+        
+",58,lustig-drei-schwarze-liebschafte,17,5,0.2941176470588235,0.1056607083004948,0.1194813572641697,0.5172631996748962,0.113136836180939,0.5639771890322021,0.1356668312725043,0.1313207761183435,0.2600450871672949,0.0,0.149960267378658,0.5642954402384468
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(nimmt's em)
+
+          
+Jetz hà mir's mitnander... güeter Frind... ich bi
+                        d'Schuld, nitt wohr, ass Sie das Geld verdient hàn...
+                        also g'hört mir vo Rechtswege d'Hälfte dervo.
+                    
+
+        
+",58,lustig-drei-schwarze-liebschafte,39,6,0.1538461538461538,0.1056607083004948,0.0,0.293053655815343,0.113136836180939,0.2182126271744007,0.1233244895482018,0.0031018209280675,0.2600450871672949,0.0,0.0,0.2209272265024613
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(desappointiert)
+
+          
+Ah!... Sie wànn theile?
+
+        
+",58,lustig-drei-schwarze-liebschafte,12,3,0.25,0.1056607083004948,0.0,0.2930536558153431,0.113136836180939,0.2182126271744007,0.1233244895482017,0.0031018209280675,0.2600450871672949,0.0,0.0,0.2209272265024613
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Natirlig... worum hat me-n-Ihne drissig Franke gà? Wil
+                        Sie g'macht hàn, was ich Sie ha heisse mache!.. das
+                        isch klar, nitt wohr?
+                    
+
+        
+",58,lustig-drei-schwarze-liebschafte,33,6,0.1818181818181818,0.0145447185385079,0.1566191000581212,0.2814390799701282,0.0359790405952564,0.3741428089091502,0.0269842804464423,0.0,0.1318576910198239,0.0,0.0970975229773113,0.3593127459537698
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Nitt ganz... Sie hà mir g'rothe, ne Zahn üsz'zieh... ich
+                        ha awer drei üszoge.... also gehn Sie zwei dervo nit
+                        a... an dàne hàn Sie nit z'reclamiere.
+                    
+
+        
+",59,lustig-drei-schwarze-liebschafte,36,3,0.0833333333333333,0.0236351676250753,0.1566191000581212,0.3643099505559825,0.0584659409672916,0.5909881144886235,0.0438494557254687,0.1090972346467348,0.0,0.0,0.0970975229773113,0.5898201567174249
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das isch alles recht... awer wenn ich Sie nitt engagiert
+                        hätt, die Operation z'mache, so hätte Sie o kein z'viel
+                        üszoge... 's kunnt allewil uf 's Gliche-n-üse.
+                    
+
+        
+",59,lustig-drei-schwarze-liebschafte,38,4,0.1052631578947368,0.0181808981731348,0.1566191000581212,0.4418994689980186,0.0449738007440705,0.6644752816008491,0.0337303505580528,0.1090972346467348,0.0,0.0,0.2308560144073911,0.6823909520434401
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Eh bien... so gàn Se mir 15 Franke un dermit fertig.
+
+        
+",59,lustig-drei-schwarze-liebschafte,16,3,0.1875,0.0272713472597023,0.1566191000581212,0.4907529172967854,0.0674607011161057,0.7395269857418486,0.0505955258370793,0.1090972346467348,0.0,0.0,0.2308560144073911,0.7516110081315057
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Geduld, Geduld, junger Mensch... Sie gehn gar
+                        g'schwind... mr hàn jetz noch d'Unkoste z'regliere.
+                    
+
+          
+
+        
+",59,lustig-drei-schwarze-liebschafte,23,1,0.0434782608695652,0.0181808981731348,0.1566191000581212,0.4418994689980186,0.0449738007440705,0.6644752816008491,0.0337303505580528,0.1090972346467348,0.0,0.0,0.2308560144073911,0.6823909520434401
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+D'Unkoste!... Was fir Unkoste... wo sàhn Sie Unkoste do
+                        drin?
+                    
+
+        
+",60,lustig-drei-schwarze-liebschafte,18,3,0.1666666666666666,0.1135763849660756,0.0,0.4804910658569564,0.0674607011161057,0.6096087545260285,0.1442849517964043,0.1090972346467348,0.0,0.0,0.1337584914300797,0.6283050573390447
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das werde Sie jetz glich sàlwer sàh... me hat erstens in
+                        dr Madame Frindlig ne Glas Wasser gà, fir sich 's Mül
+                        üsz'schwenke.
+                    
+
+        
+",60,lustig-drei-schwarze-liebschafte,28,4,0.1428571428571428,0.1692147141592881,0.1230657950176175,0.5719105346106765,0.0449738007440705,0.676784750234658,0.1976868459868717,0.0,0.0,0.0372876183565214,0.2794047758960468,0.703118031798487
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Mache Sie das Glas Wàsser z'zahle!
+
+        
+",60,lustig-drei-schwarze-liebschafte,11,3,0.2727272727272727,0.1783051632458556,0.1230657950176175,0.6882923424519694,0.0674607011161057,0.8520626157394501,0.2145520212658981,0.0,0.0,0.0372876183565214,0.3616307012236645,0.8958556468551002
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Warte Se doch nur... derno ne Cuvette, fir 's Wasser dri
+                        z'speie un e Serviette, fir sich d'Hànd un 's G'sicht
+                        abz'putze... we mr das alles, eins in's andere
+                        gerechnet, uf 2 Franke aschlage, wird's nitt z'viel si!
+                    
+
+        
+",60,lustig-drei-schwarze-liebschafte,53,5,0.0943396226415094,0.376346804654584,0.2524347007794464,0.9840951461248284,0.0449738007440705,1.06531462539879,0.4482537383292198,0.0,0.0,0.0642763840722325,0.4486147636993011,1.074247090959883
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(unschuldig)
+
+          
+Nu denn... so gàn Sie mr mine 13 Franke, ass es züem
+                        e-n-End geht.
+                    
+
+        
+",61,lustig-drei-schwarze-liebschafte,24,4,0.1666666666666666,0.3831646414695097,0.2524347007794464,1.0207352323489034,0.0618389760230969,1.1216034035045397,0.4609026197884896,0.0,0.0,0.0642763840722325,0.4486147636993011,1.126162133025932
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Nur g'mach, nur g'mach... Sie sin doch züe arg
+                        pressiert... Un das arme Kàtele, wo hat helfe hewe un
+                        wo hintersi birtzelt isch, meine Se, sott me-n-em nitt
+                        o ebbes gà?
+                    
+
+        
+",61,lustig-drei-schwarze-liebschafte,42,3,0.0714285714285714,0.2877691546765689,0.4165224274696033,1.0131276067422903,0.0393520756510617,1.2191930094033814,0.3503480185501381,0.0,0.0,0.0642763840722325,0.6428098096539239,1.202572138929519
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(kunnt grad ine)
+
+          
+Jo, un ich ha noch alles Wasser in's G'sicht biku un uf
+                        mi Kràgle, wo-n-ich jetz müess wàsche lo!
+                    
+
+        
+",62,lustig-drei-schwarze-liebschafte,31,4,0.1290322580645161,0.2976471800743769,0.445858933060326,0.8577811320540449,0.1112844221658712,0.9584761291087336,0.4019609346613906,0.0,0.1218484522029884,0.0981309016772583,0.5411715863878047,0.8971166427070842
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Eh bien, so mache Se-n-emol fertig un sage Se mr, eb ich
+                        ebbes z'güet ha vo dàne 30 Franke oder nitt!
+                    
+
+        
+",62,lustig-drei-schwarze-liebschafte,30,4,0.1333333333333333,0.2953745678027351,0.445858933060326,0.6711378230155309,0.1056626970728624,0.7209688521128658,0.397744640841634,0.0,0.1218484522029884,0.0981309016772583,0.3251871696301072,0.6221912407376653
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Là là, güeter Frind... nur nitt so vif... mr wànn nur 5
+                        Franke mache fir's Kàtele... bekàmte Sie also noch 8
+                        Franke un do sin se.
+                    
+
+        
+",62,lustig-drei-schwarze-liebschafte,34,3,0.088235294117647,0.1745475150138124,0.3164900272984973,0.4355343193641204,0.1056626970728624,0.5150016346899047,0.240867174458611,0.0,0.1218484522029884,0.0711421359615472,0.2382031071544706,0.4394716608240551
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(nimmt si Geld. Fir sich.)
+
+          
+Ich will mi glich dervo mache mit, sunscht git's am End
+                        gar nit.
+(lüt)
+ Adie Herr Kütz
+(spöttisch)
+ un merci!
+(er
+                        geht hinte-n-üse)
+.
+                    
+
+        
+",63,lustig-drei-schwarze-liebschafte,47,7,0.1489361702127659,0.2203011785071624,0.3164900272984973,0.615185727721859,0.1273464938601821,0.7068893949576136,0.2972826331745258,0.0,0.1926803311074116,0.0711421359615472,0.2382031071544706,0.5643954436621457
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(züem Kàtele)
+
+          
+E-n-Idee!... we mir dà junge Mensch thàte mache
+                        d'Jumpfer Venüs hirothe, ass se dr Herr Himmel nitt
+                        bekàm?
+                    
+
+        
+",63,lustig-drei-schwarze-liebschafte,30,4,0.1333333333333333,0.227119015322088,0.1524023006083403,0.5476507485996303,0.1442116691392085,0.5885301706464957,0.3099315146337956,0.1080373371780201,0.1926803311074116,0.0711421359615472,0.1180349588452568,0.522798341028532
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Das wàr alles Recht... awer wenn d'Jumpfer Venüs nur
+                        wort... er hat jo hinte-n-un vorne nit!
+                    
+
+        
+",63,lustig-drei-schwarze-liebschafte,24,3,0.125,0.1525122116445,0.1950028056317805,0.6904831638855612,0.072279322624399,0.7318990042356894,0.1880515290530494,0.1080373371780201,0.0708318789044231,0.0,0.0740268976454089,0.6163533672629858
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Das will ich scho ifàdle... ich süech mit ere z'rede...
+                        ich sag ere... voyons, was kännt ich ere sage?... ich
+                        sag ere... ass es dr Neveu isch vom Herr Himmel un si
+                        einziger Erb... c'est çà... das geht pràchtig... 's
+                        isch nitt 's erste Mol, ass ich kupple thüe... gang,
+                        laüf em no un rief ne z'ruck... De sàisch, ich wisst em
+                        e Platz... dummel Di... bisch no nitt furt!
+(Kàtele
+                        geht hinte-n-üse)
+ un derno, er isch jo ne schöner
+                        junger Mensch un dr Herr e-n-alter Kracher;
+(er geht
+                        hin un her)
+ we mir's nur derzüe bringe, ass dr Herr
+                        Himmel e Korb bikunnt... was froge mir derno, eb sie
+                        nochher dr Herr Silwer oder e-n-Anderer hirothet,
+                        d'Haüptsach isch, ass sie nitt do ine kunnt... aha, se
+                        kämme
+('s Kàtele un dr Herr Silwer kämme hinte-n-ine)
+.
+                    
+
+        
+",64,lustig-drei-schwarze-liebschafte,184,17,0.092391304347826,0.2396877301331469,0.1950028056317805,1.0043043981513038,0.175323021870286,1.1533268510237835,0.3193857016362781,0.2097195368749804,0.1052144284154602,0.0431825630620523,0.1799075935541857,1.03562803890504
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Do isch er... awer nitt ohne Mieih! er hat z'erst nit
+                        meh welle wisse... awer endlig hat er sich doch lo
+                        iwerrede, fir z'ruck z'ku
+(se geht rechts üse)
+.
+                    
+
+        
+",65,lustig-drei-schwarze-liebschafte,41,4,0.0975609756097561,0.4149267431250017,0.5355709232598118,1.3818433381029778,0.3352387031403161,1.439114411651056,0.5865367112312028,0.2097195368749804,0.2270628806184486,0.2978505920373218,0.2239156547540337,1.3026284927877636
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Lose Se, junger Mensch, Sie hàn Unrecht, fir mich eso
+                        z'verlo un mit mr z'blàie... un fir Ihne z'bewise, ass
+                        ich's güet mit Ene mein, so will ich Ihne ne Vor-
+schlag
+                        mache, wo Sie g'wiss mit Freide igehn... ich weiss Ene
+                        ne riche Fraü!
+                    
+
+        
+",66,lustig-drei-schwarze-liebschafte,61,7,0.1147540983606557,0.5103067360276518,0.5355709232598118,1.3524994120701046,0.2966897310739699,1.3320861527816743,0.6780828155577181,0.2097195368749804,0.1562310017140255,0.2978505920373218,0.2239156547540337,1.2370329597908891
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(verwundert)
+
+          
+Mir!
+(fir sich)
+ merci... 's wird wieder e Schelmestreich
+                        si... wenn er mich Hochziter will mache wie Zahnarzt,
+                        so bedank ich mich.
+                    
+
+        
+",66,lustig-drei-schwarze-liebschafte,34,3,0.088235294117647,0.5988843860056668,0.5355709232598118,1.427642016798946,0.3023114561669788,1.3528557711939502,0.7759885353367998,0.1016821996969601,0.1562310017140255,0.2978505920373218,0.1498887571086248,1.2022200565209151
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ihne, jà... un 's isch serios... Unser Nochber dert àne
+                        hat e Nièce, ne schöne Person, wo gern hirothe thàt...
+                        un se lüegt nitt uf 's Vermöge... sie-n-isch rich un
+                        will Einer, wo-n-ere g'fallt, eb er ebbes hat oder
+                        nitt... un grad sàit mr 's Kàtele, ass se Ihne-n-eso
+                        nog'lüegt hat dà Morge, wo Sie do ane ku sin... Sie sin
+                        jung un schön g'wachse, also hàn Sie-n-ihre g'falle....
+                        un im Fall dr Noth ka-n-ich noch e güet Wort ilege fir
+                        Se, also mache Sie ihre nur dr Hof un dr Rest geht ganz
+                        allei.
+                    
+
+        
+",67,lustig-drei-schwarze-liebschafte,124,17,0.1370967741935483,0.6196746736458625,0.4671555722562693,1.353371870034882,0.3174611451572481,1.3348508423630867,0.801856620299859,0.1875309750157102,0.1866842435363716,0.318993776040121,0.2130838803771545,1.2565052900026716
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Do steckt ebbes derhinter... ich bi kurios, was er fir
+                        Intresse hat, die Jumpfre welle z'verhirothe, ich will
+                        eimol schaüe.
+(lut)
+ jà un derno, Herr Kütz, was
+                        verlange Sie derno fir Ihre Mieih, wenn's reüssiert?
+                        denn ich ha scho gsàh, ass Sie nit umsunscht mache.
+                    
+
+        
+",68,lustig-drei-schwarze-liebschafte,66,8,0.1212121212121212,0.8305964942311512,0.5619218359446068,1.5215197633113773,0.2312826211903875,1.3401074498943837,0.9993731417886222,0.1422759462934287,0.2405880252336255,0.3339256161808326,0.1817130056948434,1.209188063102329
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ah... Sie meine, 's isch üs Interesse, ass, ich Ihne dà
+                        Vorschlag mach? Sie sin undankbar, junger Mensch, ass
+                        Sie's nur wisse... denn 's isch nur an Ihre Wohl,
+                        wo-n-ich denk... sin Sie denn nitt mi Gottekind?
+                    
+
+        
+",68,lustig-drei-schwarze-liebschafte,53,3,0.0566037735849056,0.5690524435329232,0.3731546828632665,1.1444440346550466,0.0713669399203574,1.1844783553745477,0.6385327062343725,0.3590778460507133,0.118739573030637,0.1660576165416606,0.3825195452700998,1.2233939084792145
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Décidément, 's g'fallt mr allewil weniger... ich will
+                        awer dr gliche thüe as nàhm ich's a, fir z'wisse, was
+                        er eigentlig im Sinn hat... viellicht ka-n-ich mich
+                        ràche an em.
+(lüt)
+ Eh bien, wenn's eso isch, so dank
+                        ich Ine züem vorüs... awer wenn kännt ich
+ die Jumpfre
+                        sàh... denn ich möcht doch wisse, wie se-n-isch.
+                    
+
+        
+",69,lustig-drei-schwarze-liebschafte,83,10,0.1204819277108433,0.5273941302956157,0.3731546828632665,1.1457764335485132,0.078113010031968,1.2120566586043544,0.5954091254675704,0.3590778460507133,0.118739573030637,0.1660576165416606,0.4360229418421317,1.2644280693249963
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Oh! Sie derfe se b'schaüe.. ich ha noch nie kei schönere
+                        Person g'sàh... wisse Sie was... kämme Sie z'Owe wieder
+                        dure... ich will das Ding arrangiere, ass ihr eüch
+                        känne b'sichtige.
+                    
+
+        
+",70,lustig-drei-schwarze-liebschafte,41,1,0.024390243902439,0.4319986435026749,0.3731546828632665,0.9878702369295316,0.0556261096599327,1.0546684580859769,0.4848545242292189,0.3590778460507133,0.118739573030637,0.1660576165416606,0.4360229418421317,1.130316092957693
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Güet... also z'Owe
+(er geht gege dr Thüre)
+.
+
+        
+",70,lustig-drei-schwarze-liebschafte,16,4,0.25,0.4180261926774048,0.2465672282350283,0.8530452270483535,0.0573415959486899,0.9204835557495892,0.4716353207254295,0.2732290707319632,0.0882863312082909,0.1449144325388613,0.3728278185736021,0.9741632011657037
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Un fehle Se nitt.
+
+        
+",70,lustig-drei-schwarze-liebschafte,7,1,0.1428571428571428,0.1131110167885438,0.1518009645466909,0.3344360132820405,0.023611245390637,0.4375103233244483,0.1301357451941678,0.2168018997572845,0.0,0.0868000293360975,0.2983179973471362,0.5502907143579427
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+'s isch nit z'riskiere!
+(er geht hinte-n-üse)
+.
+
+        
+",70,lustig-drei-schwarze-liebschafte,17,3,0.1764705882352941,0.1222014658751112,0.0,0.2737735019652484,0.0460981457626722,0.300067064980633,0.1470009204731943,0.0,0.0,0.0,0.0535033965720319,0.2734125509071616
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(allei, ribt si d'Hànd)
+
+          
+Unser Sach marschiert!... dr Herr traüt no nitt z'froge
+                        hit, wenn er noch so verliebt isch... ich kenn en... er
+                        hat kei Courage, dà Mann... er brücht Zit, fir sich
+                        z'decidiere... un ziter schnellt se ihm der Herr Silwer
+                        eweg...
+                    
+
+          
+
+            
+G'sang
+
+            
+(Ein freies Leben führen wir)
+
+            
+Fir riehig z'si,
+
+            
+Wie bis dohi,
+
+            
+Will ich ihm d'Venüs zeige,
+
+            
+Ass er se im Herr Himmel nimmt,
+
+            
+Denn sunscht kunnt dà, das weiss ich b'stimmt,
+
+            
+Un packt se fir sich eige.
+
+          
+
+          
+Dr Herr, du rese, wird z'erst nimmig welle, wenn er
+                            hört, ass sie ne Liebster hat... mir sin g'rettet,
+                            Kàtele! . 
+(er lüegt ummenander)
+tiens, 's isch jo nimmig do!... 's wird 's Kind umme trage!... ich will glich profetiere dervo un geh mi Kaffee nàh im Triwel... mit dàne G'schichte do ha-n-ich's ganz vergesse 
+(er geht hinte-n-üse).
+ 
+                        
+
+          
+
+        
+",71,lustig-drei-schwarze-liebschafte,192,21,0.109375,0.1521510169010893,0.0211215263275046,0.3904031530474489,0.1030147390173603,0.477380632477109,0.1960774891568239,0.0559129181447016,0.0243212729654817,0.0,0.0141003614562683,0.4611150321102265
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(kunnt ine rechts)
+
+          
+Allons, bon jetz isch er furt... in dr Triwel
+                        wohrschinlig!... un ich, wo uf ne zählt ha, fir 's Kind
+                        z'hiete!... ich sott ewe-n-in e Visite geh... un ich ka
+                        doch nitt i fehle... tiens, wenn ich e Porte-faix thàt
+                        riefe, fir 's Kind siter z'hiete?... Das isch
+                        e-n-Idee... worum nitt?... er ka 's jo ewe-n-eso güet
+                        ummetrage as ich...
+(se lüegt züem Fenster üse)
+ grad
+                        stolpert dert Einer umme
+(se rieft züsm Fenster üse)
+
+                        He... Porte-faix!... do!... kämme ne wenig ufe...
+(fir
+                        sich)
+ ich will 's Kind glich geh hole un's em gà, ass
+                        ich derno glich furt ka
+(se geht üse rechts)
+.
+                    
+
+        
+",72,lustig-drei-schwarze-liebschafte,153,11,0.0718954248366013,0.363990654907642,0.4287789495974022,1.027305585005334,0.1030147390173603,1.021234277862435,0.426042443784258,0.3952376504608886,0.0243212729654817,0.0,0.06706264671662,1.2377397741400928
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix
+
+          
+(kunnt hinte-n-ine)
+
+          
+Tiens... isch's denn nitt do?
+(Kàtele kunnt ine mit eme
+                        Buschelkind)
+ Aha... Sie hat mr g'rüefe, Madame?
+                    
+
+        
+",73,lustig-drei-schwarze-liebschafte,32,1,0.03125,0.3571728180927164,0.4287789495974022,0.9906654987812592,0.0861495637383339,0.9649454997566854,0.4133935623249883,0.3952376504608886,0.0243212729654817,0.0,0.06706264671662,1.1858247320740438
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Jà, jà... Ihr kämme grad recht... do, hiete mr e wenig
+                        das Kind... 's isch Eüch jo eithüen, was Ihr mache,
+                        nitt wohr?
+(se git em 's Kind uf dr Arm)
+.
+                    
+
+        
+",73,lustig-drei-schwarze-liebschafte,44,7,0.1590909090909091,0.3571728180927164,0.6822372655274596,1.2678869273680742,0.0861495637383339,1.1789530851542025,0.4133935623249883,0.6322263523960034,0.0996685249768096,0.0,0.06706264671662,1.611379616788135
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Ihr brüche-n-em nitt z'trinke gà... 's schloft jetz
+                        alleweg fir e Stund... siter bin ich wieder do...
+                    
+
+        
+",73,lustig-drei-schwarze-liebschafte,25,2,0.08,0.4775399255657089,0.9283688555626948,1.6080604580681832,0.0636626633662986,1.6098728352050995,0.5370625259849493,0.6322263523960034,0.0996685249768096,0.0,0.358355215648554,1.9552804145252616
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Ihr hàn am meiste Chance, ass es nitt pflànnt, wenn
+                        Ihr's ummetrage un singe derzüe... awer gehn dert ine
+                       
+(se zeigt uf's Zimmer rechts)
+ nitt ass wenn ebbe dr 
+
+                        Herr Himmel kàm!
+(fir sich)
+ awer i glaüb nitt... er
+                        kunnt nie do ufe, as wenn er d'Sterne gücke will, un
+                        jetz hat er andere Sache im Kopf...
+(lüt)
+ au revoir
+                        denn... halte-n-I güet
+(se geht hinte-n-üse)
+.
+                    
+
+        
+",74,lustig-drei-schwarze-liebschafte,93,11,0.1182795698924731,0.3969142546172687,0.9664971121164804,1.447452951725277,0.0244940065938732,1.429105302632394,0.4006503484496085,0.6155997386796728,0.0753472520113279,0.0,0.3711737260633435,1.7816213691207543
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix.
+
+          
+Jà awer...
+(er blibt ganz verdutzt steh mit em Kind uf
+                        de-n-Arm)
+.
+                    
+
+          
+
+            
+G'sang
+
+            
+(Vive Garibaldi)
+
+            
+Ich ha
+
+            
+Scho g'ha
+
+            
+G'wiss gar viel Cummissione,
+
+            
+Doch so
+
+            
+Wie do
+
+            
+Isch mir nit vorku noch,
+
+            
+Mit nit
+
+            
+Thien d'Lit
+
+            
+Uns jetz meh doch verschone,
+
+            
+Me hat
+
+            
+Glich satt
+
+            
+An so me harte Joch!
+
+            
+Bol wird's kumme noch derzüe,
+
+            
+Ass mir mien geh d'Windle wàsche,
+
+            
+Un thien nàh d'Hewammetàsche,
+
+            
+Wenn's nimm git Hewamme g'nüe!
+
+            
+Scho nimmt me mich hit,
+
+            
+Fir d'Sàigamm' do z'mache,
+
+            
+Un sott noch känne singe,
+
+            
+Fir 's Kind in Schlummer z'bringe,
+
+            
+Scho nimmt me mich hit,
+
+            
+Fir d'Sàigamm' do z'mache,
+
+            
+Un wenn 's Kind soll verwache,
+
+            
+Was soli i mache mit?
+
+          
+
+          
+Das isch jetz awer doch e wenig stark!... mich fir
+                            Kindsmagd nàh!... bsch, wsch, wsch... wenn se 
+awer
+                            meint, ass ich's d'ganze Zit will ummetrage un
+                            singe derzüe, so trumpiert se sich... ich ka scho
+                            gar nitt singe... ich ha nitt emol nie recht dr «
+                            Trutz nit so » üsebrocht... bsch, wsch, wsch!
+(er stellt zwe Stiehl z'amme un legt 's Kind
+                            druf)
+voilà... das Ding isch schwer!... 
+(er lüegt ummenander)
+ tiens, do isch e Speckspertifig!... 
+(er lüegt dri)
+ Ich sieh nit!... hi hi... ich dummer Esel. . dr Deckel isch jo druf 
+(me hört ebber ku)
+ aha, ich glaüb, se kunnt scho z'ruck 
+(er nimmt g'schwind 's Kind un tràit's umme)
+ bsch, wsch, wsch...
+
+        
+",75,lustig-drei-schwarze-liebschafte,307,29,0.0944625407166123,0.3447806747096594,0.9822720569925958,1.473133828938607,0.0592522547624934,1.4455504232209078,0.3830157858808756,0.657154608599723,0.1096890835352821,0.0253139162777547,0.3182114408029918,1.8526318548509677
+comedy,Im Porte-faix si Fraü,F,,,,"
+          
+D'Fraü
+
+          
+(kunnt hinte-n-ine).
+
+          
+Ah so!... verwitsch i Di jetz endlig emol!... 's
+                        isch mr doch allewil gsi, Dü hasch e Bekanntschaft
+                        e-n-àime... ich gang Dr scho lang uf d'Ise! Ich ha
+                        denkt, ich ertapp Di-n-emol!
+                    
+
+        
+",76,lustig-drei-schwarze-liebschafte,55,3,0.0545454545454545,0.3447806747096594,0.9822720569925958,1.6156692788336682,0.0592522547624934,1.6035746760166751,0.3830157858808756,0.657154608599723,0.1096890835352821,0.0253139162777547,0.4965560960430982,2.031435626822774
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix.
+
+          
+Was isch Dr, Fraü... ich, glaüb Dü traümsch... 's isch
+                        jo ne Cummisson... ich ha's vo dr Stund...
+                    
+
+        
+",76,lustig-drei-schwarze-liebschafte,27,1,0.037037037037037,0.3447806747096594,0.7288137410625385,1.3384478502468533,0.0592522547624934,1.3895670906191582,0.3830157858808756,0.4201659066646082,0.0343418315239541,0.0253139162777547,0.4965560960430982,1.605880742108683
+comedy,Im Porte-faix si Fraü,F,,,,"
+          
+D'Fraü
+
+          
+Ne süfere Cummission! jà, jà... gàll, d'heim witt als
+                        nie kei Kind uf dr Arm nàh un wenn se noch so
+                        schreie... awer do... un 's isch schint's nitt 's erste
+                        Mol, denn 's steht Dr gar nitt iwel a... am End isch's
+                        gar...
+                    
+
+        
+",77,lustig-drei-schwarze-liebschafte,57,6,0.1052631578947368,0.2153231181500994,0.5566074931735698,1.0722566027184937,0.0592522547624934,0.9669171928467136,0.2424816469418881,0.4892876113956833,0.1222469588705034,0.0253139162777547,0.2052635271111641,1.34706145556235
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix.
+
+          
+Los, Fraü... De machsch mi z'lache... 's g'hört jo im
+                        Herr Schimmel...
+                    
+
+        
+",77,lustig-drei-schwarze-liebschafte,19,4,0.2105263157894736,0.1665238949138689,0.7865138526337389,1.3946728406635671,0.2247403728434477,1.303287267385003,0.2249792735179711,0.8068193527789035,0.1222469588705034,0.2139560414105238,0.412572905350578,1.8000319731324066
+comedy,Im Porte-faix si Fraü,F,,,,"
+          
+D'Fraü
+
+          
+Awer ich lach nitt!... ich gang Di geh verklage, ass De
+                        zwei Familie hasch... am End bisch gar zweimol
+                        g'hirothe?... ich möcht se nur ken ne, Die!...
+(se
+                        lüegt ummenander)
+.
+                    
+
+        
+",77,lustig-drei-schwarze-liebschafte,44,2,0.0454545454545454,0.0068178368149255,0.363081484487726,0.7320895314923526,0.1899821246748276,0.7429885014111628,0.0126488814592699,0.425939750542666,0.0879051273465492,0.188642125132769,0.412572905350578,0.9523967453723272
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix.
+
+          
+Nei, nei, liewe Fraü... ich ha genüe biku an eim Mol...
+                        un wenn De meinsch, ass ich fir mi Plaisier Kinder
+                        hiet...
+                    
+
+        
+",78,lustig-drei-schwarze-liebschafte,30,4,0.1333333333333333,0.0715466150947055,0.5079457477421324,0.8023687002860449,0.1899821246748276,0.7553791495950515,0.0829159509287637,0.5613907953405899,0.0879051273465492,0.188642125132769,0.2342282501104717,1.0457735735021758
+comedy,Im Porte-faix si Fraü,F,,,,"
+          
+D'Fraü
+
+          
+Scho güet... ich weiss jetz, was ich wisse will, ich
+                        gang jetz schnüersgrad züem Cummissaire... mr wànn emol
+                        lüege!...
+                    
+
+        
+",78,lustig-drei-schwarze-liebschafte,27,1,0.037037037037037,0.0715466150947055,0.5079457477421324,0.8023687002860449,0.1899821246748276,0.7553791495950515,0.0829159509287636,0.5613907953405899,0.0879051273465492,0.188642125132769,0.2342282501104717,1.0457735735021758
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix.
+
+          
+Gang züem Kückück wege mir!... me kunnt nitt züem Wort
+                        mit miner Fraü... se losst eim nitt rede... un die
+                        Andere, wo jetz nitt heim kunnt!... ich hätt jetz bol
+                        genüe kleine Kinder g'hiete!... züem Glick, ass, es
+                        noch brav isch... wenn's erst noch pflànne thàt... doch
+                        still... jetz kunnt se.
+                    
+
+        
+",78,lustig-drei-schwarze-liebschafte,69,7,0.1014492753623188,0.0715466150947055,0.6003726155834326,0.8597195343015744,0.1899821246748276,0.8234984421192413,0.0829159509287636,0.5696696876368998,0.0,0.188642125132769,0.2342282501104717,1.0850998263229952
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+(knnnt hinte-n-ine)
+
+          
+Dass ka nimmig eso geh mit dere-n-Amsle!... Joseph, gehn
+                        iwere züem Nochber un sage-n-em, er soll so güet si un
+                        e wenig züe mr ku, ich heb ebbes mit em z'rede!
+(fir
+                        sich)
+ ich ha nitt traüe-n-iwere z'geh, 's isch mr
+                        liewer, er kunnt do ane.
+                    
+
+        
+",79,lustig-drei-schwarze-liebschafte,73,7,0.0958904109589041,0.1056125583338974,0.4187397972532249,0.5591802034969536,0.0096372430165865,0.5150103588960607,0.1176476128573587,0.2745872630698917,0.0,0.0,0.042301084368805,0.6763980340994966
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix
+
+          
+(tràit 's Kind umme)
+
+          
+Bsch, wsch, wsch...
+
+        
+",79,lustig-drei-schwarze-liebschafte,13,1,0.0769230769230769,0.1056125583338974,0.8622918501308252,0.9603587405918226,0.0096372430165865,0.8477182786513626,0.1176476128573587,0.6893174914563425,0.0,0.0,0.042301084368805,1.3607562972079894
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+Tiens!... ich ha g'meint 's seig dr Joseph... was dr
+                        Kückücks macht jetzt dà do?... wenn jetz awer d'Sunne
+                        sich sott wirklig mit dr Zit solidifiziere... un ihre
+                        Hitz verliere... wie lang gieng's denn derno bis...
+                    
+
+        
+",80,lustig-drei-schwarze-liebschafte,48,8,0.1666666666666666,0.0442926984615802,0.7174275868764188,0.8533014200871971,0.0180698306560997,0.842267751328502,0.0537049841174999,0.6078851152474288,0.0,0.0,0.1482617703159689,1.2440411500937592
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Ah ça... güeter Frind, was mache-n-Ihr eigentlig do? was
+                        isch das fir e Kind?...
+                    
+
+        
+",80,lustig-drei-schwarze-liebschafte,24,6,0.25,0.0919904418580506,0.7913529290226855,1.0298666116898765,0.0293132808421173,1.029966374213809,0.1089822847366756,0.7490317114305174,0.0,0.0,0.1976130354129081,1.5031634071763116
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix.
+
+          
+Ihres, parbleu... Sie sin jo dr Herr Schimmel, nitt
+                        wohr?
+                    
+
+        
+",80,lustig-drei-schwarze-liebschafte,16,3,0.1875,0.101080890944618,0.6250007190351188,1.0094428201630825,0.2826227804085541,1.0503377742094866,0.125847460015702,0.6716311144031324,0.0,0.0,0.1976130354129081,1.4991893697677183
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Himmel.
+
+        
+",80,lustig-drei-schwarze-liebschafte,5,3,0.6,0.069287559977068,0.5174773950238668,1.138109279358709,0.2954724377640029,1.3606604907129338,0.0953320919068636,1.186094624774657,0.0,0.0,0.5501220718196171,1.981872279004169
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix.
+
+          
+Himmel wege mir... wege me Sch wà mr nitt dispetiere...
+                        bsch, wsch, wsch...
+                    
+
+        
+",80,lustig-drei-schwarze-liebschafte,20,1,0.05,0.069287559977068,0.0739253421462667,0.9214247649281008,0.2954724377640029,1.34927178695904,0.0953320919068636,1.2035137451002875,0.0,0.0,0.8462296624012527,1.765553366180587
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+(wo scho nimmig lost)
+
+          
+Wie lang gieng's derno, bis ass do uf dr Erde 's Lewe
+                        nimmig möglig wàr?... ich will's emol üsrechne.
+(er
+                        sitzt an Tisch, D'Amsle pfifft)
+. Scho wieder!...
+(er
+                        springt uf)
+ Dr Schnider isch e Fadedieb :... dü dumm
+                        Vieh!... frieiher jo, awer jetz begniege sie sich
+                        nimmig mit em Fade.
+(dr Porte-faix lost em züe mit Mül
+                        un Nase-n-uf)
+ Un iwerhaüpt... d'Welt isch verderbt in
+                        's Grund's Erdbode-n-ine! d'Mensche hàn jetz viel
+                        z'viel Bedürfnisse!... se wisse gar nimmig, was sie
+                        erfinde-n-un afange wànn... me derf jo nur schaüe, wie
+                        eifach un glicklig as d'erste Mensche-n-uf dr Erde do
+                        g'lebt hàn!... ihr Hüs isch e Zelt gsi, wo se hàn
+                        känne-n-in fünf Minüte-uf- un abschla un witers geh.
+                        Was ihre Kleider abelangt hat, isch e Rebblätt ihre 
+
+                        Sunntigblunder gsi... fir ihre Nahrung hàn se sich mit
+                        allem begniegt un sin eso frei gsi, wie dr Vogel in dr
+                        Luft!... Jetz gehn un vergliche-n-eso ne Hüshaltung mit
+                        ere jetzige!... d'Hoor stehn eim z'Berg!... do sieht me
+                        Kiste-n-un Kàste, Better un Oefe un dr Kückück un si
+                        Grossle, kurz, ganze Wàge voll Sache-n-un Grimpel, wo
+                        ne Jeder müess mit si schleife, wie-n-er dra g'wöhnt
+                        isch un sich nimmig ka passiere dervo... do müess me
+                        drganze Tag nur koche-n-un wàsche-n-un flicke-n-un
+                        schaffe, fir das Dings alles känne-n-ufz'triwe-n-un's
+                        in Ordnung z'halte, so dass eim 's Lewe verleidet dra?
+                        .. arme Mensche! wie hàn ihr degeneriert! wie hàn ihr
+                        eüch unglicklig g'macht dur eüer Schuld... ihr meine,
+                        ihr gehn vorwàrts un 's isch grad 's Gegetheil... wie
+                        mehr Bedürfnisse as ihr lehn ufku, wie unglickliger as
+                        ihr werde-n-un wie mehr Mieih as ihr hàn, dur 's Lewe
+                        z'ku!...
+                    
+
+        
+",81,lustig-drei-schwarze-liebschafte,381,29,0.0761154855643044,0.1137590898427113,0.2583922902688566,1.1581563406326385,0.3124532407955512,1.5578574360648196,0.1295203628099521,1.318368254533926,0.0,0.0051431197733132,0.9224026224258376,2.0540293515778245
+comedy,Ne Porte-Faix,M,porter,elementary_professions,,"
+          
+Porte-faix
+
+          
+(fir sich)
+
+          
+Dà Mann isch e Narr... ich will liewer mine 15 Sü
+                        ibiesse-n-un mache-n-ass ich do üse kumm
+(er legt 's
+                        Kind uf dr Stüehl un laüft hinte-n-üse)
+.
+                    
+
+        
+",82,lustig-drei-schwarze-liebschafte,42,8,0.1904761904761904,0.1941787297776519,0.2399109547322899,1.1738394038442743,0.3834749649624183,1.4869543055345966,0.1945952061397618,1.2290629368991437,0.0509656299021238,0.0051431197733132,0.8730513573288983,1.942578581627488
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+(trürig)
+
+          
+Ich find mich doch efange-n-alt un allei!... ich ha
+                        gestert z'Nacht in minere Schwester uf Colmer awe
+                        g'schriwe, eb se mr viellicht nitt wott ihre Suhn, mi
+                        Neveu do ane schicke... mr sin bis dohi bös gsi
+                        mitnander, awer ich wott doch nitt sterwe ohne mich
+                        z'versöhne mit ene... ich ha im Sinn, in mim Neveu 's
+                        ganze Vermöge z'vermache, ich ha jo sunscht doch Nieme
+                        meh...
+(me hört d'Amsle pfiffe)
+ scho wieder, jetz halt
+                        ich's awer nimmig üs... ich will jetz selwer mit em
+                        Nochber geh rede
+(er geht hinte-n-üse)
+.
+                    
+
+          
+
+        
+",83,lustig-drei-schwarze-liebschafte,122,14,0.1147540983606557,0.2899070664319835,0.2399109547322899,1.1986585106661725,0.2483596613607295,1.4929162635885418,0.2868871244285467,1.2849279654678214,0.1327319411575767,0.0051431197733132,0.8942018995133008,1.891702283112983
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(kunnt ine rechts)
+
+          
+Ah çà... wo isch er, dà Porte-faix mit mim Kind?... ich
+                        find en jo niene! er wird doch ebbe nitt furt si mit?..
+                       
+(se sieht 's Kind)
+ ah... do isch's jo... hat me jetz
+                        scho-n-emol eso ebbes g'sàh! er legt's uf e Stüehl un
+                        geht spaziere!... awer dà soll mr nur ku...
+(se nimmt
+                        's Kind)
+ armer Tropf....un 's grint nitt emol!
+                    
+
+        
+",84,lustig-drei-schwarze-liebschafte,92,8,0.0869565217391304,0.3588565599800996,0.8329899227294355,1.5303260398876952,0.3037061414370464,1.5070370395294637,0.3546140826595872,1.1753003407864704,0.1327319411575767,0.0051431197733132,0.4993917787377867,2.058438895650247
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(kunnt hinte-n-ine)
+
+          
+Eh!... tràisch's noch allewil umme?
+
+        
+",84,lustig-drei-schwarze-liebschafte,16,2,0.125,0.3588565599800996,0.8329899227294355,1.5596351920660272,0.3037061414370464,1.4227542027217066,0.3546140826595872,0.7431509920743895,0.1327319411575767,0.0051431197733132,0.4708011710163106,1.8586052033230456
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(fir sich)
+
+          
+Dà g'fallt mr jetz o noch!...
+(lüt)
+ ich will's jetz in's
+                        Bett lege... 's schloft.
+                    
+
+        
+",85,lustig-drei-schwarze-liebschafte,28,2,0.0714285714285714,0.4404336682665534,0.6485229746068455,1.380725440657684,0.2782927507659848,1.172708924525199,0.4546355099658513,0.5742778140517408,0.1327319411575767,0.0,0.288667525044562,1.5120016453572405
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ich bi g'schwind ku laüfe... ich ha dr Herr Silwer g'sàh
+                        vo witem... er wird wohrschinlig do ane ku... De
+                        weisch, ich ha mit dr Magd g'redt dert àne, fir ass sie
+                        in ihrer Jumpfere ne wenig schwàtzt vo-n-em... we mir
+                        se nur kännte mache z'àmme z'ku, eso wie par hasard...
+                        weisch Dü nit az'bringe, Kàtele?
+                    
+
+        
+",85,lustig-drei-schwarze-liebschafte,72,7,0.0972222222222222,0.3532000649892599,1.5607888840984123,1.9054890850521933,0.2056648194296867,1.841563519145876,0.3816639094047308,0.5224365355034346,0.0817663112554528,0.0,0.2886675250445621,2.198059313968563
+comedy,KÀTELE,F,,,,"
+          
+Kàtele.
+
+          
+Wart e wenig... ich will nur g'schwind geh 's Kind lege
+                       
+(se geht üse rechts)
+.
+                    
+
+        
+",86,lustig-drei-schwarze-liebschafte,21,2,0.0952380952380952,0.2483812792483609,2.175569991968733,2.173425450795553,0.0874706234649387,2.1056657153610225,0.3506171834043049,0.6739366211279822,0.0,0.0819881872338514,0.5317626944179104,2.680552192669833
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Aha... do isch dr Herr Silwer... er isch pressiert, me
+                        hört's... schint's das Ding geht em.
+(dr Herr Silwer 
+
+                        kunnt hinte-n-ine)
+ Aha, kämme Se-n-emol, junger Mensch,
+                        ich ha g'meint, Se hàn's vergesse.
+                    
+
+        
+",86,lustig-drei-schwarze-liebschafte,53,6,0.1132075471698113,0.1885222347868123,1.582491023971588,1.644619339653783,0.054611043760657,1.7381710222258897,0.2997554004522908,0.2073651141932253,0.0,0.0819881872338514,0.5317626944179104,1.9589831691740869
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(freidig)
+
+          
+Schiergar, jà... denn 's isch mr ebbes possigs
+                        widerfahre... denke Se nur, mi Müetter schribt mr ass
+                        dà Morge, wo-n-ich küm furt gsi bi vo d'heim, ne Brief
+                        dert aku isch vo me-n-Oncle, wo-n-ich noch ha do in
+                        Milhüse... 's isch e Brüeder vo minre Müetter... se sin
+                        vo jeher brouilliert gsi mitnander, awer jetz reit's en
+                        schint's, un er will mir si Vermöge vermache.... ich
+                        soll züe-n-em ku, nur hat mi Müetter d'Adresse vo-n-em
+                        vergesse... se hàn sich halt scho lang nimmig g'schriwe
+                        g'ha... drum bi-n-i ku, fir Sie z'froge.
+                    
+
+        
+",87,lustig-drei-schwarze-liebschafte,130,11,0.0846153846153846,0.2145391857303416,1.8561867578184104,1.697502901085795,0.0607438347712121,1.8109457546717127,0.3299066553354776,0.2073651141932253,0.0,0.0819881872338514,0.3342910652436676,2.0405523678785533
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(unterbricht ne)
+
+          
+Eh, das isch jo pràchtig, junger Mensch... denn wenn Sie
+                        erwe, so hàn Sie desto mehr Chance bi dr Jumpfer Venüs
+                        az'ku
+(er geht gege-n-em Fenster)
+ ich ha du reste, scho
+                        ne wenig fir Sie gredt... tiens, wenn Sie se sàh wànn,
+                        dert isch se grad am Fenster.
+                    
+
+        
+",88,lustig-drei-schwarze-liebschafte,66,8,0.1212121212121212,0.1174460183106716,1.937655209280185,1.652285750846962,0.0607438347712121,1.8139672939539029,0.2245060511312369,0.2073651141932253,0.0,0.0819881872338514,0.3342910652436676,2.0594916498601514
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(geht an 's Fenster un losst e Schrei üs)
+
+          
+'s Frànzele!
+
+        
+",88,lustig-drei-schwarze-liebschafte,16,3,0.1875,0.0856526873431216,0.9699452931789182,0.984127299936904,0.0735934921266608,1.1033689111191416,0.1939906830223985,0.2073651141932253,0.0,0.0819881872338514,0.3342910652436676,1.2949825502046783
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+'s Frànzele... was fir e Frànzele?... kenne Sie die
+                        Person ?
+                    
+
+        
+",88,lustig-drei-schwarze-liebschafte,16,1,0.0625,0.3445678004622415,0.3551641853085973,0.8587672983730398,0.0735934921266608,0.9085019970428648,0.3969485933329881,0.0,0.0,0.0,0.0700453536859167,0.8683879481645406
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(stellt si glichgiltig)
+
+          
+Ich kenn se un kenn se nitt... ich ha se scho g'sàh in
+                        Colmer.
+(fir sich)
+ Me hat se schints anstatt uf
+                        Strossburg do ane g'schickt, fir ass ich se nitt soll
+                        üsfindig mache?
+                    
+
+        
+",89,lustig-drei-schwarze-liebschafte,47,7,0.1489361702127659,0.5246069206638541,0.3551641853085973,1.021596337428844,0.1192816193176083,0.9805088238076388,0.5310566195390752,0.0,0.0828251367584331,0.0,0.0700453536859167,0.9067620912522236
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Un... was sage Se derzüe... isch's nitt e schöne
+                        Person?
+                    
+
+        
+",89,lustig-drei-schwarze-liebschafte,16,1,0.0625,0.4985899697203247,0.0814684514617742,0.7549096011542396,0.1131488283070533,0.6706977121681648,0.5009053646558884,0.0,0.0828251367584331,0.0,0.0,0.556987234590048
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Pràchtig!
+(fir sich)
+ ich bi nitt vergewes verliebt in
+                        se.
+                    
+
+          
+
+        
+",89,lustig-drei-schwarze-liebschafte,17,4,0.2352941176470588,0.5377721956751402,0.0,0.7549772763769861,0.1300140035860797,0.6622125787086904,0.5486877808499051,0.0,0.0828251367584331,0.0,0.0,0.541294054465071
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Ich ha wohl g'wisst, ass Se-n-Ihne g'falle wird.
+
+        
+",89,lustig-drei-schwarze-liebschafte,14,2,0.1428571428571428,0.5286817465885728,0.2277014468200366,0.8703977675015576,0.1075271032140444,0.9059033182949132,0.5318226055708787,0.3252028496359268,0.0828251367584331,0.1302000440041462,0.3672219011626564,0.9912213276852754
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Un Sie sage, se heisst?...
+
+        
+",89,lustig-drei-schwarze-liebschafte,11,2,0.1818181818181818,0.2834023070993041,0.2277014468200366,0.6165196949890622,0.1412574537720973,0.7714713853742782,0.2760520906114433,0.3252028496359268,0.0828251367584331,0.1302000440041462,0.3672219011626564,0.9003756509796601
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Ich ha se küm kennt vom sàh.
+(fir sich)
+ Me hat se
+                        schint's unter eme letze Name do ane tho, ass ich jo
+                        nit sott erfahre.
+(lüt)
+ Woher wisse Sie ihre Name?
+                    
+
+        
+",90,lustig-drei-schwarze-liebschafte,44,7,0.1590909090909091,0.1260660687786741,0.2277014468200366,0.4236578436010026,0.0602327688536658,0.6168132362639526,0.1555942572351682,0.3252028496359268,0.0,0.1302000440041462,0.3672219011626564,0.7810379570161189
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Eh, vo mim Herr... vom Herr Himmel.
+
+        
+",90,lustig-drei-schwarze-liebschafte,12,4,0.3333333333333333,0.1533374160383765,0.2277014468200366,0.6163416941633679,0.1276934699697717,0.9222981526873032,0.2061897830722476,0.433240186813947,0.0,0.1302000440041462,0.4412487988080653,1.1057079628515432
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Tiens!... mi Oncle heisst o Himmel... un grad wege dem
+                        bin i ku fir Sie z'froge, eb Sie viellicht si Adresse
+                        kenne... do wàr den Ihr Herr mi...
+                    
+
+        
+",90,lustig-drei-schwarze-liebschafte,38,8,0.2105263157894736,0.1277908637134121,0.321784355329882,0.6982788179421285,0.1445586452487982,1.057700452308312,0.1837051297967706,0.4872588554029572,0.0,0.1302000440041462,0.4782622476307698,1.2672624558360317
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph.
+
+          
+Was!... dr Herr Himmel isch Ihre-n-Oncle?
+
+        
+",90,lustig-drei-schwarze-liebschafte,13,2,0.1538461538461538,0.1414265373432633,0.0940829085098454,0.6995320622990707,0.178288995806851,1.0121951727932932,0.2090028927153102,0.3781306801230707,0.0,0.0,0.2590941417589311,1.0859648858023152
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+(kunnt hinte-n-ine)
+
+          
+Wer red' vom Herr Himmel do... was isch mit em?
+
+        
+",91,lustig-drei-schwarze-liebschafte,20,4,0.2,0.1550622109731144,0.0940829085098454,0.9573062574114812,0.212019346364904,1.4460919450062002,0.2343006556338499,0.8102800288351517,0.0,0.0,0.5552017323405667,1.6578343202193246
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(springt em an Hals)
+
+          
+Oncle!... liewer Oncle!... ich ha Dich glich erkennt,
+                        denn Dü glichsch in minre Müetter.
+                    
+
+        
+",91,lustig-drei-schwarze-liebschafte,28,3,0.1071428571428571,0.1232688800055644,0.0940829085098454,0.93848562144497,0.2248690037203527,1.4536915632107523,0.2037852875250115,0.8102800288351517,0.0,0.0,0.5552017323405667,1.669577815007117
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Was!... Dü scho do? .. das isch jetz emol brav vo Dir,
+                        ass Dü glich ku bisch! Dü blibsch jetz do im Hüs... 's
+                        isch Platz genüeg drin.
+                    
+
+        
+",91,lustig-drei-schwarze-liebschafte,38,5,0.131578947368421,0.1014518021978025,0.244615562125598,0.9130207489414908,0.170900442827468,1.3692212015228429,0.163308866855348,0.7886725613995476,0.0,0.0,0.540396352811485,1.600798116461578
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Recht gern... awer sag mr, liewer Oncle, Dü witt mich
+                        glicklig mache, nitt wohr?
+                    
+
+        
+",91,lustig-drei-schwarze-liebschafte,22,7,0.3181818181818182,0.0593476461794474,0.2055633712698258,0.7956769377775442,0.1468073352860017,1.2287795498396596,0.1101055014645013,0.8132486775540835,0.0,0.0314666505646006,0.592132807783865,1.4790920088249055
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+(lacht)
+
+          
+Wenn's in mine Kräfte steht... jo.
+
+        
+",92,lustig-drei-schwarze-liebschafte,14,5,0.3571428571428571,0.0511662420015367,0.2055633712698258,0.6963606275093761,0.1265691249511699,1.0648372513123374,0.0949268437133775,0.6836038729404592,0.0,0.0314666505646006,0.5033005306093743,1.2763821532601731
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Eh bien, so mach mich 's Frànzele z'hirothe denn ohne
+                        ihn's ka-n-ich nimmig lewe!
+                    
+
+        
+",92,lustig-drei-schwarze-liebschafte,23,4,0.1739130434782608,0.0307127315567599,0.3332544331441688,0.5801243378976786,0.0759735991140905,0.7753411313823839,0.0569801993355679,0.3657659620810261,0.0,0.0314666505646006,0.3456864995443797,0.8941898585164157
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Un er will do im Hüs bliwe mit ere?... Ah... 's isch die
+                        Zit... jà, jà... wart nur, de wirsch's glich ha... dr
+                        Herr Himmel o will's hirothe, 's Frànzele Venüs!
+                    
+
+        
+",92,lustig-drei-schwarze-liebschafte,48,6,0.125,0.0693200258666629,0.4642561269546758,0.7249493176781379,0.0647301489280729,0.9243775446110613,0.1214291138648457,0.4377908535330396,0.0,0.0587960463092177,0.4831196684939026,1.0630627594340218
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Wenn's e-n-ordlige Jumpfre isch, so will ich mache, was
+                        ich ka... wo isch's, Di Frànzele?
+                    
+
+        
+",92,lustig-drei-schwarze-liebschafte,27,2,0.074074074074074,0.0775014300445736,0.3137234733389231,0.723257523399532,0.0849683592629046,0.9766001540878236,0.1366077716159695,0.5674356581466639,0.0,0.0587960463092177,0.5719519456683932,1.1450222114186908
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+Oh... nitt wit vo do!... in dem Moment wohnt's dert àne
+                       
+(se schwatze lislig)
+.
+                    
+
+        
+",93,lustig-drei-schwarze-liebschafte,24,2,0.0833333333333333,0.0872411969230387,0.2586927556848499,0.7135147357686318,0.109061466804371,0.9761759119727138,0.1546776022720693,0.488840873403118,0.0,0.0273293957446171,0.4832020418733087,1.1084199279274949
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Achtung!... jetz git's Mischbes... züem Glick, ass sie's
+                        Beide wànn... uf die Art bekunnt's Keiner... uf
+                        jedefall brouilliere sie sich mitnander... dr Herr
+                        Silwer erbt nit... un so blibt's bim alte
+(er ribt si
+                        d'Hànd)
+ décidément, ich ha mehr Glick as... jà nei,
+                        doch nitt!
+                    
+
+        
+",93,lustig-drei-schwarze-liebschafte,69,10,0.144927536231884,0.1104055735089804,0.2586927556848499,0.6946757212422142,0.1023153966927604,0.914097506443346,0.1777248774761589,0.4024110036607017,0.0,0.0273293957446171,0.4239805237569816,1.0135136171278645
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Was! küm do, un scho ne Liebschaft!
+
+          
+
+        
+",94,lustig-drei-schwarze-liebschafte,13,2,0.1538461538461538,0.117223410323906,0.131001693810507,0.6453848270736313,0.1191805719717869,0.9303564621610964,0.1903737589354288,0.5041742401640944,0.0,0.0273293957446171,0.4335407595311585,1.0578561525970689
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer.
+
+          
+'s isch e ganze G'schichte, liewer Oncle... 's Frànzele
+                        isch vo Colmer un isch erst dà Morge uf Milhüse ku,
+                        ohne-n-ass ich's g'wisst ha.
+                    
+
+        
+",94,lustig-drei-schwarze-liebschafte,34,7,0.2058823529411764,0.0734215736788217,0.1075233240112518,0.5988555949906454,0.1175743648023558,0.9023684174429064,0.1162876013895644,0.482143784604853,0.0,0.0,0.2961075905816356,1.0372516748848288
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Er sàit nitt emol nit!... Gott!... wie isch dà Astronom
+                        so dumm!... er merkt nitt emol, ass vo sin're Venüs
+                        d'Red isch!
+                    
+
+        
+",94,lustig-drei-schwarze-liebschafte,36,3,0.0833333333333333,0.1460909377553439,0.276989803289619,0.7237523088408988,0.0838440142443029,1.0216894451465794,0.2175921756951566,0.4568939681139159,0.0,0.0,0.3640885426353478,1.029697950131253
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(kunnt ine mit eme Brief; züem Herr Himmel)
+
+          
+Do isch e Brief vom Herr Nochber dert àne.
+
+        
+",94,lustig-drei-schwarze-liebschafte,22,4,0.1818181818181818,0.1597266113851951,0.276989803289619,0.8431559869551141,0.1175743648023558,1.2145968053584308,0.2428899386136963,0.5649313052919362,0.0,0.0,0.4381154402807566,1.250537871834579
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+(nimmt en un liest)
+
+          
+Ah! endlig will er mir se jetz doch gà!... wenn ich ihm
+                        versprich, ass ich se güet b'sorge will...
+(fir sich)
+
+                        jà jà... wart nur, bis ich se ha!
+                    
+
+        
+",95,lustig-drei-schwarze-liebschafte,47,7,0.1489361702127659,0.1719917454014303,0.4596002808515494,1.0262078824712,0.1204655377073318,1.4687320771271632,0.2794213495064516,0.6266669265365192,0.0,0.0234251963525289,0.6391417476466146,1.504607663045345
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(lacht heimlig. Fir sich)
+
+          
+Er... un se güet b'sorge!... das wird e schöne
+                        G'schichte gà! ... se nàmme-n-alleweg enander am
+                        Krage!...
+(lüt)
+ pardon Herr Himmel... hàn Sie denn nitt
+                        g'hört, ass er se-n-o will
+(er zeigt uf dr Herr
+                        Silwer)
+.
+                    
+
+        
+",95,lustig-drei-schwarze-liebschafte,61,12,0.1967213114754098,0.1890227802847399,0.5006222125240887,0.9897464787115208,0.1092220875213141,1.3816517940880595,0.2944111183567696,0.4466046979064854,0.0,0.0234251963525289,0.5643123463929222,1.3438347146867984
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel
+
+          
+(verwnndert)
+
+          
+Er?... was will er mache?
+
+        
+",96,lustig-drei-schwarze-liebschafte,13,2,0.1538461538461538,0.198762547163205,0.3930988885128367,1.0081244664955609,0.1333151950627805,1.4587888856487763,0.3124809490128694,0.6126849363697537,0.0,0.0234251963525289,0.7123661416837399,1.4641959946679204
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(lacht)
+
+          
+Was er mit mache will?... hi hi hi...
+(züem Herr Silwer)
+
+                        merke Sie denn nitt, ass Ihre-n-Oncle um 's Frànzele
+                        g'frogt hat, un ass er jetz grad 's Jowort biku hat in
+                        dem Brief.
+                    
+
+        
+",96,lustig-drei-schwarze-liebschafte,48,4,0.0833333333333333,0.1192753462717573,0.2236324092344696,0.7543406550891023,0.1501803703418069,1.122519471838649,0.1985274932480074,0.4218600785046503,0.0,0.0234251963525289,0.49633139433921,1.1858150022129916
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(züem Herr Himmel)
+
+          
+Was!... Sie, Oncle?
+
+        
+",96,lustig-drei-schwarze-liebschafte,14,4,0.2857142857142857,0.1192753462717573,0.2236324092344696,0.7543406550891023,0.1501803703418069,1.122519471838649,0.1985274932480074,0.4218600785046503,0.0,0.0234251963525289,0.49633139433921,1.1858150022129916
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+'s Frànzele... ah, se heisst Frànzele?
+
+        
+",96,lustig-drei-schwarze-liebschafte,12,2,0.1666666666666666,0.092027239847491,0.0410219316725392,0.6894440843676022,0.1742734778832733,1.0944049041266068,0.1541274649022863,0.5761991316161079,0.0,0.0,0.4433588822641697,1.229361377366588
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(fir sich)
+
+          
+Isch er verstopft, dà Mann!...
+(lüt)
+ Frànzele Venüs...
+                        jà... Venüs isch schints ihre Familièname.
+                    
+
+        
+",96,lustig-drei-schwarze-liebschafte,27,3,0.1111111111111111,0.1476655690407035,0.0,0.6694310526672161,0.151786577511238,0.9905845193308852,0.2075293590927536,0.5401866858901012,0.0,0.0,0.3701344882270444,1.1171764867298188
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Ah çà... Joseph... hàn Ihr eigentlig z'tief in's Glas
+                        g'lüegt hit... hat me jetz scho-n-emol g'hört, ass
+                        e-n-Amsle ne Taüfname un e Familiename hat!
+                    
+
+        
+",97,lustig-drei-schwarze-liebschafte,38,2,0.0526315789473684,0.1476655690407035,0.0,0.6694310526672161,0.151786577511238,0.9905845193308852,0.2075293590927537,0.5401866858901011,0.0,0.0,0.3701344882270445,1.1171764867298188
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Weller vo dàne zwei isch eigentlig g'schittelt?...
+
+        
+",97,lustig-drei-schwarze-liebschafte,15,3,0.2,0.2362432190187187,0.0,0.7906971630621229,0.1574083026042468,1.0916839417435134,0.3054350788718353,0.5401866858901011,0.0,0.0,0.3701344882270445,1.1993734210310731
+comedy,KÀTELE,F,,,,"
+          
+Kàtele
+
+          
+(fir sich)
+
+          
+Frànzele... Amsle... Venüs?... was hàn se... was hàn
+                        se?
+                    
+
+        
+",97,lustig-drei-schwarze-liebschafte,20,1,0.05,0.4678869848781363,0.0,0.9251715574604032,0.089947601488141,1.0332085144522969,0.5359078309127311,0.4321493487120807,0.0,0.0,0.2961075905816355,1.0693791760333622
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+Joseph
+
+          
+(zornig fir sich)
+
+          
+Er schàmt si jetz vor sim Neveu, un will sich üsrede,
+                        awer ich will ne scho biku...
+(lüt)
+ Sie hàn alleweg dà
+                        Morge nitt mit Schmerze uf d'Jumpfer Venüs g'warte....
+                        Se hàn jo genüeg uf d'Ühre g'lüegt, bis dr Zehnerzug
+                        aku isch!
+                    
+
+        
+",97,lustig-drei-schwarze-liebschafte,58,9,0.1551724137931034,0.5785336758742862,0.0530719517837659,0.9268124418146104,0.0562172509300881,0.8992406457558427,0.6348597003283318,0.2160746743560403,0.0,0.0,0.1480537952908178,0.8369140976320931
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+Ah!... jetz merk ich glaüb ebbes!...
+(er nimmt dr Joseph
+                        am e-n-Ohr)
+ hàn Ihr wieder emol g'lost an dr Thüre un
+                        hàn ebbes g'hört un nitt recht!...
+(züem Herr Silwer)
+
+                        ich ha-n-uf d'Venüs g'warte, uf dr Stern, wo so heisst,
+                        un do isch schint's grad Di Frànzele aku... un wil ich
+                        o bim Nochber um si Amsle g'frogt ha, wil se mich
+                        embetiert hat, so hat en das Ding embrouilliert...
+                        armer Joseph!... me sieht wohl, ass Ihr d'Astronomie
+                        nitt g'lehrt hàn!
+                    
+
+        
+",98,lustig-drei-schwarze-liebschafte,112,15,0.1339285714285714,0.4995009974371668,0.2027525234339727,0.9617097483736464,0.0742067712277163,1.0764911052703297,0.5546624145922279,0.2882450108883027,0.0,0.0173600058672195,0.2167572214846143,1.06051949738141
+comedy,Herr SILWER,M,,,,"
+          
+Herr Silwer
+
+          
+(fir sich)
+
+          
+Aha... jetz merk ich, worum ass er mich hat welle
+                        d'Jumpfer Venüs mache hirothe!
+                    
+
+        
+",99,lustig-drei-schwarze-liebschafte,24,4,0.1666666666666666,0.5574119389020212,0.2027525234339727,0.9146122120576028,0.0573415959486899,0.9212950914469094,0.6122806026024519,0.0721703365322622,0.0,0.0173600058672195,0.0687034261937965,0.8232537203823339
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+          
+Herr Himmel.
+
+          
+'s blibt àlso derbi... Dü hirothsch 's Frànzele, un
+                        derno kämme-n-ihr züe mir ku wohne, 's isch Platz genüe
+                        do im Hüs.
+                    
+
+          
+
+        
+",99,lustig-drei-schwarze-liebschafte,31,4,0.1290322580645161,0.4688342889240061,0.3909183404536635,0.9657297380122284,0.0517198708556811,1.0401750843478332,0.5143748828233702,0.1802076737102824,0.0,0.0173600058672195,0.1427303238392054,1.0090046281273868
+comedy,KÀTELE,F,,,,"
+          
+(Kàtele un Joseph mitnander)
+
+          
+We mir e Fraü in's Hüs bekämme?
+
+          
+
+            
+G'sang
+
+            
+(Ein freies Leben)
+
+            
+Mir ziehn is z'ruck,
+
+            
+Denn so ne Spuck,
+
+            
+Dà hätt fir uns z'viel G'fohre.
+
+          
+
+        
+",99,lustig-drei-schwarze-liebschafte,40,7,0.175,0.4131090186118681,0.465150888354583,0.9228525261943828,0.1019960621443785,0.9462801892747597,0.4859334130666465,0.1802076737102824,0.1071657241029357,0.2564644273832946,0.1427303238392054,0.9228879774848656
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+          
+(Kàtele un Joseph mitnander)
+
+          
+We mir e Fraü in's Hüs bekämme?
+
+          
+
+            
+G'sang
+
+            
+(Ein freies Leben)
+
+            
+Mir ziehn is z'ruck,
+
+            
+Denn so ne Spuck,
+
+            
+Dà hätt fir uns z'viel G'fohre.
+
+          
+
+        
+",99,lustig-drei-schwarze-liebschafte,40,7,0.175,0.4920164967928491,0.4863114844717366,1.0399654912026943,0.1522722534330761,0.9601254878180712,0.6143105888537574,0.1802076737102824,0.2143314482058715,0.4955688488993697,0.1427303238392054,0.9260624068067732
+comedy,JOSEPH KÜTZ,M,astronomer_assistant,professionals_scientific_technical,,"
+            
+(Joseph un 's Kàtele).
+
+            
+
+              
+Wenn d'Jumpfer Venüs do regiert
+
+              
+Un im Herr Himmel d'Biecher fiehrt,
+
+              
+So si mir halt verlore.
+
+            
+
+          
+",100,lustig-drei-schwarze-liebschafte,27,5,0.1851851851851851,0.4901984069755355,0.3366309128215298,0.9622263098355556,0.147774873358669,0.8098333976110876,0.6109375537979521,0.1944672069204363,0.2143314482058715,0.4782088430321503,0.133248415761736,0.7727049904880399
+comedy,KÀTELE,F,,,,"
+            
+(Joseph un 's Kàtele).
+
+            
+
+              
+Wenn d'Jumpfer Venüs do regiert
+
+              
+Un im Herr Himmel d'Biecher fiehrt,
+
+              
+So si mir halt verlore.
+
+            
+
+          
+",100,lustig-drei-schwarze-liebschafte,27,5,0.1851851851851851,0.4241060613327704,0.3366309128215298,0.9100075358834312,0.1444018383028637,0.8010871129071855,0.5381407080366044,0.2808970766628526,0.2143314482058715,0.4782088430321503,0.1924699338780631,0.8072609119223838
+comedy,Herr HIMMEL,M,astronomer,professionals_scientific_technical,,"
+            
+(Herr Himmel un Herr Silwer).
+
+            
+
+              
+Wenn d'Jumpfer Venüs do regiert
+
+              
+Un Eüch e wenig üsstudiert,
+
+              
+So sin Ihr halt verlore.
+
+            
+
+          
+",100,lustig-drei-schwarze-liebschafte,26,7,0.2692307692307692,0.432871851523389,0.148465095801839,0.8110888707740325,0.1660856350901834,0.6993817288726559,0.5544035556270942,0.2345953607294152,0.2143314482058715,0.4782088430321503,0.1607441206014593,0.6729237454302701
+comedy,Herr SILWER,M,,,,"
+            
+(Herr Himmel un Herr Silwer).
+
+            
+
+              
+Wenn d'Jumpfer Venüs do regiert
+
+              
+Un Eüch e wenig üsstudiert,
+
+              
+So sin Ihr halt verlore.
+
+            
+
+          
+",100,lustig-drei-schwarze-liebschafte,26,7,0.2692307692307692,0.2452656357219513,0.0742325479009195,0.6369128950954416,0.1543584158678322,0.7208299441983671,0.3306884765556024,0.2963309819739982,0.1071657241029357,0.2391044215160751,0.2030452049702644,0.7498903528553204

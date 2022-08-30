@@ -1,0 +1,2048 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Nit zuem Beschte. Sie het starik gebrenzelt.
+
+          
+",1,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,,,,,,,,,,,
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Dis hab ich nit gschbanne. Pfüi Deifel.
+
+          
+",1,bastian-dr-maischter-hett-gewunne,11,2,0.1818181818181818,,,,,,,,,,,
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+D'r Maischter hett sichs gemüetlich uff d'r Deller g'schöpft. No maant'r annoch: Agath, ich glaub
+            dü hesch Gänsgries kocht? Haha, ich hab dich jo gschtupft mit-em Fuess, awer...
+
+          
+",1,bastian-dr-maischter-hett-gewunne,37,4,0.1081081081081081,,,,,,,,,,,
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Wenn's an's Esse geht, kenn ich nix. Ja zuem Dunder, d' Maischtere isch doch als Junggsel Köche
+            gsin uff 'me grosse Herrschaftsguet.
+
+          
+",2,bastian-dr-maischter-hett-gewunne,30,2,0.0666666666666666,,,,,,,,,,,
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES
+
+            
+(zündet eine Zigarette an):
+
+            
+Jo siewe Johr hett sie de Söüi kocht, awer nit in d'r Herrschaft.
+
+          
+",2,bastian-dr-maischter-hett-gewunne,23,2,0.0869565217391304,0.0,0.0,0.6003575720228684,0.0,0.6929127363643135,0.0,0.7188348171973498,0.0,0.0,0.0,0.8530026544309912
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Jo, d'r Maischter isch e patentierter Simpel.
+
+          
+",3,bastian-dr-maischter-hett-gewunne,11,2,0.1818181818181818,0.0,0.0,0.6003575720228684,0.0,0.6929127363643135,0.0,0.7188348171973498,0.0,0.0,0.0,0.8530026544309912
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Allez, am heilige Mondaa! Do macht er e Bierreisel, Commissiönle, kauft Loterieloos mit Zahle wo
+            gewinne könnte, waisch so Loos mit 3, 5, 7, 9. Der verspielt noch d' ganz Büdik.
+
+          
+",3,bastian-dr-maischter-hett-gewunne,42,7,0.1666666666666666,0.0,0.0887336049638545,1.0053895490651037,0.1122139623162249,1.1608193225758825,0.0827920087820927,0.8725846052662745,0.0,0.0,0.2597633612380197,1.2998663991023534
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Wenn'r nume sini Alt zerscht verspiele dät, diss alt Rabbyse. Zaj loss mich au e bissel fümme.
+
+          
+",4,bastian-dr-maischter-hett-gewunne,22,1,0.0454545454545454,0.3841738982692321,0.873500986004918,1.418538559028557,0.4826162394553142,1.3221861361544536,0.7103903895396753,0.7277970351862867,0.6274360054772908,0.36633323445483,0.4863747102441874,1.4210061832637455
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Wart noch e Schluck — dä. Dü, Addes, gescht bin ich uff-em Messti gsin un hab gedanzt wie e Lumpe
+            am Stecke. Dü, ächt mit e're gfitzte Schäftelmachere, waisch aani vun unsere Branche. Die soll mich
+            nit gschlüdert han, e Dielewelter nochemol. Un wie der Walzer gschbielt isch worre: « O Susanna, wie
+            bist du doch so schön », waisch so mit, so ebbs for 's Herz, mit Schwung 
+            
+(will's vormachen)
+ ah, au! 
+            
+(Hält sich die Seiten.)
+
+          
+",5,bastian-dr-maischter-hett-gewunne,101,9,0.0891089108910891,0.4403616054940782,1.1058146122773658,1.1947747727808902,0.5174699827890489,1.061442382146854,0.7278792785434354,0.2423020081078616,0.6284947811268703,0.4058658791666776,0.6144773086013917,1.0266866523697282
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Un wie mir so im siewete Himmel erumbamble, stellt mir so e Canaille d'r Fuess, mir burzle anne,
+            ich schlaa d'r Schmecker uff d'r Bodde, dass ich d'r Himmel for e Laischte angsehne hab.
+
+          
+",6,bastian-dr-maischter-hett-gewunne,41,6,0.1463414634146341,0.4403616054940782,1.1058146122773658,1.746101180963717,0.5174699827890489,1.820627111944324,0.7278792785434354,1.057237543982051,0.7168741535097777,0.4058658791666776,1.038358708936156,2.020186890992996
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Haha, gelunge. Do hesch awer gelinzt, hä?
+
+          
+",6,bastian-dr-maischter-hett-gewunne,13,1,0.0769230769230769,0.4403616054940782,1.1058146122773658,1.746101180963717,0.5174699827890489,1.820627111944324,0.7278792785434354,1.057237543982051,0.7168741535097777,0.4058658791666776,1.038358708936156,2.020186890992996
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Un uewerdäm plumpse noch drej Päärle uff uns. D'r Seilschbanner wo grad kummt mit e me
+            laidsmässige Schbrenzelhafe, wurd au mitgerisse, un in dem Moment bruehlt mini Dülcine Mordio, un der
+            Schbrenzelhafe fallt e're mit-em Spitze direkt in's Müül; sie fangt aan ze gurigle un wär fascht
+            versoffe, wenn sie ken so gueter Zugg hätt ghett.
+
+          
+",7,bastian-dr-maischter-hett-gewunne,66,5,0.0757575757575757,0.4403616054940782,1.0170810073135113,1.6596734568060316,0.5417602002416463,1.7523805453070307,0.6450872697613426,1.019317811977117,0.7168741535097777,0.4058658791666776,0.9170153756040652,1.9276836571620184
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Annoch! Wie der Klumpe luefti isch worre, hab ich mini Dänzere uff d' Baan gschtellt wie e
+            Holzbubb, un üewerdem verliert sie e paar falschi Locke. Ich muess halt lache wie verruckt un wie ich
+            ihri wiss Blouse: betracht, muess ich noch meh lache.
+
+          
+",8,bastian-dr-maischter-hett-gewunne,53,9,0.1698113207547169,0.1094794149203444,0.4225225188909376,1.4954037775578792,0.2044152517172038,1.786167045377471,0.01748888900376,1.4037656649875352,0.0894381480324867,0.1426696135300088,0.9078903566387688,2.1416779012402447
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Worum? — Pfüi isch der bout räs. 
+            
+(Wirft die Zigarette fort.)
+
+          
+",9,bastian-dr-maischter-hett-gewunne,18,1,0.0555555555555555,0.0532917076954982,0.1902088926184899,1.7755697007956428,1.1981324769924029,1.784146651802144,0.0,1.3152134449485982,0.0883793723829073,0.1031369688181613,0.7797877582815644,2.058781424521062
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Ei ihri Blouse isch rot gedüepfelt gsin, vun minere bluetige Nas, un wie ich so lach, bekumm ich
+            vun dere Jumpfer aani an de Backe, dass mir d' Scharnierle krache. Aa so, saa ich: Dü cheval de
+            carosse, un hab e're e feschti in 's Gnick g'schlawe. No hättsch awer sotte sehne 
+            
+(markierend)
+ Sechs Händ gschbier ich am Hals, es räjt Füschte- 
+            
+paschtete, Tritt, Tüer uff — üewer d' Stross gflöüje saa ich dir, mit-em. Kopf zwische
+            zwai Gartelatte nyngfahre, isch eins gsin, un als uff mich los gebengelt; ich hab e Fackelzugg im
+            Schwarzwald gsehne. — O mini Ribbe, un, un — der do hinte duet mer so weh. Mim Lebdesdaa geh ich uff
+            kene Danz meh.
+
+          
+",10,bastian-dr-maischter-hett-gewunne,145,14,0.096551724137931,0.1128343635684403,0.3042055642382242,1.859887254329735,1.2298676342423869,1.806659239482079,0.0396249226942405,0.9630559699590692,0.0527237350850503,0.1364480126421521,0.5132221524137274,1.9029307461219152
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Zipfel, was lachsch so dumm?
+
+          
+",11,bastian-dr-maischter-hett-gewunne,9,1,0.1111111111111111,0.1128343635684403,0.3042055642382242,1.859887254329735,1.2298676342423869,1.806659239482079,0.0396249226942405,0.9630559699590692,0.0527237350850503,0.1364480126421521,0.5132221524137274,1.9029307461219152
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Bie so e're Fuehr hielt mer nit.
+
+          
+",11,bastian-dr-maischter-hett-gewunne,10,1,0.1,0.1128343635684403,0.3042055642382242,2.165695235167232,1.0933634544735642,2.081870441852792,0.0396249226942405,0.847225913895079,0.0527237350850503,0.1364480126421521,1.0573230233519106,2.1670044128317563
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Dü üewerzweriger Stuehlhooger, ich find nix lächerlichs d'rbie.
+
+          
+",11,bastian-dr-maischter-hett-gewunne,13,2,0.1538461538461538,0.396906445654838,0.1139966716197342,2.284504542652968,1.396776954938208,2.030451092391477,0.4053135916401469,0.4627780608846604,0.0527237350850503,0.0333110438239908,0.8398366933110392,1.7061545195460417
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Dich han sie doppelt gsohlt, gerüeschtert un vorgschueht in aam Düür. Jaja, Eddes, « die Liebe,
+            die Liebe hat manches schon getan ». Haha.
+
+          
+",12,bastian-dr-maischter-hett-gewunne,33,2,0.0606060606060606,0.396906445654838,0.1139966716197342,1.7444748490061357,0.3682059863292743,1.774206404053512,0.4053135916401469,0.4627780608846604,0.0527237350850503,0.0333110438239908,0.8398366933110392,1.5193593261781793
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Geh, mit dir nämm ich's noch uff.
+
+          
+",12,bastian-dr-maischter-hett-gewunne,12,1,0.0833333333333333,0.3373637897818959,0.0,1.5757509487537482,0.3364708290792902,1.6881246883497965,0.3656886689459064,0.5791502803199512,0.0,0.0,0.682520898844112,1.4376755797537757
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Was, dü Häriseel. Dich pack ich wie e Pfund Lumpe.
+
+          
+",13,bastian-dr-maischter-hett-gewunne,15,1,0.0666666666666666,0.9133156359994712,0.0,1.9792764626317585,0.3364708290792902,2.218575141311097,0.3656886689459064,0.5791502803199512,0.0,0.0,0.682520898844112,2.1201964785978875
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES
+
+            
+(steht auf):
+
+            
+Kumm here, kumm, box, caune, chauson. 
+            
+(Packt ihn.)
+
+          
+",13,bastian-dr-maischter-hett-gewunne,22,3,0.1363636363636363,1.046506934029717,0.0,1.5931135853303942,0.3364708290792902,1.7473662991432313,0.3656886689459064,0.5791502803199512,0.0,0.0,0.0,1.6521086126845794
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Au, halt!
+
+          
+",13,bastian-dr-maischter-hett-gewunne,6,1,0.1666666666666666,1.1887685135073052,0.0,1.5644155548135772,0.2975159575318213,1.8117100318533956,0.0,0.5791502803199512,0.0,0.0,0.0,1.9182250740740767
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Gell Männel! Was Güxels, was hesch, haha, het der Mensch e Kisse hinte angebunde. Aha, ich versteh
+            — es isch wäje dere Glanzwichs.
+
+          
+",14,bastian-dr-maischter-hett-gewunne,32,1,0.03125,1.1887685135073052,0.0,1.5644155548135772,0.2975159575318213,1.8117100318533956,0.0,0.5791502803199512,0.0,0.0,0.0,1.9182250740740767
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Bscht! Es kummt ebber. 
+            
+(Beide arbeiten schnell weiter.)
+
+          
+",14,bastian-dr-maischter-hett-gewunne,15,2,0.1333333333333333,1.1887685135073052,0.0,1.0974954933490462,0.2975159575318213,1.1160944300797062,0.0,0.0,0.0,0.0,0.0,1.1622592602743598
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Buschur biesamme. Schaköbel wie sööt mer?
+
+          
+",15,bastian-dr-maischter-hett-gewunne,10,2,0.2,0.6128166672897302,0.0,0.9512799102391232,0.2975159575318213,0.8937461068016678,0.0,0.305311349523088,0.0,0.0,0.0,0.994358222966422
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL:
+
+            
+Buschur ihr Härre.
+
+          
+",15,bastian-dr-maischter-hett-gewunne,6,2,0.3333333333333333,0.4796253692594842,0.0,0.9703404845865268,0.2975159575318213,0.9981858567078076,0.0,0.610622699046176,0.0,0.0,0.0,1.3586317728656778
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Brüche mir e Maischter wenn mir gsund sin?
+
+          
+",15,bastian-dr-maischter-hett-gewunne,11,2,0.1818181818181818,0.0,0.0,0.5146198615361739,0.0,0.616204259366525,0.0,0.610622699046176,0.0,0.0,0.0,1.0292397230723478
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Do hab ech miner Bueä. D' Miaädder isch om Zischdi schun dogewänn. Er will pardü
+            Schuehmachermäischter wäre.
+
+          
+",15,bastian-dr-maischter-hett-gewunne,22,1,0.0454545454545454,0.0,0.0,1.0960549311388263,0.0,1.434748743210128,0.0,0.610622699046176,0.0,0.0,0.8705134972976657,1.888331685064088
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Soso! Na, diss kan'r bie uns wäre. Wie haisch denn Männel?
+
+          
+",16,bastian-dr-maischter-hett-gewunne,17,1,0.0588235294117647,0.0,0.0,1.0960549311388263,0.0,1.434748743210128,0.0,0.610622699046176,0.0,0.0,0.8705134972976657,1.888331685064088
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+So isch erächt. Nume nit verschrocke.
+
+          
+",16,bastian-dr-maischter-hett-gewunne,10,1,0.1,0.0,0.0,0.8387450003707393,0.0,1.1266466135268656,0.0,0.305311349523088,0.0,0.0,0.8705134972976657,1.373711823527914
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Mer sieht's-em aan, dass'r e gscheider Vadder het.
+
+          
+",16,bastian-dr-maischter-hett-gewunne,14,1,0.0714285714285714,0.0,0.0,0.9306943656286194,0.0,1.622273728547744,0.0,0.0,0.0,0.0,1.4648036037371894,1.672917899266531
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Diss will ich määne. Ech bin in d'r Schuel allewiel in d'r erschte Bank gsässe.
+
+          
+",17,bastian-dr-maischter-hett-gewunne,19,2,0.1052631578947368,0.0,0.0,0.9306943656286194,0.0,1.622273728547744,0.0,0.0,0.0,0.0,1.4648036037371894,1.672917899266531
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Zäll will ich määne.
+
+          
+",17,bastian-dr-maischter-hett-gewunne,7,1,0.1428571428571428,0.0,0.0,0.94000688759713,0.0,1.3399763613435156,0.8046562175846373,0.0,0.0,0.0,0.5942901064395237,1.3096106328202024
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Vadder Schakob, Ihr könne Euch druff verlonn, Euerer Schaköbel wurd e Schuehküenschtler Nummer
+            pfiff.
+
+          
+",17,bastian-dr-maischter-hett-gewunne,19,3,0.1578947368421052,0.0,0.0,1.0564266529391189,0.0,1.6078861095782293,0.8046562175846373,0.0,0.0,0.0,0.7923868085860317,1.5808859452451327
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+'s wurd bsorjt, ken Angscht. Un wisse n'r, dass d'r Schaköbel besser lehrt, schicke als ebbs vun
+            e're Söüi — e Schambingel, odder e Köjelhupf, verstehn'r?
+
+          
+",18,bastian-dr-maischter-hett-gewunne,35,2,0.0571428571428571,0.0,0.0,1.0564266529391189,0.0,1.6078861095782293,0.8046562175846373,0.0,0.0,0.0,0.7923868085860317,1.5808859452451327
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Ich garantier Euch d'rfor, er wurd guet. — Noch ebbs. Sehn'r, so e Ding wie ich aan hab, muehn'r
+            im Schaköbel kaufe. Wisse n'r, es isch wäje de Kräjenaue. 
+            
+(Stiehlt Aepfel aus dem Korb.)
+
+          
+",19,bastian-dr-maischter-hett-gewunne,48,2,0.0416666666666666,0.0,0.0,0.7071673569131518,0.0,0.8041568648740884,0.8046562175846373,0.0,0.0,0.0,0.1980967021465079,0.7670600079703418
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Stille! Was galt so e Sitz?
+
+          
+",20,bastian-dr-maischter-hett-gewunne,10,1,0.1,0.0,0.0,0.7071673569131519,0.0,0.8041568648740884,0.8046562175846373,0.0,0.0,0.0,0.1980967021465079,0.7670600079703418
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Sei nit so vorwitzig. Was galt so e Sitz?
+
+          
+",20,bastian-dr-maischter-hett-gewunne,13,1,0.0769230769230769,0.0,0.0,0.116419765341989,0.0,0.2679097482347137,0.0,0.0,0.0,0.0,0.1980967021465079,0.2712753124249303
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Ho, 's isch unterschiedlich. Der kummt direkt vun Paris. Awer wil Ihr's sin, na zwanzig
+            Franke.
+
+          
+",20,bastian-dr-maischter-hett-gewunne,24,1,0.0416666666666666,0.0,0.6178610242167751,0.3659127010853046,0.0,0.7022907520142179,0.0,0.0,0.0,0.0,0.0,0.6871378200237765
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Könne Ihr's nit billiger gänn?
+
+          
+",21,bastian-dr-maischter-hett-gewunne,9,1,0.1111111111111111,0.0,1.1135867296930249,0.8199799652864135,0.0,1.4726046293320458,0.0,0.0,0.0,0.0,0.5866829780488565,1.323146132678132
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Leider nit min Liewer. Prix fixe!
+
+          
+",21,bastian-dr-maischter-hett-gewunne,10,2,0.2,0.2287283448166677,1.1135867296930249,1.088762413209801,0.3320462243292196,1.6152297879249395,0.309925684726563,0.0,0.4459028318490038,0.0,0.5866829780488565,1.3903881349073957
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Ech mään d'r Schaköbel bringt's ellään ferdig mit sim Sitzlädder. Ja, ech will jetz gehn. Sei
+            brov, Schaköbel, am nächschte Friddi kumm ech widder.
+
+          
+",21,bastian-dr-maischter-hett-gewunne,33,3,0.0909090909090909,0.2287283448166677,1.1135867296930249,1.255540763826115,0.3320462243292196,1.7293638112809706,0.309925684726563,0.1896480713049242,0.4459028318490038,0.0,0.5866829780488565,1.5810736642948648
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL
+
+            
+(weinend):
+
+            
+Jo Vodder, d' Mieäder sell ö mitkumme, galle.
+
+          
+",22,bastian-dr-maischter-hett-gewunne,16,2,0.125,0.2287283448166677,1.1135867296930249,1.667448113303965,0.3320462243292196,1.82994583847905,0.309925684726563,0.1896480713049242,0.982340310238762,0.0,0.5866829780488565,1.630167272808213
+comedy,Schakob,M,farmer,agriculture,lower_class,"
+            
+SCHAKOB:
+
+            
+Jo dänn. Adje Schaköbel. Adje Ihr Harre. 
+            
+(Mitteltüre ab.)
+
+          
+",22,bastian-dr-maischter-hett-gewunne,17,3,0.1764705882352941,0.2287283448166677,0.4957257054762497,2.108022984925108,0.3320462243292196,1.91932582347115,0.309925684726563,0.1896480713049242,1.648087934495465,0.0,0.5866829780488565,1.2284300280743772
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Was hesch ze suttere? Diner Vadder geht zue d'r Mieädder. — Dü, Addes, er het nit angebisse.
+
+          
+",22,bastian-dr-maischter-hett-gewunne,24,2,0.0833333333333333,0.2287283448166677,0.0,1.828585368736982,0.3320462243292196,1.550876568505393,0.309925684726563,0.1896480713049242,1.648087934495465,0.0,0.2971450532197618,0.9993346840574172
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Schad! Der Büür schient nit vun Dummkirich ze sin. Awer sini Aepfel han mer-em geraant.
+
+          
+",23,bastian-dr-maischter-hett-gewunne,20,1,0.05,0.0,0.0,1.5598029208135944,0.0,1.4082514099124992,0.0,0.1896480713049242,1.2021851026464614,0.0,0.2971450532197618,0.9320926818281536
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Schaköbel, setz dich do here un klopf mer diss Rossledder waich. Siehsch so wurd's gemacht. —
+            Kannsch au Kartes spiele?
+
+          
+",23,bastian-dr-maischter-hett-gewunne,27,4,0.1481481481481481,0.2170541418995437,0.0,1.5749980081001689,0.0,1.4441419695430988,0.1510399024338022,0.0,1.3390445582285972,0.1681218210451394,0.2971450532197618,0.831818705206668
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Ha, saftigi Renette. — Schaköbel, klopf, klopf! 
+            
+(Macht sich sachte an Eddes heran, und stiehlt ihm vorsichtig einen Apfel aus der
+            Tasche.).
+ Saftigi Renette.
+
+          
+",24,bastian-dr-maischter-hett-gewunne,37,6,0.1621621621621621,0.7958651869649938,0.093597164198213,1.82677238279382,0.0,1.99689821037028,0.6098914471038233,0.0,1.1675656280578677,0.6164466771655113,0.5034836503229416,1.2527347352603293
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Werum lachsch denn so dumm? 
+            
+(Erwischt die Hand Addes.)
+ Ei gück do, der Apfeldieb. Addes, gib denne Apfel her. Ich
+            saa dir's in Güetem.
+
+          
+",25,bastian-dr-maischter-hett-gewunne,36,1,0.0277777777777777,0.7958651869649938,0.093597164198213,1.0202848100873725,0.0,1.205227473363962,0.6098914471038233,0.0,0.5018180038011644,0.6164466771655113,0.5034836503229416,0.9673341599703889
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Na wart, dich box ich zamme, das dir Höre un Sehn vergeht. 
+            
+(Schlüpft mit den Händen in ein Paar alte Schuhe.)
+
+          
+",26,bastian-dr-maischter-hett-gewunne,29,5,0.1724137931034483,0.8757799657831413,0.3596183255161723,1.261730133665245,0.0,1.3074518519372211,0.6413714473105914,0.0943555207524842,0.5018180038011644,0.6494895142619771,0.3128347680154378,1.1002981805703658
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Ah, dü witt mich zammeboxe! 
+            
+(Macht dasselbe wie Eddes.)
+ Kumm here, ich bin gerüescht.
+
+          
+",26,bastian-dr-maischter-hett-gewunne,23,2,0.0869565217391304,0.8757799657831413,0.3596183255161723,1.5469624242661175,0.0,1.73570716102832,0.6413714473105914,0.0943555207524842,0.5018180038011644,0.6494895142619771,0.6183233108866302,1.4148953702045493
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Schaköbel bass uff, do kannsch ebbs lehre. Wenn d'r Addes bluetig uff-em Bodde lejt, no zählsch
+            langsam bis uff zehn, un wenn'r nimmi uffsteht, ischr knock-out.
+
+          
+",27,bastian-dr-maischter-hett-gewunne,34,4,0.1176470588235294,0.8484285637587344,0.3596183255161723,2.0786382864329678,0.1914158867830487,2.410354384805716,0.6954723596351595,0.6735058010724354,0.5714248752509372,0.4813676932168376,0.6183233108866302,2.102002825873309
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL:
+
+            
+Ja isch'r derno füddi?
+
+          
+",27,bastian-dr-maischter-hett-gewunne,7,1,0.1428571428571428,0.2696175186932844,0.2660211613179593,1.9152916141104064,0.1914158867830487,2.0994181868485486,0.2366208149651384,1.2424500149872082,0.2064663270319085,0.0330428370964658,0.4119847137834503,2.2040497754687065
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Numme halwer. Er hat 's Nasebaan gebroche, sechs Zähn fehle n'em, un het e verheiti Kinnlad.
+
+          
+",28,bastian-dr-maischter-hett-gewunne,23,2,0.0869565217391304,0.2696175186932844,0.2660211613179593,2.246329642514652,0.1914158867830487,2.352122480127816,0.2366208149651384,1.2424500149872082,0.581698082748631,0.0330428370964658,0.4119847137834503,2.3361631932696025
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Kumm numme her dü Grossmüül, dich will ich kinnlade. 
+            
+(Beide beginnen einen kurzen Boxkampf.)
+
+          
+",28,bastian-dr-maischter-hett-gewunne,21,2,0.0952380952380952,0.1897027398751368,0.0,1.830254670923796,0.1914158867830487,1.8480334792024864,0.2051408147583703,1.148094494234724,0.581698082748631,0.0,0.3054885428711922,1.79628620403223
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Un die saftig Renette schlucksch. Bing! 
+            
+(Es klopft heftig.) (Beide springen hastig an die Arbeit und pfeifen: « Guter Mond du gehst so
+            stille ».)
+
+          
+",29,bastian-dr-maischter-hett-gewunne,36,5,0.1388888888888889,0.1897027398751368,0.0,1.7406342948057614,0.1914158867830487,1.5645061167592424,0.2051408147583703,1.148094494234724,0.581698082748631,0.1683551550482142,0.0,1.5793869570454862
+comedy,Mirliton,M,,,,"
+            
+MIRLITON:
+
+            
+Bonjour Messieurs, 
+            
+(Kleine Pause.)
+
+          
+",29,bastian-dr-maischter-hett-gewunne,10,2,0.2,0.0,0.0,1.026984994736024,0.0,0.7398343099952156,0.0,0.5689442139147728,0.3752317557167224,0.1683551550482142,0.0,0.8018679486107425
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Loss 'ne stehn.
+
+          
+",29,bastian-dr-maischter-hett-gewunne,6,1,0.1666666666666666,0.3841738982692321,0.7847673810410634,1.05652896821667,0.3704022771390893,0.7327029539491156,0.6275983807575825,0.0,1.0026677611940134,0.5346883895030443,0.2266113490061677,0.5399425980596565
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+A, bonjour im Herre. Mit was könnt mer Ihne diene? MIRLITON 
+            
+(stellt sich vor):
+ Xavier Mirliton, rentier. Ich hab g'hört, dass bie Ihne elegant
+            gschafft wurd.
+
+          
+",30,bastian-dr-maischter-hett-gewunne,38,2,0.0526315789473684,0.3841738982692321,0.7847673810410634,0.7254909398124243,0.3704022771390893,0.4799986606698484,0.6275983807575825,0.0,0.6274360054772908,0.5346883895030443,0.2266113490061677,0.4078291802587607
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Hors concour, Monsieur. Sechs goldigi Medaille.
+
+          
+",30,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.3841738982692321,0.7847673810410634,0.7254909398124243,0.3704022771390893,0.4799986606698484,0.6275983807575825,0.0,0.6274360054772908,0.5346883895030443,0.2266113490061677,0.4078291802587607
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Schaköbel, lang e Stuehl here. Hucke Sie do anne, Monsieur Dürlüdü. Ich will 'ne glich 's Mess
+            näme, Schaköbel, hol zell Büechel uff d'r Werikbank, dass d' ebbs lehrsch, un zeihj dem Herr d'r
+            Bodin üss, awer sachte. Schick dich e bissele, leste.
+
+          
+",31,bastian-dr-maischter-hett-gewunne,57,5,0.087719298245614,0.3935044325462055,0.7847673810410634,0.673406740046782,0.3934830724558131,0.5514277071110966,0.6449089772451253,0.1158300560639902,0.6274360054772908,0.36633323445483,0.2266113490061677,0.5323726071026658
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL:
+
+            
+Eju dann. 
+            
+(Hält den Fuss hoch.)
+
+          
+",32,bastian-dr-maischter-hett-gewunne,12,2,0.1666666666666666,0.9738394059946176,0.7847673810410634,1.2764911539132562,0.5503249174576188,1.1287972572800822,0.9161212291542328,0.1158300560639902,0.6274360054772908,0.7219625449051831,0.2266113490061677,1.0123977364684162
+comedy,Mirliton,M,,,,"
+            
+MIRLITON:
+
+            
+Gänn Sie doch acht jeune homme, ich bin arig dificile.
+
+          
+",32,bastian-dr-maischter-hett-gewunne,14,1,0.0714285714285714,0.5896655077253857,0.4957257054762497,1.2006793927847788,0.1799226403185295,1.5638404205759169,0.2885228483966504,0.1158300560639902,0.0,0.355629310450353,0.5866829780488565,1.3382748115114502
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Dü maansch glab hebsch e 'n Ochs am Hinterfüess, dü Dollweck.
+
+          
+",32,bastian-dr-maischter-hett-gewunne,15,1,0.0666666666666666,0.5896655077253857,0.4957257054762497,1.2006793927847788,0.1799226403185295,1.5638404205759169,0.2885228483966504,0.1158300560639902,0.0,0.355629310450353,0.5866829780488565,1.3382748115114502
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES
+
+            
+(fasst Schaköbel an den Ohren):
+
+            
+Pack dich. Denne Dirmel kann mer for nix brüche. 
+            
+(Zieht den Schuh aus.)
+ Hesch 's Büechel? Schrieb uff was ich dir saa, 
+            
+(Nimmt Mass mit Bendelmeter.)
+ O was han Sie e nätts Füessel, Monsieur, grad wie e
+            Hewammehändel. Schaköbel schrieb: 45 — un 30 üewer d'r Reje, un 25 — un 12 — un 10 — halt nit 10 —
+            13. So, Monsieur, 's isch g'schehne.
+
+          
+",33,bastian-dr-maischter-hett-gewunne,93,5,0.053763440860215,0.6855905815772826,0.4957257054762497,1.479910615939034,0.2394258318248937,1.9354830361461568,0.2885228483966504,0.2316601121279805,0.0,0.355629310450353,0.7251030059547852,1.7228310607568964
+comedy,Mirliton,M,,,,"
+            
+MIRLITON:
+
+            
+Wenn kann ich uff d' Lifferung zähle?
+
+          
+",34,bastian-dr-maischter-hett-gewunne,10,3,0.3,0.6762600473003092,0.4957257054762497,1.4920229217100154,0.21634503650817,1.9511979103149504,0.2712122519091076,0.3088801495039739,0.0,0.355629310450353,0.7251030059547852,1.7525782958654574
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+So ball wie möjlich. Schaköbel, helf dem Herr d'r Schueh anduehn.
+
+          
+",34,bastian-dr-maischter-hett-gewunne,16,2,0.125,0.1192514095443304,0.4957257054762497,1.0142977639042647,0.1172051797981736,1.5664130419818787,0.043276491218857,0.3088801495039739,0.0,0.0,0.7251030059547852,1.4501736833282095
+comedy,Mirliton,M,,,,"
+            
+MIRLITON:
+
+            
+Merci, 's geht besser ellaan. Eh bien, in acht Daa denk ich.
+
+          
+",34,bastian-dr-maischter-hett-gewunne,18,1,0.0555555555555555,0.1192514095443304,0.0,0.5602304997031561,0.1172051797981736,0.7960991646640505,0.043276491218857,0.3088801495039739,0.0,0.0,0.1384200279059287,0.8141653706738541
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Schaköbel, diss Büechel here. — Wie, ja — dich solle d' Ente vertrette, dü hesch jo gar nix
+            gschriewe! Hab ich dir nit gsaat dü — e fitzekapores! Ja kannsch denn dü nit schriewe?
+
+          
+",35,bastian-dr-maischter-hett-gewunne,43,3,0.0697674418604651,0.1192514095443304,0.0,1.2273439021684098,0.1172051797981736,1.252635258088175,0.043276491218857,1.067472434723671,0.0,0.0,0.1384200279059287,1.5769074882237306
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Haha, der isch sicher d' Schuld, dass d' Frösch ken Wäddel han.
+
+          
+",36,bastian-dr-maischter-hett-gewunne,17,2,0.1176470588235294,0.0233263356924336,0.0,0.9481126790141544,0.0577019882918094,0.8809926425179345,0.043276491218857,0.9516423786596808,0.0,0.0,0.0,1.1923512389782849
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Witt dü schnell dem Herrn noochlaufe! Saasch er het ebbs vergesse. — Dü lauf'sch noch nit. — Bisch
+            noch nit drüsse? Zaj Addes, lang mer d'r Knejrieme. Witt dü mache dass...
+
+          
+",36,bastian-dr-maischter-hett-gewunne,40,3,0.075,0.0233263356924336,0.0,0.7924726585259776,0.0577019882918094,0.6491207752600382,0.043276491218857,0.758592285219697,0.0,0.0,0.0,0.9403626343783787
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL:
+
+            
+O liever Harr Schuehmochersgsell, ech, ech — Harr Düderlüdu 
+            
+(ab Mitteltüre)
+ horche, horche!
+
+          
+",37,bastian-dr-maischter-hett-gewunne,21,1,0.0476190476190476,0.0,0.0,0.6671134024652539,0.0,0.4565360934241244,0.0,0.7585922852196969,0.0,0.0,0.0,0.7627421175498765
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+So e Rejementsdirmel! Wart dü wursch noch dressiert.
+
+          
+",37,bastian-dr-maischter-hett-gewunne,12,1,0.0833333333333333,0.0,0.7919435300347362,1.1747748388275523,0.0,1.0117406612133526,0.1574000010338406,0.7585922852196969,0.0,0.1652141854823291,0.5324808545612905,1.3251381408559235
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+D'r Deifel het alles wölle wäre nume nit Lehrbue.
+
+          
+",37,bastian-dr-maischter-hett-gewunne,12,1,0.0833333333333333,0.0,0.7919435300347362,0.5076614363622987,0.0,0.5552045677892281,0.1574000010338406,0.0,0.0,0.1652141854823291,0.5324808545612905,0.5623960233060473
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Drum isch'r au glich Maischter worre. Enfin...
+
+          
+",38,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.0,0.7919435300347362,0.5076614363622987,0.0,0.5552045677892281,0.1574000010338406,0.0,0.0,0.1652141854823291,0.5324808545612905,0.5623960233060473
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Sin ken Bäre. Jetz kummt mer ebbs yn. Han mer nit im Dorel, im Liebschter vun d'r
+            Bodinmachermaischtersdoochter, uff hit sini gsohlte Schueh versproche?
+
+          
+",38,bastian-dr-maischter-hett-gewunne,31,4,0.1290322580645161,0.0,0.9508990551602728,0.7970321660322156,0.0,0.9345412474950768,0.1574000010338406,0.289972936720073,0.0,0.1652141854823291,0.6986208102009757,1.0029021348071565
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Minsex! Awer jetz kummt mir au ebbs yn, 
+            
+(Nachdenklich.)
+ Ich maan als, ich maan — morje, morje...
+
+          
+",39,bastian-dr-maischter-hett-gewunne,27,3,0.1111111111111111,0.0,0.9508990551602728,0.7970321660322156,0.0,0.9345412474950768,0.1574000010338406,0.289972936720073,0.0,0.1652141854823291,0.6986208102009757,1.0029021348071565
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Was morje?
+
+          
+",40,bastian-dr-maischter-hett-gewunne,5,1,0.2,0.0,0.1589555251255366,0.289370729669917,0.0,0.3793366797058488,0.0,0.289972936720073,0.0,0.0,0.1661399556396851,0.440506111501109
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Grad rechel ich nooch. 
+            
+(Springt auf, reisst das Sitzkissen ab.)
+ Morje hab ich üssgelehrt, uff d'r Daa. Gsell,
+            Gsell! Addes Gsell!
+
+          
+",40,bastian-dr-maischter-hett-gewunne,33,3,0.0909090909090909,0.0,0.1589555251255366,0.602849227243558,0.0,0.871413839875822,0.0,0.4830230301600567,0.0,0.0,0.3968400021495663,0.9716358436457424
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Was? E Nundebuckel, un diss kummt dir jetz ererscht yn? Dü sollsch blöuj wäre, Was zahlsch? Der
+            Gsell wurd yngewaicht.
+
+          
+",41,bastian-dr-maischter-hett-gewunne,28,1,0.0357142857142857,1.0704801466081335,0.1589555251255366,1.6087639634587336,0.0,1.5444908569648657,0.0,0.4830230301600567,0.0,0.0,0.3968400021495663,1.2360627252071297
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Gsell! Ich möcht mir fasch d' Hand drucke for Gruenz. Haha, was koscht 's Elsass un noch e paar
+            Dörfer? Addes, denne Owe trinke mer küewelswies.
+
+          
+",42,bastian-dr-maischter-hett-gewunne,34,1,0.0294117647058823,1.0704801466081335,0.0,1.3193932337888168,0.0,1.165154177259017,0.0,0.1930500934399837,0.0,0.0,0.2307000465098811,0.7955566137060204
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Bravo, diss isch e Mannswort. Vive Eddes. Hoch soll'r läwe, drej Käs hoch, vive! 
+            
+(Beide tanzen und singen):
+ Maidele, butz dich, wäsch dich, Strähl dich schön, Derfsch
+            mit mir uff d'r Polka gehn. Hopsa Lissele, danz e bissele...
+
+          
+",43,bastian-dr-maischter-hett-gewunne,56,10,0.1785714285714285,1.3324723793574174,0.0587620485516586,1.8835813869381048,0.0,1.733452011061542,0.216969801527286,0.4666873372415679,0.0009528980846214,0.3035614100527122,0.3357311421515582,1.3928723629734896
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Was isch denn diss for e Spektakel? Danze die Lüüser gemüetlich e Polonaise à la cordonnier. Isch
+            diss amend gschafft? Was mache mini Schueh?
+
+          
+",44,bastian-dr-maischter-hett-gewunne,30,3,0.1,1.3324723793574174,0.0587620485516586,1.8835813869381048,0.0,1.733452011061542,0.216969801527286,0.4666873372415679,0.0009528980846214,0.3035614100527122,0.3357311421515582,1.3928723629734896
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Herr Dorel, mir sin grad dran.
+
+          
+",45,bastian-dr-maischter-hett-gewunne,10,2,0.2,1.355798715049851,0.0587620485516586,1.932219861053384,0.0577019882918094,1.8242674720955976,0.2602462927461431,0.2736372438015843,0.0009528980846214,0.3035614100527122,0.4510811654064987,1.4580748389744502
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Ich sieh's. Awer horche, saaue emol, was isch denn mit minere Hochzittere Petronelle, un minere
+            zuekuenftige Schwejeres los?
+
+          
+",45,bastian-dr-maischter-hett-gewunne,26,2,0.0769230769230769,0.2853185684417172,0.3794419505218179,1.2710925045274308,0.0577019882918094,1.5599192268431736,0.2602462927461431,0.5716840261909557,0.0009528980846214,0.5367387168206481,0.6383073886604178,1.6200682230252532
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Halt din daub Müül. Treff ich die zwei Wiebszimmer im Magmod aan, un wie sie mich sehne, stelle
+            sie d' Nase hoch, un mache so als ob sie mich noch nie gekennt hätte.
+
+          
+",46,bastian-dr-maischter-hett-gewunne,40,5,0.125,0.512239758668256,0.4918108966476525,1.5820183928403255,0.1172051797981736,1.9040081662455857,0.3687311935097861,0.5716840261909557,0.0009528980846214,0.6789904410007892,0.6383073886604178,1.956018758480539
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Ei, Herr Dorel, Sie könne's jo noch noochhole.
+
+          
+",47,bastian-dr-maischter-hett-gewunne,14,1,0.0714285714285714,0.2969001973038395,0.4330488480959939,1.2685487518124856,0.2326091563817926,1.7208796961148884,0.2383143744202143,0.2980467823893715,0.0,0.375429030948077,0.5332762930187409,1.7139440428700747
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Wurr ich au, un nit ze knapp.
+
+          
+",47,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.2969001973038395,0.4330488480959939,1.7059403022922752,0.2326091563817926,2.179554100876545,0.6298658374413101,0.2980467823893715,0.5053049461617811,0.375429030948077,0.5332762930187409,2.178532139442057
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Awer saftig. Herr Hochzitter, je saftiger, deschto besser.
+
+          
+",47,bastian-dr-maischter-hett-gewunne,14,3,0.2142857142857142,0.2891247520730283,0.4330488480959939,1.4273961679771712,0.2133751602845227,1.7250512675631255,0.6154403403683577,0.2980467823893715,0.5053049461617811,0.375429030948077,0.1872262232539191,1.7006136091821311
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Luej do miner Kolleg.
+
+          
+",48,bastian-dr-maischter-hett-gewunne,7,1,0.1428571428571428,0.2891247520730283,0.1123689461258346,1.6640438578906005,0.2133751602845227,2.1348669795701087,0.6154403403683577,0.0,0.5053049461617811,0.1422517241801412,0.8705134972976657,2.133285305561681
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Wo bisch denn so lang gschteckt? Ich hab gemaant dü bisch zue dinere Mieädder geloffe. — Wo hesch
+            denn 's Mess?
+
+          
+",48,bastian-dr-maischter-hett-gewunne,26,3,0.1153846153846153,0.0622035618464896,0.0,1.3531179695777056,0.1538719687781585,1.7907780401676967,0.5069554396047147,0.0,0.5053049461617811,0.0,0.8705134972976657,1.7973347701063953
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Addes, lang d'r Tröschter. Dich will ich messe lehre.
+
+          
+",48,bastian-dr-maischter-hett-gewunne,14,4,0.2857142857142857,0.0155508904616224,0.0,1.102399457456258,0.0384679921945396,1.405608676495869,0.4204024571670005,0.0,0.5053049461617811,0.0,0.8705134972976657,1.4420937364493909
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL:
+
+            
+Ojemer, ojemer. Ech will brov sin. 
+            
+(Drohtspitz hinter der Szene, laut rufend):
+ Edwar! Adolph! Diuhe! Diuhu!
+
+          
+",49,bastian-dr-maischter-hett-gewunne,29,1,0.0344827586206896,0.0155508904616224,0.0,0.6650079069764683,0.0384679921945396,0.9469342717342124,0.0288509941459047,0.0,0.0,0.0,0.8705134972976657,0.9775056398774083
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+E Glüeck fer dich, dass d'r Alt kummt, sunscht hätt's Fetze gänn.
+
+          
+",49,bastian-dr-maischter-hett-gewunne,18,2,0.1111111111111111,0.0,0.2478628527381249,1.0712574440189884,2.220446049250313e-17,1.4899532046121182,0.0,0.0,0.0,0.2616499103436811,1.163854986322094,1.5660335853203786
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Ich glaab d'r Maischter het e g'hörige Well.
+
+          
+",50,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.0,0.2478628527381249,0.4898223744163358,2.220446049250313e-17,0.6714087207685152,0.0,0.0,0.0,0.2616499103436811,0.2933414890244282,0.7069416233286384
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Wenn ich saa, es wurd nimi gschafft, wurd nimmi gschafft. 
+            
+(Geht stolz hin und her, und pafft):
+ Ich hab drei Millione gewunne.
+
+          
+",50,bastian-dr-maischter-hett-gewunne,32,3,0.09375,0.1513584039018372,0.2478628527381249,0.6919092629490728,2.220446049250313e-17,0.7803861933913973,0.1799746483019293,0.0,0.207057831760031,0.2616499103436811,0.2933414890244282,0.7568872579054277
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+D'r Maischter het gewunne!
+
+          
+",50,bastian-dr-maischter-hett-gewunne,7,2,0.2857142857142857,0.1513584039018372,0.2478628527381249,0.6919092629490728,2.220446049250313e-17,0.7803861933913973,0.1799746483019293,0.0,0.207057831760031,0.2616499103436811,0.2933414890244282,0.7568872579054277
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Jo Plän vun Paris.
+
+          
+",50,bastian-dr-maischter-hett-gewunne,7,1,0.1428571428571428,0.1513584039018372,0.2478628527381249,0.6919092629490728,2.220446049250313e-17,0.7803861933913973,0.1799746483019293,0.0,0.207057831760031,0.2616499103436811,0.2933414890244282,0.7568872579054277
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+So wohr ich Drohtspitz haiss. Drei Millione! D' Frau un Doochter hab ich unterwäjs angetroffe un
+            hab ne die Nuwell bruehjwarm nuewergschtellt. Umarmt han sie mich, verschmutzt wie narrächt; d' Litt
+            sin stehn gebliewe, un han Müül un Nas uffgschberrt.
+
+          
+",51,bastian-dr-maischter-hett-gewunne,49,4,0.0816326530612244,0.1513584039018372,0.0,0.2020868885327371,2.220446049250313e-17,0.108977472622882,0.1799746483019293,0.0,0.207057831760031,0.0,0.0,0.0499456345767891
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Millione un 's Wetter. Addes, d' Karte her, dass mer e Tournee erüssklopfe, uff denne Stoss.
+            Addes, dü gibsch.
+
+          
+",52,bastian-dr-maischter-hett-gewunne,28,2,0.0714285714285714,0.4715731350921422,0.0,0.8890294108869797,0.2245134535671421,0.7406162598106742,0.6104417766079965,0.2895751401599756,0.207057831760031,0.4498464017911455,0.0,0.6101103057535404
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Ja ihr Buewe, Numero 128.697 isch e Glückszahl, un die isch uff mich gfalle.
+
+          
+",53,bastian-dr-maischter-hett-gewunne,19,3,0.1578947368421052,0.320214731190305,0.0,1.1833588906132249,0.224513453567142,1.1314054808409986,0.5865289244745161,0.6722733049048836,0.1504739057685556,0.4498464017911455,0.0,1.1793359439685704
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Mäischter, ich gratülier zue dem söuimässige Glück. ADDES 
+            
+(schüttelt Drohtspitz die Hand):
+ Un ich au, dunderwischbel.
+
+          
+",53,bastian-dr-maischter-hett-gewunne,25,1,0.04,0.320214731190305,0.0,1.1833588906132249,0.224513453567142,1.1314054808409986,0.5865289244745161,0.6722733049048836,0.1504739057685556,0.4498464017911455,0.0,1.1793359439685704
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Ah dü bisch d'r Schaköbel! — Na, kannsch dich vun dim Vadder widder hole lonn. Saasch bisch do
+            gsin. Es wurd nimi gschuehschtert bie mir. Diss isch guet for armi Peches. Furt mit dem Pechstuehl,
+            furt mit-em Knibbe, Klopfstaan, Rieme. Alles nüss, nüss. 
+            
+(Wirft alles durcheinander.)
+
+          
+",54,bastian-dr-maischter-hett-gewunne,63,5,0.0793650793650793,0.4771886652095546,0.142589059667913,1.4293362028305818,0.2918140494788278,1.4693305548992943,0.7642629629146971,0.6722733049048836,0.2644764907181423,0.5164076691016254,0.1600323870241584,1.5276077023978596
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Naan, noch nit. Hitt fyre mir e grosses Fescht. Un wenn dü mir nochemol Maischter saasch, zinkier
+            ich dir aani, dass dü erumsurrsch wie e Propeller.
+
+          
+",55,bastian-dr-maischter-hett-gewunne,34,2,0.0588235294117647,0.4771886652095546,0.142589059667913,1.7163598506652344,0.2918140494788278,1.9119509428919816,0.7642629629146971,0.6722733049048836,0.2644764907181423,0.5164076691016254,0.4868673024943163,1.9078983266298453
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Schübbe isch Trumpf. Addes, hopp, e Kart odder e Stück Holz.
+
+          
+",56,bastian-dr-maischter-hett-gewunne,17,1,0.0588235294117647,0.1569739340192496,0.142589059667913,1.029417328310992,0.0673005959116856,1.28031215570419,0.33379583460863,0.382698164744908,0.2644764907181423,0.0665612673104797,0.4868673024943163,1.3477336554530943
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+He, was hab ich gsaat? Do hinne wurd nimmi gschafft. Adolph, hol mir im Schlofzimmer d'r
+            Fodell.
+
+          
+",56,bastian-dr-maischter-hett-gewunne,24,1,0.0416666666666666,0.1569739340192496,0.142589059667913,0.5330009600520096,0.0673005959116856,0.7805454620509835,0.177734038440181,0.0,0.1140025849495866,0.0665612673104797,0.4868673024943163,0.7285623826612749
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Ja Maischler — ä Herr Millionär. 
+            
+(Ab links.)
+
+          
+",57,bastian-dr-maischter-hett-gewunne,14,2,0.1428571428571428,0.1803002697116832,0.142589059667913,0.9085277420372038,0.1250025842034951,1.1443311789209438,0.2210105296590381,0.2844721069573864,0.1140025849495866,0.0665612673104797,0.4868673024943163,1.1922111935709812
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Voilà. Diss isch 's richtig Wort.
+
+          
+",57,bastian-dr-maischter-hett-gewunne,10,2,0.2,0.0233263356924336,0.0,0.8902086123604501,0.0577019882918094,1.250318237313419,0.043276491218857,0.48084654101078,0.0,0.0,0.7992112217754247,1.3227590417490156
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Was ich noch saaue will, Maischter, ä Herr von Drohtspitz, vun morje ab bin ich Gsell.
+
+          
+",57,bastian-dr-maischter-hett-gewunne,22,3,0.1363636363636363,0.038877226154056,0.0,0.6867578018996131,0.096169980486349,0.9360876372113408,0.0721274853647618,0.48084654101078,0.0,0.0,0.4723763063052669,1.0608820954026978
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Armer Wurm. He, wo bliebt miner Fodell?
+
+          
+",58,bastian-dr-maischter-hett-gewunne,12,3,0.25,0.038877226154056,0.081024410798453,1.0474079337068356,0.096169980486349,1.2963463697480158,0.0721274853647618,0.48084654101078,0.0,0.0219524265710094,0.7625474720711554,1.3991336364465732
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Do isch'r. Ich hab noch schnell e paar Spinnhuddle abgschtaibt. Voilà, Herr.
+
+          
+",58,bastian-dr-maischter-hett-gewunne,18,2,0.1111111111111111,0.0622035618464896,0.081024410798453,1.1727671897675596,0.1538719687781585,1.4889310515839296,0.1154039765836188,0.48084654101078,0.0,0.0219524265710094,0.7625474720711554,1.5767541532750755
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ
+
+            
+(setzt sich bequem, Beine übereinander):
+
+            
+Merci.
+
+          
+",58,bastian-dr-maischter-hett-gewunne,12,1,0.0833333333333333,0.038877226154056,0.081024410798453,0.7972404077823655,0.096169980486349,1.125145334713969,0.0721274853647618,0.1963744340533936,0.0,0.0219524265710094,0.7625474720711554,1.1131053423653694
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Bie de nächschte Wahle kenn ich aaner wo im Gemaanrot sitzt. No haisst's: Monsieur Drohtspitz
+            hinte, un Herr Drohtspitz vorne. Wie geht's, Herr Drohtspitz, alles gsund, was macht d' Madam un d'
+            Mamsell Doochter, ça va bien, wie stehn d' Aktie? Do fliehje d' Hüet, bonjour, bonjour, sehn'r n'e
+            d'r stolz Stadtvadder? D'r Kirichrot bliebt au nit üss, d'r Armeinspektertitel kummt vun aase.
+
+          
+",59,bastian-dr-maischter-hett-gewunne,83,9,0.108433734939759,0.0596117467695525,0.081024410798453,0.7443976285403775,0.1474606367457352,0.9475874325820322,0.1105954775593014,0.0,0.0,0.0219524265710094,0.3580575086261534,0.8620811261909775
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+D'r Herr Drohtspitz verkehrt nume mit vornehme Herrschafte. Par exemple mit-em Préfet, Députés,
+            Sénateurs, Minischter.
+
+          
+",60,bastian-dr-maischter-hett-gewunne,22,3,0.1363636363636363,0.0596117467695525,0.081024410798453,0.7443976285403775,0.1474606367457352,0.9475874325820322,0.1105954775593014,0.0,0.0,0.0219524265710094,0.3580575086261534,0.8620811261909775
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Wills starik hoffe.
+
+          
+",60,bastian-dr-maischter-hett-gewunne,6,2,0.3333333333333333,0.0596117467695525,0.3927488681067872,0.6412910213850885,0.1474606367457352,0.8931969976152763,0.1105954775593014,0.224513453567142,0.0,0.0,0.3720272346258867,0.8761673948238784
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Un nit weni Männel.
+
+          
+",60,bastian-dr-maischter-hett-gewunne,7,1,0.1428571428571428,0.0362854110771189,0.3927488681067872,0.5159317653243647,0.0897586484539258,0.7006123157793624,0.0673189863404443,0.224513453567142,0.0,0.0,0.3720272346258867,0.6985468779953758
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+D'r chevalier de la Landwirtschaft isch sicher. Un d' Bankier laufe Ihne nooch, wie d' Mies
+            nooch-em Speck.
+
+          
+",60,bastian-dr-maischter-hett-gewunne,23,2,0.0869565217391304,0.0362854110771189,0.3927488681067872,0.7656764577536622,0.0897586484539258,1.0189723380929836,0.0673189863404443,0.224513453567142,0.0,0.0,0.7228669247334741,1.0723288996601048
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Wo numme mini Frau bliebt un d' Petronelle? Ah, die kaufe jo yn. No fahre sie im Taxi zuem
+            Zahnarzt. Sie wölle sich goldeni Zähn mache lonn.
+
+          
+",61,bastian-dr-maischter-hett-gewunne,34,1,0.0294117647058823,0.3645651093661919,1.1056941664463524,1.0722454352588566,0.374970971752968,1.057204772571347,0.5990114335528911,0.224513453567142,0.5700129247479331,0.3328063365523988,0.8608524105544777,1.1262814680043391
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Wenn's grad emol an Muenz fehle dät, könnte die Dame jo e Zahn uff d'r Tisch laje.
+
+          
+",61,bastian-dr-maischter-hett-gewunne,22,4,0.1818181818181818,0.3490142189045695,1.1056941664463524,1.2237814710652717,0.3365029795584284,1.2978728548082177,0.5701604394069865,0.3693010236471298,0.5700129247479331,0.3328063365523988,1.0338774454368884,1.406215089227146
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ
+
+            
+(lacht):
+
+            
+Kaiwe Bue. E gueter Witz, haha! Dü, Edwar, wie dü morje doch üssgelehrt hesch, defsch mini Cigar
+            wittersch rauche.
+
+          
+",62,bastian-dr-maischter-hett-gewunne,31,4,0.1290322580645161,0.3490142189045695,0.7129452983395652,1.134601729602266,0.3365029795584284,1.190011193216668,0.5701604394069865,0.2495438750123402,0.5700129247479331,0.3328063365523988,0.9285057978960432,1.29035989755958
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Merci, Herr.
+
+          
+",62,bastian-dr-maischter-hett-gewunne,6,1,0.1666666666666666,0.3956668902894367,0.7129452983395652,1.3853202417237136,0.4519069561420473,1.5751805568884951,0.6567134218447006,0.2495438750123402,0.5700129247479331,0.3328063365523988,0.9285057978960432,1.6456009312165851
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Un derno kannsch miner ganz Grümbel han, mit zamt d'r Pratik. Sogar 's Todedräjerämtel gib ich dir
+            au ab.
+
+          
+",63,bastian-dr-maischter-hett-gewunne,24,2,0.0833333333333333,0.3956668902894367,0.7129452983395652,1.6345720762642126,0.4519069561420473,1.9902237919932384,0.6567134218447006,0.4421473527200273,0.5700129247479331,0.3328063365523988,1.0129228564372887,2.0926725886881745
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Merci, Herr. Könnte Sie mir sunscht noch so e bissel, Sie wisse jo wie ich's maan. 
+            
+(Mimik vom Geldzählen.)
+
+          
+",63,bastian-dr-maischter-hett-gewunne,29,1,0.0344827586206896,0.0933053427697344,0.0,1.4039062075818505,0.2308079531672378,2.0708064908678687,0.1731059648754283,0.4421473527200273,0.0,0.0,0.8070510277560203,2.1661656635680133
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Aha, dü winksch mit-em Holzschläjel. Na, es kummt mer minsex uff e paar Döusig nit aan.
+
+          
+",64,bastian-dr-maischter-hett-gewunne,22,1,0.0454545454545454,0.0933053427697344,0.0,1.6357173958661506,0.2308079531672378,2.397364222514077,0.1731059648754283,0.8765100629599907,0.0,0.0,0.6340259928736093,2.523784178259255
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Könnt ich's nit schriftlich han? E rächter Gschäftsmann geht hitt am Daa numme uff Schriewes.
+
+          
+",64,bastian-dr-maischter-hett-gewunne,20,2,0.1,0.0933053427697344,0.0,1.700813643409488,0.2308079531672378,2.5471653874225533,0.1731059648754283,1.061328898187614,0.0,0.0,0.4352567486488328,2.6652844671499034
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Guet gänn.
+
+          
+",64,bastian-dr-maischter-hett-gewunne,5,2,0.4,0.0466526713848672,0.2478628527381249,1.6771287633885947,0.1154039765836189,2.54715296240964,0.0865529824377141,1.061328898187614,0.0,0.0,0.728598237673261,2.6280475898200764
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Oho, e Mann, e Wort! Sollsch zehndöusig Liwerle han. Pah! Ja 's Geld macht d'r Mann. Haha!
+
+          
+",65,bastian-dr-maischter-hett-gewunne,26,6,0.2307692307692307,0.0466526713848672,0.2478628527381249,1.356598841927246,0.1154039765836189,2.0135684863663235,0.0865529824377141,0.9635494561323888,0.0,0.0,0.3951710033148256,2.007402405255553
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Merci, Herr Millionär. 
+            
+(Umarmt ihn.)
+ Ich wurr e moderns Gschäft installiere, wo uff wisseschaftlichem Gebiet
+            fundamentiert isch.
+
+          
+",65,bastian-dr-maischter-hett-gewunne,26,3,0.1153846153846153,0.0155508904616224,0.2478628527381249,1.3450931876677914,0.0384679921945396,1.9886607778430012,0.0288509941459047,1.1565995495723729,0.0,0.0,0.3951710033148256,2.0225636540841228
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Diss Gschäft wurd in drei Spezialitäte yngedailt.
+
+          
+",66,bastian-dr-maischter-hett-gewunne,10,1,0.1,0.0155508904616224,0.2478628527381249,0.8781731262032603,0.0384679921945396,1.293045176069313,0.0288509941459047,0.5774492692524215,0.0,0.0,0.3951710033148256,1.2665978402844058
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Erschtens in e orthopädischi Abteilung for verkrüppelti Fuess. Zwaitens in e Pantoffelakademie, un
+            drittens in e Kinderschueh-Klinik.
+
+          
+",66,bastian-dr-maischter-hett-gewunne,22,1,0.0454545454545454,0.0155508904616224,0.2478628527381249,1.121397494011866,0.0384679921945396,1.244250604674682,0.0288509941459047,0.2878741290924458,1.0010306516380307,0.0,0.3951710033148256,0.9974901384036708
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Guet gänn. Kohl wittersch.
+
+          
+",66,bastian-dr-maischter-hett-gewunne,8,2,0.25,0.0155508904616224,0.2478628527381249,1.121397494011866,0.0384679921945396,1.2442506046746822,0.0288509941459047,0.2878741290924458,1.0010306516380307,0.0,0.3951710033148256,0.9974901384036708
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+No schaff ich mir e amerikanischi Maschin aan, wo ich in e're Uesstellung gsehne hab; e Maschin,
+            die in kurzer Zitt e Vermöje abwerft.
+
+          
+",67,bastian-dr-maischter-hett-gewunne,30,2,0.0666666666666666,0.0155508904616224,0.5567933648465124,1.127035303690652,0.0384679921945396,1.3826004485897712,0.0288509941459047,0.1930500934399837,1.0010306516380307,0.0,0.2933414890244282,1.126913244704269
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Edwar, Edwar, dü machsch jo e Möwelwaaue lache.
+
+          
+",67,bastian-dr-maischter-hett-gewunne,13,1,0.0769230769230769,0.0,0.9847633732381148,1.4797833033831644,0.0,1.583318225370499,0.0,0.720220099193454,1.0010306516380307,0.2320581798408629,0.782685731616389,1.6644538301219156
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Dere Maschin wurd vun vorne Rossledder nynspediert, un hinte kumme Bodin in box-calf fix un ferdig
+            erüss.
+
+          
+",68,bastian-dr-maischter-hett-gewunne,21,1,0.0476190476190476,0.0,1.526899684003402,1.8435592672093413,0.0,1.98567145974793,0.0,0.720220099193454,1.0010306516380307,0.2320581798408629,0.7826857316163891,2.099330760461664
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Grossartig!
+
+          
+",68,bastian-dr-maischter-hett-gewunne,4,1,0.25,0.0,1.526899684003402,1.36687486866847,0.0,1.6866582302557158,0.0,0.720220099193454,0.0,0.2320581798408629,0.7826857316163891,1.99045555544254
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Horich Edwar, als gewöhnlicher Schuehmacher dät ich mich verzüerne. Awer als Millionär bin ich ze
+            nowel. Verstehsch, dü Lüüser!
+
+          
+",68,bastian-dr-maischter-hett-gewunne,26,1,0.0384615384615384,0.0,1.2790368312652771,1.1398412365679156,0.0,1.301501291596802,0.0,0.720220099193454,0.0,0.2320581798408629,0.4893442425919609,1.672451399115363
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Nowel geht d' Welt zegrund. Ja Herr Millionär, was ich fröuje möcht, was mach ich denn?
+
+          
+",69,bastian-dr-maischter-hett-gewunne,22,2,0.0909090909090909,0.0233263356924336,0.9701063191568896,1.331263603365876,0.0577019882918094,1.327118383176625,0.043276491218857,1.0046922061508403,0.0,0.2320581798408629,0.4893442425919609,1.806468609152675
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Dü, dü schnüüfsch dass d' nit verschticksch. Awer halt! Ich schaff mer e Vierspänner aan, mit
+            Arawerhengscht, odder englisch Vollbluet, un derno kannsch Kütscher bie mir wäre.
+
+          
+",69,bastian-dr-maischter-hett-gewunne,36,1,0.0277777777777777,0.5029517049519179,0.542136310765287,1.1950233688617236,0.3552179458236308,1.148120548588674,0.043276491218857,0.2844721069573864,0.0,0.0,0.0,1.2279177910427843
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Bravo! Diss dät mer basse. 
+            
+(Holt einen Stuhl, setzt sich in Reitsitz, schnalzt.)
+ Allez! Allez César, allez! EDDES 
+            
+(macht Addes nach):
+ Allez Coquette, allez Favorit. 
+            
+(Sie reiten um Drohtspitz herum.)
+
+          
+",70,bastian-dr-maischter-hett-gewunne,50,2,0.04,0.5029517049519179,0.0,1.46971419591539,0.3552179458236307,1.587726080408729,0.043276491218857,0.6963794564352364,0.0,0.0,0.595260573608517,1.6374898007556744
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL
+
+            
+(lauft hinten nach):
+
+            
+Hohü, hischterum, öööh Schimmel.
+
+          
+",71,bastian-dr-maischter-hett-gewunne,14,1,0.0714285714285714,0.5029517049519179,0.0,1.829306884900273,1.103596124380771,1.901445276558044,0.043276491218857,0.6963794564352364,0.0,0.0,0.595260573608517,2.027962714874921
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ
+
+            
+(lacht unbändig, schlägt sich aufs Knie).
+
+          
+",71,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.5029517049519179,0.0,1.829306884900273,1.1035961243807713,1.901445276558044,0.043276491218857,0.6963794564352364,0.0,0.0,0.595260573608517,2.027962714874921
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Oho! 
+            
+(Bleibt an der Türe stehen.)
+ Was isch denn los?
+
+          
+",71,bastian-dr-maischter-hett-gewunne,17,1,0.0588235294117647,0.4796253692594842,0.6413598039403184,2.143354862293525,1.0458941360889618,2.355117103361322,0.0,1.0080009142565929,0.0,0.4663546135358717,0.9697130201163552,2.4171544351895955
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ
+
+            
+(steht auf, kehrt Dorel den Rücken, geht dann aufgeblasen hin und her).
+
+          
+",72,bastian-dr-maischter-hett-gewunne,18,1,0.0555555555555555,0.4540752117055116,0.6413598039403184,2.293894904841383,0.7483781785571403,2.300067923888686,0.5399239449057882,1.0080009142565929,0.6211734952800931,0.4663546135358717,0.9697130201163552,2.237599289126633
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Was Deifels, bisch bös, Schwejerbabbe? Sin mini Schuch gsohlt? Guete Daa Schwejeres, wo isch denn
+            's Petronelle, dis lieb Schätzel? — Ken Antwort.
+
+          
+",72,bastian-dr-maischter-hett-gewunne,33,3,0.0909090909090909,0.6962172946241575,0.8972053572497195,2.1300221742472423,0.9857180359793112,1.910528460541804,0.7554887969835038,0.938950554315054,0.8339871562005501,0.4663546135358717,0.3744524465078382,1.8163499135043075
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Er het drei Millione gewunne. Sie muehn-em Herr Millionär saawe.
+
+          
+",73,bastian-dr-maischter-hett-gewunne,14,2,0.1428571428571428,0.7195436303165911,0.8972053572497195,1.895788741323084,0.2950418457139804,1.7893939462284028,0.7987652882023608,0.938950554315054,0.8339871562005501,0.4663546135358717,0.3744524465078382,1.603497516213563
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Edwar, dü gehsch nab zuem Photograph am Eck, er soll glich kumme.
+
+          
+",73,bastian-dr-maischter-hett-gewunne,17,1,0.0588235294117647,0.7195436303165911,1.4393416680150064,2.25956470514926,0.2950418457139804,2.1917471806058337,0.7987652882023608,0.938950554315054,0.8339871562005501,0.4663546135358717,0.3744524465078382,2.038374446553312
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Wäre mir photographiert, Herr Drohtspitz?
+
+          
+",73,bastian-dr-maischter-hett-gewunne,9,1,0.1111111111111111,0.7661963017014582,0.7979818640746881,1.8207084578922617,0.4104458222975992,1.7594590006044222,0.885318270640075,0.3428569895363111,0.8339871562005501,0.0,0.0,1.540774948985936
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Ja, in Läwesgrösse.
+
+          
+",73,bastian-dr-maischter-hett-gewunne,7,1,0.1428571428571428,0.3121210899959467,0.7979818640746881,1.7147828441429909,0.4104458222975992,1.7749286528038692,0.3453943257342868,0.9118012034510838,0.2128136609204569,0.0,0.0,1.962994633417976
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Awer d' beschte wo'r hett. Saasch er soll e 'n Andenke gänn.
+
+          
+",74,bastian-dr-maischter-hett-gewunne,16,2,0.125,0.0699790070773008,0.7899991635034119,1.467222415957843,0.1731059648754283,1.7076662886121796,0.1298294736565712,0.5689442139147728,0.0,0.0,0.2933414890244282,1.8577992253148403
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Un dü, Adolph, bschtellsch mer glich e Fass Champagner, verschtande?
+
+          
+",74,bastian-dr-maischter-hett-gewunne,16,2,0.125,0.0466526713848672,0.7899991635034119,1.6418226255534276,0.1154039765836189,1.8328491800630533,0.3483281614620802,0.5689442139147728,0.2528446825118078,0.0,0.2933414890244282,1.9257457265415197
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Haha, e Fass Champagner. Dem isch 's Pech in de Kopf gschtöje.
+
+          
+",74,bastian-dr-maischter-hett-gewunne,17,1,0.0588235294117647,0.0466526713848672,0.2478628527381249,1.877965593039867,0.1154039765836189,2.0660310922591973,0.8718785195108124,0.5689442139147728,0.7585340475354234,0.0,0.2933414890244282,1.9820028323121333
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Halt, Adolph! Z'erscht gehsch in de Keller, an de Gänsstall, nämsch d'r Knibbe mit un murigsch
+            alli Gäns ab. Schaköbel, dü helfsch-em. D' Madam Drohtspitz hett's 
+            
+nimi notwendig Gäns ze stopfe, diss isch guet for Proletarier.
+
+          
+",75,bastian-dr-maischter-hett-gewunne,48,3,0.0625,0.1598751230864947,0.2478628527381249,1.7791539552685371,0.0991719858439404,1.8081889277011307,0.7853255370730983,0.5689442139147728,0.7585340475354234,0.0,0.2933414890244282,1.7365591485862388
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Gibts hitt noch e Fricot, Herr Drohtspitz?
+
+          
+",76,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.2065277944713618,0.2478628527381249,1.5295374155410442,0.2145759624275593,1.850956221304865,0.8718785195108124,0.0,0.7585340475354234,0.0,0.2933414890244282,1.519743594080836
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Ha, ich frai mich jetz schun druff. Herr Dorl, vergesse Sie Ihri Redd nit. Schaköbel, kumm. 
+            
+(Beide Mitteltüre ab.)
+
+          
+",76,bastian-dr-maischter-hett-gewunne,30,3,0.1,0.2220786849329842,0.0,1.3860766208143058,0.2530439546220989,1.5941890705365602,0.900729513656717,0.0,0.7585340475354234,0.0,0.0,1.3201531156393265
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Herr Drohtspitz! Herr Schwejeres, ich möcht...
+
+          
+",77,bastian-dr-maischter-hett-gewunne,11,2,0.1818181818181818,0.3153840277027187,0.0,1.587554179400893,0.4838519077893368,2.0467602245934278,0.8120602995077795,0.0,0.5056893650236155,0.0,0.0,1.7850681648981552
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Ja sin denn Sie als noch do?
+
+          
+",77,bastian-dr-maischter-hett-gewunne,10,1,0.1,0.3153840277027187,0.0,1.4879702999372166,0.4838519077893368,1.7536271480879455,0.2885099414590472,0.5689442139147728,0.0,0.0,0.0,1.8659907169502
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Los, üss-em Staub, Sunscht hebb ich d' Tüer üss.
+
+          
+",77,bastian-dr-maischter-hett-gewunne,14,1,0.0714285714285714,0.155508904616224,0.6413598039403184,2.0256381849655454,0.3846799219453963,2.443757492647424,0.2885099414590472,1.1650377786935158,0.0,0.4663546135358717,0.3744524465078382,2.60903389824347
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Soll mich e Esel trette. Ja, was glauwe denn...
+
+          
+",78,bastian-dr-maischter-hett-gewunne,14,3,0.2142857142857142,0.1088562332313568,0.6413598039403184,1.941698023460411,0.2692759453617774,2.172722152331628,0.201956959021333,1.35468584999844,0.0,0.4663546135358717,0.3744524465078382,2.4444783939739345
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Jaja, 's isch Ernscht, Herr Bäbbkessel. Gehn Sie numme. Ich verbiet Ihne ein for allemol in unseri
+            Villa ze kumme.
+
+          
+",78,bastian-dr-maischter-hett-gewunne,27,4,0.1481481481481481,0.1049685106159512,0.7768938816316402,2.011748805073501,0.2596589473131425,2.2412130139533333,0.1947442104848568,1.35468584999844,0.0,0.4663546135358717,0.3744524465078382,2.5235942070874544
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Dabbezierersknecht, wurr nit frech, sunscht könntsch 's Fliehje lehre.
+
+          
+",79,bastian-dr-maischter-hett-gewunne,14,2,0.1428571428571428,0.0116631678462168,0.7768938816316402,1.510311780830606,0.0288509941459047,1.4708742866096782,0.0216382456094285,1.35468584999844,0.0,0.4663546135358717,0.3744524465078382,1.8131121397734449
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Jetz krej ich doch ball e Wuet. Saa mol, was isch denn in dich nyngfahre, dass dü so Käschperles
+            mit mir schbielsch?
+
+          
+",79,bastian-dr-maischter-hett-gewunne,28,2,0.0714285714285714,0.4511108342949696,0.7768938816316402,1.5323801594883886,0.0288509941459047,1.5939982237825894,0.5575364947804397,0.7857416360836672,0.4394476664487528,0.4663546135358717,0.3744524465078382,1.2782340061077435
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Bin ich au, sogar e dreifacher. 's Nümero 128.697 het Glüeck gebrocht. Mit minere Doochter isch
+            üss, sie kann schwasiere. Wenn ich Ihne emol ebbs ze verdiene kann gänn, ganz gern. Miner valet de
+            chambre wurd Ihne geläjetlich Ordre zuekumme lonn. Un jetz wölle Sie so friendlich sin, un d' Stubb
+            süüfer mache.
+
+          
+",80,bastian-dr-maischter-hett-gewunne,65,11,0.1692307692307692,0.4828393996499304,0.2871047278400154,1.1458280629188036,0.0594421741057618,1.1630198591755398,0.6093692619992566,0.2842105746947954,0.4912670232440194,0.1356298416129006,0.2184252713157988,0.8660440370336875
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+A so raucht's! Ihr wölle mich nimi kenne? Ja wer hett denn Euch eueri Büdik frisch gedabeziert?
+            Wer het 
+            
+denn eueri Wendelmatratze nej üewerzöüje un euere Flohzirik üssgeraichert? — Wer, fröüj
+            ich? Ich hab's gemacht, ich! Un noch umesunscht, ja! Ihr kumme mer gschliche wie gedrabbt, ihr
+            Pecheschores.
+
+          
+",81,bastian-dr-maischter-hett-gewunne,64,7,0.109375,0.5658024663014077,0.3645527722350564,1.525407332252562,0.0594421741057618,1.4998478027560316,0.6093692619992566,0.4196734827697413,0.4912670232440194,0.1356298416129006,0.2184252713157988,1.2524089175332622
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ
+
+            
+(steht rasch auf, reisst Dorel die Mülze vom Kopf, wirft sie zur Türe hinaus, die er offen
+            lässt):
+
+            
+Herr Prolet, han Sie gsehne, wie Ihri Proletarierskabb nüssgflöüje isch? Na, so kann's Ihne gehn,
+            awer Kopf unte un d' Baan owe.
+
+          
+",82,bastian-dr-maischter-hett-gewunne,54,3,0.0555555555555555,0.5696901889168133,0.2290186945437347,1.4553565506394714,0.0690591721543967,1.431356941134326,0.6165820105357327,0.4196734827697413,0.4912670232440194,0.1356298416129006,0.2184252713157988,1.173293104419742
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Ich geh vun ase, Herr Millionär. D'r Dorel bliebt d'r Dorel, un d'r Dorel pfifft uff d' Mamsell
+            Drohtspitz. Ihr denke noch an denne arme Bäbbkessel, wo richer isch, als ihr allizamme. 
+            
+(Ab.)
+
+          
+",83,bastian-dr-maischter-hett-gewunne,45,2,0.0444444444444444,0.5930165246092469,0.2290186945437347,1.814175837432461,0.1267611604462061,1.9717494238570843,0.6598585017545899,0.709248622929717,0.4912670232440194,0.1356298416129006,0.2184252713157988,1.728896528148103
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Armer Windbittel, düürsch mich. 
+            
+(Man hôrt weitlos Gänsegeschrei.)
+
+          
+",83,bastian-dr-maischter-hett-gewunne,15,2,0.1333333333333333,0.1535688581604941,0.2290186945437347,1.291772406925738,0.1267611604462061,1.50622341661608,0.1239602525835787,0.709248622929717,0.0518193567952666,0.1356298416129006,0.2184252713157988,1.6917180736513964
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Bonjour, Herr Drohtspitz. Sie wüensche in corpore uffgenumme ze wäre. Grossartigi Idee, als ewigs
+            Andenke. Famoser Gedanke. Diss Bild wurd in alle Zittunge e kollosaler Effekt mache. Wüensch Ihne au
+            viel Glüeck zu dem enorme Geld. Drei Milliönle wie ich ghört hab. Ken Klaanigkeit.
+
+          
+",84,bastian-dr-maischter-hett-gewunne,56,7,0.125,0.1285049601462285,0.077448044395041,1.0996491722244497,0.1126562628554374,1.2565546558200371,0.0844921971415781,0.6146861195398458,0.0,0.0747571172410517,0.0,1.412941221166777
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+So, d'r Apparat het glich die gross Ehr in Funktion ze trette. — Awer vorerscht möcht ich doch die
+            Herrschafte bitte 's Gsicht un d' Händ ze wäsche, denn mini Platte sin arig empfindlich.
+
+          
+",85,bastian-dr-maischter-hett-gewunne,40,7,0.175,0.220492141670591,0.1745648054278431,0.8567052200302392,0.1865383388876552,1.0915973589787622,0.2664223027180977,0.4502471045171609,0.1400133627618408,0.2925805228400966,0.1446094925730163,1.1835420334974625
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Zell isch awer num. Sie sotte vor lütter Gruenz nit wisse, was Sie mache wölle, dass Sie miner
+            Hofphotograph wäre. Uewerhaupt hab ich noch nie e Schuehmacher mit 'me Cylinder un Glacéhändschi
+            uff-em Pechstuehl sitze sehn.
+
+          
+",86,bastian-dr-maischter-hett-gewunne,43,3,0.0697674418604651,0.2049412512089686,0.3539522309461967,1.2285083137877002,0.3695902875460292,1.5371393585736493,0.237571308572193,0.4502471045171609,0.1400133627618408,0.2925805228400966,0.4347806583389048,1.7195067172462803
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES
+
+            
+(von draussen):
+
+            
+Ja, ja. D'r Schaköbel hielt wäje de
+
+          
+",87,bastian-dr-maischter-hett-gewunne,15,2,0.1333333333333333,0.181614915516535,0.3539522309461967,1.870359130692592,0.3118882992542197,1.6815510159870777,0.1942948173533359,1.2985603921867308,0.1400133627618408,0.2925805228400966,0.4347806583389048,2.3080164698427343
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Hä, do linse Sie, Herr Linser.
+
+          
+",87,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.2282675869014022,0.3539522309461967,2.1210776428140394,0.4272922758378386,2.066720379658905,0.28084779979105,1.2985603921867308,0.1400133627618408,0.2925805228400966,0.4347806583389048,2.663257503499739
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Wie Sie wüensche, Herr Drohtspitz. Also verehrti Herrschafte...
+
+          
+",87,bastian-dr-maischter-hett-gewunne,13,3,0.2307692307692307,0.2371538100223293,0.3539522309461967,2.093751052080283,0.4492739856632898,2.058299749279367,0.2973340821601384,1.2985603921867308,0.1400133627618408,0.2178234055990449,0.4347806583389048,2.6197974717197035
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Halt! D'r Addes un dr Schaköbel fehle noch.
+
+          
+",88,bastian-dr-maischter-hett-gewunne,12,2,0.1666666666666666,0.3020162464762317,0.1793874255183535,2.0181976958495977,0.5241498883969827,1.9632858778547604,0.1154039765836188,1.1378884278295456,0.0,0.0,0.2901711657658885,2.436842274398639
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES
+
+            
+(hinausrufend):
+
+            
+Addes, Schaköbel, ihr solle kumme! Gäns. Mir kumme! Mir kumme!
+
+          
+",88,bastian-dr-maischter-hett-gewunne,21,3,0.1428571428571428,0.3020162464762317,1.626408932295861,2.654149656196851,0.3026299475440692,2.596413793501558,0.1154039765836188,1.1378884278295456,0.0,0.0,4.440892098500626e-17,3.087094703783398
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+So, jetz kann's losgehn.
+
+          
+",88,bastian-dr-maischter-hett-gewunne,9,1,0.1111111111111111,0.3020162464762317,1.626408932295861,1.6534795524989705,0.3026299475440692,1.911609653365371,0.1154039765836188,0.0,0.0,0.0,4.440892098500626e-17,1.9429815274585829
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Haha, luej die zwei. Mer maant sie han e Bataille mitgemacht. Betrachte die Gänsmetzjer wie die
+            drinsehn.
+
+          
+",89,bastian-dr-maischter-hett-gewunne,23,1,0.0434782608695652,0.2553635750913645,1.626408932295861,1.4027610403775228,0.1872259709604503,1.5264402896935438,0.0288509941459047,0.0,0.0,0.0,4.440892098500626e-17,1.587740493801578
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Also mini Herrschafte, bilde Sie e schöni Grupp. D'r Herr Drohtspitz in d' Mittle, die junge Herre
+            rächts un links.
+
+          
+",89,bastian-dr-maischter-hett-gewunne,26,7,0.2692307692307692,0.2464773519704373,1.626408932295861,1.4298394686017388,0.3111019205292719,1.5293191431152426,0.1300525259133448,0.0,0.1358173914051247,0.0655151639742593,4.440892098500626e-17,1.6018967308217182
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Maischter, ich will links...
+
+          
+",90,bastian-dr-maischter-hett-gewunne,8,1,0.125,0.0066646673406953,1.626408932295861,1.2019791570765626,0.1623439417633612,1.3383283444446012,0.1300525259133448,0.0,0.1358173914051247,0.0655151639742593,4.440892098500626e-17,1.4372007059250531
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Maischter!? Do hesch links. 
+            
+(Gibt ihm eine Ohrfeige.)
+
+          
+",90,bastian-dr-maischter-hett-gewunne,16,2,0.125,0.3431354964199856,0.0,0.4189830751635739,0.1623439417633612,0.3881120321931185,0.1300525259133448,0.0,0.1358173914051247,0.0655151639742593,4.440892098500626e-17,0.4067756795291444
+comedy,Eddes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+EDDES:
+
+            
+Bisch jetz zefridde?
+
+          
+",90,bastian-dr-maischter-hett-gewunne,6,1,0.1666666666666666,0.3431354964199856,0.0,0.4189830751635739,0.1623439417633612,0.3881120321931185,0.1300525259133448,0.0,0.1358173914051247,0.0655151639742593,4.440892098500626e-17,0.4067756795291444
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+So. D'r Klaan do, der setzt sich vor d'r Herr Drohtspitz uff dr Bodde, C'est ça! Awer Herr
+            Drohtspitz, lueje Sie doch friendlicher, ja. Ja so! Uff đe Gsichter muess mer e Glanz sehn, als hätt
+            e Maiedaa mit sim Früehjrot druffgezunde un es dät Knackwuerscht räje.
+
+          
+",91,bastian-dr-maischter-hett-gewunne,59,10,0.1694915254237288,0.3617965649739325,0.1742382875921452,1.0424877397241477,0.2085055323968088,1.1345603183049413,0.1646737188884305,0.621480811309292,0.1358173914051247,0.1422688299670796,0.1308763758660727,1.323999542239669
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Was Knackwuerscht? Paschtete, wenn's beliebt.
+
+          
+",92,bastian-dr-maischter-hett-gewunne,11,1,0.0909090909090909,0.3551318976332372,0.1742382875921452,0.9318364741261156,0.0461615906334475,1.0032916769926332,0.0346211929750856,0.621480811309292,0.0,0.0767536659928203,0.1308763758660727,1.1914296273338607
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Guet gänn, hahaha.
+
+          
+",92,bastian-dr-maischter-hett-gewunne,7,2,0.2857142857142857,0.3551318976332372,0.4221011403302701,1.15887010622667,0.0461615906334475,1.3884486156515472,0.0346211929750856,0.621480811309292,0.0,0.0767536659928203,0.4242178648905009,1.5094337836610383
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+So isch erächt, ja. Herr Drohtspitz, e bissel süesser lächle, noch süesser, so — awer d' Nas nit
+            so hoch. 
+            
+(Setzt ihn in bessere Haltung.)
+ Sie, junger Herr, lonn Sie d' Finger üss d'r Nas.
+
+          
+",93,bastian-dr-maischter-hett-gewunne,49,8,0.1632653061224489,0.1674867543436028,0.5743824208929385,1.346246974221519,0.1459264513700605,1.6786080642822612,0.2169708020970929,0.7996329469490402,0.0712516155934916,0.2394373391092864,0.6116533918520608,1.8276519185529487
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Herrschaft düürt dis e Ewigkeit. Aa — Herr Linser, han Sie au die neje Strahle mitgebrocht?
+
+          
+",94,bastian-dr-maischter-hett-gewunne,21,4,0.1904761904761904,0.1791499221898196,0.7099885468474922,1.5388450540494003,0.1747774455159652,2.0021080202101658,0.2386090477065214,0.7996329469490402,0.0712516155934916,0.2394373391092864,0.7661186479062546,2.093079427106685
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Bedüür arig. Sie sin uff Schuehmacher nit verwendbar.
+
+          
+",94,bastian-dr-maischter-hett-gewunne,12,2,0.1666666666666666,0.1604888536358727,0.5357502592553469,1.1488004202210924,0.1286158548825177,1.6034675349851877,0.2039878547314358,0.4677272757997238,0.0712516155934916,0.1626836731164661,0.6352422720401819,1.5538384712960192
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ:
+
+            
+Au Schwindel.
+
+          
+",94,bastian-dr-maischter-hett-gewunne,5,1,0.2,0.1604888536358727,0.5357502592553469,1.1488004202210924,0.1286158548825177,1.6034675349851877,0.2039878547314358,0.4677272757997238,0.0712516155934916,0.1626836731164661,0.6352422720401819,1.5538384712960192
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Jetz uffgebasst. Silence! 
+            
+(Schlüpft unter das Tuch.)
+
+          
+",95,bastian-dr-maischter-hett-gewunne,14,1,0.0714285714285714,0.1604888536358727,0.2878874065172221,0.921766788120538,0.1286158548825177,1.2183105963262733,0.2039878547314358,0.4677272757997238,0.0712516155934916,0.1626836731164661,0.3419007830157537,1.235834314968841
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Ganz ruehig wenn's beliebt. He, der ganz klaan Herr do vorne, der macht jo e Buckel wie e Katz
+            wenn's blitzt.
+
+          
+",95,bastian-dr-maischter-hett-gewunne,29,6,0.2068965517241379,0.0194386130770279,0.1356061259545538,0.935741860112655,0.0480849902431745,1.4058667652222123,0.0360637426823809,0.5463797771035583,0.0,0.0,0.3748378738280422,1.4257236750608464
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL:
+
+            
+Harr Telegraph, ech mään — ech mään as düat weh.
+
+          
+",96,bastian-dr-maischter-hett-gewunne,14,1,0.0714285714285714,0.5324421153436132,0.0,1.497063863520091,0.4635261975970469,1.4066964027977409,0.5691744147923196,0.5642407701286751,0.7381322911907048,0.0,0.2203726177738484,1.4471270589051153
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Dummer Bue.
+
+          
+",96,bastian-dr-maischter-hett-gewunne,5,1,0.2,0.5324421153436132,0.0,1.2636038327878254,0.4635261975970469,1.058888601910896,0.5691744147923196,0.2746656299686995,0.7381322911907048,0.0,0.2203726177738484,1.0691441520052571
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Herr Drohtspitz, wisse Sie schun?
+
+          
+",96,bastian-dr-maischter-hett-gewunne,9,1,0.1111111111111111,0.5790947867284804,0.0,1.514322344909273,0.5789301741806658,1.4440579655827237,0.6557273972300337,0.2746656299686995,0.7381322911907048,0.0,0.2203726177738484,1.424385185662262
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Herr Millionär, wisse Sie schun?
+
+          
+",96,bastian-dr-maischter-hett-gewunne,9,1,0.1111111111111111,0.6257474581133475,0.0,1.7650408570307206,0.6943341507642847,1.829227329254551,0.7422803796677478,0.2746656299686995,0.7381322911907048,0.0,0.2203726177738484,1.779626219319267
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Dass Sie nix gewunne han? Do steht's in der Zittung. E Druckfehler het sich yngschliche. 
+            
+(Ueberreicht Drohtspitz eine Zeitung.)
+ Voilà, Monsieur. Gewunne het nit 128.697, awer
+            128,698. Aans ze weny! 
+            
+(Stellt den Zeigefinger.)
+
+          
+",97,bastian-dr-maischter-hett-gewunne,51,2,0.0392156862745098,0.6179720128825363,0.0,1.2553571074782126,0.6751001546670148,1.0946683208470875,0.7278548825947955,0.0178609930251166,0.7381322911907048,0.0,0.0,0.9973129597120152
+comedy,Drohtspitz,M,master_shoemaker,crafts,lower_middle_class,"
+            
+DROHTSPITZ
+
+            
+(stiert auf die Zeitung, lässt sie fallen):
+
+            
+Nix gewunne! Nix ge... Jesses, jetz, jetz... 
+            
+(Alle stürzen vor Schrecken zu Boden.)
+
+          
+",98,bastian-dr-maischter-hett-gewunne,33,5,0.1515151515151515,0.0933053427697343,0.0,0.5972294310982094,0.2308079531672378,0.9188169579693916,0.1731059648754283,0.1422517241801412,0.0,0.0,0.0,0.9020668810246376
+comedy,Linser,M,photographer,intermediate_professionals,lower_middle_class,"
+            
+LINSER:
+
+            
+Oho, die ganz Gsellschaft isch jo verschwunde. Do soll doch glich 
+            
+(unter dem Tuch hervor.)
+ Do hett's e Erdbewe gänn.
+
+          
+",99,bastian-dr-maischter-hett-gewunne,29,5,0.1724137931034483,0.1869424204708037,0.0991451410952499,0.9848632386408898,0.2308079531672378,1.3848284393733905,0.3675645507917157,0.2192931152632161,0.1757790665795011,0.1944585859162873,0.1173365956097713,1.2064880555517523
+comedy,Addes,M,shoemaker_apprentice,crafts,lower_class,"
+            
+ADDES:
+
+            
+Der guet Fricot!
+
+          
+",100,bastian-dr-maischter-hett-gewunne,6,1,0.1666666666666666,0.1402897490859365,0.0991451410952499,0.7341447265194421,0.1154039765836189,0.9996590757015628,0.2810115683540015,0.2192931152632161,0.1757790665795011,0.1944585859162873,0.1173365956097713,0.8512470218947475
+comedy,Schaköbel,M,,,,"
+            
+SCHAKOEBEL:
+
+            
+Oo, Mieädder, hole mich!
+
+          
+",100,bastian-dr-maischter-hett-gewunne,9,1,0.1111111111111111,0.0936370777010693,0.0991451410952499,0.4834262143979943,0.0,0.6144897120297353,0.1944585859162873,0.2192931152632161,0.1757790665795011,0.1944585859162873,0.1173365956097713,0.4960059882377427
+comedy,Dorel,M,upholsterer,crafts,lower_middle_class,"
+            
+DOREL:
+
+            
+Do, Herr Drohtspitz, hesch dini Millionärskabb. 
+(Setzt ihm den Kessel auf. Rasch ab.)
+
+              
+(Alle lachen. Rideau.)
+
+            
+
+          
+",100,bastian-dr-maischter-hett-gewunne,29,2,0.0689655172413793,0.1169634133935028,0.0991451410952499,0.6087854704587181,0.0577019882918094,0.8070743938656489,0.2377350771351444,0.2192931152632161,0.1757790665795011,0.1944585859162873,0.1173365956097713,0.6736265050662451

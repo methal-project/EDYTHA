@@ -76,7 +76,7 @@ def get_vals(twt, lexdf, idf_df, analyse_mode):
             else:
                 pv.append(0)
     elif (analyse_mode == "tf_idf_files"):
-        pv = [lexdf.loc[w]['val']*idf_df[w]*10 for w in pw if w in idf_df] # contient coeffs de chaque mots
+        pv = [lexdf.loc[w]['val']*idf_df[w]*10 for w in pw if w in idf_df] # coeff of each word
     else:    
         pv = [lexdf.loc[w]['val'] for w in pw]
 
@@ -116,15 +116,12 @@ def main(dataPath, LEXICON, LEXNAMES, savePath, analyse_mode):
 
     # idf de ce fichier
     if (analyse_mode == "tf_idf_phrases"):
-        idf_df = pd.read_csv("../intermediate/idf_info/" + savePath + ".csv", index_col=0, encoding="utf-8")
+        idf_df = pd.read_csv("../intermediate/idf_info/" + savePath.split("/")[-1] + ".csv", index_col=0, encoding="utf-8")
     elif ( analyse_mode == "tf_idf_files"):
         idf_df = pd.read_csv("../intermediate/idf_info.csv", index_col=0, encoding="utf-8")
         idf_df = idf_df.loc[savePath + ".txt"][:]
     else:
         idf_df = None
-
-    #idf_coeff = idf_df.loc[savePath+".txt"][:]
-    #print(idf_coeff.loc['uff'])
 
     for LEXNAME in LEXNAMES:
 

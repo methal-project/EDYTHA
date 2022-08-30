@@ -65,14 +65,28 @@ python3 pre_treatment/script/emo_xml_treat.py nom-du-repertoire nom-du-fichier-x
 
 *Par exemple:*
 ```
-python3 pre_treatment/script/emo_xml_treat.py tei-lustig am-letzte-maskebal.xml
+python3 pre_treatment/script/emo_xml_treat.py --dir tei-lustig --filename am-letzte-maskebal.xml 
 ```
 Maintenant dans le *pre_treatment / treated_files*, il doit contient un fichier *am-letzte-maskebal.out.csv*
+
+Si vous voulez sauvegarder des fichiers dans un autre repertoire, il faut utiliser --savepath, par exemple:
+```
+python3 pre_treatment/script/emo_xml_treat.py --dir tei-lustig --filename am-letzte-maskebal.xml --savepath pre_treatment/new_folder
+```
+Maintenant dans le *pre_treatment / new_folder*, il doit contient un fichier *am-letzte-maskebal.out.csv*
+ATTENTION: Il faut entrée le chemin un répertoire qui **existe déjà**.
+
 
 Après, on bouge dans le répertoire intermediate par ```cd intermediate```, on va d'abord remplacer les variants Alsacien dans les paroles par une forme normale, on peut exécuter:
 ```
 python3 variant_idf_phrases.py
+ou
+python3 variant_idf_phrases.py ../pre_treatment/new_folder
 ``` 
+L'argument c'est le chemin vers le répertoire qui contient les fichiers csv traités dans pre_treatment.
+Si aucun argument est donné, le script prend par défaut les fichiers dans treated_files comme entrée.
+
+
 Cela va remplacer les variants et créer les nouveaux fichiers CSV dans répertoire /csv_replaced, et aussi cela va calculer les idf des mots dans chaque piece par l'unité des paroles, et les sauvegarder dans répertoire /idf_info.
 
 Pour calculer tf-idf des mots par unité des fichiers, il faut exécuter :
@@ -95,7 +109,8 @@ python3 avgEmoValues.py --dataPath ../pre_treatment/treated_files/am-letzte-mask
 
 --lexNames est les noms des emotions.
 
---savePath est le chemin (un répertoire) pour sauvegarder les résultats d'analyse.
+--savePath est le chemin (un répertoire) pour sauvegarder les résultats d'analyse, cela peut être 
+--savePath new_folder/am-letzte-maskebal
 
 --mode peut être "tf_idf_phrases", "tf_idf_files", "no_idf" ou justement rien.
 Avec tf_idf_phrases, tf-idf des mots seront calculés par l'unité de tourne de parole.
@@ -105,7 +120,13 @@ Avec no_idf ou rien, tf-idf sera pas calculé.
 Avant de faire la visualisation, exécuter ces deux commandes pour préparer:
 ```
 python3 pre-graphic.py
+ou
+python3 pre-graphic.py ../new_folder(le chemin de répertoire qui contient les répertoires pour pièce de théâtre)
+```
+```
 python3 split_plays.py
+ou
+python3 split_plays.py ../new_folder(le chemin de répertoire qui contient les répertoires pour pièce de théâtre)
 ```
 pregraphic.py va calculer les rolling_means des emotions pour chaque pièce de théâtre, et aussi ajouter un fichier all_pieces_info.csv qui contiennent toutes les informations de chaque pièce. Ce fichier gère les images avec --mode group.
 
@@ -161,8 +182,13 @@ Un chemin pour sauvegarder des images. Le chemin doit être un répertoire, le n
 1. La progression des émotions dans une ou plusieurs pièces.
 
 *exemple:*
+Si graphic.py est dans le même répertoire que les répertoires de pièces de théâtres, alors:
 ```
 python3 graphic.py --mode single --pieces weber-yo-yo,greber-lucie --emotions joy,sadness
+```
+sinon, il faut simplement ajouter le chemin:
+```
+python3 graphic.py --mode single --pieces ../new_folder/weber-yo-yo,../new_folder/greber-lucie --emotions joy,sadness --filters speaker
 ```
 ![emo_progress](graphics/demonstration/emo_progress.png)
 Le progress représente le progrès de la pièce. 0 c'est le début du théâtre, 100 c'est vers la fin du théâtre.

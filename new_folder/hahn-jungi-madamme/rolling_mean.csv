@@ -1,0 +1,3245 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(das Buch bei Seite legend, erhebt sich und dehnt die Glieder)
+
+          
+Oh — isch diß awwer e scheeni Gschicht gsin, — numme schad, daß sie sich nit kreijt hann — zue schad! — Die arm Gab- rielle — — 
+(sieht auf die Uhr, erschrocken)
+ O jr- rum! — schun so spoot? — Un ich bin noch nit emole mol coiffiert! — Sälmel! — Sälmel! 
+(schellt.)
+
+        
+",1,hahn-jungi-madamme,86,7,0.0813953488372093,,,,,,,,,,,
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Was beliebt, Madame?
+
+        
+",2,hahn-jungi-madamme,7,2,0.2857142857142857,,,,,,,,,,,
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ei, sie isch jo do gewänn, awwer d'Madame hett jo gseit, sie soll numme widder gehn, sie hätt kein Zitt.
+
+        
+",2,hahn-jungi-madamme,28,2,0.0714285714285714,,,,,,,,,,,
+comedy,Amalie Schneider,F,,,,"
+          
+Amalie:
+
+          
+Herje, ja — ‘s isch jo wohr — och mit däre dumme Gschicht — wie ischs mit'm Esse, Sälmel? jetz isch's dreiviertel uff Zwelf!
+
+        
+",2,hahn-jungi-madamme,32,4,0.125,,,,,,,,,,,
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ich mein ‘s Rindfleisch wurd nem weich, wenn‘s schun so spoot isch — ich hab's erscht vor ‘re halwe Stund in de Hafe gemacht —
+
+        
+",3,hahn-jungi-madamme,30,5,0.1666666666666666,0.1053202410063043,0.3773517706862997,0.692567068112414,0.2831567309673344,0.7266871087161579,0.0,0.2830615920287046,0.2047282210089143,0.058469599989265,0.0,0.7732500912743083
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ei jo, d’Madame hett jo gseit, sie bsorgt‘s — I hab halt d‘r Gang un d'Stay gebutzt, ‘s isch doch Samschdeu —
+
+        
+",3,hahn-jungi-madamme,30,3,0.1,0.2419341662747788,0.3170953947166585,0.7332690811116105,0.3585773764153893,0.8015031239068782,0.0,0.2830615920287046,0.0682274562104687,0.0341072666604046,0.0,0.8347515396968751
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Herrjeses — haw ich awwer jetz d‘Zitt versümt — in ‘re Stund wurd‘s Rindfleisch nit weich, hein?
+
+        
+",3,hahn-jungi-madamme,23,2,0.0869565217391304,0.2419341662747788,0.5498318630758193,0.8719663276463663,0.3585773764153893,1.0562664718933206,0.0,0.2830615920287046,0.0682274562104687,0.0341072666604046,0.0,1.0830834190021517
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ich glöub nit, Madame!
+
+        
+",4,hahn-jungi-madamme,8,1,0.125,0.2419341662747788,0.3170953947166585,0.7332690811116105,0.3585773764153893,0.8015031239068783,0.0,0.2830615920287046,0.0682274562104687,0.0341072666604046,0.0,0.8347515396968752
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Dräje Sie de Gas guet uff, daß es tichtig kocht, villicht packt's es noch — ah! — warte Sie mol — ich hab schun ghört, wenn m‘r Süd an‘s Gemues macht, wurd's schneller weich, — wenn m‘r e bissel an d‘Supp mache dät — ich mein m'r dät's nit schmecke — daß ‘s Fleisch weich dät wäre —
+
+          
+
+		
+",4,hahn-jungi-madamme,71,11,0.1549295774647887,0.2419341662747788,0.3832584440556906,0.6976196893724429,0.3585773764153893,0.7738581139914011,0.0131500083521219,0.1245452206269015,0.0682274562104687,0.0479101123066034,0.1660840638917763,0.7585048038117647
+comedy,Sälmel,F,,,,"
+          
+Sälmel :
+
+          
+(kichernd)
+
+          
+I weiß nit!
+
+        
+",5,hahn-jungi-madamme,9,1,0.1111111111111111,0.1804973590211013,0.2988995176981929,1.3785217523954834,0.1119641454413454,1.1132078082713848,0.0131500083521219,1.058111031192995,0.0,0.0138028456461988,0.1660840638917763,1.692068975320567
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Scheele Si jetz emol e Will d‘Grum- beere — ich kumm d‘rno.
+
+        
+",5,hahn-jungi-madamme,18,1,0.0555555555555555,2.220446049250313e-17,0.2988995176981929,1.2070204637146138,0.0,0.9694567184964358,0.0131500083521219,1.058111031192995,0.0,0.0138028456461988,0.1660840638917763,1.5681089038130125
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ja, Madame! 
+(auf die Seite)
+ Deß wurd m'r widder e natts Gfraß gann.
+
+        
+",5,hahn-jungi-madamme,20,3,0.15,2.220446049250313e-17,0.066163049339032,1.1955543970003906,0.0,0.8017634632144095,0.0131500083521219,1.2027889691486533,0.0,0.0138028456461988,0.1660840638917763,1.465246414203795
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ich mein d’Grumbeere hänn noch e bissel Zitt —ich könnt noch gscwind s‘Schloofzim- mer mache — d‘Madame hett‘s hitt doch nit ge- maacht.
+
+        
+",5,hahn-jungi-madamme,33,3,0.0909090909090909,2.220446049250313e-17,0.2213206949118059,1.2880192280235612,0.0,0.9716056952053712,0.0131500083521219,1.2027889691486533,0.0,0.0138028456461988,0.1660840638917763,1.6308010004073128
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(auffahrend)
+
+          
+Was geht deß Sie an? — 
+einlenkend)
+ Awwer — doch — mache Sie's noch gschwind 
+(Sälmel ab nach links)
+ — ich bin doch arig spoot d‘ran hitt — numme wärje däre dumme Gschicht — och, un sie isch doch e so scheen gsin. — ‘s isch au ebs mit däre dumme Ko- cherei alle Daa — — 
+(es klingelt)
+ —Uh! — was isch jetz? — Ich glaub ich krej noch visite. — Die kummt m‘r jetz grad recht — Sälmel — gehn Sie doch — ‘s hett gschellt 
+(Sälmel kommt von links und geht einlig ab durch die Mitte)
+ ah! diß isch ‘s Fanny — —
+
+        
+",6,hahn-jungi-madamme,129,8,0.0620155038759689,0.1427921026774758,0.20788197454621,1.3334125255151703,0.0319755624941293,0.9635727830036498,0.1273066594509758,1.0782437485217518,0.1470362582754703,0.0213170416627528,0.082206796631049,1.4978963802747445
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Guete Morje!
+
+        
+",7,hahn-jungi-madamme,5,2,0.4,0.1427921026774758,0.20788197454621,0.4655907861157032,0.0319755624941293,0.4961922043463607,0.1273066594509758,0.1446779379556581,0.1470362582754703,0.0213170416627528,0.082206796631049,0.4388191611178188
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+M'r sin grad do verbei gange, henn m‘r dir welle bonjour sawe, so en passant —
+
+        
+",7,hahn-jungi-madamme,20,1,0.05,0.1427921026774758,0.20788197454621,0.9155393936731272,0.0319755624941293,1.2379568956102425,0.1273066594509758,0.1446779379556581,0.1470362582754703,0.0213170416627528,0.7398611696794417,1.234564051527221
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+O diß macht nix! - bi mir isch‘s als manchmol au nit andersch — awwer wenn ich emol verhirot bin — —
+
+        
+",7,hahn-jungi-madamme,26,2,0.0769230769230769,0.1427921026774758,0.4564694463738457,1.393052980978585,0.0319755624941293,1.8598328873595,0.1796188378658823,0.2829042608678143,0.1470362582754703,0.1225934190740118,1.2932538164254428,1.777961802643468
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Isch's d'r nit guet, daß de d‘Hoor erab hänke hesch?
+
+        
+",8,hahn-jungi-madamme,16,3,0.1875,0.1427921026774758,0.4642706114512389,1.6467566871884558,0.2115280901556711,1.9924308552721928,0.1796188378658823,0.2829042608678143,0.1470362582754703,0.1225934190740118,1.5459888909063806,1.985844941816402
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Nan — deß heißt — ja ich hab e bissel Kopfweh —
+
+        
+",8,hahn-jungi-madamme,14,1,0.0714285714285714,2.220446049250313e-17,0.4115462824778029,1.7825554513780535,0.1795525276615418,2.0143612537344597,0.0523121784149065,0.7169380747347889,0.0,0.1012763774112589,1.4637820942753317,2.2944579256863395
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+A noch? — kenn Wunder, wenn m’r e so schaffe mueß. Sie hann numme an Maid'l gelte Sie?
+       
+		  
+
+        
+",8,hahn-jungi-madamme,24,3,0.125,2.220446049250313e-17,0.4115462824778029,2.218588790885723,0.1795525276615418,2.53404181357553,0.0523121784149065,1.0249390869275292,0.0,0.4092773896039992,1.6557303772403498,2.862921977482878
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo, unn mit dem isch nit viel los.
+
+        
+",8,hahn-jungi-madamme,12,1,0.0833333333333333,2.220446049250313e-17,1.0515558172101265,2.456763165469571,0.1795525276615418,2.6080136542481305,0.0523121784149065,1.6197776825288157,0.0,0.8746501762919843,1.3717401075493958,2.9182221139622744
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Minni Schweschter hett jetz zwei unn wenn ich emol verhirot bin — —
+
+        
+",8,hahn-jungi-madamme,15,1,0.0666666666666666,2.220446049250313e-17,1.3001432890377618,2.492319462142036,0.1795525276615418,2.4623651069661703,0.104624356829813,1.90268194339663,0.0,0.9759265537032432,1.315522404458666,2.9793023629060675
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Jo, ‘s isch wohr, fer was soll m‘r sich so ploeje uff d’r Welt? Ich bin noch jung an Johre und will mich noch amüsiere — Do — ich hab dich froeje welle, bisch au mit vun d'r Partie? M‘r welle morje früej uff d‘Hohkenigsburrj.
+
+        
+",9,hahn-jungi-madamme,54,7,0.1296296296296296,0.1613784566490838,1.1371844783875946,2.7193604760709817,0.0,2.8229827025816774,0.2515972789305605,2.436222436939038,0.1509845899496513,0.9759265537032432,1.0627873299777282,3.280930846886941
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Dü? Ich froej net lang, — ich saa als, ivh geh — un wenn‘r nit mit will, soll'r miran d’heim bliewe!
+
+        
+",9,hahn-jungi-madamme,29,1,0.0344827586206896,0.1613784566490838,1.1371844783875946,2.3376669366093834,0.0,2.561772424468429,0.2515972789305605,2.002188623072064,0.1509845899496513,0.9759265537032432,1.0627873299777282,2.844522677798763
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Wenn ich emol verhirot bin, ich mach's grad e so —
+
+        
+",10,hahn-jungi-madamme,15,2,0.1333333333333333,0.1613784566490838,1.3857719502152306,2.446758432779654,0.0,2.694622978845156,0.303909457345467,1.9770918717471375,0.1509845899496513,0.7692019189217619,1.448253705364542,3.0489047660849757
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+(streckt den Kopf zur Tür herein, mit etwas gedämpfter Stimme)
+: Madame! — Soll i jetz d‘Süd an d’Supp mache?
+
+        
+",10,hahn-jungi-madamme,29,1,0.0344827586206896,0.1613784566490838,0.745762415482907,1.758635450638382,0.0,1.8788864469086728,0.303909457345467,1.3822532761458517,0.1509845899496513,0.3038291322337768,1.0745896020071033,2.1978597391961765
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo, macht Sie‘s numme — Sie sieht jo, ich hab jetz nitt derzit. — ‘s isch ambetant, wenn m‘r sich um alles okkupiere mueß.
+
+        
+",10,hahn-jungi-madamme,32,1,0.03125,0.1613784566490838,0.2485874718276357,1.6875228572934522,0.0,2.1701835414725936,0.199285100515654,0.8164447544102227,0.1509845899496513,0.1012763774112588,1.1870250081885627,2.07569924130859
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Ich hab jetz e Maid'l, wo koche kann
+
+        
+",10,hahn-jungi-madamme,11,2,0.1818181818181818,2.220446049250313e-17,0.2485874718276357,1.1143133061314654,0.0,1.5071257459534313,0.0523121784149065,0.2829042608678143,0.0,0.1012763774112588,1.1870250081885627,1.4006330319512643
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Ja, un e femme de chambre —
+
+        
+",11,hahn-jungi-madamme,10,1,0.1,2.220446049250313e-17,0.2485874718276357,1.496006845593063,0.0,1.76833602406668,0.0523121784149065,0.7169380747347889,0.0,0.1012763774112588,1.1870250081885627,1.8370412010394424
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja, wenn m'rs e so mache kennt, — awwer d'r Fernand —
+
+        
+",11,hahn-jungi-madamme,16,1,0.0625,2.220446049250313e-17,0.0,1.3325755493767215,0.0,1.3770151879621315,0.0,0.868067627733949,0.0,0.0,0.6096103498367308,1.50060323004487
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Geh, Plän do! — Was versteht denn e Mann do dervun? Ich stell an, wenne daß ich will, un minner Mann sell‘s bezahle, do d’rfer isch er do. Ich hab mich doch net ghirote, fer in d‘Kich zu stehn, de ganze Daa ‘s dät m'r infalle.
+
+        
+",11,hahn-jungi-madamme,61,6,0.0983606557377049,2.220446049250313e-17,0.0,1.795554160376184,0.0,2.037503640577165,0.0,1.3101791441172637,0.0,0.0,0.6096103498367308,2.2222707617065565
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja, awwer —
+
+        
+",11,hahn-jungi-madamme,6,1,0.1666666666666666,2.220446049250313e-17,0.0,1.6080592293842564,0.0,1.44411928695478,0.0,1.744212957984238,0.0,0.0,0.0,2.030892038926221
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Wenn ich emol verhirot bin, ich will au nit sälwer koche.
+
+        
+",12,hahn-jungi-madamme,15,2,0.1333333333333333,2.220446049250313e-17,0.2485874718276357,1.9282097612834843,0.0,1.7257680555406367,0.0523121784149065,2.0271172188520525,0.0,0.1012763774112588,0.2485874718276357,2.4058657338042706
+comedy,Sälmel,F,,,,"
+          
+Sälmel :
+
+          
+(wie oben)
+
+          
+Madame! ‘s isch noch kenn Grüens un nix an d'r Supp!
+
+        
+",12,hahn-jungi-madamme,19,1,0.0526315789473684,2.220446049250313e-17,0.2485874718276357,1.5465162218218862,0.0,1.464557777427388,0.0523121784149065,1.593083404985078,0.0,0.1012763774112588,0.2485874718276357,1.9694575647160923
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ze macht Sie‘s doch dran, un macht Sie Gries nin!
+
+        
+",12,hahn-jungi-madamme,15,2,0.1333333333333333,2.220446049250313e-17,0.2485874718276357,2.30319962326734,0.0,2.912536762785406,0.0523121784149065,1.1590495911181034,0.0,0.1012763774112588,1.467808171501097,2.788623179364941
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+‘s isch kener meh do; m‘r hann d’ganz Wuch Griessupp g‘hett, soll ich Riß drin mache?
+
+          
+
+        
+",12,hahn-jungi-madamme,22,1,0.0454545454545454,2.220446049250313e-17,0.2485874718276357,2.2388021886110865,0.0,2.872334206990151,0.0523121784149065,1.0855211944880656,0.0,0.1012763774112588,1.467808171501097,2.8157968102858737
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Mintwäje! 
+(Sälmel ab)
+ — Awwer der wurd am End nimmi weivh?
+
+        
+",12,hahn-jungi-madamme,17,1,0.0588235294117647,2.220446049250313e-17,0.2485874718276357,2.38911854374621,0.0,3.295483310039816,0.0523121784149065,0.6514873806210911,0.0,0.1012763774112588,2.261774008562909,3.366301682908497
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Was lejt's d'ran. Er soll ne hart esse, dinner Mann, wenn‘r d‘r kein Köche an- schaffe will.
+
+        
+",13,hahn-jungi-madamme,26,2,0.0769230769230769,0.3545270942054503,0.0,2.762469213706372,0.0,3.919484491324897,0.300056122098241,0.6481234294064355,0.0,0.0,2.2876210873080094,3.6849230802633777
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo, ‘s isch wohr; ich kennt m‘r jo au eini halte, ich bin jo au guet dotiert worre vun d‘heim!
+
+        
+",13,hahn-jungi-madamme,27,3,0.1111111111111111,0.5018463621087748,0.0,2.902446022397455,0.0913834752336295,4.036811999166575,0.300056122098241,0.6481234294064355,0.0,0.0,2.2876210873080094,3.786097452469022
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Muesch numme nit so dumm sin. M‘r mueß de Mannslitt d‘Zähn zaje, sunsch danze sie eim uff d’r Nas erum. Iosefine: Minni Schwester hett ganz e recht. Wisse Sie — wenn ich emol verhirot bin, mach ich's grad e so.
+
+        
+",13,hahn-jungi-madamme,51,7,0.1372549019607843,0.5018463621087748,0.071024991950753,2.0571749081069357,0.0913834752336295,2.722475457726,0.3150024587882143,0.8813526002259711,0.0,0.0289361078317881,1.2333760043065,2.988511017103942
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Wannee welle Sie denn hirote, Ma- demoiselle Josefine?
+
+        
+",14,hahn-jungi-madamme,13,1,0.0769230769230769,0.5018463621087748,0.071024991950753,1.658593731763726,0.0913834752336295,2.102189560906222,0.3150024587882143,0.5127694804726943,0.0,0.0289361078317881,1.2333760043065,2.239669854521323
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+I weiß net, i mein, i, derf nimm so lang warte.
+
+        
+",14,hahn-jungi-madamme,17,3,0.1764705882352941,0.5018463621087748,0.3136228395272039,1.2820969098650803,0.0913834752336295,1.587907247112459,0.363219156079328,0.5127694804726943,0.0,0.0795465418678507,0.602526228293349,1.4250368549665804
+comedy,Amalie Schneider,F,,,,"
+          
+Aelie:
+
+          
+(bei Seite)
+: Deß mein i awwer a!
+
+        
+",14,hahn-jungi-madamme,13,1,0.0769230769230769,0.1473192679033244,0.3136228395272039,0.5885957080056912,0.0913834752336295,0.6822572972415217,0.0631630339810869,0.2332291708195356,0.0,0.0795465418678507,0.3280916777206132,0.7314417627336498
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+(spöttisch)
+ ‘s Josefine gitt d‘Hoff- nung nit so ball uff!
+
+        
+",14,hahn-jungi-madamme,17,2,0.1176470588235294,0.0,0.3136228395272039,0.7300738686229257,0.0,0.9842402538795813,0.0631630339810869,0.5823354479434576,0.0,0.0795465418678507,0.3280916777206132,1.0859563884557573
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Jetz do, nit wohr, ein‘s hirot früej un‘s ander spoot! Ich hab jo noch Zitt, ich bin allewill erscht 38 Johr.
+
+        
+",14,hahn-jungi-madamme,30,5,0.1666666666666666,0.0614368072536775,0.5713033291004594,0.880463234861583,0.0511608999906068,1.0614724106631517,0.0482166972911136,0.4816346474681177,0.0682274562104687,0.084717700696467,0.4812044011407332,1.1147027395752231
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(bei Seite)
+
+          
+Uija! Allewill noch?
+
+        
+",15,hahn-jungi-madamme,11,1,0.0909090909090909,0.0614368072536775,0.5713033291004594,1.5098944593279635,0.0511608999906068,1.7593016103875267,0.0482166972911136,0.4816346474681177,0.0682274562104687,0.084717700696467,1.2687677392959795,1.9042935200742488
+comedy,Sälmel,F,,,,"
+          
+Sälmel :
+
+          
+(wie oben)
+
+          
+Madame!
+
+        
+",15,hahn-jungi-madamme,8,1,0.125,0.0614368072536775,0.3287054815240086,1.3543813866298875,0.0511608999906068,1.589224543018377,0.0,0.4816346474681177,0.0682274562104687,0.0341072666604045,1.1056516782473185,1.7320134779181895
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+M‘r mueß jetz de Disch decke, un ich hab d‘Grumbeere no nit ferti g'scheelt.
+
+        
+",15,hahn-jungi-madamme,19,1,0.0526315789473684,0.0614368072536775,0.3287054815240086,1.3543813866298875,0.0511608999906068,1.589224543018377,0.0,0.4816346474681177,0.0682274562104687,0.0341072666604045,1.1056516782473185,1.7320134779181895
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ze scheelt Sie sie, un dummelt Sie sich, ich deck derwillsch de Disch!
+
+        
+",15,hahn-jungi-madamme,18,1,0.0555555555555555,0.0614368072536775,0.3287054815240086,1.756029449683529,0.0511608999906068,2.0594251166138755,0.0,0.1325283703441957,0.0682274562104687,0.0341072666604045,1.777436550895391,2.075786821975035
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo, jo, mintwäje!
+
+        
+",15,hahn-jungi-madamme,8,1,0.125,0.0,0.0,1.8445441514250611,0.0,2.2716996189625256,0.0,0.0,0.0,0.0,2.253314047865131,2.5759661641944245
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+M'r inkommodiere dich numme, m'r welle gehn, dinner Mann wurd ball kumme.
+
+        
+",15,hahn-jungi-madamme,17,2,0.1176470588235294,0.0,0.2685269990891551,1.6862507358634222,0.0,2.180944081045758,0.0,0.2795403096531587,0.0,0.0,1.4657507097098847,2.4372909632422823
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+O, diß het nix ze sawe. — Do — a ja, wie isch‘s mit morje? Mir fahre mit‘m vélo. Fahrsch jetz widder? Dü kannsch doch e so guet.
+
+          
+
+        
+",16,hahn-jungi-madamme,39,3,0.0769230769230769,0.0,0.2685269990891551,1.8134819156839548,0.0,2.2680141737501742,0.0,0.4242182476088169,0.0,0.0,1.4657507097098847,2.5827603529383416
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo, d’r Fernand will‘s nit han, er sieht‘s nit gern an de Wiebslit, saat'r —
+
+        
+",16,hahn-jungi-madamme,22,1,0.0454545454545454,0.0,0.6732497297276794,2.2700909262528297,0.0,2.862527286598499,0.0,1.00224261747637,0.0,0.2314210914094954,2.118460776724508,3.397392154683291
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Eh bien, merci!
+
+        
+",16,hahn-jungi-madamme,7,1,0.1428571428571428,0.0,1.4808212826532423,2.320429226604356,0.0,2.90112095617119,0.0,1.6987686421716532,0.0,0.2314210914094954,2.3040286080361225,3.649604461776207
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Weisch, ich an dim Platz dät dinne Mann emol recht in d‘Schür nämme.
+
+        
+",16,hahn-jungi-madamme,18,2,0.1111111111111111,0.0,1.4808212826532423,2.079374286587203,0.0,2.6245445705097064,0.0,1.978308951824812,0.0,0.2314210914094954,1.5100627709743104,3.0982069336908724
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Ich a, — ho jerum — wenn ich emol verhirot bin —
+
+        
+",17,hahn-jungi-madamme,15,1,0.0666666666666666,0.0,1.7094692272193588,2.248537541480917,0.0,2.5807684458738125,0.104624356829813,2.264577163907282,0.0,0.4339738462320134,2.0072377146295817,3.197238743900088
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Min Rad isch üwerhaupt ganz kapüt.
+
+        
+",17,hahn-jungi-madamme,9,2,0.2222222222222222,0.0,1.7094692272193588,2.320596949831989,0.0,2.803841301579285,0.104624356829813,2.304190785828262,0.0,0.4339738462320134,2.0072377146295817,3.4261899354953385
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Lehn d‘r ein's, hörsch? — No treffe m‘r uns in Schlettstadt. Wenn dinner Mann nit will, kummsch allan. —
+
+        
+",17,hahn-jungi-madamme,27,2,0.074074074074074,0.0,1.3047464965808344,2.1549428938426827,0.0,2.6171111842323898,0.104624356829813,2.005706725613868,0.0,0.2025527548225178,1.3545276476149588,3.047073647375856
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+I will emol sehn. Weisch was, i schick d‘r ‘s Sälmel fer ze sawe wie oder wenn.
+
+        
+",17,hahn-jungi-madamme,22,1,0.0454545454545454,0.0,1.0148949791035022,1.765415713688491,0.0,2.229411740081896,0.104624356829813,1.3091807009185843,0.0,0.2025527548225178,0.4971749436552713,2.67507348247753
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Guet, guet! Kumm, Finnel, m‘r gehn. — Au revoir, Amélie — loß di numme nit unterkreje vun dim Mann, mach, daß du Meischter wursch, uffträte, daß'r Reschpekt krejt vor d'r. Josfine: Nadierlich, ich dät's au e so mache — O jerum, wenn ich emol verhirot bin —
+
+        
+",18,hahn-jungi-madamme,64,6,0.09375,0.0,1.0977574697127142,1.6781625879351876,0.0,2.051439332609561,0.1220617496347818,1.2171219147724168,0.0,0.2363115472929375,0.5800374342644832,2.509721038353235
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Enfin, ich will sehn, au revoir — bon appétit. Fanny, Josefine: Merci, pareillement!
+
+        
+",18,hahn-jungi-madamme,22,1,0.0454545454545454,0.0,1.1183025615056734,1.3817756766960252,0.0,2.028547058935283,0.0174373928049688,0.651313393036788,0.0,0.0337587924704195,0.0828624906092118,2.4394481327763216
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jetz heißt‘s awwer gedummelt! — Jerum, wie siehts do noch üß — awer ‘s Fanny het recht, ich bin viel zu guet, was brüch ich mich denn um alles ze kümmere — minni Mamme isch au allewill so einfältig un meint m'r mueßt de Mannslit um de Bart striche, — ‘s lejt m'r an, ich bin au nimmi so dumm —
+
+        
+",19,hahn-jungi-madamme,70,6,0.0857142857142857,0.0902017437541395,1.182893926201221,1.4365536620624133,0.0748844665128705,2.04248155145244,0.0491356470959282,0.532567750043316,0.0025454725003171,0.0337587924704195,0.3708528768664895,2.397405671352517
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Madame, m'r hann jo gar kein Ripple fer an‘s Krütt, wie ich s'Rindfleisch g‘holt hab, sinn sie noch nit abkocht gsin.
+
+          
+
+        
+",19,hahn-jungi-madamme,29,1,0.0344827586206896,0.0902017437541395,1.182893926201221,1.1455987074828446,0.0748844665128705,1.6346985559510103,0.0491356470959282,0.2530274403901574,0.0025454725003171,0.0337587924704195,0.3708528768664895,1.96189015772705
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Och du liewi Zitt, ze laaft Sie schnell!— sä! — do esch Geld! — Hett Sie d’Grum- beere uffgstellt?
+
+        
+",20,hahn-jungi-madamme,29,4,0.1379310344827586,0.0902017437541395,0.9698717756589732,1.051167182104983,0.0748844665128705,1.431531890034028,0.0491356470959282,0.5196470233700002,0.0025454725003171,0.0337587924704195,0.5727432923809113,1.700771397040698
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Grad haw i's welle mache!
+
+        
+",20,hahn-jungi-madamme,9,1,0.1111111111111111,0.0902017437541395,0.8870092850497615,1.2974139608361412,0.0748844665128705,1.9434859932688144,0.0316982542909594,0.3321654998630092,0.0025454725003171,0.0,1.1475351748200917,2.226353217948928
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ze geht Sie numme, ich mach's, — 
+(Sälmel ab)
+ — och du gueter Himmel — wenn ich numme gschtrählt wär — 
+(es schellt)
+ verflixt noch e mol — do kummt‘r — ho — was lejt's mir dran — ich mach‘s a wie's Fanny — numme nit unter- kreje lonn —
+
+        
+",20,hahn-jungi-madamme,63,5,0.0793650793650793,0.1608126577503044,0.513528986604309,1.1353524996306228,0.1429641654535899,1.6118030429494137,0.1470504307075611,0.5300032507699107,0.1178678044454349,0.0673318115274428,1.3247440977674334,1.8179488299104412
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Guete Daa!
+
+        
+",21,hahn-jungi-madamme,5,1,0.2,0.0706109139961649,0.4489376219087616,0.8812839260926296,0.0680796989407194,1.2877256020223684,0.1153521764166017,0.4644573338867444,0.1153223319451177,0.0673318115274428,1.036753711510156,1.4855707100429365
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Hesch visite ghett? I hab d‘Ma- dame Müschler un ihri Schweschter drunte ange- troffe.
+
+        
+",21,hahn-jungi-madamme,21,1,0.0476190476190476,0.1064713164506884,0.4489376219087616,1.4447428394513828,0.3298606368587406,1.9130886933148417,0.1153521764166017,0.4644573338867444,0.1153223319451177,0.0673318115274428,1.4479529929886912,2.291418256573786
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja, sie senn do g'sinn —
+
+        
+",21,hahn-jungi-madamme,9,1,0.1111111111111111,0.1064713164506884,0.1442397370027783,1.5769537517315495,0.3298606368587405,1.8370603738476377,0.1153521764166017,0.6318715647738761,0.1153223319451177,0.0673318115274428,1.2460625774742695,2.30927070216913
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Bisch so flissig g'sin, daß de noch kein Zitt hesch ghett, fer dich ze schträhle?
+
+        
+",21,hahn-jungi-madamme,20,1,0.05,0.1064713164506884,0.6097126737210999,1.4043996372436374,0.3298606368587405,1.6048223785566411,0.1153521764166017,0.6318715647738761,0.1153223319451177,0.0673318115274428,0.5884082044258767,2.010189570370281
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja, awwer jetz will i mi noch schnell frisiere, derwill‘sch isch‘s Esse ferti.
+
+        
+",21,hahn-jungi-madamme,19,2,0.1052631578947368,0.0358604024545234,0.4654729367183216,1.4133937156206615,0.2617809379180211,1.5267052044352316,0.0,0.6510507208004619,0.0,0.0,0.4111992814785353,1.9571235587736704
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Dummel di numme, d'r Maawe heukt m'r bis uff d‘Schueh 
+(Amelie ab, läßt die Tür offen, Fernand setzt sich an den Tisch)
+. Was riech i denn? schun widder Sürkrütt? Schun ‘s dritt mol die Wuch, jetz, mitte im Summer! Ich glaab dü hesch Ständel voll erjets per rencontre kaaft! — — 
+(Seufzt und greift nach der Zeitung)
+ O du liewer Himmelbabbe, — wos esch deß fer e mizère! Do loßt m'r sich wie e Schoof an de Eh- pfoschte binde un denkt m‘r krejt guets Fueder, d'Schwejermamme macht eim‘s Müll wässerig, was ihri Doochter alles gelehrt hett un alles koche kan, un jetz kummt d‘ganz Wuch ken gschejti Supp uff de Disch. — Nix als Maggi, mueß m‘r dran schütte — — un als Maggi, un wenn ze viel dran isch, isch sie erscht e rächt nix nutz.
+
+          
+
+		
+",22,hahn-jungi-madamme,169,15,0.0887573964497041,0.0358604024545234,0.5193110402466925,1.676917097885779,0.2617809379180211,1.910536467904648,0.0,0.9082480115631242,0.0,0.0,0.5089968183982966,2.3620445379037145
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Was isch, Sälmel, brav gekocht? Gitts widder Griessupp, fer d’Wuch voll ze mache?
+
+        
+",23,hahn-jungi-madamme,21,2,0.0952380952380952,0.0,0.5193110402466925,1.1134581845270255,0.0,1.285173376612175,0.0,0.9082480115631242,0.0,0.0,0.0977975369197611,1.5561969913728646
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Nän, hitt esch Riß drinne, awwer ich glöujb, ar esch nit racht weich.
+
+        
+",23,hahn-jungi-madamme,19,2,0.1052631578947368,0.0,0.5193110402466925,0.9940119745168988,0.0,1.4935998191616613,0.0,0.6835503199934923,0.0,0.0,0.6013530262264787,1.6346628915386563
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ei, weiß d‘r Kücksel! Ihr hänn doch d‘r ganz morje Zitt fer ze koche.
+
+        
+",23,hahn-jungi-madamme,19,4,0.2105263157894736,0.0,0.1702063377079513,0.8856113988005676,0.0,1.2665262713869418,0.0,0.7756960999318114,0.0,0.0,0.6013530262264787,1.449375363226396
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ich hab kenn Schuld, Harr! d‘Ma- dame weiß, daß i nit koche kann.
+
+        
+",23,hahn-jungi-madamme,21,3,0.1428571428571428,0.0119534674848411,0.1702063377079513,0.8825842668560198,0.0872603126393403,1.3443754960944752,0.0,0.5586791929983242,0.0,0.0,0.7384194533859906,1.4997871275259234
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ei heilig nochemol, fer Riß koche ze lehre, brücht m‘r doch nit in d‘Kochschuel gehn?
+
+        
+",24,hahn-jungi-madamme,21,3,0.1428571428571428,0.0119534674848411,0.1163682341795804,0.6190608845909026,0.0872603126393403,0.960544232625059,0.0,0.3014819022356618,0.0,0.0,0.6406219164662293,1.0948661483958797
+comedy,Sälmel,F,,,,"
+          
+Sälmel :
+
+          
+(ärgelich)
+
+          
+Deß dät m'r jetz grad fahle, daß ech noch soll eruntergerisse wäre, — ech kann doch nit meh aß schaffe.
+
+        
+",24,hahn-jungi-madamme,28,2,0.0714285714285714,0.0119534674848411,0.1163682341795804,0.8440351883696146,0.0872603126393403,1.331426578257,0.0,0.3014819022356618,0.0,0.0,0.9694491029904256,1.4927385936005806
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(kehrt zurück)
+
+          
+Was isch denn los?
+
+        
+",24,hahn-jungi-madamme,11,1,0.0909090909090909,0.0119534674848411,0.7563777689119038,1.2699108410594149,0.0872603126393403,1.677526389530747,0.0,0.6869843755396056,0.0,0.465372786687985,0.8395577170411468,1.8289095512354088
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Was wurd mir denn do fer e Supp uffgesehtellt, do luej e mol, grad d‘r ruei Riß —isch deß e Art, deß do? Esch deß e Art?
+
+        
+",24,hahn-jungi-madamme,35,1,0.0285714285714285,0.0119534674848411,0.6400095347323235,1.5508655312636583,0.0872603126393403,2.136837932596463,0.0,0.5948385956012864,0.0,0.465372786687985,1.4972120900895394,2.3132782113465185
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Brüel numme nit so! Was kann ich denn derfer, wenn der Riß nix nutz isch? (Sie spricht leise mit Sälmel, diese trägt die Suppe fort.
+
+        
+",25,hahn-jungi-madamme,33,1,0.0303030303030303,0.6573664816044601,0.6400095347323235,2.366723757990511,0.0,2.6562263387365563,0.0,0.5948385956012864,0.0,0.465372786687985,1.3601456629300277,2.51078724013695
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ah so, — d'r Riß isch nix nutz — guet! guet! — guet! —
+
+        
+",25,hahn-jungi-madamme,20,3,0.15,0.6573664816044601,0.6400095347323235,2.366723757990511,0.0,2.6562263387365563,0.0,0.5948385956012864,0.0,0.465372786687985,1.3601456629300277,2.51078724013695
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+A ja!
+
+        
+",25,hahn-jungi-madamme,5,1,0.2,0.6573664816044601,0.6400095347323235,2.523442993673397,0.0,2.546554271217864,0.0,1.0288724094682609,0.0,0.465372786687985,1.0313184764058314,2.549322964020427
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Wenn s‘ Müschler‘s e Köche halte könne, kann ich a eini anstelle.
+
+		  
+
+        
+",25,hahn-jungi-madamme,17,1,0.0588235294117647,1.0993242853144334,8.881784197001253e-17,2.255250437605374,0.2741504257008885,2.082800262806418,0.0,0.4340338138669745,0.0,0.0,0.6576543730483925,2.001801053748562
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(polternd)
+
+          
+Mintwaje, stell eini an, stell zwei an waje mir, — awwer jetz will ich ebs ze esse hann.
+
+        
+",25,hahn-jungi-madamme,27,3,0.1111111111111111,1.0993242853144334,8.881784197001253e-17,1.9946690822460256,0.2741504257008885,1.584631145314774,0.0,0.4340338138669745,0.0,0.0,0.2826096477350491,1.55734476297862
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(heftig)
+
+          
+Jo, krej'sch jo ebs, brüel numme nit so, ich bin doch nit daub!
+
+        
+",26,hahn-jungi-madamme,22,2,0.0909090909090909,0.7706410445122034,8.881784197001253e-17,1.9244019275991184,0.2741504257008885,1.5400180058227615,0.0,0.4340338138669745,0.0,0.3714361352988021,0.2826096477350491,1.5398299041167
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Hör e mol, min Wiewel, schlag m‘r kein so Tonart an! Weisch, muesch nit meine, daß i einer vun dänne bin, wo sich vum e Wiebs- bild nunderdunke loßt —
+
+        
+",26,hahn-jungi-madamme,39,2,0.0512820512820512,0.7706410445122034,8.881784197001253e-17,1.9244019275991184,0.2741504257008885,1.5400180058227615,0.0,0.4340338138669745,0.0,0.3714361352988021,0.2826096477350491,1.5398299041167
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Was isch denn do derbi, wenn i san, daß i nit daub bin? ‘s isch doch au wohr!
+
+        
+",26,hahn-jungi-madamme,24,1,0.0416666666666666,0.7706410445122034,8.881784197001253e-17,1.542708388137521,0.2741504257008885,1.278807727709513,0.0,0.0,0.0,0.3714361352988021,0.2826096477350491,1.1034217350285218
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Wenn d'r Mann gschafft hett de ganze Morje un heim kummt mit me gsunde Appe- tit, un d‘Frau setz‘m kein anständige Supp vor, no brücht sie nit noch ‘s Müll uff ze risse, no hett sie sich hechstefalls ze-n-excüsiere.
+
+        
+",27,hahn-jungi-madamme,50,6,0.12,0.32868324080223,8.881784197001253e-17,1.3886199415869385,0.0,1.3193008161246595,0.0,0.2789399657714631,0.0,0.3714361352988021,0.2826096477350491,1.2379469690903908
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Un dü meinsch grad, dü kennsch e Schuehlumpe üß eim mache! Awwer, daß d'es weisch, ich bin grad so vill aß dü —
+
+        
+",27,hahn-jungi-madamme,30,2,0.0666666666666666,0.32868324080223,8.881784197001253e-17,2.0991499045037108,0.0,2.5592346248801854,0.0,0.2789399657714631,0.0,0.3714361352988021,1.315308746096785,2.478148150269735
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ehein! Ehein! Zue schoen — s‘wurd immer schoener! — Ei nunde buckel noch emol — ich glaab, ich wurr hitt gschejt gemacht, hein?
+
+        
+",27,hahn-jungi-madamme,32,5,0.15625,0.0,8.881784197001253e-17,1.2874103295658894,0.0,1.9980894148265005,0.0,0.2789399657714631,0.0,0.0,1.466949790785348,2.152977788485093
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Sej doch still jetz, ‘s Sälmel kummt. Sälmel 
+(bringt die Suppe)
+.
+
+        
+",28,hahn-jungi-madamme,18,1,0.0555555555555555,0.0,8.881784197001253e-17,1.2874103295658894,0.0,1.9980894148265005,0.0,0.2789399657714631,0.0,0.0,1.466949790785348,2.152977788485093
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Was hann'r jetz gemacht?
+
+        
+",28,hahn-jungi-madamme,7,1,0.1428571428571428,0.0,8.881784197001253e-17,1.2874103295658894,0.0,1.9980894148265005,0.0,0.2789399657714631,0.0,0.0,1.466949790785348,2.152977788485093
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ich hab de Riß üß dr Supp mache lonn un Brod nin.
+
+        
+",28,hahn-jungi-madamme,15,1,0.0666666666666666,0.3530545699808249,0.721198685013892,1.5085254605403324,0.3403984947035973,1.9137265047108567,0.5767608820830088,0.0,0.5766116597255889,0.3366590576372144,1.675204887595903,1.9999390421177012
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Grad so Brod? Ungebäjts? Deß wurd m‘r ebs guet's sin. 
+(Versucht die Suppe und fängt gleich an zu husten und zu spucken.)
+ Was d‘r Kücksel isch denn in däre Supp — pfi Deiffel noch e mol!
+
+        
+",28,hahn-jungi-madamme,46,5,0.108695652173913,0.3530545699808249,0.721198685013892,0.8586835141082304,0.4601285451395164,0.6400744573549666,0.5767608820830088,0.0,0.5766116597255889,0.3366590576372144,0.4914270161087962,0.6326966676561707
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Was? Südwasser? — ich glaab ‘s Sälmel traamt! — hein? — Deß esch m‘r e schoe- ner Witz, wie kummen-ihr derzue, Süd an d‘Supp ze mache?
+
+		  
+
+        
+",29,hahn-jungi-madamme,37,1,0.027027027027027,0.3530545699808249,0.721198685013892,1.4549188964507913,0.4601285451395164,1.3622942676292709,0.5767608820830088,0.4466829659664178,0.5766116597255889,0.3366590576372144,1.18734197877045,1.517623593282217
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo s' Sälmel bett ze vill genumme. Ich hab'm gsaat, es soll e bissel dran mache, daß ‘s Fleisch weich wurd — un zart.
+
+        
+",29,hahn-jungi-madamme,31,2,0.064516129032258,0.3530545699808249,0.721198685013892,1.6774950378293485,0.8290196387000777,1.5540999655781325,0.8958708246094457,0.4466829659664178,0.5766116597255889,0.3366590576372144,1.18734197877045,1.8322798394444817
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Eh bien, — hett m‘r sin Daa des Leewens e so ebs g‘hört — — 
+(Sälmel will das Rindfleisch bringen)
+, nan, nan, deß Fleisch wurd schmecke, wie d'Supp. Numme nüß mit und bring Sie diß famose Sürkrütt. 
+(Sälmel ab)
+. Kannsch denn nix andersch‘s koche als allewill un allewill — och du liewer — — 
+(Sälmel kommt mit Sauer- kraut und Rippchen, Fernand riecht etwas daran.)
+ Deß isch jo schun widder angebrennt?
+
+        
+",30,hahn-jungi-madamme,93,6,0.064516129032258,0.3530545699808249,0.8557939438348192,2.3205025143291675,0.8290196387000777,2.2601692079319013,0.8958708246094457,0.6747347821903105,0.5766116597255889,0.3366590576372144,1.9766040165050331,2.6692349420678703
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ja— awwer, daß m'rs nit schmeckt, haw i a ganzer Wisch Peterle dran gemacht.
+
+        
+",31,hahn-jungi-madamme,20,2,0.1,0.0,0.1345952588209273,2.0243921735628563,0.4886211439964801,2.0826616451639866,0.3191099425264369,0.8917516891237977,0.0,0.0,1.7683489196944784,2.602429422300548
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ha, ja, diß gitt doch e gueter G’schmack. Fernad: M'r dät awwer meine, m‘r isch do im e Narrehüß. Los mit dem Fueder, ‘s wurd am uewel, wenn m‘rs numme anloejt. —
+
+        
+",31,hahn-jungi-madamme,43,6,0.1395348837209302,0.0,0.2412635146096478,1.9526396584805892,0.368891093560561,2.0522754450004017,0.3191099425264369,1.0632304240351746,0.0,0.077562131114664,1.6990953956443733,2.5927575486061043
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Sie leje noch ruej in d'r Schuessel drüsse —
+
+        
+",31,hahn-jungi-madamme,11,1,0.0909090909090909,0.4322824622605069,0.2412635146096478,2.0782857608173986,0.9909171009760472,1.6352490025466362,0.3191099425264369,0.6165474580687568,0.7467172655118623,0.077562131114664,1.0608755105914989,1.8270666136555345
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Jetz reicht's! — Jetz haw i genue! — Sälmel 
+(trägt das Essen fort)
+. Amelie 
+(sitzt trotzig am Tisch, den Kopf in die Hand gestützt)
+.
+
+        
+",32,hahn-jungi-madamme,36,1,0.0277777777777777,1.0899368353088996,0.2412635146096478,2.7568554039618998,0.6220260074154862,2.3184194514389747,0.0,0.6165474580687568,0.7467172655118623,0.077562131114664,1.0608755105914989,1.7968629509917091
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(polternd)
+
+          
+E Schand! E Sünd un e Schand so ebs! 
+(nimmt den Hut)
+ Sechs Wuche verhirot un mueß in‘s Restaurant esse gehn —
+
+        
+",32,hahn-jungi-madamme,32,4,0.125,1.0899368353088996,0.2309619917025385,2.2739231934116937,0.6220260074154862,1.7531745933781342,0.0261560892074532,0.5299477722787713,0.7467172655118623,0.1282003198202936,0.3959072087707336,1.1473946958073458
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(weinerlich)
+
+          
+Ich hab doch Kopf- weh ghett!
+
+        
+",32,hahn-jungi-madamme,13,2,0.1538461538461538,1.38990018128375,0.2309619917025385,2.5141089318375163,0.87603752166653,1.8079957365838013,0.3433181103803476,0.32314238350613,1.1687235495970387,0.1282003198202936,0.3959072087707336,1.0931780705660556
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Wäje dem hätt‘sch doch könnte e bissel uff's Esse uffbasse, — weisch — diß isch doch nit schön 
+(Amelie weint)
+ 
+(einlenkend)
+ awer na — ich will's fer deß mol gelte lonn, will de Kopfweh hesch ghett, sorj numme jetz, daß i ebs bekumm. 
+(Will sich auf die Chaiselongue setzen, da fällt das Buch herunter)
+ Tiens,— luej do, e Gschichtebuech üß d'r Bibliothek — ah — deß isch dini Arweit gsinn hitt morje — deß isch dinn Kopfweh? 
+(Wirft das Buch zornig auf den Tisch)
+ Fi donc! schäm di numme! Schäm di!
+
+         
+
+		
+",33,hahn-jungi-madamme,116,8,0.0689655172413793,1.5646070726614494,0.2933791634613714,2.727407825052988,0.9185873335044796,2.011619440142096,0.5125821981400238,0.3459979170074764,1.2420800436884805,0.1183213034251407,0.5149869583894044,1.240777759176661
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(trotzig)
+
+          
+eh los mich doch nit ab- kanzle, wie wenn ich e kleines Maidl wär.
+
+        
+",34,hahn-jungi-madamme,22,4,0.1818181818181818,1.3849159179011068,0.6552744353758431,2.596645454481604,0.4506849795872564,2.340087722155872,0.5125821981400238,0.6688390720816189,0.495362778176618,0.234664500097137,0.6134050379213434,1.6958095051669466
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Nein, bi me kleine Maidl kann m'rs im Unverstand zuegänn, awwer dü bisch e verhiroti Frau!
+
+        
+",34,hahn-jungi-madamme,21,3,0.1428571428571428,0.8448318305034691,0.6552744353758431,1.871649968881091,0.656183184251607,1.5998338734299584,0.5125821981400238,0.6688390720816189,0.495362778176618,0.234664500097137,0.6134050379213434,1.612576026717921
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Un ich loß mich awwer net schelte vun dir! Ich loß m'r nix sawe, daß de‘s weisch. ich hab mich nett verhirot, fuer in d‘Kich ze stehn de ganze Daa. Ich bin noch jung un will mich amüsiere. Morje lehn ich m‘r e vêlo un fahr uff Schlettstadt, un derno geh ich mit ‘s Müschlers uff d’Hohkenigsburj — un wenn dü. nit mit witt, kann‘sch miran d’heim bliewe!
+
+        
+",35,hahn-jungi-madamme,84,9,0.1071428571428571,0.8448318305034691,0.6348313562372844,2.2238748148645,0.656183184251607,2.1212512596906583,0.4980510374692164,1.1065579435487822,0.495362778176618,0.206532173038454,0.5955461264152576,2.197251227953561
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja!
+
+        
+",35,hahn-jungi-madamme,4,1,0.25,0.5448684845286185,0.6348313562372844,2.174535846169477,0.4021716700005632,2.197035255541616,0.180889016296322,1.5303802392549106,0.0733564940914415,0.206532173038454,0.5955461264152576,2.4696719377389407
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Guet! ze geh jetz numme glich, — geh, zej di an un mach dich heim zue dinnere Mueder. Saa‘schre, ich hätt dich gschickt, sie soll dich lehre, wie m'r sich uffzefuehre hett geje de Mann, un wie m‘r sich ze schicke hett als e gueti ménagère. — Verzähl'schre awwer au, was de m'r hitt gekocht hesch!
+
+        
+",36,hahn-jungi-madamme,69,7,0.1014492753623188,0.4115547114100627,0.4657459286897308,2.0424164728548693,0.3596218581626136,2.1321506742921352,0.0116249285366458,1.539495312520342,0.0,0.1388490583189426,0.4141890262370136,2.446842752636654
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(weinerlich)
+
+          
+Guet! ich geh! — awwer ich kumm nit ender, als bis de mich widder holsch.
+
+        
+",36,hahn-jungi-madamme,24,3,0.125,0.1589634039098984,0.1038506567752591,1.329626223818508,0.2054982046643506,1.376404604099267,0.0116249285366458,1.216654157446199,0.0,0.0225058616469463,0.1064348244077321,1.7491353589834056
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Do kann‘sch awwer lang warte!
+
+        
+",37,hahn-jungi-madamme,8,2,0.25,0.0413931182591435,0.4677474281399353,1.3867455339430783,0.0,1.496797907037705,0.0839499744733164,1.216654157446199,0.0,0.0984215127010402,0.3511089159807239,1.80633631716808
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Hesch mi nit gern! Hesch mi nie gern ghett, s'Geld welle'n‘r, un d‘Frau esch numme e Zuegab.
+
+        
+",37,hahn-jungi-madamme,25,3,0.12,0.0413931182591435,0.9035270788827084,1.4832574361018884,0.0,1.6272402869485103,0.0723250459366705,1.4081823153685329,0.0,0.3844771062667545,1.1149541809258223,2.120350004153348
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja awer manchmol e recht schlechti.
+
+        
+",37,hahn-jungi-madamme,9,3,0.3333333333333333,0.0413931182591435,0.9035270788827084,1.2287950764608233,0.0,1.4531001015396778,0.0723250459366705,1.1188264394572165,0.0,0.3844771062667545,1.1149541809258223,1.8294112247612293
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja, — Hätt ich‘s numme gedohn, ze bekäm i uff‘s wenigscht ebs rechts ze esse — luej — deß Buech do sott m'r d‘r an de Kopf schmisse — du fülls Ding, dü!
+
+          
+
+		
+",37,hahn-jungi-madamme,41,2,0.048780487804878,0.0,0.9035270788827084,1.441614541998597,0.0,1.6847854477589377,0.0723250459366705,1.481500281836471,0.0,0.3844771062667545,1.1149541809258223,2.1639582710619214
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ah! Deß esch jetz ze vill 
+(ab)
+. Fernad: Naan, ze wenni! Geh numme! Geh zue din‘re Mueder! Sie wurd dich am erschte zuer raison bringe. Deß dät m'r noch fehle! Bi allem andre au noch so widderspenschtich uff ein mol! Do esch awwer neemand Schuld als em Al- fons Müschler sini Frau. Die wurd au sehn, wie witt aß sie kummt met ehre Sprueng. Em Alfons geht d‘Geduld au e mol üß. — Deß mueßt doch d'r Schinder sin! Hah, ha! — Nein, min Wiewele, — so kummsch dü mer nit! Dü muesch wisse, daß ich d’r Herr bin un daß ich d’Hose an b’halt. 
+(Amelie kehrt zurück in Sommermantel und Hut)
+. Aha! Schun geruescht?
+
+        
+",38,hahn-jungi-madamme,149,10,0.0671140939597315,0.1584015559781043,1.0105988062959272,1.891753460081608,0.0692962647607655,2.212368362777448,0.2158284418042317,1.5513215372612557,0.0851385326660533,0.3844771062667545,1.3067185739411806,2.63222730976798
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(weinerlich und doch trotzig)
+
+          
+Ja ich geh, — un dü kannsch lang warte, bis ich widder zue d’r kumm 
+(a)
+ schlägt draußen die Türe zu.
+
+        
+",38,hahn-jungi-madamme,34,6,0.1764705882352941,0.2680106181528364,0.7680009587194764,1.9500469413809745,0.0692962647607655,2.231655699567373,0.167611744513118,1.6236605062390848,0.0851385326660533,0.3338666722306919,1.1436025128925196,2.580090726376357
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+C'est ca! — Sie saat eim net e mol adje — deß esch net uewel! — da — un jetzt selaat sie au noch Tuer zue, wie wenn ich im Un- recht wär. — Schoeni Üssichte — ja sechs Wuche verhirot un kummt m‘r e so 
+(stützt den Kopf in die Hand)
+. Heilig noch e mol! Un derbi fahrt m'r d'r Mawe im Büch erum, wie e Karoussel uff‘'m Meßti. — Sälmel! — — Sälmel!
+
+        
+",39,hahn-jungi-madamme,91,9,0.0989010989010989,0.2680106181528364,0.2836123116075855,1.6010976325055206,0.0692962647607655,1.6953008261272395,0.1792366730497639,0.9640549392604146,0.1442793889093672,0.0478110786649776,0.3996140181352182,1.73410079823012
+comedy,Sälmel,F,,,,"
+          
+Sälmel :
+
+          
+(mit vollen Backen kauend, kommt herein)
+
+          
+Jo, Harr!
+
+        
+",40,hahn-jungi-madamme,15,1,0.0666666666666666,0.2680106181528364,0.2836123116075855,1.473866452684988,0.0692962647607655,1.6082307334228232,0.1792366730497639,0.8193770013047565,0.1442793889093672,0.0478110786649776,0.3996140181352182,1.5886314085340607
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Gebrätelti Grumbeere un Schwine- reppie. M'r mueß doch ebs asse, wenn m'r Hunger hett.
+
+        
+",40,hahn-jungi-madamme,20,1,0.05,0.5679739641276871,0.2836123116075855,1.708712346284456,0.0692962647607655,1.476987374481146,0.1792366730497639,0.2532538172473472,0.1442793889093672,0.0478110786649776,0.3996140181352182,1.0206828269809969
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Guet! guet! Bringt Sie m'r — u no bacht Sie m‘r hinterher e paar Eier — hört Sie?
+
+        
+",40,hahn-jungi-madamme,23,2,0.0869565217391304,0.4095724081495827,0.1765405841943667,1.2585734282014451,0.0,0.9494044594626352,0.0357332771822027,0.1834325618225628,0.0591408562433139,0.0478110786649776,0.2078496251198599,0.5524137882749388
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ja, Harr! — Sall kann i 
+(ab)
+.
+
+        
+",40,hahn-jungi-madamme,14,1,0.0714285714285714,0.2999633459748507,0.0552416604061413,1.3487038773165625,0.0,0.9362117997322345,0.0116249285366458,0.5451274067117081,0.0591408562433139,0.0225058616469463,0.1262915945955293,0.7825384775206512
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Na, deß isch m'r liewer, als jetz noch in d‘Wirtschaft laufe — wenn mi jo ebber dät sehn — i mueßt mi ze dood schämme —
+
+          
+
+        
+",41,hahn-jungi-madamme,31,2,0.064516129032258,0.2999633459748507,0.2588600177241155,1.260798248379829,0.0,0.9500851544566512,0.0,0.4340338138669745,0.0,0.0,0.0,0.8821899120965483
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+C'est ca, merci! Na, Grumbeere brätle, def kann Sie schun, wenn Sie sich hirot, hein?
+
+        
+",41,hahn-jungi-madamme,24,1,0.0416666666666666,0.2999633459748507,1.0151198568383486,2.047045810789505,0.0,1.815392939910612,0.0,1.096675665587953,0.0,0.0,0.8028783623051137,1.873643450913957
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Ja Harr! 
+(geht kichernd hinaus; es schellt)
+.
+
+        
+",41,hahn-jungi-madamme,14,2,0.1428571428571428,0.0,1.0151198568383486,1.964655817581454,0.0,1.761016123701196,0.0,1.7804754778044871,0.0,0.0,0.8028783623051137,2.5154416441177325
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Geht Sie, luejt Sie mol, minni Frau hett sich villicht b‘sunne —
+
+        
+",41,hahn-jungi-madamme,16,1,0.0625,0.0,1.0151198568383486,1.964655817581454,0.0,1.761016123701196,0.0,1.7804754778044871,0.0,0.0,0.8028783623051137,2.5154416441177325
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Was isch? Ganz allan am frouga- liere?
+
+        
+",41,hahn-jungi-madamme,12,2,0.1666666666666666,0.0,1.0151198568383486,1.7822528662914607,0.0,1.809948793997836,0.0,1.530733223814151,0.0,0.0,0.8028783623051137,2.453454056320864
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja — — minni Frau — hm — sie mueß ebs b'sorje — e Kommission — e pres- santi —
+
+        
+",42,hahn-jungi-madamme,23,1,0.0434782608695652,0.0,0.756259839114233,1.9919893294734123,0.0,1.8009564403623677,0.0,1.9647670376811253,0.0,0.0,0.8028783623051137,2.5500249833194486
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ab, schint's geht's alle Wiewer egal — ich hab hit au allein g'esse!
+
+        
+",42,hahn-jungi-madamme,19,1,0.0526315789473684,0.0,8.881784197001253e-17,1.2057417670637354,0.0,0.9356486549084068,0.0,1.302125185960147,0.0,0.0,0.0,1.5585714445020398
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja, hesch wenigstens ebs guet's kreit?
+
+        
+",42,hahn-jungi-madamme,11,2,0.1818181818181818,0.0,8.881784197001253e-17,0.7718308973640017,0.0,0.7019583655797623,0.0,0.8353422806771003,0.0,0.0,0.0,1.029032834923577
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Hör, du mach‘sch farce.
+
+        
+",42,hahn-jungi-madamme,8,1,0.125,0.0,8.881784197001253e-17,1.5194814512621408,0.6948706696848629,1.1366871322054797,0.0,0.8353422806771003,0.0,0.0,0.0,1.412685455924439
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Geh, halt ‘s Müll!
+
+        
+",42,hahn-jungi-madamme,8,2,0.25,0.2707460385316519,8.881784197001253e-17,1.5774427961118405,0.8628168878468812,1.0421708184580143,0.0,0.6510507208004619,0.0,0.0,0.0,1.2242049818944625
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Mach doch kein Plän! Du mach‘sch m‘r jo langi Zähn.
+
+        
+",42,hahn-jungi-madamme,14,2,0.1428571428571428,0.2707460385316519,8.881784197001253e-17,1.1957492566502428,0.8628168878468812,0.7809605403447654,0.0,0.2170169069334873,0.0,0.0,0.0,0.787796812806284
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Hör'sch no net uff?
+
+        
+",42,hahn-jungi-madamme,7,1,0.1428571428571428,0.2707460385316519,8.881784197001253e-17,1.7586591952668775,0.8628168878468812,1.6195814693042414,0.0,0.9152294611813314,0.0,0.0,0.0,1.6991748086617882
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja, wenn hesch dü deß g'esse — wannee hett dinni Frau des alles gekocht?
+
+        
+",43,hahn-jungi-madamme,18,1,0.0555555555555555,0.2707460385316519,8.881784197001253e-17,1.9495059649976765,0.8628168878468812,1.750186608360866,0.0,1.1322463681148185,0.0,0.0,0.0,1.9173788932058773
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+A ja, ihr hann jo jetz e Köche — un de bibele, hann‘r ‘s groß Loos gewunne?
+
+        
+",43,hahn-jungi-madamme,22,3,0.1363636363636363,0.2707460385316519,8.881784197001253e-17,1.32908659092007,0.1679462181620181,1.4025279344395654,0.0,1.2769243060704767,0.0,0.0,0.0,1.679195661901074
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ja, Plän, unsri Köche kocht was're infallt, un d‘Madame geht spazeere!
+
+        
+",43,hahn-jungi-madamme,18,3,0.1666666666666666,0.0,8.881784197001253e-17,1.199065837719298,0.0,1.273971392481558,0.0,1.4216022440261349,0.0,0.0,0.0,1.6387249443358012
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ja, was meinsch, was es hitt gänn hett?
+
+        
+",43,hahn-jungi-madamme,13,2,0.1538461538461538,0.0,0.2642230324118898,1.631931587181895,0.0,1.8151557416244104,0.0,1.6386191509596224,0.0,0.0,0.3127034846328617,2.1959230393826488
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Net uewel, — isch denn hitt d’ganz Welt verruckt, un dinni Frau?
+
+        
+",43,hahn-jungi-madamme,18,2,0.1111111111111111,0.0,0.2642230324118898,1.2683122367368649,0.0,1.2866777610748232,0.0,1.1246981565884169,0.0,0.0,0.3127034846328617,1.658965624818454
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Die esch uewerhaupt net heime kumme; — awwer ich bin au nit füll g‘sinn, ich hab de Huet genumme un bin zuem Valentin.
+
+        
+",44,hahn-jungi-madamme,28,2,0.0714285714285714,0.0,0.532750031501045,1.3386806107920837,0.5035554893067176,1.3746783117183992,0.0,0.6906643427214421,0.3370555493871571,0.0,0.3127034846328617,1.591496914010024
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Jo, was denk‘sch, deß esch ‘s Menü du jour g'sin, i hab m'r sunsch ebs gfetzt's gänn lonn fer e paar Fränklä.
+
+        
+",44,hahn-jungi-madamme,29,3,0.1034482758620689,0.1176848566602749,0.9492982814469354,1.535114454291786,0.6170216542079168,1.6640319263463152,0.1922536273610028,0.5459864047657839,0.5292594359623534,0.1122196858790714,0.5905908399916212,1.76702673275294
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons :
+
+          
+(mißmutig)
+
+          
+Awwer weisch, s‘ wurd m‘r ze dumm, deß Dings do — wenn minni Frau so witterscht macht, gitt‘s noch en-Unglueck — im beschte Fall e divorce — die meint glaw i, ich bin e Dottel!
+
+          
+
+        
+",44,hahn-jungi-madamme,46,4,0.0869565217391304,0.1176848566602749,0.9492982814469354,1.5501803920846349,0.6170216542079168,1.7906104915758074,0.1922536273610028,0.4013084668101257,0.5292594359623534,0.1122196858790714,0.7429934274508039,1.7785040660240088
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Weisch, deß wär m‘r noch egal — awwer wenn dinni Frau en min‘re Lectione gitt, säll haw i nit gern! —
+
+        
+",45,hahn-jungi-madamme,26,1,0.0384615384615384,0.1176848566602749,1.08979797967357,1.573923653190913,0.6170216542079168,1.8439392552812797,0.1922536273610028,0.7623159297441913,0.5292594359623534,0.3436407772885669,1.0830000098325647,2.0359377727221117
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Aha! Jetz wurd sich‘s finde, was dinni Madame fer Kommissione macht. —
+
+        
+",45,hahn-jungi-madamme,18,3,0.1666666666666666,0.3574391739569143,1.08979797967357,1.9086243493803452,0.8561413711410601,2.0443968786066065,0.4521375859296574,0.5780243698675529,0.5292594359623534,0.3436407772885669,1.2862034597781418,1.9157475497831484
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Hör uff! Ich krej Büchweh!
+
+        
+",45,hahn-jungi-madamme,9,2,0.2222222222222222,0.7750155665326237,0.8212709805844147,2.2344208603159457,0.3525858818343425,2.556853330841462,0.9613642237335606,0.9271306469914748,0.6097802791509057,0.3436407772885669,1.2862034597781418,2.037825175334381
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ei Dunderwille! — Un was hesch jetz g'esse? Grumbeere un kalti Ripple? Deß esch saftig! Wo isch denn dinni Frau jetz?
+
+        
+",45,hahn-jungi-madamme,28,2,0.0714285714285714,0.6573307098723487,0.4047227306385242,1.9107558369957107,0.2391197169331434,2.18042962350913,0.7691105963725577,0.9271306469914748,0.4175763925757094,0.2314210914094954,1.0083161044193822,1.7168259668954042
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Heim haw i sie gschickt, zue ehrer Mueder.
+
+        
+",45,hahn-jungi-madamme,12,2,0.1666666666666666,0.6573307098723487,0.4047227306385242,1.7684587193823291,0.2391197169331434,1.9667809655752213,0.7691105963725577,0.9271306469914748,0.4175763925757094,0.2314210914094954,0.8559135169601998,1.5598792439282765
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Hör, — ich glaab, mir sin angschmiert alli zwei — mir mueße erjets ebs anstelle — es mueß ebs gemacht wäre, daß uns‘ri Wiebslitt Mores kreje.
+
+        
+",46,hahn-jungi-madamme,32,3,0.09375,0.842116065032779,0.2618278887689599,1.6344100882212778,0.2391197169331434,1.4982355086892845,1.052176598269628,0.349106277123922,0.7070778847877204,0.1713330339493897,0.2032034499455768,0.8161712605791596
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Nochgänn derf m'r do net, — däre Meinung bin ich a — was sölle m‘r mache? — Hett‘s nit g‘schellt — ewe?
+
+        
+",46,hahn-jungi-madamme,28,1,0.0357142857142857,0.6023617477361397,0.9391877628614984,1.5306827771979592,0.0,1.708634018215534,0.7922926397009736,0.349106277123922,0.7070778847877204,0.1713330339493897,0.0,1.4028097416523275
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ich mein au, ich hab ebs g‘hört.
+
+        
+",46,hahn-jungi-madamme,11,1,0.0909090909090909,0.1847853551604303,0.9391877628614984,0.7528243527455418,0.0,0.8469667372238531,0.2830660018970705,0.0,0.289501492212011,0.1713330339493897,0.0,0.9117926578213472
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+Do esch e Harr, wo mit'm Harre will redde!
+
+        
+",46,hahn-jungi-madamme,14,1,0.0714285714285714,0.1847853551604303,0.9391877628614984,0.7528243527455418,0.0,0.8469667372238531,0.2830660018970705,0.0,0.289501492212011,0.1713330339493897,0.0,0.9117926578213472
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer :
+
+          
+(die Sprache ist etwas näselnd, jü- delnd)
+
+          
+Die Herren möchen entschuldischen, daß isvh hier eindringe —
+
+        
+",47,hahn-jungi-madamme,23,1,0.0434782608695652,0.1847853551604303,0.9391877628614984,0.7528243527455418,0.0,0.8469667372238531,0.2830660018970705,0.0,0.289501492212011,0.1713330339493897,0.0,0.9117926578213472
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Was beliebt Inne?
+
+        
+",47,hahn-jungi-madamme,6,1,0.1666666666666666,0.0,0.6773598740925386,0.430263973337718,0.0,0.7209990812614652,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.8408688394255144
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Geschtatten Sie, daß isch mich vor- telle. Ich haiße Mayer und bin Agent.
+
+		  
+
+        
+",47,hahn-jungi-madamme,19,1,0.0526315789473684,0.0,1.7763568394002506e-16,1.7763568394002506e-16,0.0,0.0,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.0
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Bin hierzu beliebt. - Ein guter Geschäfts- mann kann sich allen Verhältnissen anpassen. Kann ich Ihnen dienlich sein? Ich wollte mich erkundischen, ob die Herren vielleicht geneicht wären, ihr kostbares Leben zu versichern. Unsere Versicherung ist —
+
+        
+",47,hahn-jungi-madamme,46,8,0.1739130434782608,0.0,1.7763568394002506e-16,0.0727387386448923,0.0,0.1019457488753573,8.881784197001253e-17,0.0698850774132896,0.0,0.0,0.0,0.1088788784063666
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Nan, nan, gehn Sie numme, bi uns kumme Si hitt an d'letze.
+
+        
+",48,hahn-jungi-madamme,19,2,0.1052631578947368,0.0,0.2685269990891553,0.2529215929700651,0.0,0.3012364151815351,8.881784197001253e-17,0.0698850774132896,0.0,0.0,0.0,0.3242789443277828
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Leider können auch wir den unan- genehmen Knochenmann nicht fernhalten, aber, wo er in einem Hause einkehrt, ist es immer ein großer Trost — — —
+
+        
+",48,hahn-jungi-madamme,32,2,0.0625,0.2283351611997544,0.2685269990891553,0.5212420043447162,0.3314754374616419,0.4436164013811106,0.3093929230271209,0.0698850774132896,0.4451363256761079,0.0,0.0,0.3914053576751082
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja, ja! m‘r wisse schun — bi uns isch nix zu mache.
+
+        
+",48,hahn-jungi-madamme,17,2,0.1176470588235294,0.2283351611997544,0.2685269990891553,1.284629083267912,0.3314754374616419,0.9660369576076084,0.3093929230271209,0.9379527051472388,0.4451363256761079,0.0,0.0,1.264221695851465
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ach so, bedaure, — aber vielleicht haben Sie sonst jemand in der Verwandtschaft?
+
+        
+",48,hahn-jungi-madamme,18,3,0.1666666666666666,0.2283351611997544,0.2685269990891553,1.284629083267912,0.3314754374616419,0.9660369576076084,0.3093929230271209,0.9379527051472388,0.4451363256761079,0.0,0.0,1.264221695851465
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Nan, nan, nan lon Sie uns numme in Ruej!
+
+        
+",49,hahn-jungi-madamme,14,1,0.0714285714285714,0.6676163068317607,1.165864157473496,1.8177770702485785,0.7550095124714284,1.247454326361935,1.0270162101323153,0.868067627733949,1.162573945823005,0.4188813546141017,0.2591172733314668,1.5099603642590118
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Nun, wenn es damit nischts ist, wollen die Herren vielleicht einen schönen billichen Anzug kaufen? Sehen Sie sisch doch mal die herr- lischen Muster an, alles prima Ware! Und fabel- haft billisch. 
+(Zieht einen ganz langen Karton mit Stoffmustern aus der Ledertasche.)
+ Fernand und Alfons 
+(lachen)
+.
+
+        
+",49,hahn-jungi-madamme,62,9,0.1451612903225806,0.6744239200116664,0.960450013684014,1.796612635416749,0.7718493977059321,1.3195119529549362,1.0396461240581931,1.0109946626738722,1.2468189706499844,0.4188813546141017,0.3355618328966888,1.5975248083093718
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Nun ja, heutzutage ist der Ge- schäftsmann am besten daran, der sich nicht auf einen Gegenstand versteift. — Ich bin auch Hei- ratsvermittler. Wenn einer der Herren sich den Ehehimmel erschließen will, sehen Sie dieser herr- liche Damenflor. 
+(Dreht den Karton um, und man erblickt ebenso viele Damen- und Herrenbilder, als auf der anderen Seite Stoffmuster waren.)
+ In je- dem Alter, von jeder Farbe 
+(in einem Atem, wie ein Ausrufer)
+, sehwarze, braune, rote, blonde, gut- mütige, interessante, elegante Erscheinungen, gute Hausmütterchen, reiche Waisen, alles wie man es wünscht, für Kaufleute und Beamte, Witwer ohne und mit Kinder nicht ausgeschlossen.
+
+          
+
+		
+",50,hahn-jungi-madamme,135,15,0.1111111111111111,0.4525640202168236,1.0049552136683677,1.8671544087004652,0.4679299539128605,1.5886626219828202,0.7378311493865989,1.2306316863567526,0.8602286824293935,0.4188813546141017,0.4128413653473891,2.003471066041982
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(lachend)
+
+          
+Gänn Sie sich wit- tersch kein Mueij —
+
+        
+",51,hahn-jungi-madamme,14,2,0.1428571428571428,0.4525640202168236,1.2691782460802572,1.3457863095090674,0.4679299539128605,1.4768212758425507,0.737831149386599,0.3625640586228035,0.8602286824293935,0.4188813546141017,0.7255448499802508,1.4696487383683834
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons :
+
+          
+(lachend)
+
+          
+Mir sinn schun alli zwei verwitscht worre, schun drei Monet
+
+        
+",51,hahn-jungi-madamme,16,1,0.0625,0.4525640202168236,1.2691782460802572,1.3457863095090674,0.4679299539128605,1.4768212758425507,0.737831149386599,0.3625640586228035,0.8602286824293935,0.4188813546141017,0.7255448499802508,1.4696487383683834
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(lachend)
+
+          
+Ja, leider Gottes schun sechs Wuche!
+
+        
+",51,hahn-jungi-madamme,13,3,0.2307692307692307,0.1655063153846537,0.3718410876959167,1.046011037953809,0.265379503877502,1.275448241717,0.2264698109661518,0.5072419965784618,0.4395486127332349,0.0,0.466427576648784,1.3052515234820792
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ach! Also quasi noch in den Honig- wochen? Nun, dafür kann isch Ihnen einen Of- ferte für ausgezeichneten Waldhonig machen 
+(zeigt ein Muster)
+ nur 90 Cent das Pfund.
+
+        
+",51,hahn-jungi-madamme,38,2,0.0526315789473684,0.4656824669151803,0.3087282323962436,1.1020727197232838,0.2485396186429982,1.286831357896244,0.2138398970402741,0.3643149616385385,0.3553035879062555,0.0,0.389983017083562,1.3660723479904413
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+E heilig noch e mool! Deß esche Gschäftsmann.
+
+        
+",52,hahn-jungi-madamme,12,1,0.0833333333333333,0.4592072055102686,0.2642230324118899,0.7632105350649165,0.2209836249744279,0.8753007026687849,0.2062619486847473,0.1446779379556581,0.2967575504507386,0.0,0.3127034846328617,0.892999676910506
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Wisse Sie, — mit hann de Hunni schun lang satt.
+
+        
+",52,hahn-jungi-madamme,14,2,0.1428571428571428,0.4592072055102686,1.7763568394002506e-16,0.5211915553331187,0.2209836249744279,0.4647214925825563,0.2062619486847473,0.1446779379556581,0.2967575504507386,0.0,0.0,0.5540056664077475
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ja unseri Fraue gänn uns anders als Hunni ze schlecke.
+
+        
+",52,hahn-jungi-madamme,13,4,0.3076923076923077,0.4592072055102686,0.132111516205945,0.737624430064417,0.2209836249744279,0.7353136671539828,0.2062619486847473,0.2531863914224018,0.2967575504507386,0.0,0.1563517423164308,0.8326047139311713
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ei, da haben Sie wohl schon ein Haar in der Butter gefunden? — Na, da empfehle ich Ihnen die neueste Hausbuttermaschine 
+(zeigt einen Prospekt)
+, da kommt so etwas nicht vor. In einer Viertelstunde die feinste Tafelbutter.
+
+        
+",52,hahn-jungi-madamme,46,2,0.0434782608695652,0.3069837647104323,0.132111516205945,0.431512975994117,0.0,0.5533235836498496,8.881784197001253e-17,0.1085084534667436,0.0,0.0,0.1563517423164308,0.6423843820035617
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Unseri Wiebslitt solle uns numme sunsch ebs Guets uff d‘Tafel. bringe.
+
+        
+",53,hahn-jungi-madamme,16,1,0.0625,0.0,0.132111516205945,0.7793428133479334,0.0,1.1092131035309027,8.881784197001253e-17,0.8067210077145877,0.0,0.0,0.1563517423164308,1.1899770433789276
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ganz recht, sehen Sie, kaufen Sie Ihrer Frau Gemahlin die berühmte Kochkiste 
+(zeigt einen Prospekt)
+, die feinste Suppe, den schmackhaftetsten Braten, die leckerste Sauce er- reicht die Hausfrau, ohne Feuerung. —
+
+        
+",53,hahn-jungi-madamme,43,2,0.0465116279069767,0.0,0.132111516205945,0.9786334015195384,0.0,1.4193560519407915,8.881784197001253e-17,0.991012567591226,0.0,0.0,0.1563517423164308,1.5643976246702371
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(aufgebracht)
+
+          
+Ei heilig noch e mol! Gehn Sie doch uff Belzbummre mit Ihrer Kochkischt.
+
+        
+",53,hahn-jungi-madamme,20,2,0.1,0.0,0.132111516205945,1.2600883708278556,0.0,1.8386665164205296,8.881784197001253e-17,1.340118844715148,0.0,0.0,0.1563517423164308,2.020086622597989
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Doch, daß unseri Madamme noch meh füllenze könne!
+
+        
+",53,hahn-jungi-madamme,12,1,0.0833333333333333,0.0,1.7763568394002506e-16,1.0436554960965572,0.0,1.5680743418491034,8.881784197001253e-17,1.2316103912484049,0.0,0.0,0.0,1.741487575074565
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Es scheint, die Herren sind nicht gut gelaunt. Kosten Sie doch mal die Probe von dem köstlichen Champagner, Veux Cliquot, Imitation aber fein, die ich hier bei mir führe 
+(schenkte aus einem kleinen Fläschchen in ein Sektglas)
+. Wie das perlt und braust, einige Tropfen heben die Lebensgeister und die Stimmung, kosten Sie, ausgezeichnetes Fabrikat, nur 10 Frcs. die Flasche. 
+(Schaumwein ist leicht mit Brausepulver herzustellen. Anm. des Verf.)
+
+          
+
+		
+",54,hahn-jungi-madamme,89,10,0.1123595505617977,0.0481828455844873,0.1367729280603603,1.3169730716694883,0.0649349884496164,1.8272908964529129,0.0528006724262033,1.4035136814773883,0.0665747608852128,0.1136031395394114,0.2343543417914153,2.0559111868417297
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Wie denn, das werden Sie doch nischt verachten. —
+
+        
+",55,hahn-jungi-madamme,13,1,0.0769230769230769,0.0481828455844873,0.1367729280603603,0.7540631330528538,0.0649349884496164,0.9886699674934364,0.0528006724262033,0.7053011272295444,0.0665747608852128,0.1136031395394114,0.2343543417914153,1.1445331909862255
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Nan, awwer höre Sie, Sie sin e Al- lerweltsmensch un hänn fer alles e Mittele.
+
+        
+",55,hahn-jungi-madamme,21,1,0.0476190476190476,0.0481828455844873,0.1367729280603603,0.554772544881249,0.0649349884496164,0.6785270190835473,0.0528006724262033,0.521009567352906,0.0665747608852128,0.1136031395394114,0.2343543417914153,0.7701126096949162
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ja, isch bin Geschäftsmann, voilà tout.
+
+        
+",55,hahn-jungi-madamme,11,1,0.0909090909090909,0.0481828455844873,0.1367729280603603,0.6550111150345295,0.0649349884496164,0.5204268327170579,0.0528006724262033,0.6059371040959585,0.0665747608852128,0.1136031395394114,0.2343543417914153,0.7508317808553425
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ich glab, dü witt mit'm anbendle?
+
+        
+",55,hahn-jungi-madamme,11,1,0.0909090909090909,0.0481828455844873,0.1367729280603603,0.6550111150345295,0.0649349884496164,0.5204268327170579,0.0528006724262033,0.6059371040959585,0.0665747608852128,0.1136031395394114,0.2343543417914153,0.7508317808553425
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Weisch, ich mein er kennt uns vil- licht e Rot gänn.
+
+        
+",55,hahn-jungi-madamme,16,4,0.25,0.0,0.2301299495816424,0.6219877487711555,0.0,0.6706625227653109,8.881784197001253e-17,0.4340338138669745,0.0,0.0,0.34213942850696,0.8228343149692062
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(zuckt die Achseln)
+
+          
+Halt liewer ‘s Müll.
+
+        
+",55,hahn-jungi-madamme,12,3,0.25,0.1804973590211012,0.2301299495816424,0.7934890374520251,0.1119641454413454,0.81441361254026,8.881784197001253e-17,0.4340338138669745,0.0,0.0,0.34213942850696,0.9467943864767612
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons :
+
+          
+(schüttelt den Kopf)
+
+          
+Höre Sie, Herr Mayer, was däte Sie anfange mit re Frau, wo de ganze Morje spaziere geh, d'Mägd d’heim hüse loost, daß wenn d‘r Mann heim kummt, er Grum- beeresalat un Groschewürschtle vorgstellt krejt.
+
+        
+",56,hahn-jungi-madamme,51,5,0.0980392156862745,0.1927510627449316,0.2301299495816424,1.0657706823096214,0.1422759388634522,1.218828028335346,0.0227338450665801,0.6291192619431614,0.0,0.0,0.34213942850696,1.383483755991856
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(wird erregt)
+
+          
+Oder wo de ganze Samschdaa morje met Romanelese zuebringt, un wenn d‘r Mann heim kummt, soll‘r Südwasser fer Supp esse un als Gemues angebrennt Sürkrütt mit Peterle dran?
+
+        
+",56,hahn-jungi-madamme,37,4,0.1081081081081081,0.1927510627449316,0.2301299495816424,0.9421126274778644,0.1422759388634522,1.336675935892503,0.0227338450665801,0.4389422581714207,0.0,0.0,0.34213942850696,1.3763036139580058
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer :
+
+          
+(lächelnd)
+
+          
+Verzeihen Sie, aber wenn das meine Frau wäre, isch glaube, isch würde ihr nur ein ganz klein wenig 
+(macht eine bezeichnende Handbewegung)
+ — flattieren.
+
+        
+",57,hahn-jungi-madamme,35,8,0.2285714285714285,0.1927510627449316,0.2301299495816424,1.238617380255009,0.1422759388634522,1.6918468383818417,0.0227338450665801,0.6772253133576254,0.0,0.0,0.5242852231553284,1.8130057472299552
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Mit zwei Fischt möcht m'r jo als manchmol drin schlawe, ‘s esch wohr!
+
+        
+",57,hahn-jungi-madamme,17,2,0.1176470588235294,0.1927510627449316,1.7763568394002506e-16,0.9983231709454514,0.1422759388634522,1.2823945937297792,0.0227338450665801,0.6772253133576254,0.0,0.0,0.1821457946483684,1.4265796013489271
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Wenn Sie kein anders Mittel wisse?
+
+        
+",58,hahn-jungi-madamme,9,2,0.2222222222222222,0.0122537037238303,1.7763568394002506e-16,0.8268218822645818,0.0303117934221067,1.13864350395483,0.0227338450665801,0.6772253133576254,0.0,0.0,0.1821457946483684,1.302619529841372
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ich wüßte eines, wenn die Herren sich könnten für acht Tage frei machen?
+
+        
+",58,hahn-jungi-madamme,17,2,0.1176470588235294,0.0,1.7763568394002506e-16,0.5545402374069857,0.0,0.7342290881597441,8.881784197001253e-17,0.4821398652814384,0.0,0.0,0.1821457946483684,0.8659301603262772
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Wir haben hier ein famoses Reise- büreau, ich stehe damit in geschäftlicher Verbindung. Alfons und Ferdnand: Ehein! Hm!
+
+        
+",58,hahn-jungi-madamme,26,2,0.0769230769230769,0.0,1.7763568394002506e-16,0.6083336916717694,0.0,0.7399382912109289,8.881784197001253e-17,0.2382830551862047,0.0,0.0,0.5114672553356513,0.8625980024718368
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Lassen Sie sich einschreiben zur Teilnahme an der nächsten Reisegesellschaft, die nach Paris geht und Sie verleben dort 8 herrliche Tage für nur 500 Francs.
+
+          
+
+		
+",58,hahn-jungi-madamme,29,2,0.0689655172413793,0.0,1.7763568394002506e-16,0.3118289388946252,0.0,0.3847673887215906,8.881784197001253e-17,0.0,0.0,0.0,0.3293214606872829,0.4258958691998875
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ja und derno?
+
+        
+",59,hahn-jungi-madamme,6,1,0.1666666666666666,0.0,1.7763568394002506e-16,0.6935224783562232,0.0,0.6459776668348395,8.881784197001253e-17,0.4340338138669745,0.0,0.0,0.3293214606872829,0.8623040382880658
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Von Paris aus schreiben Sie an Ihre Frauen, daß Sie sich daselbst in das Dorado der Vergnüchungen gestürzt hätten, um sisch zu ent- schädischen für die Unannehmlischkeiten, die sie Ihnen bereitet hätten, und daß Sie nischt eher zu- rückkehren, als bis Ihnen das feierlichste Verspre- chen abgegeben wird, daß künftischhin von eigener geschulter Hand gekocht wird, und es überhaupt im Haushalt wie auf Schienen geht. —
+
+        
+",59,hahn-jungi-madamme,79,1,0.0126582278481012,0.5182345466629337,0.2986869062047451,1.331742363409097,0.0,1.3173849859104627,8.881784197001253e-17,0.4340338138669745,0.0,0.0,0.3293214606872829,1.4622307302377673
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+So viel isch die Weiber kenne, kri- chen sie‘s mit der Angst, und wenn Sie überdies das verfüschbare Geld mitnehmen, so werden Sie schon in den ersten Tagen mit Briefen, Bitten und Verspreschungen überhäuft.
+
+        
+",60,hahn-jungi-madamme,43,3,0.0697674418604651,0.5182345466629337,0.5102632806864336,1.628143372188075,0.0,1.4600346597200342,0.3013460920083416,0.4340338138669745,0.0,0.0,0.3293214606872829,1.5485632077275984
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja, awwer wenn sie no d‘Ver- spreche nit halte?
+
+        
+",60,hahn-jungi-madamme,15,2,0.1333333333333333,0.7392134485179203,0.5102632806864336,1.7171264160608732,0.1370752128504442,1.381863671817586,0.3013460920083416,0.6510507208004619,0.0,0.0,0.0,1.4926329813802666
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Keine Angst! Im Wiederholungs- falle hilft eine einfache Drohung und überhaupt müssen Sie im Briefe an Ihre Frauen die dortiche Vergnüchungen recht anschaulich beschreiben und die Übertreibungsfarbe dabei tüschtisch auftragen, das wirkt Wunder, sag isch Ihnen.
+
+        
+",61,hahn-jungi-madamme,43,6,0.1395348837209302,0.7392134485179203,0.6160514679272777,2.005834474455676,0.1370752128504442,1.6158282490817943,0.4520191380125125,0.805051226896832,0.0,0.15400050609637,0.0,1.7055558488567786
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons :
+
+          
+(freudig triumphierend)
+
+          
+Guet! Guet! Was saasch dü derzue?
+
+        
+",61,hahn-jungi-madamme,15,4,0.2666666666666666,0.7392134485179203,0.8154951820063008,1.8912359568887047,0.1370752128504442,1.664792835104242,0.4520191380125125,0.6604501309013358,0.0,0.15400050609637,0.1968908345388116,1.5719830152261889
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Sie werden wohl kaum einen bes- seren Auswesch finden, um die Frauen gründlich zu kurrieren. Ueberlechen Sie, aber rasch, denn Sie müßten eventuell noch heute mit dem Nacht- zuge reisen.
+
+        
+",61,hahn-jungi-madamme,39,4,0.1025641025641025,0.3272425127162902,0.697556753102474,1.7743735344306135,0.325739868351198,1.4533318057761118,0.6565951635403758,0.6604501309013358,0.2014733279107393,0.2379736151773791,0.1968908345388116,1.523671187981347
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Isch werde einstweilen den Nach- barhäusern meinen Besuch machen und in kurzer Zeit bin isch zurück und leche Ihnen das Reisepro- gramm vor.
+
+		  
+
+        
+",62,hahn-jungi-madamme,28,3,0.1071428571428571,0.3272425127162902,0.4859803786207857,1.61169804360474,0.325739868351198,1.4989409604965191,0.3552490715320341,0.6604501309013358,0.2014733279107393,0.2379736151773791,0.3971021296553096,1.634923141828283
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+‘s isch recht, Herr Mayer, mir sin's zefridde!
+
+        
+",62,hahn-jungi-madamme,14,3,0.2142857142857142,0.1266864504010208,0.4859803786207857,1.320641489426855,0.239184311204265,1.3609576717753118,0.3931388133096676,0.4434332239678484,0.2014733279107393,0.2379736151773791,0.3971021296553096,1.420469078761781
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Üßgezeichnet! Uff die Idee wärde mir nit kumme, heilig noch e mol, der Mensch hett ebs los! Ebs mueß gemacht wäre, un so e kleine Hochzittsreis entre nous deux, dü, deß wär nit so uewell — à
+
+        
+",62,hahn-jungi-madamme,46,8,0.1739130434782608,0.1266864504010208,0.6358225134527593,1.3415365302245463,0.239184311204265,1.467536358584096,0.2424657673054968,0.5525410733260265,0.2014733279107393,0.1820334502328117,0.5272573925456527,1.6379034224753517
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja, — awwer weisch — ä — ä —! Weisch d’r Kücksel — ich hab halt deß nixnutzig Wiewel doch leidsmäßig gern —
+
+        
+",63,hahn-jungi-madamme,27,3,0.1111111111111111,0.3071838094221221,0.5712863762532444,1.5253769803542794,0.3511484566456105,1.586353714543873,0.2424657673054968,0.6004610833660574,0.2014733279107393,0.2591738140359769,0.5479365803450488,1.876041482136361
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Geh, sey doch kein Narr!
+
+        
+",63,hahn-jungi-madamme,9,1,0.1111111111111111,1.0834372651979582,0.390537898952326,1.9367962064262396,0.9206890245876712,1.5349868352236904,0.8233155935919487,0.6004610833660574,0.4697298353989151,0.1752007049549678,0.5479365803450488,1.6727425306368005
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja un derno, — ich verschteh gar net, daß dü so glich derbi bisch fer so e Streich — m‘r sin doch kein jungi Buewe meh — so ebs käm doch erüß. üwerhaupt so e jungs Wiewel jaluse ze mache, ‘s isch doch im Grund e guets Kind —
+
+        
+",63,hahn-jungi-madamme,55,3,0.0545454545454545,1.0834372651979582,0.7479881984483925,2.255580966399441,0.9206890245876712,1.7187246658461677,0.8233155935919487,1.036563346136122,0.4697298353989151,0.2273828912114692,0.3477252852285507,2.137118684052677
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Eh bien, wenn dü nett witt, ze geh ich allein!
+
+        
+",64,hahn-jungi-madamme,15,3,0.2,1.0630144256582408,1.1630057051976004,2.54060964331735,0.8701693688841597,2.042152352731147,0.7854258518143152,1.433938827535392,0.4697298353989151,0.2273828912114692,0.7870890118865523,2.577997462011924
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Witt morje widder angebrennts Sürkrütt esse mit Peterle dran?
+
+        
+",64,hahn-jungi-madamme,12,1,0.0833333333333333,1.0630144256582408,0.9073753831247824,2.231006544124856,0.8701693688841597,1.7016090886581552,0.7854258518143152,1.1708304720808436,0.4697298353989151,0.1293225500596664,0.6569337489962092,2.147640250821841
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Jo, — jo — hesch jo e rächt, — awwer —
+
+        
+",64,hahn-jungi-madamme,15,1,0.0666666666666666,0.8825170666371396,0.7724678062452744,1.7800710721004953,0.7582052234428143,1.2726168685626813,0.7854258518143152,0.8334777441693344,0.4697298353989151,0.0521821862565013,0.4393637266580016,1.6066668557032435
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+So wurd's gemacht, wie's der Herr gsaat hett, un vun Paris üß schriewe m'r e Brief —
+
+        
+",64,hahn-jungi-madamme,23,2,0.0869565217391304,0.0306342593095759,0.7724678062452744,1.0119275263180607,0.0757794835552669,1.116957126282274,0.0568346126664501,0.8334777441693344,0.0,0.0521821862565013,0.4393637266580016,1.491618312177025
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Hör, m'r könnte die Sach jo au einfacher und billiger mache. Weisch wie?
+
+        
+",64,hahn-jungi-madamme,18,1,0.0555555555555555,0.0306342593095759,0.4150175067492079,0.5594172483917543,0.0757794835552669,0.7449604671298183,0.0568346126664501,0.3973754813992701,0.0,0.0,0.4393637266580016,0.8296577274243815
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Eh bien, m'r schriewe alli zwei e recht enragierter Brief, daß m‘r sie sitze lonn un uff Paris reise welle, fuer dort ze bliewe un daß sie no mit ihre Mägd un mit ihrem Kochgschirr an- fange könne, was sie welle —
+
+        
+",65,hahn-jungi-madamme,49,6,0.1224489795918367,0.0894766876397134,0.254795039656576,0.5553241639073665,0.1325125660058664,0.7043402539663635,0.1529614263469516,0.2324564298238545,0.0961019432875981,0.1241866306785088,0.1776013001283738,0.7319060031832312
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons :
+
+          
+(ungeduldig)
+
+          
+Un derno?
+
+          
+
+        
+",65,hahn-jungi-madamme,8,1,0.125,0.0894766876397134,0.254795039656576,0.5553241639073665,0.1325125660058664,0.7043402539663635,0.1529614263469516,0.2324564298238545,0.0961019432875981,0.1241866306785088,0.1776013001283738,0.7319060031832312
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+No mache m'r e Düür in d'Vogese un bliewe bis am Mondaa Midda, — bis dort anne henn unsri junge Madamme schun lang Mores krejt un sin froh, wenn sie uns widder sähn —
+
+        
+",65,hahn-jungi-madamme,39,5,0.1282051282051282,0.2766671853735833,0.5496052974810102,0.9365536821416612,0.1325125660058664,0.9552437290780762,0.3228010274851938,0.435308026563362,0.2698028386148047,0.2269864510481427,0.3272000411847674,1.0018909623477477
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Enfin, ich glaub deß zejt nit genüe -awwer - die Brief könne m‘r schun schriewe un ich fahr e mol schnell mit‘m vélo in‘s Gschäft, schrieb d‘r Brief dort 
+(sieht nach der Uhr)
+, schick de Brief in d’Wohnung un kumm widder häre, derwill‘sch isch där type do un dü?
+
+        
+",66,hahn-jungi-madamme,62,5,0.0806451612903225,0.2460329260640073,0.5496052974810102,0.7719205392573534,0.0567330824505995,0.702324060931173,0.2659664148187436,0.435308026563362,0.2698028386148047,0.2269864510481427,0.3272000411847674,0.768623592668667
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Guet — un ich will minnere au glich aane annepfeffere.
+
+        
+",66,hahn-jungi-madamme,13,1,0.0769230769230769,0.2460329260640073,0.5496052974810102,0.7719205392573534,0.0567330824505995,0.702324060931173,0.2659664148187436,0.435308026563362,0.2698028386148047,0.2269864510481427,0.3272000411847674,0.7686235926686669
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Eh bien. Einschtwiele! Adje! 
+(ab.)
+
+        
+",66,hahn-jungi-madamme,13,2,0.1538461538461538,0.1871904977338699,0.698596034287216,1.0703450942794726,0.0,1.0314276809489873,0.1698396011382422,0.5511146090871492,0.4398347484221192,0.1027998203696337,0.5782750930362375,0.9099116953811872
+comedy,Sälmel,F,,,,"
+          
+Sälmel :
+
+          
+(kommt mit Kehrutensilien im Arm. Sie sucht auf dem Büffet, nimmt einen Apfel und beißt daran herunter; spricht, indem sie immer ab- beißt und kaut)
+
+          
+Jetz möcht ich doch garn wisse, was die do d‘ganz Zit ze dischkeriere hann ghett? — Allewaj waje de junge Madamme. Diß isch aw- wer oeuj a z’Midda-esse gewann 
+(kichert)
+. Wann i numme wisse dat, ebb d’Madame ball kummt, — un i weiß au gar net — sinn die Harre alli zwei furt? — 
+(Horcht an den Türen)
+. M‘r hört gar nix — ich bin ganz allein Meister im Hüß 
+(kichert)
+, soll i jetz faje, — oder soll i net faje? 
+(Wirft den Apfelrest auf den Boden und wischt die Finger an einer Tischdecke ab; es klingelt, sie läuft hinaus und stolpert über den Besen.)
+ U, — wenn deß d‘Madame war!
+
+        
+",67,hahn-jungi-madamme,174,16,0.0919540229885057,0.1871904977338699,0.7945683495020418,1.5116499641639205,0.0,1.43382979108749,0.1698396011382422,0.9773684988506478,0.4782327529556676,0.1027998203696337,0.629412461326099,1.5288038682003535
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Also der Herr ist nicht hier?
+
+        
+",67,hahn-jungi-madamme,9,1,0.1111111111111111,0.0612685186191519,0.4997580916776078,1.4596867316982416,0.1515589671105338,1.6887656522695835,0.1136692253329003,0.7745169021111403,0.3045318576284611,0.0,0.4798137202697053,1.7253536483939989
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Na, isch kann ja einen Augenblick warten — aha da klingelt es!
+
+		  
+
+        
+",68,hahn-jungi-madamme,16,2,0.125,0.0612685186191519,0.4997580916776078,1.6505335014290403,0.1515589671105338,1.819370791326208,0.1136692253329003,0.9915338090446276,0.3045318576284611,0.0,0.4798137202697053,1.943557732938088
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Werde misch am besten etwas reti- rieren.
+
+        
+",68,hahn-jungi-madamme,11,1,0.0909090909090909,0.0612685186191519,0.4997580916776078,1.6505335014290403,0.1515589671105338,1.819370791326208,0.1136692253329003,0.9915338090446276,0.3045318576284611,0.0,0.4798137202697053,1.943557732938088
+comedy,Josefine Martel,F,,,,"
+          
+Josefine :
+
+          
+(im Hereinkommen)
+
+          
+Sälmel — jeses, do siehts jo noch net üß — wenn ich e mol verhi— 
+(sehr freundlich)
+ — ah, guete Daa im Herre —
+
+        
+",68,hahn-jungi-madamme,35,5,0.1428571428571428,0.1608138570626732,0.0959723152148261,1.2190596926809851,0.275799477210514,1.3358101548904122,0.283525418149354,0.7949118413855487,0.1849168886393379,0.0,0.0511373682898616,1.6165007981525576
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Ja, ja, merci! 
+(leise zu Sälmel)
+ Wer isch diß? 
+(Sälmel zuckt die Achsel und geht mit dem Besen ab.)
+
+        
+",68,hahn-jungi-madamme,30,2,0.0666666666666666,0.1608138570626732,2.664535259100376e-16,1.5411419017197328,0.275799477210514,1.455828600978407,0.283525418149354,1.236725579355999,0.1465188841057894,0.0,8.881784197001253e-17,1.870424963509748
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Hab isch die Ehre, die gnädige Frau?
+
+        
+",69,hahn-jungi-madamme,11,1,0.0909090909090909,0.0995453384435212,2.664535259100376e-16,1.961145761003192,0.1242405100999802,2.0438981476652267,0.1698561928164537,1.236725579355999,0.1465188841057894,0.0,1.0773151659692513,2.5475802581663367
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+(süßlich)
+: Naan, ich bin noch leddi, — awwer wenn ich e mol verhirot bin —
+
+        
+",69,hahn-jungi-madamme,22,1,0.0454545454545454,0.0995453384435212,0.4971749436552716,2.410600055070848,0.1242405100999802,2.476590545780316,0.2744805496462666,1.5855171941581403,0.1465188841057894,0.2025527548225178,1.5744901096245223,3.0793235633783467
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Sie möschten wohl gerne heiraten, wie?
+
+        
+",69,hahn-jungi-madamme,10,3,0.3,0.0995453384435212,0.4971749436552716,2.410600055070848,0.1242405100999802,2.476590545780316,0.2744805496462666,1.5855171941581403,0.1465188841057894,0.2025527548225178,1.5744901096245223,3.0793235633783467
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+O ja!
+
+        
+",69,hahn-jungi-madamme,5,1,0.2,0.0,0.4971749436552716,2.534651827235323,0.0,2.4408372544920858,0.104624356829813,1.8679099633365523,0.0,0.2025527548225178,1.5744901096245223,3.2028619310353847
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Na, vielleicht kann isch Ihnen be- hülflich sein —
+
+        
+",69,hahn-jungi-madamme,13,1,0.0769230769230769,0.0,0.4971749436552716,1.771264748312127,0.0,1.918416698265588,0.104624356829813,0.9998423356026032,0.0,0.2025527548225178,1.5744901096245223,2.330045592859028
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Meine Sie?
+
+        
+",69,hahn-jungi-madamme,5,1,0.2,0.0,0.4971749436552716,1.0219946032600538,0.0,0.8245078152849621,0.104624356829813,0.9998423356026032,0.0,0.2025527548225178,0.4971749436552713,1.1863555588442776
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Wie alt sind Sie, wenn isch fragen darf?
+
+        
+",69,hahn-jungi-madamme,12,1,0.0833333333333333,0.3618431174549335,2.664535259100376e-16,1.1108456824901196,0.6493498844961645,0.6503829361614553,0.5280067242620328,0.4340338138669745,0.6657476088521282,0.0,0.0,0.6954922139124052
+comedy,Josefine Martel,F,,,,"
+          
+Josefine :
+
+          
+(verlegen)
+
+          
+Ich bin 38 Johr alt gewese —
+
+        
+",69,hahn-jungi-madamme,12,1,0.0833333333333333,0.3618431174549335,2.664535259100376e-16,1.1108456824901196,0.6493498844961645,0.6503829361614553,0.5280067242620328,0.4340338138669745,0.6657476088521282,0.0,0.0,0.6954922139124052
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Na, — da sind Sie ja immer noch Jung —
+
+        
+",70,hahn-jungi-madamme,13,3,0.2307692307692307,0.4824574899399113,2.664535259100376e-16,1.099434037191895,0.865799845994886,0.6059669701020248,0.7040089656827104,0.1446779379556581,0.8876634784695042,0.0,0.0,0.4909147827950287
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Ja 
+(rasch)
+ nit wohr? — un wenn m'r e mol verhi—
+
+        
+",70,hahn-jungi-madamme,17,2,0.1176470588235294,0.4824574899399113,2.664535259100376e-16,1.2902808069226936,0.865799845994886,0.7365721091586492,0.7040089656827104,0.3616948448891454,0.8876634784695042,0.0,0.0,0.7091188673391178
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+O ja, Wie minni Schweschter bekumm i 5000 livres baar‘s Vermeje un e schoens trousseau, alles selwer ghäkelt un gschtickt, diß isch doch scheen, gelle Sie?
+
+          
+
+		
+",70,hahn-jungi-madamme,34,4,0.1176470588235294,0.4824574899399113,0.2093361222973428,1.612252333038462,0.865799845994886,1.067710210024521,0.7040089656827104,0.666524161303389,0.8876634784695042,0.1522154425851103,0.1222191079876253,1.0964650585107911
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ganz passabel, — Sie hatten ja auch Zeit dazu — und was stellen Sie für Ansprüche?
+
+        
+",70,hahn-jungi-madamme,20,5,0.25,0.1206143724849778,0.2093361222973428,1.0391551331709017,0.2164499614987215,0.8548367869629201,0.1760022414206776,0.8270475480274392,0.221915869617376,0.1522154425851103,0.1222191079876253,1.0744308800207232
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Grad. wie minni Schweschter, mein i, — e Köche un e femme de chambre. Nit — m'r will‘s doch au guet hann, wenn m‘r e mol —
+
+        
+",71,hahn-jungi-madamme,35,3,0.0857142857142857,0.1206143724849778,0.2093361222973428,1.1891380023567095,0.2164499614987215,1.1020916840508808,0.1760022414206776,0.8270475480274392,0.221915869617376,0.1522154425851103,0.3414372323370895,1.3396791768238574
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ja — ja — isch weiß — und son- stische Bedingungen stellen Sie keine?
+
+        
+",71,hahn-jungi-madamme,18,4,0.2222222222222222,0.0,0.3513400467216073,1.3281936246655093,0.0,1.3638215209708149,0.0,1.2012866686507877,0.0,0.2071023526996574,0.4812073871636689,1.824116027536919
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Ha jo, — nit — e gueter Charak- ter — so daß m‘r mi'tm mache kann, was m'r will — un er eim gewähre loßt, — un derno — daß‘r nit raucht bsunders kenn Cigarettle — denn deß kann i nit rieche — un wenn i e mol verhirot —
+
+        
+",71,hahn-jungi-madamme,56,3,0.0535714285714285,0.0,0.5170650279400311,1.3507805428675288,0.0,1.4209822276380946,0.0348747856099376,1.1728726022958436,0.0,0.2746199376404968,0.6469323683820927,1.8558944062448632
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Das Weib hat einen Sparren, das. steht bombenfest!
+
+        
+",72,hahn-jungi-madamme,13,1,0.0769230769230769,0.0,0.3077289056426885,1.592443830714488,0.0,1.9438998687558524,0.0348747856099376,1.1233312399027495,0.0,0.1224044950553863,1.2420724111938977,2.429292918421681
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Wie meine Sie?
+
+        
+",72,hahn-jungi-madamme,6,1,0.1666666666666666,0.0,0.3077289056426885,1.436388887553527,0.0,1.7676006337692471,0.0348747856099376,0.9628078531786992,0.0,0.1224044950553863,1.2420724111938977,2.1922430520875222
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Isch meine, Ihnen kann geholfen werden — Männer, wie Sie einen suchen, habe isch massenhaft auf Lager. Josefin: Isch's mejli? O, deß isch jo mag- nifique!
+
+        
+",72,hahn-jungi-madamme,38,3,0.0789473684210526,0.0,0.3077289056426885,1.2864060183677188,0.0,1.5203457366812865,0.0348747856099376,0.9628078531786992,0.0,0.1224044950553863,1.0228542868444337,1.926994755284388
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Gewiß! Wenn Sie mir Ihre werte Adresse angeben wollen, so werde ich Ihnen mor- chen einen bringen.
+
+        
+",72,hahn-jungi-madamme,23,1,0.0434782608695652,0.0,0.165724981218424,0.7770685018955463,0.0,1.041821587707534,0.0348747856099376,0.4438907945996925,0.0,0.0675175849408392,0.8830841320178541,1.2107271666005244
+comedy,Josefine Martel,F,,,,"
+          
+Josefine :
+
+          
+(sehr erfreut)
+
+          
+Morje schun?
+
+        
+",72,hahn-jungi-madamme,9,3,0.3333333333333333,0.1659088974058687,0.232737518082615,1.100963596446416,0.2070675168333003,1.376935145969406,0.2830936546940895,0.6187746010364136,0.2441981401763158,0.1829563670484904,0.936906791257619,1.5379293721995388
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ja, ja, Sie ihn sich mal ansehen, ob er Ihnen gefällt.
+
+        
+",73,hahn-jungi-madamme,17,2,0.1176470588235294,0.1659088974058687,0.232737518082615,1.300715861406884,0.2070675168333003,1.045299960212274,0.2830936546940895,1.2315542747492132,0.2441981401763158,0.1829563670484904,0.2195476404581886,1.4500010070274036
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+. O, diß wär jo zue nett. — Wisse Sie — am liebschte e chiker franzescher Offizier — je Vous serais bien obligée 
+(spricht aus: Che und oblichée.)
+ — Ich wohn in d‘r Langstroß mit minnere Mamme, un mini Schweschter, wo verhirot esch, wohnt a im Hüß — awwer wenn ich e mol verhirot bin —
+
+        
+",73,hahn-jungi-madamme,67,7,0.1044776119402985,0.1659088974058687,0.6346987938135336,1.7860543028263218,0.2070675168333003,1.5235240326158606,0.3428790014539826,1.681855704426933,0.2463799737480162,0.2987007983756435,0.665331703105547,2.0958598224938974
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+So weit sind wir noch nischt —
+
+        
+",73,hahn-jungi-madamme,9,1,0.1111111111111111,0.5277520148608023,0.6346987938135336,2.5152064458548438,0.8564174013294649,1.9126966906640668,0.8708857257160154,1.681855704426933,0.9121275826001444,0.2987007983756435,0.665331703105547,2.354943867318125
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+O, wenn Sie‘s anne bringe däte, un wenn ich e mol verhirot bin — un no trinke Sie bi uns d’r Kaffee — gelte Sie? Au revoir, en attendant.
+
+        
+",74,hahn-jungi-madamme,37,2,0.054054054054054,0.5277520148608023,0.8832862656411693,3.0678843249996364,0.856417401329465,2.485947077933262,0.923197904130922,1.9647599652947476,0.9121275826001444,0.3999771757869025,1.2018415993807097,3.0733437536961934
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ihr Diener — 
+(Josefine ab)
+ — Ist das ein verrücktes Huhn. nee, — das hab isch ge- merkt, — an dem Geschäft wär kein Profit zu machen — — aber 
+(sieht nach der Uhr)
+ wenn mein neuer Kunde — aha!
+
+          
+
+		
+",74,hahn-jungi-madamme,51,3,0.0588235294117647,0.3618431174549335,0.6505487475585546,2.530555542515948,0.6493498844961645,1.9630676739474855,0.6401042494368324,1.6012733182794832,0.6679294424238287,0.217020808738412,0.982293958922521,2.4961590848451456
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Nämme Sie e bissel Platz, Herr Mayer, minner Freind wurd a glich kumme.
+
+        
+",75,hahn-jungi-madamme,18,3,0.1666666666666666,0.3822659569946508,0.8295667469513248,1.9970457950657396,0.699869540199676,1.7421206740230422,0.6779939912144658,0.7332056905455344,0.6679294424238287,0.217020808738412,0.982293958922521,1.922454370402454
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Do, — m‘r hann mitnander üßge- macht, m'r welle glich e Brief schriewe un do ze- ruck lonn, daß unseri Fraue solle sehn, m‘r sinn durch d’Latte —
+
+        
+",75,hahn-jungi-madamme,37,5,0.1351351351351351,0.5858495670518471,0.6753892153128306,1.982828918570474,0.8636822218983264,1.7150815175703584,0.917112859812381,0.2829042608678143,0.7810699407972461,0.3682992008831435,0.7000829856046197,1.673494415576504
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Auch gut.
+
+        
+",76,hahn-jungi-madamme,5,1,0.2,0.2240064495969135,0.6753892153128306,1.2536767755419524,0.2143323374021618,1.325908859522152,0.3891061355503481,0.2829042608678143,0.1153223319451177,0.3682992008831435,0.7000829856046197,1.4144103707522766
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ich hab e ziemlich gsalzener Brief gschriewe — un — ich denk, d‘r Alfons, d'r Herr Müschler kummt a ball, denn sunsch steht uff ein mol mini Frau do, un no isch alles fütsch.
+
+        
+",76,hahn-jungi-madamme,41,3,0.073170731707317,0.2444292891366308,0.4268017434851948,0.9983909711922432,0.2648519931056731,1.200811894004051,0.374683698913075,0.2327375180826147,0.1153223319451177,0.2670228234718846,0.163573089329457,1.1553147294454298
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Gewiß! Si müssen sich in aller Stille drücken, — könnten wir ihm nicht entgegen gehen? 
+(es schellt)
+ — aha, — däs wird er wohl sein.
+
+        
+",76,hahn-jungi-madamme,34,4,0.1176470588235294,0.2444292891366308,0.4268017434851948,0.9983909711922432,0.2648519931056731,1.200811894004051,0.374683698913075,0.2327375180826147,0.1153223319451177,0.2670228234718846,0.163573089329457,1.1553147294454298
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Ja! — Will e mol glich sälwer sehn ob er‘s isch 
+(ab.)
+
+        
+",77,hahn-jungi-madamme,19,2,0.1052631578947368,0.2240064495969135,0.5066437618165403,1.1313174857297017,0.2143323374021618,1.3001461085073387,0.3367939571354416,0.449754425016102,0.1153223319451177,0.2670228234718846,0.163573089329457,1.4142444323454475
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons :
+
+          
+(für die Reise fertig)
+
+          
+So, Herr Mayer! Do bin i— Hänn‘r schun ebs üßgemacht? — Geh'sch mit?
+
+        
+",77,hahn-jungi-madamme,26,2,0.0769230769230769,0.0510570988492933,0.2588600177241157,0.8248290636898368,0.1262991392587781,1.1018808607033388,0.0947243544440836,0.449754425016102,0.0,0.0,0.0,1.2506129413839846
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+De Brief haw i gschriwe— er lejt dort drinne uff'm offene Secrétaire.
+
+        
+",77,hahn-jungi-madamme,17,2,0.1176470588235294,0.0510570988492933,0.2588600177241157,1.1062840329981545,0.1262991392587781,1.521191325183077,0.0947243544440836,0.798860702140024,0.0,0.0,0.0,1.7063019393117365
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Wenn Sie erlauben, so werde ich jetzt das Programm entwickeln, — also morgen —
+
+        
+",77,hahn-jungi-madamme,18,2,0.1111111111111111,0.0306342593095759,0.5830757193309756,1.2327058816365808,0.0757794835552669,1.6066114985152378,0.0568346126664501,0.5661231840574092,0.0,0.0,0.0,1.7553545295745068
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Still! — ‘s kummt ebber 
+(geht zur Türe und horcht.)
+ 
+(Alle drei ab nach hinten links.)
+
+		   
+
+        
+",78,hahn-jungi-madamme,25,1,0.04,0.0306342593095759,0.5830757193309756,1.2327058816365808,0.0757794835552669,1.6066114985152378,0.0568346126664501,0.5661231840574092,0.0,0.0,0.0,1.7553545295745068
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(schaut vorsichtig zur Tür herein)
+
+          
+Er isch nit do, Mamme, kumm numme!
+
+        
+",78,hahn-jungi-madamme,19,3,0.1578947368421052,0.0306342593095759,0.6529485150578204,1.1760055164843786,0.0757794835552669,1.6235557007635335,0.1763944711330219,0.4801981108902547,0.0050909450006342,0.0,0.4464977989332345,1.7230233425034602
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Na, do sieht's awwer nett drin, ich hab d‘r doch allewill gsaat, mach, daß de d'r salle à manger allewil schön proper hesch, wenn d'r Mann heim kummt. Amelie 
+(sieht verlegen zu Boden)
+.
+
+        
+",78,hahn-jungi-madamme,46,6,0.1304347826086956,0.0,0.8311094655059197,1.472164827383816,0.0,1.9251427351939132,0.1195598584665717,0.7987218828673858,0.0067976605016248,0.0341343100198126,0.8780897542218813,2.146730936091409
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Saa m‘r doch jetz fran- chement, was de gemacht hesch — hörsch? — Ich mein, de hesch m'r nit alles g'saat. — Was hesch denn g‘schafft hitt morje, hein, will's Esse nit guet worre isch?
+
+        
+",79,hahn-jungi-madamme,47,4,0.0851063829787234,0.0,0.8311094655059197,1.1907098580754985,0.0,1.5058322707141751,0.1195598584665717,0.4496156057434637,0.0067976605016248,0.0341343100198126,0.8780897542218813,1.6910419381636572
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo — i weiß jo, Mamme, daß i im Unrecht bin, awwer —
+
+        
+",79,hahn-jungi-madamme,18,1,0.0555555555555555,0.0,0.8944419520723443,1.1521497855753762,0.0,1.518619344468354,0.1195598584665717,0.8428911070424618,0.0220704955035277,0.0341343100198126,1.5491399421179874,1.9664108279123356
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Na, do muesch‘s dim Mann au ingschtehn.
+
+        
+",79,hahn-jungi-madamme,13,1,0.0769230769230769,0.0,0.8944419520723443,1.7340596947345133,0.0,2.3341853354712128,0.1195598584665717,1.4019717263487794,0.0220704955035277,0.0341343100198126,1.5491399421179874,2.83744185516327
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(weinerlich)
+
+          
+Ja, wie sall i denn diß mache? 
+(Fernand will von Zeit zu Zeit hereinkommen, wird aber jedesmal von Mayer oder Müschler zu- rückgehalten.)
+
+        
+",80,hahn-jungi-madamme,35,4,0.1142857142857142,0.0,0.5657091386213843,1.5233795987416696,0.0,1.981735931945888,0.0,1.3793883460491905,0.0169795505028934,0.0341343100198126,1.1026421431847528,2.420833757872679
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Weisch jetz was. Schick‘s Sälmel tripes hole, un alles was derzue ghört fer à la mode de Caen ze mache, — ich helf d’r a bissel — un no rischt‘sch e famos guets z'Nachtesse —
+
+        
+",80,hahn-jungi-madamme,43,1,0.0232558139534883,0.0,0.3875481881732849,1.0625871449579247,0.0,1.4272292293686046,0.0,1.0608645740720593,0.0152728350019028,0.0,0.671050187896106,1.7638587946056483
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja, un was soll i sawe, wenn'r kummt?
+
+        
+",80,hahn-jungi-madamme,13,1,0.0769230769230769,0.0,0.3875481881732849,1.4442806844195224,0.0,1.6884395074818537,0.0,1.4948983879390336,0.0152728350019028,0.0,0.671050187896106,2.200266963693827
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Ei, dü duesch ne frindli begrueße un mach‘sch, wie wenn nix wär g‘sinn, no macht's sich schun widder.
+
+        
+",81,hahn-jungi-madamme,26,2,0.0769230769230769,0.0,2.664535259100376e-16,1.565064035703821,0.0,1.8510568478780685,0.0,1.5542000788646348,0.0,0.0,0.3048051749183653,2.186345213484377
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Meinsch? Och, Mamme, meinsch er wurd widder guet? 
+(weint.)
+
+        
+",81,hahn-jungi-madamme,18,2,0.1111111111111111,0.0,0.1937740940866426,1.1757810520113774,0.0,1.3086711912939264,0.0,1.1917572102078164,0.0076364175009514,0.0,0.6403302688664183,1.7071770487747782
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Gäll, dumms Dippele jetz griensch, awwer wart numme, wenn noch e mol so ebs bassiert, no derf‘sch nim zue m‘r kumme, no kann‘sch zue din‘re famose Frinde gehn, wo d‘r so de Kopf verdrähjt hett.
+
+        
+",81,hahn-jungi-madamme,45,3,0.0666666666666666,0.0,0.3727920934794128,1.358098487195536,0.0,1.6344852885835028,0.0,1.0832487567410731,0.0076364175009514,0.0,0.8857885399855056,2.0779350526128644
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Jo, ‘s isch wohr, i hätt nit uffs Fanny höre solle —awwer i will m‘r sicher jetz e recht Muej genn un alles guet b‘sorje.
+
+		  
+
+        
+",82,hahn-jungi-madamme,31,5,0.1612903225806451,0.0,0.3727920934794128,1.358098487195536,0.0,1.6344852885835028,0.0,1.0832487567410731,0.0076364175009514,0.0,0.8857885399855056,2.0779350526128644
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Allewäj, diß isch doch sunsch e Schand, so e nett‘s Menägel, un wenn m'r noch e Maidl hett —
+
+        
+",82,hahn-jungi-madamme,26,3,0.1153846153846153,0.1175702856507548,0.518619082586766,1.3028589079261,0.2054982046643506,1.6906698716858135,0.0,0.8144150827082741,0.0076364175009514,0.0,1.0393680319902778,2.0885781299602297
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Hör — wenn i awwer im Fernand e Brief dät schriewe — un ‘s Sälmel dät‘s ins Gschäft trawe — weisch — no wenn'r kummt, isch'r schun besser uffgelaijt. un geht au liewer heim.
+
+        
+",82,hahn-jungi-madamme,40,2,0.05,0.1175702856507548,0.518619082586766,0.796821705708414,0.2054982046643506,0.9816918624521652,0.0,0.3618378904836746,0.0076364175009514,0.0,0.7345628570719125,1.318774155087009
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Hesch recht, sunsch kummt‘r am End gar nit, er denkt er kreijt widder nix, hein?
+
+        
+",83,hahn-jungi-madamme,22,1,0.0454545454545454,0.1175702856507548,0.3248449885001238,0.6041947802417202,0.2054982046643506,0.7085115280334486,0.0,0.1652001398341756,0.0,0.0,0.3990377631238594,0.9269112925456738
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+E bien, ja, ich schrieb‘m eins — e reeht frindli's —
+
+        
+",83,hahn-jungi-madamme,17,2,0.1176470588235294,0.1175702856507548,0.1458269891073536,0.7387436969138843,0.2054982046643506,0.7296806936380158,0.0,0.8347942389922623,0.0,0.0,0.1535794920047722,1.1211658599185967
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+So isch rächt, — geh — ich will im Sälmel sawe, daß es die tripes holt. 
+(Amalie ab nach links vorne.)
+
+        
+",83,hahn-jungi-madamme,30,1,0.0333333333333333,0.1175702856507548,0.1458269891073536,0.7387436969138843,0.2054982046643506,0.7296806936380158,0.0,0.8347942389922623,0.0,0.0,0.1535794920047722,1.1211658599185967
+comedy,Sälmel,F,,,,"
+          
+Sälmel:
+
+          
+d'Madame Müschler isch do.
+
+        
+",83,hahn-jungi-madamme,8,1,0.125,0.0,2.664535259100376e-16,0.4122897367217223,0.0,0.4122858324224559,0.0,0.6695940991580868,0.0,0.0,0.0,0.6741146134830528
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Sie soll numme erin kumme, die kummmt m'r grad e recht 
+(spricht leise mit Sälmel; Sälmel ab)
+.
+
+        
+",84,hahn-jungi-madamme,25,3,0.12,0.0,0.1790179993927704,0.6823945087909788,0.0,0.792401173714535,0.0,0.6695940991580868,0.0,0.0,0.2192181243494641,1.0829629542337975
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny :
+
+          
+(hat verweinte Augen und scheint sehr erregt)
+
+          
+Ah, Madame Liemann! Isch ‘s Amelie nit do?
+
+        
+",84,hahn-jungi-madamme,22,3,0.1363636363636363,0.1659088974058687,0.1790179993927704,0.9416054849387502,0.2070675168333003,1.0235429035618115,0.2830936546940895,0.6695940991580868,0.2441981401763158,0.0,0.2192181243494641,1.2640286845908328
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Ja, ich denk, nemme Sie e bissel Platz; Sie henn glauwi gegrinne?
+
+        
+",84,hahn-jungi-madamme,19,2,0.1052631578947368,0.1659088974058687,0.1790179993927704,0.720162517947827,0.2070675168333003,0.74186221019598,0.2830936546940895,0.2170169069334873,0.2441981401763158,0.0,0.2192181243494641,0.8081181556518688
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny :
+
+          
+(weinerlich, heftig)
+
+          
+Jo, denke Sie, die Unverschämtheit! Minner Mann isch uff Baris! 
+(Weint heftig)
+.
+
+        
+",84,hahn-jungi-madamme,26,5,0.1923076923076923,0.1659088974058687,0.1790179993927704,1.6396413316784126,0.2070675168333003,1.5835927869246271,0.2830936546940895,0.4684755416443196,0.2441981401763158,0.5942978164780833,0.2192181243494641,1.5094760882013234
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Ja, denke Sie numme, — ich bin hitt morje furt gsinn — un wie i am Midda heim kumm, isch min Mann schun widder los — ich hab m'r do nix derbi gedenkt, un wie i gemuetli minner Kaffe trink, kommt uff einmol der Brief. — Ich bin betroeje — betroeje! — o was bin ich ungluecklich 
+(schluchzt)
+.
+
+          
+
+		
+",85,hahn-jungi-madamme,70,8,0.1142857142857142,0.1659088974058687,0.2590191912343108,1.9164708778507429,0.2070675168333003,1.924984503176136,0.2830936546940895,0.7542462395221224,0.2441981401763158,0.6524694148140815,0.2659261372691439,1.8932088655867505
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Ja, — sehn Sie, deß kummt dervun, wenn m'r sin Sach nit b'sorjt, wie sich‘s ghört. So soll‘s denne junge Madamme alle gehn. — Zwei Mägd un doch nix gschafft, denn wo d'Frau fehlt, fehlt alles —
+
+        
+",85,hahn-jungi-madamme,51,6,0.1176470588235294,0.1659088974058687,0.1662878644162458,1.7673007211183016,0.2070675168333003,1.678471752152504,0.2830936546940895,0.8265852084999515,0.2441981401763158,0.6524694148140815,0.0467080129196797,1.670374300380566
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny :
+
+          
+(ärgelich)
+
+          
+Ich glaub, Sie welle m'r noch Lektione gänn?
+
+        
+",86,hahn-jungi-madamme,15,2,0.1333333333333333,0.0,0.4305108968281356,1.750108724702328,0.0,1.857909232391456,0.0,0.8265852084999515,0.0,0.6524694148140815,0.3594114975525415,1.8283025805262896
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Sie hänn sie au noeti. Ihri Mamme mueß Sie schlecht inschtruirt hann, wenn Sie bi re im Hüß wohne, un doch so mit'm Geld erumschmisse, wie wenn sie hunderttöjisig livres Rente ze verzehre hätte. Brüche Sie e Köche? Hee Ihri Mamme au e Köche ghett, wie sie als noch fer andri Litt gekocht hett? hein?
+
+        
+",86,hahn-jungi-madamme,68,5,0.0735294117647058,0.0,0.7405494473667632,1.867465035718239,0.0,2.164392628404778,0.0,0.9241887026056628,0.0122182680015222,0.6524694148140815,0.8962516478694263,2.237079076048336
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Deß brücht m‘r niemet‘s ze sawe, daß i höfli bin, awwer ehrli un recht- schaffe haw i min Sach gschafft mit mim Mann säli ün‘s zu ebbs gebroocht. — Mir wär minner Mann nit noch drei Monet uff un dervun gange — wie Ihrere, — awwer so mueB es kumme, 
+(mit Nachdruck)
+ er wurd jetz ball e andri hann! —
+
+        
+",87,hahn-jungi-madamme,74,6,0.081081081081081,0.0185083766665333,0.8300584470631482,1.560958616898479,0.011700697892636,2.2188813927555464,0.0099987781991616,1.226279448197356,0.0254081456259483,0.058171598335998,1.0758041755309682,2.509753717051596
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny :
+
+          
+(ängstlich)
+
+          
+Meine Sie, daß deß d'r Alfons macht? — Meine Sie? — Könnt so ehbs moejli sinn? Frau Liemann 
+(zuckt die Achseln)
+. 
+(Alfons macht es, wie vordem Fernand, wird aber auch immer zurückgehalten.)
+
+        
+",88,hahn-jungi-madamme,49,5,0.1020408163265306,0.0185083766665333,0.9136968337491648,1.9628568068574757,0.011700697892636,2.671960353937724,0.1422379383821171,0.9405087503195536,0.0254081456259483,0.0,1.5167844424806731,2.699986368240922
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Madame Liemann! Liewi Madame Liemann, lehne Sie m‘r 500 France!
+
+        
+",88,hahn-jungi-madamme,15,3,0.2,0.0185083766665333,1.0785163621429965,2.082100863406065,0.011700697892636,2.8181669951189185,0.1422379383821171,1.2236625586481815,0.0254081456259483,0.0,1.7859716631665687,2.9064923044832893
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Daß i mim Mann nochreise kann uff Baris.
+
+        
+",89,hahn-jungi-madamme,11,2,0.1818181818181818,0.0185083766665333,0.8142933297311069,2.4124918075621533,0.011700697892636,3.234681245013858,0.1422379383821171,1.8523091454252625,0.0254081456259483,0.0,1.473268178533707,3.4587028055337505
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Ja, hänn sie kein Geld?
+
+        
+",89,hahn-jungi-madamme,10,2,0.2,0.0185083766665333,0.5042547791924792,2.295135496546242,0.011700697892636,2.928197849000536,0.1422379383821171,1.7547056513195511,0.013189877624426,0.0,0.936428028216822,3.049926310011704
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny :
+
+          
+(schüttelt den Kopf)
+
+          
+Er hett gschri- we, daß‘r alles Geld mitgenumme het.
+
+        
+",89,hahn-jungi-madamme,19,1,0.0526315789473684,0.0,0.4147457794960941,1.6821631016354164,0.0,2.03197850792112,0.1322391601829554,1.2011562710170254,0.0,0.0,0.7568755005552802,2.0758937364589896
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+So isch recht! Un Ihri Mamme?
+
+        
+",89,hahn-jungi-madamme,11,2,0.1818181818181818,0.0,0.4448802950551796,1.1960622909707836,0.0,1.510688164906151,0.0,1.3977940216665243,0.0076364175009514,0.0,0.6047123146339486,1.8937911704255712
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Hab ne uffgekuennt alle zwei Maidle — 
+{weinend)
+ i wott jo alles ganz allein schaffe, wen numme d‘r Alfons noch do wär! 
+(Schluchzt heftig)
+
+        
+",89,hahn-jungi-madamme,32,5,0.15625,0.0,0.1937740940866426,1.3838666777644295,0.0,1.525547787280063,0.0,1.1160178683107227,0.2363744243039014,0.1485744541195207,0.3355250939480528,1.7581923353669429
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Hänn m'r sie so witt, die Junge Madamme? DeB haw i gedenkt, daß es do noch andersch kummt. Jetz mueß i awwer noch'm Ameli lueje, deß kummt jo gar nit. 
+(ab)
+.
+
+        
+",90,hahn-jungi-madamme,44,2,0.0454545454545454,0.0,0.1937740940866426,0.8114567538765435,0.0,0.698454327298895,0.0,0.4873712815336416,0.2363744243039014,0.1485744541195207,0.3355250939480528,0.8669878238137235
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann :
+
+          
+(ruft von innen)
+
+          
+Hilf! Hilf! Madame Müschler!
+
+        
+",90,hahn-jungi-madamme,15,1,0.0666666666666666,0.0,0.1937740940866426,0.6206099841457446,0.0,0.5678491882422706,0.0,0.2703543746001544,0.2363744243039014,0.1485744541195207,0.3355250939480528,0.6487837392696344
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Jesses, was isch do bassiert? 
+(ab)
+. 
+(Sie bringen Amelie, die ohnmächtig ist)
+.
+
+        
+",90,hahn-jungi-madamme,23,2,0.0869565217391304,0.0,0.1937740940866426,1.20139007954386,0.0,1.1001245723763673,0.2693287914923127,0.6494569863215615,0.4654953630378831,0.4676843966459577,0.3355250939480528,1.3718868690345407
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Schnell Essig! — Wärd numme ‘s Sälmel do — 
+(Fernand will wieder vorkommen wie oben)
+.
+
+        
+",91,hahn-jungi-madamme,22,1,0.0454545454545454,0.0,2.664535259100376e-16,1.008763154077166,0.0,0.8269442379576507,0.2693287914923127,0.4528192356720623,0.4578589455369316,0.4676843966459577,0.0,0.9800240064932056
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Wie isch diß kumme?
+
+        
+",91,hahn-jungi-madamme,7,1,0.1428571428571428,0.0,0.5370539981783107,0.941145804048461,0.0,0.9308567167464522,0.2693287914923127,0.379102611721407,0.2291209387339817,0.3191099425264369,0.0,1.1539032616077385
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Ich weiß nit — ich will lueje, ob i eau de Cologne find im Schlofzimmer 
+(ab)
+. 
+(Fernand ringt heftig mit den beiden andern, wird aber immer noch, besonders von Mayer, zu- rückgehalten.)
+
+        
+",91,hahn-jungi-madamme,46,2,0.0434782608695652,0.3596314759449589,0.5370539981783107,1.8891102729728977,0.3586795753997152,1.5887685039415715,0.6591547293452946,0.379102611721407,0.2291209387339817,0.690546077825239,0.0,1.4369029331571057
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Herrje, so ebs 
+(ruft der Kranken)
+, Amelie! — Großer Gott! — Frau Liemann 
+(kommt zurück)
+.
+
+        
+",92,hahn-jungi-madamme,26,2,0.0769230769230769,0.3596314759449589,0.8263279113114665,2.198705080830284,0.3586795753997152,2.1183071135200344,0.7153360265240479,0.7048346006833284,0.2291209387339817,0.690546077825239,0.3687644719073492,1.889939350832585
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Ja, un do, der Brief isch
+
+        
+",92,hahn-jungi-madamme,11,1,0.0909090909090909,0.3596314759449589,0.8263279113114665,1.999618524893766,0.3586795753997152,1.8472420074991869,0.4460072350317352,0.7597658028288958,0.0,0.3714361352988021,0.3687644719073492,1.6032443901558573
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny :
+
+          
+(neugierig)
+
+          
+Der Brief? Soll i lese? 
+(liest)
+ Uh! Denke Sie! Im Amelie sin Mann isch uff Baris!
+
+        
+",92,hahn-jungi-madamme,28,3,0.1071428571428571,0.3596314759449589,1.0956567028037791,2.6365130948401734,0.3586795753997152,2.6041444504736573,0.4460072350317352,1.1788635273469494,0.0,0.3714361352988021,0.3687644719073492,2.4675604825303865
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Do könne Sie's sehn —
+
+        
+",92,hahn-jungi-madamme,8,1,0.125,0.3596314759449589,1.0763227400737,2.6200615387491206,0.3586795753997152,2.745968381358736,0.4460072350317352,1.1788635273469494,0.0,0.3714361352988021,0.3687644719073492,2.71643483486674
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Och, arm‘s Kind — un ‘s hett doch alles widder welle guet mache.
+
+        
+",92,hahn-jungi-madamme,19,3,0.1578947368421052,0.0,1.274681008299945,1.9819031459201784,0.0,2.301773188412993,0.0561812971787534,1.364332559335655,0.2047893575122584,0.0,0.3687644719073492,2.83323292134281
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Un ich doch aa — ‘s isch wohr! — Och Gott! Och Gott! — Wenn‘s numme zue sich käm — soll i d‘r Docter hole?
+
+		  
+
+        
+",93,hahn-jungi-madamme,32,4,0.125,0.0,1.5639549214331008,2.291497953777564,0.0,2.8313117979914564,0.1123625943575068,1.6900645482975762,0.2047893575122584,0.0,0.7375289438146987,3.286269339018289
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Sehn Sie, do sinn Sie dran schuld, gehn Sie numme zum Docter. 
+(Fernand reißt sich los.)
+
+        
+",93,hahn-jungi-madamme,25,4,0.16,0.0,1.8533873139782395,2.167813697991108,0.0,2.909136968736687,0.1123625943575068,1.404740383330923,0.2047893575122584,0.1163431966719961,0.8309449696540584,3.232541047697107
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Zuem nächste, beschte, ich laaf, was i kann. O jerum, nein, was isch deß e Kriz! 
+(wil] gehen.)
+
+        
+",93,hahn-jungi-madamme,31,2,0.064516129032258,0.0,1.9133799831732092,1.7259515066579916,0.0,2.526557241090751,0.1123625943575068,0.9856426588128696,0.2047893575122584,0.1163431966719961,0.8309449696540584,2.734471120260006
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand :
+
+          
+(kommt leise hervor und hält Fanny zurück)
+
+          
+Nan — bliewe Sie numme do — Frau Liemann und Fanny schreien auf: Dü bisch do, Fernand?
+
+        
+",94,hahn-jungi-madamme,31,2,0.064516129032258,0.3633060412946,1.3956599477249785,1.868519579017006,0.2199214068152687,2.26786962075606,0.4503601402591776,0.9856426588128696,0.5680364660351716,0.5396494121675975,0.8309449696540584,2.2320363366002827
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Wie de sieh‘sch, Mamme. Ich hab welle im Amelie e Leetion gänn 
+(ruft der Kranken)
+. Amelie! — Kind! — Ich bin doo, d'r Fernand!
+
+        
+",94,hahn-jungi-madamme,35,4,0.1142857142857142,0.3633060412946,1.5750689439176833,1.9105929512320443,0.2199214068152687,2.5076240421538114,0.4503601402591776,1.0375942761404429,0.3670653172733889,0.5396494121675975,1.1550592589445157,2.4272028480997587
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie :
+
+          
+(wacht auf)
+
+          
+D‘r — Fernand? — Ja — geh'sch nit — uff — Baris? —
+
+        
+",94,hahn-jungi-madamme,21,3,0.1428571428571428,0.3633060412946,0.9965211176513716,1.6062711615433507,0.2199214068152687,1.8151572253544603,0.3379975459016708,0.763545754254873,0.3670653172733889,0.5396494121675975,0.4175303151298169,1.970392067730027
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Naan — naan — isch's dr jetz widder guet?
+
+        
+",95,hahn-jungi-madamme,13,1,0.0769230769230769,0.3633060412946,0.7070887251062332,1.3482618778682092,0.2199214068152687,1.476121776495981,0.3379975459016708,0.6148361053545515,0.3670653172733889,0.4233062154956012,0.3241142892904572,1.587712189963031
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja — oh ja — 
+(umschlingt mit beiden Armen seinen Hals)
+. Gäll dü blie‘sch do?
+
+        
+",95,hahn-jungi-madamme,21,3,0.1428571428571428,0.3633060412946,0.3777672644189502,1.662154218537049,0.2199214068152687,1.4500794319851118,0.3379975459016708,1.1935478571771845,0.3670653172733889,0.4233062154956012,0.3241142892904572,1.80334358380984
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Witt m'r denn alle Daa ebs guets koche?
+
+        
+",95,hahn-jungi-madamme,11,1,0.0909090909090909,0.0,0.3777672644189502,1.1756719936187414,0.0,1.168361788822369,0.0,1.1935478571771845,0.0038182087504757,0.0,0.3241142892904572,1.6261038832903776
+comedy,Amalie Schneider,F,,,,"
+          
+Amelie:
+
+          
+Ja, o ja! ich will alles mache, was de witt, blie numme do! 
+(Kuß, Umarmung.)
+ Fanny 
+(weint heftig)
+.
+
+        
+",95,hahn-jungi-madamme,32,4,0.125,0.0,0.1968908345388118,1.5684111169768662,0.0,1.294049597085396,0.0,1.6052936458322136,0.024890575517062,0.2852803697176493,0.1805366687910485,1.872153513592524
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+Ja awwer um's Härel wär i furt g‘sinn, luej, ich bin schun geruescht und do sie‘sch, diß isch d'r Agent vum Reisebureau üß d'r Blöi- wolkegaß, wenn de m‘r nit verschprich‘sch —
+
+        
+",96,hahn-jungi-madamme,40,2,0.05,0.0,0.4733894538807902,1.732725570219242,0.0,1.4468139981858257,0.0,1.4448950967274283,0.024890575517062,0.2852803697176493,0.6007010508832149,2.059126879290451
+comedy,Fanny Müschler,F,,,,"
+          
+Fanny:
+
+          
+Alles, was di witt 
+(hält ihn krampf- haft um den Hals fest)
+ — awwer blie numme doo. De Maidle haw i alli zwei uffgekuennt. 
+(Kuß, Um- armung)
+.
+
+        
+",96,hahn-jungi-madamme,40,3,0.075,0.0,0.7525042836105804,2.070192810156249,0.0,1.7528047191100196,0.0,1.810922101977205,0.024890575517062,0.5146140484133154,0.8232270508049837,2.465683259959011
+comedy,Frau Liemann,F,,,,"
+          
+Frau Liemann:
+
+          
+Gottlowedank. ze isch doch widder alles guet. Jetz seije numme recht flissig, ihr jungi Madämle. Deile ejri Zitt guet in, 
+ no koenne ihr alles guet b’sorje un derbi zue Ab- wechslung au lese oder schpaziere gehn. Wenn ihr ejier Sach gschafft hann, hänn eijeri Männer gar nix dergeje, gelte nit? 
+(Küßt Amelie und reicht Müschlers die Hand.)
+
+        
+",97,hahn-jungi-madamme,73,9,0.1232876712328767,0.0,0.8572541758914454,1.6923859240999874,0.0,1.5713181993040273,0.0,1.2675287810964728,0.024890575517062,0.5320081104988158,0.8872098117933229,2.085455300593537
+comedy,Alfons Müschler,M,,,,"
+          
+Alfons:
+
+          
+(Verlegen zu Mayer)
+
+          
+Ja, - Herr Mayer -
+
+        
+",97,hahn-jungi-madamme,13,3,0.2307692307692307,0.0204228395397173,0.8572541758914454,1.9293725325100584,0.0505196557035112,1.827001404106379,0.0378897417776334,1.412206719052131,0.024890575517062,0.5320081104988158,0.8872098117933229,2.386436270075651
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Es duet uns leid.
+
+        
+",98,hahn-jungi-madamme,7,1,0.1428571428571428,0.0204228395397173,0.6603633413526337,1.1847539608414004,0.0505196557035112,1.2478425801962234,0.0378897417776334,0.7630402810808226,0.0,0.2467277407811664,0.7066731430022742,1.5454223702485914
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Ja, isch sehe, es ist nischt zu machen und bleibt mir nur noch eine Offerte übrig. Hier 
+(zieht aus der Tasche zwei Haushaltungsschürzen)
+ die schönste Zierde des weiblichen Geschlechts, gut waschecht, schützt die Kleider, das Stück 20 Frcs. Da neueste elsässische Kochbuch gebe ich gratis dazu.
+
+        
+",98,hahn-jungi-madamme,58,4,0.0689655172413793,0.0204228395397173,0.3838647220106555,0.9327203115209296,0.0505196557035112,0.9439858436536482,0.0378897417776334,0.6545318276140788,0.0,0.2467277407811664,0.4760600667708113,1.2615502297772152
+comedy,Fernand Schneider,M,,,,"
+          
+Fernand:
+
+          
+Un glich angedohn. 
+(Die Herren ziehen den Damen die Schürzen an und geben jeder das Kochbuch)
+.
+
+        
+",98,hahn-jungi-madamme,22,3,0.1363636363636363,0.0323763070245584,0.1047498922808653,0.7830727093701734,0.1377799683428516,0.8464494864936117,0.0378897417776334,0.2885048223643021,0.0,0.0173940620855003,0.3906004940085544,1.1236096979522718
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Ah — do sin jo die Herre — ich hab gemeint 
+(zu Alfons)
+ sie sin uff Baris, hett d‘Mamme g'saat — ah — 
+(zu Mayer, freundlich)
+ un Sie sinn au widder do?
+
+        
+",99,hahn-jungi-madamme,42,4,0.0952380952380952,0.0323763070245584,0.0968870470433214,0.8889958235318108,0.1377799683428516,1.0259010349311664,0.0378897417776334,0.5260584053091124,0.0038182087504757,0.0,0.4943802799942417,1.345736028768051
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Diener! Habe dem Fräulein ver- sprochen 
+(unter Verbeugungen)
+ einen Mann zu versorgen, der sie in allem gewähren läßt —
+
+        
+",99,hahn-jungi-madamme,26,5,0.1923076923076923,0.0119534674848411,0.3155918082537252,1.1306691642513784,0.0872603126393403,1.3719885363248512,0.0,0.6572823594100997,0.1005723433244913,0.0,0.7771388872694486,1.7191867820572568
+comedy,Josefine Martel,F,,,,"
+          
+Josefine:
+
+          
+Ja, ja —‘s isch superb — morje, gelte Sie? Denk e mol, Fanny, wo net raucht un net trinkt!
+
+        
+",100,hahn-jungi-madamme,28,4,0.1428571428571428,0.0119534674848411,0.3155918082537252,1.628626377335759,0.0872603126393403,1.7789996237797694,0.0,1.0913161732770742,0.1005723433244913,0.0,0.921100099493212,2.327308046895445
+comedy,Mayer,M,insurance_agent,intermediate_professionals,,"
+          
+Mayer:
+
+          
+Habe zufällig einen bei mir, hier — lasse ihn Ihnen zu 1,50 Francs. 
+(Er zieht einen Hampelmann heraus und läßt ihn strampeln.)
+ Josefine 
+(schreit auf und geht ab. Unter allgemeinem Lachen der Spieler fällt der Vorhang)
+. 
+— Schluß —
+
+        
+",100,hahn-jungi-madamme,49,5,0.1020408163265306,0.0998096966112423,0.4950592399305933,1.5226550925128877,0.1719671276412976,1.640154180390277,0.1435246574210388,0.9828077198103308,0.2440598673538708,0.0837762709228202,0.7833722482988019,2.0458682760504487

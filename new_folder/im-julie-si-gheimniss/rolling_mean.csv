@@ -1,0 +1,4621 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ich bi noch ganz verwundert un iwerrascht!... grad kunnt
+                        's Emma, mi güete Frindin, vo Strossburg do züe mr, als
+                        Herr ag'Iegt, un sàit mr, ass es furtg'loffe seig vo
+                        d'heim!... 's thüet sich jetz grad changiere dert
+(se
+                        zeigt ufs Zimmer links)
+, die Mannerkleider hàn's e
+                        wenig g' geniert... tiens, do isch's jo scho!...
+                       
+(d'Thüre links geht uf, 's Emma kunnt ine; 's Julie
+                        geht em ergege)
+ Kumm g'schwind un verzähl mr... ich bi
+                        wunderfitzig, was das eigentlig fir e
+                        G'schichte-n-isch!... vor allem sag mr... hat Di Nieme
+                        g'sàh do ane ku!...
+
+        
+",1,lustig-im-julie-si-gheimniss,126,11,0.0873015873015873,,,,,,,,,,,
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Kei Mensch?... worum hasch Dü-n-eso Angst?
+
+        
+",2,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,,,,,,,,,,,
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+D'Lit hàn gar böse Miler!... wenn ebber g'sàh hätt e
+                        junger Mensch züe mir ku, so kännte se Sache denke...
+                        De weisch, z'Milhüse thüet me-n-eim ewe nitt
+                        verschone...
+
+        
+",2,lustig-im-julie-si-gheimniss,40,3,0.075,,,,,,,,,,,
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Die Fraü dunte nimmt ne in Empfang, wenn er akunnt...
+                        ich ha mit ere g'redt vorig... un züedem
+ De brüchsch ne
+                        jo nitt glich... mine Räck gehn Dr jo pràchtig, wie-n-i
+                        sieh...
+
+        
+",2,lustig-im-julie-si-gheimniss,42,2,0.0476190476190476,,,,,,,,,,,
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Uf jedefall thüesch Dü mr è famoser Dienst leiste, ass
+                        De mich züe Dir nimmsch, denn ich hätt sunscht sicher
+                        nitt g'wisst wo ane!
+
+        
+",3,lustig-im-julie-si-gheimniss,29,2,0.0689655172413793,0.2817523599760262,0.6549023637361915,1.9247721881398472,0.2517211232211445,1.6606484398245116,1.1921744623779411,0.4317891374450857,0.219199945176629,0.0,0.4777955981393235,1.4371105995324915
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Eh, das isch jo ganz natirlig!... mr sin jo allewil
+                        güete Frindine gsi in Strossburg, wo-n-ich noch
+                        Ladejumpfre gsi bi, grad newe-n-eürem Hüs... awer sag
+                        mr, was kunnt Dir i, im eso ne G'wand furtz'laüfe vo
+                        d'heim?
+
+        
+",3,lustig-im-julie-si-gheimniss,53,6,0.1132075471698113,0.2494084781547959,0.7849526976794109,2.0405523174261453,0.2444621435961956,1.8084435660473,1.154804514603941,0.5102435852066387,0.219199945176629,0.0,0.7036734288663784,1.6261048286693485
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Was witt halt... ich bi kei Fraü wie ne andere... 's
+                        mànnlige G'schlecht wàr mir viel besser gange!
+
+        
+",4,lustig-im-julie-si-gheimniss,23,1,0.0434782608695652,0.2494084781547959,0.1300503339432193,1.1230882492442578,0.2444621435961956,1.3668932805159135,0.2220336963006555,0.5102435852066387,0.219199945176629,0.0,0.7036734288663784,1.3588758258385745
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ich glaüb's erst noch... Die Mannerkleider sin Dr gar
+                        nitt schlecht ag'stande.
+
+        
+",4,lustig-im-julie-si-gheimniss,17,2,0.1176470588235294,0.0,0.1300503339432193,1.2074800198129163,0.0,1.324274542211424,0.3180922551574038,0.5102435852066387,0.2977185776576527,0.0,0.7036734288663784,1.3699449689094363
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Un was mir noch besser geht, das isch d'Freiheit, un in
+                        Strossburg ha-n-ich se nitt g'ha... Mi Vater hat mich
+                        welle verhirothe mit eme-n-Alte, wider mi Wille,un do
+                        ha-n-i mi halt dervo g'macht in Mannerkleider, fir
+                        sicherer z'reise un fir ass me mi Spür sott verliere...
+
+        
+",4,lustig-im-julie-si-gheimniss,64,10,0.15625,0.1294013630635046,0.1300503339432193,1.0518579717309184,0.0,0.9984541237255647,0.4585653926006735,0.5102435852066387,0.2977185776576527,0.0,0.2258778307270549,0.9957138966625496
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Das isch alles recht, awer was witt jetz mache?
+
+        
+",5,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.1294013630635046,0.1300503339432193,0.7799069901794491,0.0,0.593302661414192,0.4585653926006735,0.1729257010600314,0.2977185776576527,0.0,0.2258778307270549,0.5554123074839801
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Oh, ich ka schaffe!... ich ha lehre nàie un ka ins
+                        beste-n-Atelier geh... ich will mich scho dureschla...
+
+        
+",5,lustig-im-julie-si-gheimniss,27,1,0.037037037037037,0.1294013630635046,0.0,0.5259119768085272,0.0,0.2637868761678968,0.4585653926006735,0.0,0.2977185776576527,0.0,0.0,0.1745745308833423
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Los, Emma, Dü sàisch mr nitt alles... wenn Dü dr Mann
+                        refüsiert hasch, wo Dir Di Vater hat welle
+ gà, so wird
+                        wohrschinlig e-n-anderer im Spiel si, wo Dü gern hasch!
+
+        
+",5,lustig-im-julie-si-gheimniss,42,6,0.1428571428571428,0.1294013630635046,0.1729794829528214,0.714721212675623,0.0,0.4946194618330602,0.4585653926006735,0.1873513518054592,0.2977185776576527,0.117501402665273,0.1558236820586411,0.4409940132383816
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+'s isch wohr... ich ha ne junger Mensch gern.. dr Herr
+                        Adolph... er reist mit Singer...
+
+        
+",6,lustig-im-julie-si-gheimniss,22,4,0.1818181818181818,0.1374711861571978,0.2529165381949368,0.4858709524283499,0.0199621939686094,0.5383317088635851,0.1554447829197268,0.3015173288744857,0.0,0.1632095360804774,0.2847408807583929,0.5860619855700282
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Eh nei... er reist mit Singer, mit Nàihmaschine,
+                        wo-n-eso heisse!... er hat mir eine verkaüft in
+                        Strossburg un hat mich lehre nàie druf un do hat sich
+                        das Ding halt eso nooch un nooch...
+
+        
+",6,lustig-im-julie-si-gheimniss,44,4,0.0909090909090909,0.0080698230936931,0.4479920391097657,0.4995315756423659,0.0199621939686094,0.6390718422281078,0.014971645476457,0.4697688759670205,0.0,0.1632095360804774,0.4918414250751576,0.7428069529293622
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ig'fàdelt!... güet, ich verstand's...
+
+        
+",6,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.0080698230936931,0.4479920391097657,0.4995315756423659,0.0199621939686094,0.6390718422281078,0.014971645476457,0.4697688759670205,0.0,0.1632095360804774,0.4918414250751576,0.7428069529293622
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Unglickligerwis isch er derno furt uf Milhüse, un
+                        obschon mir uns Treüe g'schwore hàn bis ins Grab, so
+                        ha-n-ich allewil Angst, ass er mich vergesse hat...
+
+        
+",7,lustig-im-julie-si-gheimniss,34,5,0.1470588235294117,0.0080698230936931,0.578972511857004,1.0009522975167005,0.0199621939686094,1.0850147618880153,0.3492678317804703,0.6046960296256635,0.1684740039463595,0.1632095360804774,0.5972143864942118,1.1536763219203514
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+'s isch halt alles möglig uf dr Welt... 's beste wird
+                        si, Dü machsch's as wie er.
+
+        
+",7,lustig-im-julie-si-gheimniss,23,2,0.0869565217391304,0.0080698230936931,0.4059930289041826,1.084094043201074,0.0199621939686094,1.2593336385342244,0.3492678317804703,0.7546625619668114,0.1684740039463595,0.0457081334152043,0.4413907044355706,1.3275584287438815
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Das isch glich gsàit... à propos, weisch Dü, ass De ne
+                        schöne Wohnung hasch do? wieviel Zimmer sin's?
+
+        
+",7,lustig-im-julie-si-gheimniss,26,1,0.0384615384615384,0.0,0.3260559736620673,0.9505404445143236,0.0,1.0752856503362254,0.3342961863040132,0.6404965848977849,0.1684740039463595,0.0,0.3124735057358189,1.1052115546034114
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Un do si mr im Salon... das isch jo pràchtig... awer sag
+                        mr, was tribsch Dü jetz eigentlig... uf eimol bisch vo
+                        Strossburg verschwunde un hasch mir im e ziemlig
+                        verwickelte Brief hinterlo, Dü giengsch Dich 
+ geh
+                        etabliere z'Milhüse... schint's Di G'schàft müess nitt
+                        iwel marschiere!
+
+        
+",8,lustig-im-julie-si-gheimniss,57,5,0.087719298245614,0.035752517935047,0.1309804727472382,0.9580398424179744,0.0,1.1228502357534027,0.3342961863040132,0.607172191463893,0.1684740039463595,0.0,0.1053729614190542,1.17808251773852
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Los, Emma, Dir derf ich's wohl sage... ich bi
+                        g'hirothe!
+
+        
+",8,lustig-im-julie-si-gheimniss,17,2,0.1176470588235294,0.035752517935047,0.4900448111214716,1.344097252337654,0.0,1.580502633463333,0.3342961863040132,0.940894292742218,0.1684740039463595,0.2610879411654105,0.3150096101954739,1.6555440287366543
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ich ha nitt känne... 's isch e G'heimniss.
+
+        
+",8,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.035752517935047,0.3590643383742333,0.8426765304633197,0.0,1.1345597138034254,0.0,0.8059671390835751,0.0,0.2610879411654105,0.2096366487764197,1.244674659745665
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Dr Fritz, mi Mann, isch G'schàftsfiehrer in dem
+                        Tüechlade, grad im Hüs do nàwes... er hat mich lehre
+                        kenne in Strossburg, denn er isch emol e paar Wuche in
+                        das Hüs ku, wo-n-ich Ladejumpfre gsi bi, wege
+                        G'schàfte, un hat rnr eso si Rand offriert, awer mit dr
+                        Kundition, ass kei Mensch nit wisse derf vo unsrer
+                        Hiroth.
+
+        
+",9,lustig-im-julie-si-gheimniss,73,7,0.0958904109589041,0.035752517935047,0.4749220251700528,0.6405877131887042,0.0,0.8014599603754666,0.0439395441008456,0.4686492549369678,0.0,0.2610879411654105,0.2096366487764197,0.8934297093162398
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Do hat er schint's e Vater oder e Müetter, wo dergege
+                        kännt si?
+
+        
+",9,lustig-im-julie-si-gheimniss,18,1,0.0555555555555555,0.035752517935047,0.4749220251700528,0.6405877131887042,0.0,0.8014599603754666,0.0439395441008456,0.4686492549369678,0.0,0.2610879411654105,0.2096366487764197,0.8934297093162398
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Er hat kei Vater un kei Müetter meh...
+
+        
+",10,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.0,0.4749220251700528,0.4559195741965337,0.0,0.5297041065933443,0.0439395441008456,0.3337221012783249,0.0,0.2610879411654105,0.2096366487764197,0.5665181497472785
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Eh, wer hat denn derno ebbes z'sage derzüe?...
+
+        
+",10,lustig-im-julie-si-gheimniss,14,1,0.0714285714285714,0.0,0.8961596904551354,0.7785371286309324,0.0,0.9688167823431948,0.0439395441008456,0.6730061883701395,0.0,0.0,0.828402177267059,1.1052190244845552
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Si Herr, si Patron... ne richer Kütz, wo halt fir dr
+                        Fritz als Kind scho g'sorgt hat, un jetz will er ne
+                        mache ne riche Fraü hirothe un will ne derno als
+                        Associé nàh; dr Fritz zittert vor em mehr, as wenn's si
+                        Vater wàr, un bis dohi hat er em noch nie traüe sage,
+                        ass ich si Fraü bi.
+
+        
+",10,lustig-im-julie-si-gheimniss,72,6,0.0833333333333333,0.0592971166722557,1.0107342424161012,1.0477174742737403,0.0133081293124063,1.2827741556676722,0.112451115019846,0.7801357344826433,0.0,0.0,0.9209143728032596,1.4520645933643936
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Los Julie, Di Mann isch nitt g'scheidt!... un Dü losch's
+                        bi dem bliwe?
+
+        
+",11,lustig-im-julie-si-gheimniss,20,3,0.15,0.0592971166722557,1.134252781203104,1.2352269166100065,0.0133081293124063,1.515824045257545,0.0685115709190004,1.00261713533486,0.0,0.174058627443607,1.0606721386542062,1.6813156286140056
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Wenn Dü wisse thàtsch, wie-n-er als thüet ahalte!
+
+        
+",11,lustig-im-julie-si-gheimniss,14,1,0.0714285714285714,0.2985235234435263,1.134252781203104,2.0909213715995514,0.0133081293124063,2.420152440085205,0.0685115709190004,1.00261713533486,0.0,0.174058627443607,1.0606721386542062,2.5159791907005817
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Oh... Dü, mit Dim schwache Charakter, Dü losch allewil
+                        mit Dr mache, was me will... ich an Dim Platz wott mi
+                        Mann scho mache z'rede... liewer nitt Associé werde,
+                        ass eso lewe!
+
+        
+",11,lustig-im-julie-si-gheimniss,43,5,0.1162790697674418,0.2985235234435263,1.235184890953422,2.315975854585443,0.0133081293124063,2.672152249720013,0.0685115709190004,1.0929734564563336,0.0,0.174058627443607,1.2755159349434533,2.8125875153122277
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+'s isch wohr!... wenn Dü wisse thàtsch, was ich lide
+                        müess!...
+
+        
+",11,lustig-im-julie-si-gheimniss,18,2,0.1111111111111111,0.2985235234435263,0.454882887294106,1.9790346752438115,0.3807460575385201,1.9401306461960872,0.5458869272703676,0.4199672680861941,0.496188178276544,0.174058627443607,0.4471137576763944,1.9229372750734768
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Dü hasch recht... ich bi z'schwach gsi... 's müess jetz
+                        emol e-n-End nàh!
+
+        
+",12,lustig-im-julie-si-gheimniss,21,2,0.0952380952380952,0.2392264067712706,0.3403083353331403,1.7098543296010031,0.3674379282261137,1.626173272871609,0.4773753563513671,0.3128377219736903,0.496188178276544,0.174058627443607,0.3546015621401938,1.5760917061936377
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Isch er denn eso erschrecklig, dà Patron?
+
+        
+",12,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.2392264067712706,0.100932109750318,1.8635467642374055,0.3674379282261137,2.114033350422899,0.4773753563513671,0.0903563211214738,0.496188178276544,0.0,0.7699169695064513,1.7891595001515808
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+'s isch e-n-alter Knab, e-n-Original... er hat nie
+                        g'hirothe, wil er kei Fraü g'funde hat no
+                        sine-n-Idee... er hat ebbes üsserordentligs welle, wo
+                        züe ihm passt hätt...
+
+        
+",12,lustig-im-julie-si-gheimniss,41,4,0.0975609756097561,0.1843489206025863,0.2316884869436764,1.272804699140515,0.3674379282261137,1.6678409698025465,0.4773753563513671,0.0903563211214738,0.496188178276544,0.0,0.918411614923715,1.4123527304970218
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Enfin, mache-n-ihr's üs mitnander... nur verroth mich
+                        nitt un mach, ass mi Nieme sieht do in de-n-erste paar
+                        Tàg.
+
+        
+",12,lustig-im-julie-si-gheimniss,30,1,0.0333333333333333,0.1843489206025863,0.1307563771933584,1.0477502161546233,0.3674379282261137,1.4158411601677383,0.4773753563513671,0.0,0.496188178276544,0.0,0.7035678186344676,1.115744405885376
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Das isch licht... züe Dim Zimmer dert isch e b'sundere
+                        Stege, un 's geht nie Nieme dri as ich...
+ Kleider kasch
+                        ha vo mine, so viel ass De witt... bis Dine-n-akämme...
+                        ich ha mehr as ich brüch... in dem thüet mi Mann nitt
+                        spare.
+
+        
+",13,lustig-im-julie-si-gheimniss,56,4,0.0714285714285714,0.1843489206025863,0.1307563771933584,0.8355815141204272,0.0,1.475733466975025,0.0,0.0,0.0,0.0,0.9424656177041294,1.2249956110494191
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Er git Dr das, fir 's andere mache z'vergesse... awer we
+                        me-n-eim ebbes müess mache z'vergesse, so isch's scho
+                        g'fehlt!
+
+        
+",13,lustig-im-julie-si-gheimniss,31,3,0.0967741935483871,0.2921833898221735,0.1307563771933584,0.9718382790158469,0.0,1.5786094128087105,0.1170609478693914,0.0,0.0,0.0,0.9424656177041294,1.3060753019448514
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Still... 's kunnt ebber d'Stege-n-ufe!... 's isch dr
+                        Fritz' wohrschinlig...
+
+        
+",14,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.2921833898221735,0.1307563771933584,0.5607742377663245,0.0,0.7856477367841335,0.1170609478693914,0.0,0.0,0.0,0.3873924444869254,0.7746998339881521
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Au revoir denn... ich gang in mi Unterschlupf
+(se geht
+                        in 's Zimmer links).
+
+        
+",14,lustig-im-julie-si-gheimniss,20,1,0.05,0.1078344692195872,0.0,0.7637560686128572,0.0,1.1020232959654543,0.1170609478693914,0.0,0.0,0.0,1.0438103743891187,1.2006777626095786
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(macht d'Thüre-n-uf hinte)
+
+          
+Ich bi's, liewe Fraü...
+
+        
+",14,lustig-im-julie-si-gheimniss,16,3,0.1875,0.1078344692195872,0.0,1.1501729484554584,0.0,1.6800911996727863,0.1170609478693914,0.2248785894310714,0.0,0.0,1.263493274623105,1.7204452650718118
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Wie Dü das sàisch!... was kunnt Dir i uf eimol?... worum
+                        sàisch mr nitt « lieb Mànnle »?...
+
+        
+",14,lustig-im-julie-si-gheimniss,26,2,0.0769230769230769,0.1078344692195872,0.4212750734625947,1.5995875946411895,0.0,2.3130842886887075,0.1170609478693914,1.1267445049417486,0.0,0.0,1.024595475553443,2.515978890276775
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Was kunnsch jetz Dü do ku mache?... De weisch doch, ass
+                        Di Herr Patron nitt lide ka, wenn Dü do ane kunnsch...
+
+        
+",15,lustig-im-julie-si-gheimniss,29,4,0.1379310344827586,0.0080698230936931,0.4212750734625947,1.7953321824103206,0.2036811580816663,2.5574458053843125,0.2536593236521406,1.1267445049417486,0.2480940891382719,0.0,1.163363768857744,2.692447545225826
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Mi Patron isch üsgange un do bin i üs em Lade
+                        g'schliche, fir Dir g'schwind e Schmitzle ku
+                        abstehle...
+
+        
+",15,lustig-im-julie-si-gheimniss,23,4,0.1739130434782608,0.0889456750083835,0.4212750734625947,2.1491312420906525,0.2036811580816663,2.9920218696336285,0.3414550345541842,1.1267445049417486,0.2480940891382719,0.1002253489907109,1.3021320621620451,3.101969391940234
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Nur e kleiner Schmutz, Julie.
+
+        
+",15,lustig-im-julie-si-gheimniss,9,2,0.2222222222222222,0.0889456750083835,0.4212750734625947,1.6811970213514655,0.2036811580816663,2.217510296245,0.3414550345541842,1.1267445049417486,0.2480940891382719,0.1002253489907109,0.497219486842588,2.21813467088679
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Zähl nitt druf... 's isch nit z'mache!
+
+        
+",15,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.0889456750083835,0.4212750734625947,1.873253044987266,0.2036811580816663,2.3648779156358417,0.3414550345541842,0.9018659155106772,0.2480940891382719,0.1002253489907109,0.993819167912303,2.552729715711663
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+C'est-ça... we mr allei sin, so bisch Dü allewil mi
+                        Mann, awer vor de Lit thüesch Dü mich nie fir Di Fraü
+                        anerkenne.
+
+        
+",15,lustig-im-julie-si-gheimniss,29,4,0.1379310344827586,0.197442544586012,0.0,1.5226146627791388,0.2789420961173784,1.770211716246171,0.4756236466701514,0.0,0.3973469227399837,0.1002253489907109,1.1255353696861206,1.7866485573699389
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich ha Dich jo doch gern... De weisch jo wohl worum, ass
+                        ich unser Hiroth verstecke thüe.
+
+        
+",16,lustig-im-julie-si-gheimniss,22,2,0.0909090909090909,0.1893727214923188,0.1598741104842307,1.3709836077961954,0.0752609380357121,1.6578196130024403,0.2219643230180107,0.2283319541380529,0.1492528336017117,0.1916416158211196,1.2446014737813234,1.8508971475924387
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(lipft d'Achsle)
+
+          
+Wege-n-em Patron!
+
+        
+",16,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.1084968695776285,0.1598741104842307,1.428248589365386,0.0752609380357121,2.0162052247777016,0.1341686121159671,0.2283319541380529,0.1492528336017117,0.0914162668304087,1.6609063536942266,1.9727507688347297
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Wege-n-em Herr Rothfuchs... jà... er thàt mr's jo nitt
+                        vergesse...
+
+        
+",16,lustig-im-julie-si-gheimniss,18,2,0.1111111111111111,0.1246365157650148,0.1598741104842307,1.5149854890572798,0.115185325972931,2.14945584188814,0.1641119030688813,0.2283319541380529,0.1492528336017117,0.0914162668304087,1.6609063536942266,2.095647581048687
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+'s isch doch allewil mi Patron!... denk, was er scho an
+                        mir tho hat... ich bin ihm Respect schuldig... 's isch
+                        e g'scheidter Mann.
+
+        
+",16,lustig-im-julie-si-gheimniss,32,5,0.15625,0.1246365157650148,0.2750182491279852,1.1933737229342634,0.115185325972931,1.8752472412713304,0.1641119030688814,0.3597750347816082,0.1492528336017117,0.0914162668304087,1.3581759894183532,1.6968998243137072
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Was g'scheidt!... dumm isch er as wie Gànsedr...
+
+          
+
+        
+",16,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.0161396461873863,0.2750182491279852,0.9350323759784088,0.0399243879372189,1.612284574901939,0.0299432909529142,0.3597750347816082,0.0,0.0914162668304087,1.2264597876445356,1.4316840067897658
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(unterbricht se)
+
+          
+Mi Patron dumm!... voll Geist isch er... er hätt ganz
+                        güet dr Telephon erfinde känne, wenn ihm dr Idee ku
+                        wàr!
+
+        
+",17,lustig-im-julie-si-gheimniss,31,8,0.2580645161290322,0.0161396461873863,0.1151441386437544,0.9170594344148014,0.0399243879372189,1.6504294722518371,0.0299432909529142,0.2616280660566001,0.0,0.0,1.0380095368971824,1.3839244400416102
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Los Fritz... Dü bisch vo-n-ere Schwachheit... 's isch
+                        nibt erlaübt! un ich müess drunter lide... me nimmt
+                        mich fir e... ich traü nitt z'sage was... ich wird ganz
+                        roth.
+
+        
+",17,lustig-im-julie-si-gheimniss,40,4,0.1,0.0970154981020767,0.2946763078308711,1.0856379812423769,0.2236433520502758,1.3991965026538908,0.3564266800306414,0.519626121193275,0.2480940891382719,0.1305439705827052,0.5877546880681882,1.4005063551614427
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Dü brüchsch nitt roth z'werde... Dü hasch 's Recht, alle
+                        Litt az'lüege!
+
+        
+",17,lustig-im-julie-si-gheimniss,18,1,0.0555555555555555,0.0808758519146903,0.2946763078308711,0.9989010815504832,0.1837189641130568,1.2659458855434529,0.3264833890777271,0.519626121193275,0.2480940891382719,0.1305439705827052,0.5877546880681882,1.2776095429474856
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ich ha jetz lang genüe g'warte... un wenn Dü's nitt
+                        thüesch, so hasch mi nie gern g'ha.
+
+        
+",18,lustig-im-julie-si-gheimniss,23,2,0.0869565217391304,0.0808758519146903,0.3394062796713474,0.922410241876705,0.1837189641130568,1.0495643223476487,0.3264833890777271,0.6165149946877726,0.2480940891382719,0.221960237413114,0.4320368684398638,1.1437916884623425
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich Dich nitt gern g'ha!... dur's Fir gieng ich fir
+                        Di... awer denk an mi Position.
+
+        
+",18,lustig-im-julie-si-gheimniss,23,3,0.1304347826086956,0.5122137287930391,0.4459890199941679,1.5876841665794548,0.1837189641130568,1.6176316785394302,0.7947271805552928,0.7687362974464745,0.2480940891382719,0.2829044153000531,0.6039264667061995,1.682641742755394
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Liewer nitt Associé werde... un wenn Dü's nitt sage
+                        witt, so sag' ich's in Dim Patron!
+
+        
+",18,lustig-im-julie-si-gheimniss,23,2,0.0869565217391304,0.5122137287930391,0.4459890199941679,1.6308188310862155,0.1837189641130568,1.741122259916261,0.7947271805552929,0.6385513120334296,0.2480940891382719,0.2829044153000531,0.812078906662651,1.674292107414916
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Wenn De nur noch e paar Tàg wottsch warte...
+
+        
+",18,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.4313378768783487,1.068942910324602,1.565595782010254,0.0,1.7619891287218437,0.6277391365461276,0.3805532568967548,0.0,0.3197739984063347,1.2468299411234054,1.696217489352469
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Das 'isch allewil d'gliche G'schichte... ich gib Dr zwei
+                        Stund Zit!
+
+        
+",18,lustig-im-julie-si-gheimniss,16,2,0.125,0.4313378768783487,1.068942910324602,1.7761345060670417,0.0,1.9954063212738893,0.6277391365461276,0.3805532568967548,0.0,0.3197739984063347,1.5102623446710408,1.960328052971556
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+So loss mich doch nur z'erst das Ding e wenig ifàdle...
+                        g'wiss ich bi stolz, Dich als mi Fraü z'proklamiere...
+
+        
+",19,lustig-im-julie-si-gheimniss,27,2,0.074074074074074,0.6259819304626049,1.306675989851715,1.864230655127596,0.187666577568124,1.9304279183831523,0.9457156919652098,0.1522213027587018,0.3178942869909037,0.4139627037985549,1.3672419722677005,1.7956610039263752
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Gib Achtung, Fritz, wenn Dü's nitt thüesch, so mach ich
+                        Dummheite... De bisch jetz g'warnt... ich will kei
+                        G'heimniss meh.
+
+        
+",19,lustig-im-julie-si-gheimniss,29,3,0.1034482758620689,0.1946440535842562,1.2000932495288943,1.198956730424846,0.187666577568124,1.362360562191371,0.4774719004876441,0.0,0.3178942869909037,0.3530185259116157,1.195352374001365,1.2568109496333235
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Fir Dir z'gfalle, Julie, mach ich jo alles, alles
+                        mache... nur müess ich ebbes ha, fir mir Müeth z'gà
+(er
+                        git ere ne Schmutz).
+
+        
+",19,lustig-im-julie-si-gheimniss,36,5,0.1388888888888889,0.4534467797112655,1.2000932495288943,1.435042928011469,0.187666577568124,1.3140549579006684,0.8612066644374439,0.0,0.4170023697961443,0.3530185259116157,0.9178157873927628,1.3019624900841489
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Oh!... dr Patron!...
+
+        
+",20,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,0.4534467797112655,0.3976071900113437,1.3316874302598556,0.187666577568124,1.5444210586930316,0.701711319368882,0.0,0.4170023697961443,0.1856049722226289,0.9333196017610024,1.2634551930267637
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+So, so... do geht's glaüb schon züe!
+
+        
+",20,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.4695864258986518,0.3976071900113437,1.2078856058949616,0.227590965505343,1.444254483251424,0.7316546103217962,0.0,0.4170023697961443,0.1856049722226289,0.6698871982133672,1.1222414416216335
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Müess ich Di eigentlig allewil do ku süeche, wenn De
+                        sottsch dunte si im Lade-n-un Pratike serviere!...
+
+        
+",20,lustig-im-julie-si-gheimniss,25,4,0.16,0.2830121954080888,0.0,1.0880569710271406,0.0598865819058283,1.4577214316878435,0.428649700379171,0.0,0.0991080828052406,0.0,0.6867893749910217,1.1586152425163534
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Awer, Herr...
+
+        
+",20,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.3152914877828616,0.0,1.261530770410928,0.1397353577802662,1.7242226659087203,0.4885362822849994,0.0,0.0991080828052406,0.0,0.6867893749910217,1.4044088669442676
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich red' nitt mit Ihre, ich red' mit em Fritz.
+
+        
+",20,lustig-im-julie-si-gheimniss,15,1,0.0666666666666666,0.088768054030625,0.0,0.9933863515833314,0.2195841336547041,1.6425486664080116,0.1646881002410281,0.0,0.0,0.0,0.6867893749910217,1.3393632169430063
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Sin Se nitt so bös, Herr Rothfuchs... ich will Ene
+                        expliziere...
+
+        
+",20,lustig-im-julie-si-gheimniss,16,2,0.125,0.4615676931196745,0.0,1.0666230386355164,0.6090951396764529,1.244466818467603,0.512144801854233,0.0,0.3134610798684195,0.0,0.1317162017738175,1.0255660742595192
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+'s hat alles sine Zit... un jetz isch dr Moment nitt,
+                        fir dàre Jumpfere do dr Hof z'mache.
+
+        
+",21,lustig-im-julie-si-gheimniss,25,5,0.2,0.516584586938995,0.0,1.0963349577576316,0.5851405069141216,1.2262420157015514,0.5644153960041193,0.0,0.3134610798684195,0.0,0.1317162017738175,1.000475801468404
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Schimpfe Se nitt, Herr Rothfuchs, ich ha grad
+                        welle-n-awe geh... ich bi nur e wenig ufe ku... awer
+                        grad ha-n-ich welle-n-awe geh.
+
+        
+",21,lustig-im-julie-si-gheimniss,35,4,0.1142857142857142,0.516584586938995,0.0,0.991065595729238,0.5851405069141216,1.1095334194255284,0.5644153960041193,0.0,0.3134610798684195,0.0,0.0,0.8684205196588609
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich mein, Dü kännsch Di Zit besser züebringe-n-as bi ne
+                        so-n-ere...
+
+        
+",21,lustig-im-julie-si-gheimniss,20,3,0.15,0.4950650586891464,0.0,0.8754163961400462,0.5319079896644964,0.931865929944944,0.5244910080669003,0.0,0.3134610798684195,0.0,0.0,0.7045581033735846
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(zornig)
+
+          
+Bi ne so-n-ere?...
+
+        
+",21,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,1.4250268370471868,0.0,1.673259091640291,0.4520592137900586,1.2797731936748866,1.1806674606881224,0.0,0.3134610798684195,0.0,0.0,0.5938610483805231
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Gang Dü in Di Zimmer, mi Schatz...
+
+        
+",22,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,1.0522271979581372,0.0,2.1398617954301167,0.0625482077683096,1.9233637804040384,0.8332107590749175,0.878136502787511,0.0,0.0,0.0,1.44558658254098
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Vor dem? üse mit!
+
+        
+",22,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,1.0133499503262031,0.0,2.1968867759998947,0.1264272284678599,2.074839200280528,0.8108834558779454,0.878136502787511,0.0,0.0,0.0,1.5935736675460517
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Gang mi Schatz... gang...
+
+        
+",22,lustig-im-julie-si-gheimniss,8,1,0.125,1.00528012723251,0.0,3.10442175824548,0.1064650344992504,3.04668430653863,0.7959118104014884,1.756273005575022,0.0,0.0,0.0,2.6014291208727416
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Nei, ich will, ass se-n-üsredt!
+
+        
+",22,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,1.0267996554823586,0.0,3.220070957834672,0.1596975517488757,3.2243517960192145,0.8358361983387074,1.756273005575022,0.0,0.0,0.0,2.765291537158018
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Mich eso traitiere!... b'sinn Di, Fritz, b'sinn Di...
+                        ich will jetz nimmig niedertràchtig g'macht si vo-n-eso
+                        me Growian!...
+
+        
+",22,lustig-im-julie-si-gheimniss,29,1,0.0344827586206896,0.0645585847495454,0.0,2.2487544629506395,0.1596975517488757,2.609943298068395,0.1197731638116568,1.756273005575022,0.0,0.0,0.0,2.630194967723165
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(züem Fritz)
+
+          
+Se hat g'sàit?... wie hat se g'sàit?...
+
+        
+",22,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.0968378771243182,0.0,1.4713248302428947,0.2395463276233135,1.8379741174759512,0.1796597457174852,0.878136502787511,0.0,0.0,0.0,1.8066847327174105
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ich halt's jetz nimmig üs... wenn's eso furtgeht, so
+                        verloss ich 's Hüs!...
+(se geht ins Zimmer rechts).
+
+        
+",23,lustig-im-julie-si-gheimniss,29,2,0.0689655172413793,0.0645585847495454,0.0,1.2978510308591074,0.1596975517488757,1.5714728832550744,0.1197731638116569,0.878136502787511,0.0,0.0,0.0,1.5608911082894967
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Fritz, ich ha scho g'sàh, mr werde-n-uneinig
+                        mitnander!
+
+        
+",23,lustig-im-julie-si-gheimniss,16,2,0.125,0.0806982309369318,0.0,0.4336844984594685,0.1996219396860946,0.6662530855521923,0.1497164547645711,0.0,0.0,0.0,0.0,0.614484061069785
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Wisse Sie, ass ich da Morge scho Tüech verkaüft ha fir
+                        vier Paar Hose...
+
+        
+",23,lustig-im-julie-si-gheimniss,18,2,0.1111111111111111,0.2101706423915398,0.0,0.4645958464188103,0.1197731638116567,0.5540657700818434,0.2654212946628298,0.0,0.0,0.0,0.0,0.4903099729850194
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Das Wibsbild isch noch Di Verderwe!
+
+        
+",23,lustig-im-julie-si-gheimniss,10,3,0.3,0.3755950980737141,0.0,0.7504282899326002,0.4167240249600481,0.8538122767652634,0.2853834886314393,0.0,0.0,0.0,0.0,0.8608174178300105
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Un zwei Gilets, un Tüech fir e Frack!
+
+          
+
+        
+",23,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.666819213357703,0.0,0.9857247852350712,0.3368752490856103,0.8959388800454426,0.5766797503337852,0.0,0.0,0.0,0.0,0.8582628660883934
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich ha-n-Unrecht g'ha, ass ich Dich uf Strossburg
+                        g'schickt ha vor drei Monet... Dü hattsch in zwei oder
+                        drei Tàg unsere G'schàfte känne b'sorge un blibsch vier
+                        Wuche furt!... un alles das wege dere Liebschaft do, wo
+                        De-n-ag'fange hasch... ich ha fir Dich ebbes bessers
+                        g'hofft... aber wenn Dü jetzt scho-n-eso ne Lewe
+                        fiehrsch...
+
+        
+",24,lustig-im-julie-si-gheimniss,71,5,0.0704225352112676,0.7379757533644098,0.100932109750318,1.3517929900328451,0.3528450042604978,1.3316582119283678,0.6588936354365857,0.2252834747801167,0.0,0.0,0.1094708348701929,1.3231541403466742
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was wànn Se halt... d'Liewe losst sich nitt
+                        kummediere... wenn's Zit isch, paff, so hat's eim!
+
+        
+",24,lustig-im-julie-si-gheimniss,26,3,0.1153846153846153,0.7218361071770235,0.100932109750318,1.2650560903409511,0.3129206163232789,1.1984075948179291,0.6289503444836715,0.2252834747801167,0.0,0.0,0.1094708348701929,1.200257328132717
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich weiss besser as Dü, was das fir e Krankhet isch....
+                        awer ich bi wege dem doch nie iwer d'Grenze vo de
+                        Convenances g'sprunge.
+
+        
+",25,lustig-im-julie-si-gheimniss,31,2,0.064516129032258,0.7379757533644099,0.100932109750318,1.3517929900328451,0.3528450042604978,1.3316582119283678,0.6588936354365857,0.2252834747801167,0.0,0.0,0.1094708348701929,1.323154140346674
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Awer, Herr Rothfuchs, ich will jo gar nitt iwer d'Grenze
+                        springe!
+
+        
+",25,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.6048305900570082,0.100932109750318,1.2394343459028427,0.1357429189865443,1.2984129394658246,0.6988180233738046,0.2252834747801167,0.0,0.0,0.1094708348701929,1.1984403199295972
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Doch... Dü machsch z'viel Ufwand tir Di Julie... un
+                        thüesch alles an se hànke, was schön un thir isch... so
+                        ne-n-Associé ka-n-ich kein brüche.
+
+        
+",25,lustig-im-julie-si-gheimniss,37,2,0.054054054054054,0.2974668285856331,0.3662440079940269,1.1541239850757097,0.1756673069237632,1.403682960391082,0.3775784707185446,0.5851171149299143,0.0043023551066546,0.0860471021330947,0.3896019562590458,1.442570266099434
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich sag Dr, se thüet Dich b'stehle!... se hànkt an Dr,
+                        bis Dü nit meh hasch, derno...
+
+        
+",26,lustig-im-julie-si-gheimniss,26,1,0.0384615384615384,0.258589580953699,0.2653118982437089,0.9615295796617234,0.2395463276233135,1.2344648627290336,0.3552511675215725,0.3598336401497975,0.0043023551066546,0.0860471021330947,0.2801311213888527,1.2234726162690672
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(lacht heimlig)
+
+          
+Oh, sàll thüe-n-i jetz doch nitt glaüwe!
+
+        
+",26,lustig-im-julie-si-gheimniss,16,2,0.125,0.258589580953699,0.2653118982437089,0.9615295796617234,0.2395463276233135,1.2344648627290336,0.3552511675215724,0.3598336401497975,0.0043023551066546,0.0860471021330947,0.2801311213888528,1.2234726162690674
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+'s git nur ei Mittel, fir in dem Ding e-n-End z'mache...
+                        loss se fahre-n-un stell se vor d'Thüre.
+
+        
+",26,lustig-im-julie-si-gheimniss,30,5,0.1666666666666666,0.2297123923773412,0.4243547742482464,0.989485346132056,0.2906583258882318,1.2676955594524826,0.3591209620350045,0.3598336401497975,0.1314600699030161,0.1602890910221463,0.494566760772356,1.288925406047429
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich wisst viellicht noch e besser Mittel.
+
+        
+",26,lustig-im-julie-si-gheimniss,10,2,0.2,0.1974331000025684,0.4243547742482464,0.8160115467482683,0.2108095500137939,1.0011943252316056,0.2992343801291761,0.3598336401497975,0.1314600699030161,0.1602890910221463,0.494566760772356,1.0431317816195145
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+Was fir eins?
+
+        
+",26,lustig-im-julie-si-gheimniss,6,2,0.3333333333333333,0.3591848038319492,0.1590428760045374,0.7836736599241656,0.210809550013794,0.8748610026662588,0.4748258019332633,0.0,0.1271577147963614,0.0742419888890515,0.214435639383503,0.8002791113204865
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich will's Ene sage, wenn Sie nitt wànn bös werde.
+
+        
+",27,lustig-im-julie-si-gheimniss,15,1,0.0666666666666666,1.0402254972605027,0.1590428760045374,1.4053275177600044,0.8301340103084159,1.131618190392843,1.049966041348016,0.0,0.7540798745332005,0.0742419888890515,0.214435639383503,0.7438485130110819
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Nei... üse mit...
+
+        
+",27,lustig-im-julie-si-gheimniss,8,1,0.125,1.0725047896352753,0.1590428760045374,1.578801317143792,0.909982786182854,1.39811942461372,1.1098526232538444,0.0,0.7540798745332006,0.0742419888890515,0.214435639383503,0.989642137438996
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Eh bien... wenn ich se thàt hirothe?...
+
+        
+",27,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.923490628194866,0.780302003659316,1.9683984679925155,0.8189463999807167,1.9740892654890851,0.9004481159834109,0.6730061883701395,0.6269221597368391,0.0,0.8284021772670588,1.69583538483894
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Die hirothe!
+
+        
+",27,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.9557699205696388,0.780302003659316,2.1418722673763027,0.8987951758551546,2.2405904997099624,0.9603346978892392,0.6730061883701395,0.6269221597368391,0.0,0.8284021772670588,1.9416290092668544
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+'s thàt si halt schicke...
+
+        
+",27,lustig-im-julie-si-gheimniss,8,1,0.125,0.7778785705528717,0.780302003659316,1.85075022034128,0.8588707879179356,1.953025963848996,0.754799985132238,0.6730061883701395,0.6269221597368391,0.0,0.8284021772670588,1.6971126607097489
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Was!... se hat's eso wit mit Dir brocht?... se-n-isch
+                        noch g'fahrliger as ich glaübt ha!... un unsre Plàn un
+                        Di Position?...
+
+        
+",27,lustig-im-julie-si-gheimniss,35,1,0.0285714285714285,0.0968378771243182,0.780302003659316,1.2290963625054407,0.2395463276233135,1.6962687761224111,0.1796597457174854,0.6730061883701395,0.0,0.0,0.8284021772670588,1.7535432590191533
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(fir sich)
+
+          
+'s packt nitt!
+
+        
+",27,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,0.388061992408307,0.780302003659316,1.4643928578079115,0.1596975517488757,1.7383953794025906,0.4709560074198312,0.6730061883701395,0.0,0.0,0.8284021772670588,1.750988707277536
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+So ne Herg'loffene do... wo kei Sü hat... wenn se noch
+                        ebbes hätt... awer se hat nit... Fritz... uf dr Stell
+                        müesch se lo!... ich chargier mich, eüch üsnander
+                        z'bringe.
+
+        
+",28,lustig-im-julie-si-gheimniss,43,4,0.0930232558139534,0.4853663579669531,0.1822829674376842,1.1771932636120055,0.2656954651596211,1.3609851255572287,0.631703965683162,0.1686589420733036,0.1457385968360771,0.0850905767246424,0.2632740123925346,1.2751000047791066
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Das geht mich a... si müess es... ich weiss Dir e güete
+                        Parthie... ich ha mr jetz emol in Kopf g'setzt, Dir Di
+                        Glick z'mache, un ich mach's... wider Di Wille.
+
+          
+
+        
+",28,lustig-im-julie-si-gheimniss,42,3,0.0714285714285714,0.4638468297171046,0.1822829674376842,1.0615440640228138,0.2124629479099959,1.183317636076644,0.5917795777459431,0.1686589420733036,0.1457385968360771,0.0850905767246424,0.2632740123925346,1.1112375884938306
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Mr hätte doch so ne schön Pààrle gà.
+
+        
+",29,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.4638468297171046,0.4475948656813932,1.2982670981900457,0.2124629479099959,1.463964877392519,0.5917795777459431,0.528492582223101,0.1500409519427318,0.1711376788577372,0.5434051337813876,1.4757097951360072
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Kei Wort meh jetz dervo... 's isch e Coquette, wo Dich
+                        trumpiert.
+
+        
+",29,lustig-im-julie-si-gheimniss,18,2,0.1111111111111111,0.4477071835297183,0.4475948656813932,1.211530198498152,0.1725385599727769,1.3307142602820807,0.561836286793029,0.528492582223101,0.1500409519427318,0.1711376788577372,0.5434051337813876,1.35281298292205
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+'s Julie mich trumpiere?... 's isch e-n-Engel!
+
+        
+",29,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.1242037758709567,0.4475948656813932,0.8027599038118934,0.1725385599727769,1.022086422781025,0.2106534431848546,0.528492582223101,0.1500409519427318,0.1711376788577372,0.5434051337813876,1.1095739102357531
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Se-n-isch Dr untreü, ich bi sicher !
+
+        
+",29,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.0430390564996969,0.2653118982437089,0.468021433345615,0.1064650344992504,0.6359822202770442,0.079848775874438,0.3598336401497975,0.0043023551066546,0.0860471021330947,0.2801311213888527,0.6921970392127286
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Sicher... par exemple... wisse Sie ebbes?
+
+        
+",29,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.0322792923747727,0.2653118982437089,0.4101968335510191,0.0798487758744378,0.5471484755367519,0.0598865819058285,0.3598336401497975,0.0043023551066546,0.0860471021330947,0.2801311213888527,0.6102658310700906
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+He, he... was ka me sage!
+(fir sich)
+ ich will se scho
+                        vonander bringe!
+
+        
+",29,lustig-im-julie-si-gheimniss,23,2,0.0869565217391304,0.2101706423915398,0.0,0.4645958464188103,0.1197731638116567,0.5540657700818434,0.2654212946628299,0.0,0.0,0.0,0.0,0.4903099729850195
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Herr Rothfuchs, sage Se das nitt... Sie mache mir 's
+                        Blüet z'koche!
+
+        
+",30,lustig-im-julie-si-gheimniss,18,3,0.1666666666666666,0.4618993266398304,0.0,0.7153265516214394,0.4309862127085541,0.6940144248037152,0.5149077578139645,0.0,0.2386876781756834,0.0,0.0,0.5318129024320506
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Scho güet... gang jetz emol awe-n-in dr Lade-n-un loss
+                        mich mit ere rede.
+
+        
+",30,lustig-im-julie-si-gheimniss,22,3,0.1363636363636363,0.6024217931542588,0.2650714600075625,0.9521287825774764,0.5827135230454494,0.896092807140556,0.7468543220619621,0.0,0.450617202836286,0.1237366481484192,0.0765426833307753,0.7184973685892235
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich ha Dir kei Rechenschaft abz'lege.
+
+        
+",30,lustig-im-julie-si-gheimniss,10,1,0.1,0.6185614393416452,0.2650714600075625,1.03886568226937,0.6226379109826683,1.0293434242509945,0.7767976130148763,0.0,0.450617202836286,0.1237366481484192,0.0765426833307753,0.8413941808031804
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Wenn ich viellicht selbst thàt...
+
+        
+",30,lustig-im-julie-si-gheimniss,8,1,0.125,0.6185614393416452,0.2650714600075625,1.03886568226937,0.6226379109826683,1.0293434242509945,0.7767976130148763,0.0,0.450617202836286,0.1237366481484192,0.0765426833307753,0.8413941808031804
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Allons, in dr Lade-n-awe!... müess ich Dich an
+                        de-n-Ohre-n-awe fiehre!
+
+        
+",30,lustig-im-julie-si-gheimniss,23,2,0.0869565217391304,0.4568097355122644,0.2650714600075625,1.1410537943980912,0.6226379109826683,1.206377065752665,0.6012061912107891,0.0,0.450617202836286,0.1237366481484192,0.411646073872991,1.0234128042222297
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich gang, Herr Rothfuchs... ich gang...
+(fir sich)
+ das
+                        wird schön geh!
+(er geht hinte-n-üse).
+
+        
+",31,lustig-im-julie-si-gheimniss,28,3,0.1071428571428571,0.3075356384210989,0.4419460588367018,1.155482910305072,0.2981167327733647,1.311985645371582,0.4587995789447413,0.2398890934331983,0.2147977613983722,0.1811013829038157,0.598400154798893,1.2650054326940965
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(allei)
+
+          
+'s isch decidiert jetz... ich will ne-n-in dere Creatür
+                        üs de Klaüe risse... ich ha-n-em g'sàit, se trumpiert
+                        ne... bis dohi weiss i noch nit, awer 's isch jo schier
+                        allewil dr Fall... wenn ich nur kännt ebbes ufbringe...
+
+        
+",31,lustig-im-julie-si-gheimniss,55,4,0.0727272727272727,0.2027040126633018,0.1768745988291392,1.1181979024792716,0.2416125544407909,1.3623382785840876,0.2881975613871244,0.2398890934331983,0.1521210703394815,0.0573647347553964,0.6535736732419353,1.3441754219962694
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(kunnt hinte-n-ine ku z'laüfe)
+
+          
+isch's möglig!... Dü, Emma!...
+(fir sich)
+ tiens, 's isch
+                        e Herr!... ich bi doch ganz sicher, ass ich d'Jumpfer
+                        Emma g'sàh ha do am Fenster.
+
+        
+",32,lustig-im-julie-si-gheimniss,49,6,0.1224489795918367,0.2297218369607848,0.1768745988291392,1.1074677300668048,0.1750719078787593,1.2939410984691826,0.2968225504002965,0.3006470964315398,0.1521210703394815,0.0573647347553964,0.6535736732419353,1.3033277715257636
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Was wàr Ihne g'fallig, güeter Frind?
+
+        
+",32,lustig-im-julie-si-gheimniss,11,3,0.2727272727272727,0.240481601085709,0.1768745988291392,1.1652923298614006,0.201688166503572,1.3827748432094749,0.3167847443689059,0.3006470964315398,0.1521210703394815,0.0573647347553964,0.6535736732419353,1.3852589796684018
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(lüegt ummenander)
+
+          
+Ich ha schint's e letze Thüre gnu...
+
+        
+",32,lustig-im-julie-si-gheimniss,14,1,0.0714285714285714,0.2243419548983226,0.1768745988291392,0.7719821706976564,0.1617637785663531,0.9181766658468382,0.2868414534159917,0.3006470964315398,0.1521210703394815,0.0573647347553964,0.3184702826997195,0.958724007692247
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Süeche Se-n-ebber?
+
+        
+",32,lustig-im-julie-si-gheimniss,8,2,0.25,0.1218873677411976,0.0,0.5068223495880468,0.1750719078787593,0.6726194315060491,0.179761602530905,0.0607580029983415,0.1492528336017117,0.0,0.1317162017738175,0.6756284497733493
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oder ich bi viellicht z'viel Stege-n-ufe?... ich hatt
+                        glaübt, 's isch do...
+
+        
+",32,lustig-im-julie-si-gheimniss,21,1,0.0476190476190476,0.0861965269845663,0.0,0.30730512645781,0.0798487758744378,0.4201884159567027,0.1184170558405243,0.0607580029983415,0.0,0.0,0.0,0.4097739943140036
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich ka-n-Ihnen viellicht Üskunft gà!
+
+        
+",33,lustig-im-julie-si-gheimniss,11,3,0.2727272727272727,0.0376591744372348,0.0,0.2023860992810852,0.0931569051868441,0.3109181065910231,0.0698676788901333,0.0,0.0,0.0,0.0,0.2867592284992329
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich süech e junge Dame-n-im zweite Stock.
+
+        
+",33,lustig-im-julie-si-gheimniss,12,4,0.3333333333333333,0.0268994103123106,0.0,0.1445614994864894,0.0665406465620314,0.2220843618507308,0.0499054849215238,0.0,0.0,0.0,0.0,0.2048280203565949
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Im zweite?... das isch do... 's wohnt sunscht Nieme-n-uf
+                        dem Bode.
+
+          
+
+        
+",33,lustig-im-julie-si-gheimniss,20,2,0.1,0.0430390564996969,0.0,0.5032493807298526,0.1064650344992504,0.7604864412725421,0.079848775874438,0.3373178841466072,0.0,0.0,0.0,0.7680264217491214
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ah, 's isch do!... un die junge Dame?
+
+        
+",33,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.0268994103123106,0.0,0.4165124810379588,0.0665406465620314,0.6272358241621036,0.0499054849215238,0.3373178841466072,0.0,0.0,0.0,0.6451296095351643
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Hàn Sie ebbes mit ere z'rede?
+
+        
+",33,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.0591787026870833,0.0,0.5899862804217462,0.1463894224364693,0.8937370583829806,0.1097920668273522,0.3373178841466072,0.0,0.0,0.0,0.8909232339630785
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(embarrassiert)
+
+          
+Das heisst... ich hätt se gern g'sàh...
+(fir sich)
+ das
+                        hätt ich nitt sotte sage.
+
+        
+",33,lustig-im-julie-si-gheimniss,24,2,0.0833333333333333,0.2101706423915398,0.1598741104842307,0.9169171256518872,0.1197731638116567,1.1940625916787762,0.2654212946628299,0.5656498382846602,0.0,0.0914162668304087,0.2578343973995034,1.252408498230572
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Wer, d'Jumpfer Julie?
+
+        
+",34,lustig-im-julie-si-gheimniss,9,2,0.2222222222222222,0.2263102885789262,0.1598741104842307,1.003654025343781,0.1596975517488756,1.3273132087892143,0.2953645856157442,0.5656498382846602,0.0,0.0914162668304087,0.2578343973995034,1.3753053104445292
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Kenne Sie se denn?
+
+        
+",34,lustig-im-julie-si-gheimniss,8,1,0.125,0.2424499347663126,0.1598741104842307,0.8184399434842053,0.1996219396860946,1.0554123635882804,0.3253078765686583,0.2283319541380529,0.0,0.0914162668304087,0.2578343973995034,1.0579005334799167
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Ich hätt das nitt sotte sage
+(lüt)
+ ich kenn se ne
+                        wenig... ich ha se scho g'sàh in Strossburg...
+
+        
+",34,lustig-im-julie-si-gheimniss,28,2,0.0714285714285714,0.4042016385956934,0.1598741104842307,1.0228250908273346,0.1996219396860946,1.2097262823388082,0.5008992983727454,0.2283319541380529,0.0,0.0914162668304087,0.2578343973995034,1.1795200698230657
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ah, in Strossburg?
+(fir sich)
+ 's wird
+                        efange-n-intressant.
+
+        
+",34,lustig-im-julie-si-gheimniss,18,3,0.1666666666666666,0.490516579565432,0.1598741104842307,1.0434326561335625,0.1463894224364693,1.1349347386919089,0.5780358583049179,0.2283319541380529,0.0,0.0914162668304087,0.2578343973995034,1.0967373444332216
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich ha-n-ere dert vor ebbes Zit e Nàihmaschine verkaüft
+                        un ha se lehre nàie druf, d'Jumpfer Emma... denn se
+                        heisst Emma, 's isch ganz sicher.
+
+        
+",34,lustig-im-julie-si-gheimniss,34,5,0.1470588235294117,0.3287648757360513,0.0,0.7375207446604012,0.1463894224364693,0.8684745112386008,0.4024444365008309,0.0729096035980098,0.0,0.0,0.0,0.8014495013491383
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+'s isch möglig...
+(fir sich)
+ so Jumpfraüe changiere Name
+                        wie Hemd!
+
+        
+",35,lustig-im-julie-si-gheimniss,18,2,0.1111111111111111,0.490516579565432,0.0,0.9419058920035304,0.1463894224364693,1.0227884299891286,0.578035858304918,0.0729096035980098,0.0,0.0,0.0,0.9230690376922868
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Nochher bin i derno uf Milhüse ku mit mine Nàihmaschine
+                        un ich hätt nitt glaübt, ass ich se-n-eso bol wieder
+                        sieh, bis vorig, wo-n-ich dert awe gange bi, ha-n-ich
+                        par hasard do iwere g'lüegt un ha se-n-am Fenster g'sàh
+                        steh.
+
+        
+",35,lustig-im-julie-si-gheimniss,55,3,0.0545454545454545,0.4582372871906592,0.0,1.1624861909583903,0.0665406465620314,1.3259025396333546,0.5181492763990896,0.2977881930290812,0.0,0.0,0.3185303987595488,1.2851609402643558
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Do hàn Se se schint's noch allewil gern, wie-n-ich
+                        hör?...
+
+        
+",35,lustig-im-julie-si-gheimniss,19,3,0.1578947368421052,0.3072453474862028,0.1065827403228205,1.2765316579021202,0.0931569051868441,1.5725974001815228,0.3625200485636119,0.4500094957877831,0.0,0.0609441778869391,0.6660415993909747,1.6360776118545588
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Worum denn nitt?... sage Sie's nur herzhaft!
+(fir sich)
+
+                        das kunnt jo wie g'wunsche
+(lüt)
+ 's macht mr g'wiss e
+                        rechte Freid.
+
+        
+",36,lustig-im-julie-si-gheimniss,34,6,0.1764705882352941,0.247948230813947,0.1065827403228205,1.3545678925491127,0.0798487758744378,1.742435896920448,0.2940084776446114,0.4500094957877831,0.0,0.0609441778869391,0.8783699840015821,1.7811846014752029
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Thüet Sie das wund're?
+
+        
+",36,lustig-im-julie-si-gheimniss,8,1,0.125,0.2802275231887198,0.1065827403228205,1.4491981583813245,0.1596975517488756,1.8862380805585448,0.3538950595504398,0.3770998921897733,0.0,0.0609441778869391,0.8783699840015821,1.8788495965770688
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ne wenig... wo-n-ich Sie ewe do atroffe ha, so ha-n-ich
+                        eso halwer denkt, ass se mich viellicht vergesse hat un
+                        jetz g'hirothe-n-isch un ass Sie dr Mann sin...
+
+        
+",36,lustig-im-julie-si-gheimniss,40,3,0.075,0.1023361731719526,0.1065827403228205,1.1580761113463016,0.1197731638116567,1.5986735446975786,0.1483603467934384,0.3770998921897733,0.0,0.0609441778869391,0.8783699840015821,1.6343332480199628
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Gottlob, nei, ich bin 'n nitt...
+
+        
+",36,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.1346154655467253,0.1065827403228205,0.9374958123914418,0.1996219396860946,1.2955594350533528,0.2082469286992668,0.1522213027587018,0.0,0.0609441778869391,0.5598395852420331,1.272241345447894
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oh!... Sie thien mr 's Lewe rette!
+
+        
+",37,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.1238557014218011,0.5046605487515902,1.3232601649204665,0.1730056810612819,1.687715318824604,0.1882847347306574,0.4517816056073692,0.0,0.0,0.7596825589615728,1.7545256333345964
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Sie freie sich viellicht z'g'schwind!
+
+        
+",37,lustig-im-julie-si-gheimniss,10,3,0.3,0.0753183488744696,0.5046605487515902,1.1089671653780546,0.1863138103736883,1.415000876251994,0.1397353577802664,0.4517816056073692,0.0,0.0,0.5473541743509655,1.5283389528185205
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Worum... isch se viellicht mit erne-n-Andre?...
+
+        
+",37,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.0430390564996969,0.5046605487515902,0.935493365994267,0.1064650344992504,1.1484996420311169,0.079848775874438,0.4517816056073692,0.0,0.0,0.5473541743509655,1.282545328390606
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Mit eme-n-And're, jà... awer nitt g'hirothe.
+
+        
+",37,lustig-im-julie-si-gheimniss,14,1,0.0714285714285714,0.0753183488744696,0.5046605487515902,1.1089671653780546,0.1863138103736883,1.4150008762519937,0.1397353577802664,0.4517816056073692,0.0,0.0,0.5473541743509655,1.5283389528185205
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Güeter junger Mensch!
+
+        
+",37,lustig-im-julie-si-gheimniss,7,3,0.4285714285714285,0.0537988206246211,0.5046605487515902,0.9933179657888628,0.133081293124063,1.2373333867714091,0.0998109698430474,0.4517816056073692,0.0,0.0,0.5473541743509655,1.364476536533244
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Sie... ne so ne rechtschaffene Person!... ah, wege dem
+                        heisst se jetz Julie... un er... isch's e schöner Mann?
+
+        
+",37,lustig-im-julie-si-gheimniss,29,2,0.0689655172413793,0.0537988206246211,0.0,0.289122998972979,0.133081293124063,0.4441687237014616,0.0998109698430474,0.0,0.0,0.0,0.0,0.4096560407131902
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Wenn ich ibildet wàr, thàt ich jo sage...
+
+        
+",38,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.0753183488744696,0.0,0.4047721985621706,0.1863138103736883,0.6218362131820461,0.1397353577802664,0.0,0.0,0.0,0.0,0.5735184569984664
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich selbst... mit Geld ka me-n-alles mache!
+
+        
+",38,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.091457995061856,0.0,0.4915090982540643,0.2262381983109072,0.7550868302924846,0.1696786487331806,0.0,0.0,0.0,0.0,0.6964152692124234
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich weiss nitt... awer 's juckt mr... ich thàt Ene gern
+                        ebbes ischla... ne paar Rippe züem Exempel...
+
+        
+",38,lustig-im-julie-si-gheimniss,23,1,0.0434782608695652,0.0591787026870832,0.3197482209684615,0.6787758942334918,0.1463894224364693,0.9582763146427276,0.1097920668273522,0.4566639082761057,0.0,0.1828325336608174,0.5156687947990071,1.0942155169184755
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Junger Mensch, das isch schön vo-n-Ihne... ich sieh
+                        scho, Sie hàn se noch allewil gern.
+
+        
+",38,lustig-im-julie-si-gheimniss,24,5,0.2083333333333333,0.0548747970371136,0.4898226244596374,0.9066988766779044,0.1357429189865442,1.222306734008003,0.1018071892399084,0.6919301459912458,0.0017209420426618,0.2538178812462188,0.8362279637334039,1.4415949161927193
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich?... ich veracht se... ich will nit meh vo-n-ere
+                        wisse!
+
+        
+",39,lustig-im-julie-si-gheimniss,18,1,0.0555555555555555,0.0548747970371136,0.4898226244596374,0.9066988766779044,0.1357429189865442,1.222306734008003,0.1018071892399084,0.6919301459912458,0.0017209420426618,0.2538178812462188,0.8362279637334039,1.4415949161927193
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Sie hàn se liewer as nur emol, das isch klar... mir
+                        känne-n-uns arrangiere, denn ich ha se nimmig gern.
+
+        
+",39,lustig-im-julie-si-gheimniss,28,4,0.1428571428571428,0.030665327756034,0.5697596797017528,0.8667786759808676,0.0758563370807159,1.1398534879851254,0.0568922528105371,0.8060961230602721,0.0017209420426618,0.2995260146614232,0.9651451624331556,1.4181481659052753
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Sie derfe mir glaüwe... mit dr Zit vergeht halt alles...
+                        ich wàr sogar froh, wenn ihre ne-n-Andrer dr Hof thàt
+                        mache.
+
+        
+",39,lustig-im-julie-si-gheimniss,30,5,0.1666666666666666,0.0995723370417948,0.7115720106772336,1.0080161950185669,0.0519017043183845,1.240444183548092,0.0389262782387885,1.0149852489976134,0.0017209420426618,0.2995260146614232,1.1191964529474026,1.5786098297250537
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Also halte Sie nimmig an ere?
+
+        
+",40,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,0.4959409456504388,0.3918237897087721,1.0238890168138748,0.2977727396804794,1.0864279975523303,0.0389262782387885,0.5583213407215079,0.0017209420426618,0.1166934810006057,0.6035276581483953,1.2072298078820132
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Nitt im g'ringste... geniere Sie sich nitt... wenn Sie
+                        se känne mitnàh, isch's mir desto liewer; 's isch noch
+                        allewil e schöne Person.
+
+        
+",40,lustig-im-julie-si-gheimniss,32,4,0.125,0.4975549102691774,0.2217493862175961,0.8867792464492071,0.3017651784742013,0.9168977382780048,0.04192060733408,0.3230551030063676,0.0,0.0457081334152043,0.4146846909878162,0.9714228883816538
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oh, wenn ich ere nur recht kännt d'Meinung sage...
+
+        
+",40,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.4975549102691774,0.5705095496042238,1.1083142670195891,0.3017651784742013,1.2881269282550956,0.04192060733408,0.3230551030063676,0.0,0.0457081334152043,0.4146846909878162,1.4043708161248645
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Das känne Se... se-n-isch dert in ihrem Zimmer... ich
+                        mach mich dervo
+(er geht hinte-n-üse).
+
+        
+",40,lustig-im-julie-si-gheimniss,27,1,0.037037037037037,0.521764379550257,0.4905724943621085,1.1482344677166263,0.3616517603800296,1.370580174277973,0.0868355437634513,0.2088891259373412,0.0,0.0,0.2857674922880644,1.427817566412308
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(allei)
+
+          
+Oh!... ich bin im e Züestand!... ich kenn mi nimmig!...
+                        d'Jumpfer Emma, sie, ne-n-Anderer!... ich sott se
+                        nimmig alüege... ich will glaüb liewer geh!
+(er geht
+                        gege dr Thüre-n-un kunnt wieder)
+ nei... se müess wisse,
+                        was ich vo-n-ere hake thüe...'s müess dert si, wo
+                        se-n-üseg'lüegt hat
+(er zeigt links un geht geh
+                        aklopfe.
+
+        
+",41,lustig-im-julie-si-gheimniss,87,5,0.057471264367816,0.4588145382074603,0.3487601633866276,0.9609635779917504,0.4058907556337118,1.1920165501790516,0.1119565483534245,0.0,0.1194022668813694,0.0,0.1317162017738176,1.2023397044128314
+comedy,EMMA,F,,,,"
+          
+Emma
+
+          
+(kunnt üse)
+
+          
+Eh tiens!... Sie, Herr Adolph!
+
+        
+",41,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.0785855757862027,0.7389111652162856,1.0254245427021602,0.1999441082088358,1.4579751714440217,0.1418998393063387,0.3365030941850697,0.1194022668813694,0.0,0.545917290407347,1.561103859203568
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(trucke)
+
+          
+Ich, jà... Adie!
+
+        
+",42,lustig-im-julie-si-gheimniss,10,1,0.1,0.0705157526925095,0.7389111652162856,1.540767611175006,0.1799819142402264,1.926423452342619,0.1269281938298816,0.3365030941850697,0.6675120066999058,0.0,0.4142010886335295,1.6025703452187705
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Alles, jà... denn wenn ich afange wott.
+
+          
+
+        
+",42,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.0705157526925095,0.390151001829658,1.3192325906046236,0.1799819142402264,1.5551942623655286,0.1269281938298816,0.3365030941850697,0.667512006699906,0.0,0.4142010886335294,1.1696224174755598
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Herr Adolph...
+
+        
+",42,lustig-im-julie-si-gheimniss,5,1,0.2,0.0705157526925095,0.390151001829658,1.3192325906046238,0.1799819142402264,1.5551942623655284,0.1269281938298816,0.3365030941850697,0.667512006699906,0.0,0.4142010886335294,1.1696224174755598
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Sie brücht mich nitt süeche z'ruckz'halte, 's isch
+                        unnöthig.
+
+        
+",42,lustig-im-julie-si-gheimniss,14,1,0.0714285714285714,0.048418938562159,0.390151001829658,1.2785290615999068,0.1197731638116567,1.4999165737910451,0.0898298728587427,0.3365030941850697,0.5481097398185366,0.0,0.4142010886335294,1.111741803441301
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Isch das jetz Ihre Freid, wo Sie hàn, ass Sie mich
+                        wieder sàhn?...
+
+        
+",42,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.0322792923747726,0.0,0.8374546797309739,0.0798487758744378,0.9182834199507164,0.0598865819058285,0.0,0.5481097398185366,0.0,0.0,0.4807637983596384
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Unglicklig macht's mi!... grine mächt i...
+
+        
+",42,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.0322792923747726,0.0,0.4811481375962199,0.0798487758744378,0.7284516274705019,0.0598865819058285,0.0,0.0,0.0,0.3295243503509793,0.5851432889426944
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oh!... worum isch Sie uf Milhüse ku!
+
+        
+",42,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.0322792923747726,0.0,0.7530991191476892,0.0798487758744378,1.1336030897818747,0.0598865819058285,0.3373178841466072,0.0,0.0,0.3295243503509793,1.0254448781212635
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Was macht Sie do un züe was wird Sie das noch fiehre!
+
+        
+",42,lustig-im-julie-si-gheimniss,15,2,0.1333333333333333,0.0,0.0,1.1938729174481846,0.0,1.660399809062821,1.6653345369377348e-16,0.3373178841466072,0.0,0.0,0.9941520912441744,1.4226390779703275
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Natirlig... un siter ass mir uns nimmig g'sàh hàn,
+                        ha-n-ich noch Fortschritte g'macht.
+
+        
+",43,lustig-im-julie-si-gheimniss,20,1,0.05,0.0,0.0,1.1938729174481846,0.0,1.660399809062821,1.6653345369377348e-16,0.3373178841466072,0.0,0.0,0.9941520912441744,1.4226390779703275
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Oh jà... schöne Fortschritte
+(lüt)
+ un Sie zahlt uf das,
+                        Jumpfer Julie?
+
+        
+",43,lustig-im-julie-si-gheimniss,22,5,0.2272727272727272,0.0647006815317522,0.0,1.384407369006024,0.0,1.8841859614875816,0.070236568721635,0.47224503780525,0.0,0.0,0.9941520912441744,1.6474075281790146
+comedy,EMMA,F,,,,"
+          
+Emma
+
+          
+(verwundert)
+
+          
+Jumpfer Julie?...
+
+        
+",43,lustig-im-julie-si-gheimniss,8,1,0.125,0.0647006815317522,0.0,1.0767330307935916,0.0,1.4222355682379564,0.070236568721635,0.47224503780525,0.0,0.0,0.6646277408931949,1.3080578636642344
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oder Emma, 's isch mr eithüen! .. un Sie will eso ne
+                        Lewe fiehre, Sie unvorsichtige Person! isch denn das
+                        e-n-Existenz?...
+
+        
+",43,lustig-im-julie-si-gheimniss,31,2,0.064516129032258,0.0647006815317522,0.2523302743757951,1.4634527921219145,0.0,1.745013997713756,0.070236568721635,0.3608179564623275,0.0,0.0,1.2734082186108933,1.64880468215789
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Sie jügiere mich streng fir eso ne Kleinigkeit.
+
+        
+",43,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.226452385361133,0.2523302743757951,1.0535903417807606,0.0,1.1060299629624606,0.2458279905257221,0.3608179564623275,0.0,0.0,0.6087804777176984,1.1274363942240604
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+E Kleinigkeit... lost Se, Jumpfer Emma, Sie brücht sich
+                        nitt süeche-n-üsz'rede... dr Andere, Sie weisst jo
+                        wohl, dr Alt', hat mr alles g'sàit!...
+
+        
+",44,lustig-im-julie-si-gheimniss,36,3,0.0833333333333333,0.226452385361133,0.2523302743757951,1.0535903417807606,0.0,1.1060299629624606,0.2458279905257221,0.3608179564623275,0.0,0.0,0.6087804777176984,1.1274363942240604
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Sin Se-n-ebbe jaloux... Sie hàn viellicht erfahre ass
+                        ich sott hirothe?
+
+        
+",44,lustig-im-julie-si-gheimniss,17,2,0.1176470588235294,0.1617517038293807,0.2523302743757951,0.8630558902229213,0.0,0.8822438105377003,0.1755914218040873,0.2258908028036846,0.0,0.0,0.6087804777176984,0.9026679440153732
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Hirothe?...
+(fir sich)
+ jo, ich weiss, uf was fir
+                        e-n-Art
+
+        
+",44,lustig-im-julie-si-gheimniss,20,3,0.15,0.5930895807077295,0.2523302743757951,1.5893836041722458,0.0,1.56384856874669,0.643835213281653,0.4507693922347561,0.0,0.0,0.6087804777176984,1.5205211003828156
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Wenn das isch, känne Sie rüehig si... grad wege dem bin
+                        ich jo vo d'heim furt.
+
+        
+",44,lustig-im-julie-si-gheimniss,22,1,0.0454545454545454,0.5930895807077295,0.0,0.9307128612924536,0.0,0.8359186769595179,0.643835213281653,0.2248785894310714,0.0,0.0,0.0,0.7394726927105907
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Wenn ich awer furt wàr, fir nàcher züe ebberem z'ku,
+                        wo-n-ich gern ha?
+
+        
+",45,lustig-im-julie-si-gheimniss,21,3,0.1428571428571428,0.539172346097936,0.1065827403228205,0.9828313439658156,0.0,0.9410442768997151,0.5853047393469574,0.3770998921897733,0.0,0.0609441778869391,0.1718895982663357,0.9134641379741968
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Sie hat ebber gern g'ha?
+
+        
+",45,lustig-im-julie-si-gheimniss,8,1,0.125,0.539172346097936,0.4263309612912821,1.3435719393290304,0.0,1.410734995470835,0.5853047393469574,0.833763800465879,0.0,0.2437767115477566,0.6875583930653429,1.5570580101081632
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Natirlig, Sie undankbarer Mensch as Se sin!
+
+          
+
+        
+",45,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.539172346097936,0.426330961291282,2.069137744481456,0.0,2.14813067788118,0.5853047393469574,0.833763800465879,0.0,1.0350640570219594,0.6875583930653429,1.8173153097824024
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Mich? ... isch's möglig!
+(fir sich)
+ Sie will mich wieder
+                        ins Netz locke... awer ich will gar nimmig eso dumm si.
+
+        
+",45,lustig-im-julie-si-gheimniss,30,3,0.1,0.2156689384391744,0.649274078901249,1.6515505755165971,0.0,1.76513379307018,0.234121895738783,0.6886273466252311,0.0,1.2034898913732863,0.6875583930653429,1.5420004716718296
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Un ich ha-n- Unrecht g'ha, ich sieh scho... Sie hàn mich
+                        vergesse...
+
+        
+",45,lustig-im-julie-si-gheimniss,18,1,0.0555555555555555,0.2156689384391744,0.649274078901249,1.6515505755165971,0.0,1.76513379307018,0.234121895738783,0.6886273466252311,0.0,1.2034898913732863,0.6875583930653429,1.5420004716718296
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich Sie vergesse!... wo d'ganze Zit an nit anders denk
+                        as an Sie!
+
+        
+",46,lustig-im-julie-si-gheimniss,19,4,0.2105263157894736,0.1078344692195872,0.5426913385784286,1.5202893899285386,0.0,1.7006009247007878,0.1170609478693916,0.6522224788434003,0.0,1.142545713486347,0.5156687947990072,1.481690862174326
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+G'wiss... Sie hàn mich noch gern?
+
+        
+",46,lustig-im-julie-si-gheimniss,10,1,0.1,0.1078344692195872,0.5426913385784284,1.5202893899285388,0.0,1.7006009247007878,0.1170609478693916,0.6522224788434003,0.0,1.142545713486347,0.5156687947990072,1.481690862174326
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Natirlig... un wenn Sie mich in dem Alte will vorzieh,
+                        so leg ich Ihre mi Person, mine Nàihmaschine un mi
+                        Zimmer z'Fiesse.
+
+        
+",46,lustig-im-julie-si-gheimniss,29,2,0.0689655172413793,0.1078344692195872,0.5426913385784284,1.1138537507326147,0.0,1.412476795776724,0.1170609478693916,0.6522224788434003,0.0,0.3512583680121444,0.9934643929383306,1.6929602638214925
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Nodem was i erfahre ha?... merci.
+
+        
+",46,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.1617517038293807,0.3197482209684615,1.0094983530912782,0.0,1.2681828411292626,0.1755914218040873,0.5724803432529768,0.0,0.1828325336608174,0.9934643929383306,1.4720414819077716
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Bàh!... verstell Di doch nimmig... 's isch unnöthig
+                        zwische-n-uns ... mr känne-n-is jo gern ha, ohne
+                        z'hirothe.
+
+        
+",46,lustig-im-julie-si-gheimniss,29,1,0.0344827586206896,0.1617517038293807,0.6394964419369231,1.3702389484544932,0.0,1.7378735597003825,0.1755914218040873,1.0291442515290825,0.0,0.3656650673216349,1.5091331877373375,2.1156353540417383
+comedy,EMMA,F,,,,"
+          
+Emma
+
+          
+(zornig)
+
+          
+Un Sie traüe mir eso ebbes z'sage?... wenn Sie fir das
+                        ku sin, so känne Se wieder geh... 's isch fertig
+                        zwische-n-uns!...
+
+        
+",47,lustig-im-julie-si-gheimniss,35,3,0.0857142857142857,0.5903331966265724,0.6394964419369231,1.7050254338828243,0.0,1.850645687863008,0.5313400478491623,0.9133278165522114,0.0,0.3656650673216349,1.5091331877373375,2.006445862639537
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(allei)
+
+          
+Wie die sich verstelle ka!... awer 's isch eithüen...
+                        ich verwitsch se doch...
+
+        
+",47,lustig-im-julie-si-gheimniss,21,1,0.0476190476190476,0.7008172672783248,0.3197482209684615,1.5478024835431938,0.3010437521428484,1.6573434121643047,0.7168316527048567,0.4566639082761057,0.5970113344068471,0.1828325336608174,0.9934643929383306,1.6522550606768651
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(kunnt hinte-n-ine)
+
+          
+Oho!... ne Herr do bi mir?...
+
+        
+",47,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.7330965596530975,0.3197482209684615,1.40214611697048,0.3808925280172863,1.4745730928989,0.7767182346106851,0.4566639082761057,0.5970113344068471,0.1828325336608174,0.5156687947990072,1.4265219837833738
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Güet!... do kunnt am End noch Einer.
+
+        
+",47,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.5713448558237169,0.3197482209684615,1.1977609696273508,0.3808925280172863,1.320259174148372,0.6011268128065981,0.4566639082761057,0.5970113344068471,0.1828325336608174,0.5156687947990072,1.304902447440225
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Eh, tiens, das G'sicht sott ich kenne!...
+
+        
+",47,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.5713448558237169,0.3901510018296579,1.1913578564411749,0.3808925280172863,1.2989509923071425,0.6011268128065981,0.3365030941850697,0.5970113344068471,0.0,0.4142010886335295,1.1693897681739642
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ah, ah... hà mir nitt e Mariage g'macht gestert z'Nacht
+                        mitnander?
+
+        
+",48,lustig-im-julie-si-gheimniss,17,2,0.1176470588235294,0.1427633630265252,0.3901510018296579,0.7313289265844113,0.3808925280172863,0.991272213823184,0.245378186761523,0.3365030941850697,0.5970113344068471,0.0,0.4142010886335295,1.0432778874669144
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oh, ich!... 's isch e ganze G'schichte... ne Jumpfre,
+                        wo-n-ich atroffe ha do...
+
+        
+",48,lustig-im-julie-si-gheimniss,23,1,0.0434782608695652,0.0322792923747727,0.3901510018296579,1.028781059274557,0.0798487758744378,1.4945103722360995,0.0598865819058285,0.7997688340925538,0.0,0.0,0.4142010886335295,1.695080305732624
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oder e junge Dame... doch, das thàt Sie wenig
+                        intressiere... drum lewe Se wohl...
+(er geht gege dr
+                        Thüre).
+
+          
+
+        
+",48,lustig-im-julie-si-gheimniss,28,5,0.1785714285714285,0.0,0.491083111579976,0.9961462532539462,0.0,1.3866420706292124,1.7763568394002506e-16,0.8901251552140279,0.0,0.0,0.5236719235037226,1.6402507804687203
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(haltet ne z'ruck)
+
+          
+Im Gegetheil... erlaüwe Se... ne junge Dame? ich hör
+                        gern eso G'schichtle... un wenn's kei G'heimniss wàr...
+
+        
+",48,lustig-im-julie-si-gheimniss,30,5,0.1666666666666666,0.1369303998597057,0.5550327557736683,1.265092039933396,0.0985823104826664,1.5944333106259712,0.1890151499654327,0.981457936869249,0.0,0.2422009784991461,0.626805682463524,1.84970779957496
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Gar nitt... ich bi vorig vor em Hüs verbi un ha par
+                        hasard ufeg'lüegt un sieh-n-ewe die Jumpf're, ne alte
+                        Bekanntschaft vo mir... natirlig bin i halt glich do
+                        ane ku un wer triff i a? rothe Se-n-emol.
+
+        
+",49,lustig-im-julie-si-gheimniss,49,4,0.0816326530612244,0.1369303998597057,0.1648817539440103,0.9107545577563568,0.0985823104826664,1.146050773896081,0.1890151499654327,0.6449548426841791,0.0,0.2422009784991461,0.2126045938299945,1.3416266067072544
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was fir e Liebhawer?
+
+        
+",49,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,0.4604338075184673,0.1648817539440103,1.3195248524426153,0.0985823104826664,1.4546786113971373,0.5401979935736069,0.6449548426841792,0.0,0.2422009784991461,0.2126045938299945,1.5848656793935514
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Dà wo se-n-unterhaltet... e-n-Alter, wo mich derno hat
+                        afange-n-üsfroge... ich ha die Bekanntschaft ewe-n-in
+                        Strossburg g'macht.
+
+        
+",49,lustig-im-julie-si-gheimniss,30,3,0.1,0.4604338075184673,0.1648817539440103,0.9095292187728587,0.0985823104826664,0.833611368482638,0.5401979935736069,0.1816891027766949,0.0,0.2422009784991461,0.4105974543863461,0.8100662486466581
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Die vom Alte?
+
+        
+",50,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.4604338075184673,0.0639496441936922,0.7686902254096819,0.0985823104826664,0.6749784358686484,0.5401979935736069,0.0913327816552211,0.0,0.2422009784991461,0.3011266195161529,0.6191021494826473
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Nei.. die vo dr Jumpfer Julie.
+
+        
+",50,lustig-im-julie-si-gheimniss,10,1,0.1,0.3235034076587615,0.0,0.4997444387302321,0.0,0.4671871958718895,0.3511828436081744,0.0,0.0,0.0,0.1979928605563515,0.4096451303764079
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Emma in Strossburg un Julie in Milhüse... 's isch e
+                        Trüc... Sie merke's jo wohl?
+
+        
+",50,lustig-im-julie-si-gheimniss,21,1,0.0476190476190476,0.3235034076587615,0.0,0.4997444387302321,0.0,0.4671871958718895,0.3511828436081744,0.0,0.0,0.0,0.1979928605563515,0.4096451303764079
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(fir sich)
+
+          
+'s laüft mr ganz heiss dr Ricke-n-ufe!
+
+        
+",50,lustig-im-julie-si-gheimniss,15,3,0.2,0.1078344692195872,0.0,0.3586367981920189,0.0,0.4659337218424849,0.1170609478693916,0.121516005996683,0.0,0.0,0.1979928605563515,0.4943667974622903
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+'s isch possig, nitt wohr?... un lose Se nur... dr Alt
+                        hat mr g'sàit, er thàt nimmig an ere halte, ich kännt
+                        si Platz ha, wenn ich wott.
+
+        
+",50,lustig-im-julie-si-gheimniss,38,2,0.0526315789473684,0.3060187735239091,0.0,0.4559693627273066,0.1229355176810474,0.4652116297593308,0.1170609478693916,0.121516005996683,0.0,0.0,0.0,0.4640676649176424
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was isch das fir e-n-alter Judas gsi?
+
+        
+",51,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.4677704773532899,0.0,0.7968157261363966,0.1229355176810474,0.8573645860661092,0.2926523696734787,0.121516005996683,0.0,0.0,0.2969892908345273,0.8352962877959571
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Un ich, wo g'meint ha, d'Jumpfer Emma seig d'Unschuld
+                        selbst!... ich, wo se ha welle hirothe!
+
+        
+",51,lustig-im-julie-si-gheimniss,26,2,0.0769230769230769,0.4677704773532899,0.0,0.7968157261363966,0.1229355176810474,0.8573645860661092,0.2926523696734787,0.121516005996683,0.0,0.0,0.2969892908345273,0.8352962877959571
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Also isch's denn e Jumpfer Emma, wo Sie vo-n-ere rede?
+
+        
+",51,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.4677704773532899,0.0,0.7968157261363966,0.1229355176810474,0.8573645860661092,0.2926523696734787,0.121516005996683,0.0,0.0,0.2969892908345273,0.8352962877959571
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oder Julie... wil's d'Gliche-n-isch... ich bi z'erst
+                        rasend gsi... awer wo-n-i derno-n-allei bi-n-ere gsi
+                        bi...
+
+        
+",51,lustig-im-julie-si-gheimniss,32,3,0.09375,0.5800095352058531,0.4633539904992066,1.0360561361588392,0.3408668277848492,1.0582854046434025,0.4703335733941438,0.0,0.47833587807642,0.2927577208335142,0.3804451476069359,0.9174528761312718
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ah, ihr sin allei gsi mitnander!
+
+        
+",52,lustig-im-julie-si-gheimniss,10,2,0.2,0.4370672662274072,0.4633539904992066,0.9495082500913702,0.3684531861752259,1.0386423597919316,0.5630793758219911,0.0,0.7768415452798434,0.2927577208335142,0.3804451476069359,0.926047486071456
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Jo, un noch ziemlig lang... un do känne Se halt wohl
+                        denke, ass ich alles wieder vergesse ha... 's isch doch
+                        noch allewil e schöne Person...
+
+        
+",52,lustig-im-julie-si-gheimniss,33,7,0.2121212121212121,0.2753155623980265,0.4633539904992066,0.6688158078413623,0.3684531861752259,0.7131800299285951,0.3874879540179039,0.0,0.7768415452798434,0.2927577208335142,0.1587222577860187,0.6302790242271662
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(fir sich)
+
+          
+Soll ich ne-n-umbringe!...
+
+        
+",52,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.4370672662274072,0.4633539904992066,0.8732009551844916,0.3684531861752259,0.8674939486791231,0.5630793758219911,0.0,0.7768415452798434,0.2927577208335142,0.1587222577860187,0.7518985605703147
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+'s isch si noch allewil dr Werth...
+
+        
+",52,lustig-im-julie-si-gheimniss,10,1,0.1,0.4370672662274072,0.4633539904992066,1.2942784032980668,0.3684531861752259,1.3343283337832146,0.5630793758219911,0.0,0.7768415452798434,0.2927577208335142,0.6855870648812895,1.2801196878084888
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(heftig.)
+
+          
+Un Sie meine, das Ding geht eso...
+
+        
+",52,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.216993739155257,0.0,1.3241993629574298,0.1505218760714242,1.2232146776425494,0.2683372242319345,0.0,0.2985056672034235,0.4620224284620968,0.602131208108881,1.1381179437161897
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Wil dr Alt' z'friede-n-isch...
+
+          
+
+        
+",52,lustig-im-julie-si-gheimniss,10,2,0.2,0.1617517038293807,0.514310049006283,1.522506272570048,0.0,1.725197370856112,0.1755914218040872,0.3386307946531863,0.0,0.4620224284620968,0.9560474205762738,1.7292647774552643
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Er hat g'loge!... 's isch e Schurk!... das isch
+                        e-n-ehrlige Persan, ass Sie's nur wisse... un dà, wo
+                        sich g'riehmt hat... oh!... ich wott ne nur sàh... ich
+                        wott ne gern do ha, fir em e paar Wort z'sage...
+(dr
+                        Herr Rothfuchs kuunt hinte-n-ine).
+
+        
+",53,lustig-im-julie-si-gheimniss,68,4,0.0588235294117647,0.2506973788377643,0.5942471042483983,1.698098523769281,0.0199621939686094,1.9197116919859332,0.2783587781825879,0.4527967717222127,0.0,0.5077305618773011,1.0096982182624152,1.936961258733284
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(fir sich)
+
+          
+Mi Patron!
+
+        
+",53,lustig-im-julie-si-gheimniss,8,2,0.25,0.2506973788377643,0.5942471042483983,1.903630544394042,0.0199621939686094,2.3161925299982222,0.2783587781825879,0.4527967717222127,0.0,0.5077305618773011,1.2872348048710172,2.2026489927116337
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Aha, bisch Dü scho wieder do owe, Fritz, desto besser
+                        dasmol.
+
+        
+",53,lustig-im-julie-si-gheimniss,18,1,0.0555555555555555,0.282976671212537,0.5942471042483983,1.6560268956642543,0.0998109698430472,2.1158593791150078,0.3382453600884163,0.4527967717222127,0.0,0.5077305618773011,0.7603699977757465,1.9202214899013736
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Se kenne sich?...
+
+        
+",53,lustig-im-julie-si-gheimniss,10,1,0.1,0.6064800788712986,0.5942471042483983,1.5279731665206622,0.0998109698430472,2.0273056907077835,0.6894282036965905,0.4527967717222127,0.0,0.0457081334152043,0.7603699977757465,1.8953449785724763
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Was isch jetz, junger Mensch, hàn Se reüssiert?... Sie
+                        känne rede vor ihm, 's isch mi G'schàftsfiehrer.
+
+        
+",54,lustig-im-julie-si-gheimniss,26,2,0.0769230769230769,0.622619725058685,0.0799370552421153,1.314644334088145,0.1397353577802662,1.520379393168451,0.7193714946495048,0.1141659770690264,0.0,0.0457081334152043,0.4064537853083537,1.2823934219617106
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ah, Sie sin si Herr Patron... wege dem hat er's nitt
+                        welle glaüwe...
+
+        
+",54,lustig-im-julie-si-gheimniss,19,2,0.1052631578947368,0.5498136962376877,0.0,1.3711670820464847,0.1596975517488756,1.7889059007179149,0.6465474292239184,0.0,0.0,0.0,0.555073173217204,1.3878213258419732
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Was glaüwe?
+
+        
+",54,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.4203412847830797,0.0,1.1347237134623818,0.2395463276233135,1.5046123781759753,0.5308425893256594,0.0,0.0,0.0,0.277536586608602,1.246307679948389
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was wànn Se halt, Herr Rothfuchs, ich ha halt nitt
+                        denkt... stelle Sie sich an mi Platz.
+
+        
+",54,lustig-im-julie-si-gheimniss,23,4,0.1739130434782608,0.3961318155020002,0.0,1.0046183639245412,0.1796597457174851,1.3047364525103176,0.4859276528962882,0.0,0.0,0.0,0.277536586608602,1.0619624616274534
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Scho güet... scho güet.
+(züem Adolph)
+ Sin Se
+                        vorag'ruckt... marschiert das Ding?
+
+        
+",54,lustig-im-julie-si-gheimniss,21,3,0.1428571428571428,0.0833881719681628,0.0,0.6536726690328785,0.2062760043422977,1.0849423597495536,0.1547070032567234,0.0,0.0,0.0,0.277536586608602,0.9006545970837943
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich ha mi nitt z'beklage... se hat mich gern... 's isch
+                        nur, fir mich wiederz'sàh, ass se vo Strossburg furt
+                        isch... 's isch mr Leid, ass ich Ihne das sage müess.
+
+        
+",55,lustig-im-julie-si-gheimniss,41,3,0.073170731707317,0.4342400610984426,0.1065827403228205,1.1501776764568743,0.4208112488861006,1.3588016307009372,0.4838087178943051,0.1522213027587018,0.2287759861248974,0.0609441778869391,0.4494261848749377,1.1190145204860162
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Nur furtg'macht... Hörsch's, Fritz?...
+
+        
+",55,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.450379707285829,0.1065827403228205,1.0313825555240073,0.4607356368233195,1.0955714097990872,0.5137520088472193,0.1522213027587018,0.2287759861248974,0.0609441778869391,0.1718895982663357,0.9762235987216236
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Un ich los dem Ding eso züe!
+
+        
+",55,lustig-im-julie-si-gheimniss,10,1,0.1,0.4181004149110562,0.8247114170712871,1.630023575979579,0.3808868609488817,1.7443749709980714,0.4538654269413909,0.8196655053153517,0.2287759861248974,0.5831200602177602,0.5911628958191752,1.6853529962899785
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Un 's End... wie isch's üsg'falle?...
+
+        
+",55,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.4423098841921358,0.8247114170712871,1.7601289255174195,0.4407734428547101,1.9442508966637289,0.4987803633707622,0.8196655053153517,0.2287759861248974,0.5831200602177602,0.5911628958191752,1.869698214610914
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+'s isch no nitt ganz fertig, awer sie kunnt doch noch
+                        mit mr...
+
+        
+",55,lustig-im-julie-si-gheimniss,16,1,0.0625,0.4315501200672115,0.8247114170712871,2.096521993480702,0.4141571842298974,2.468912404837335,0.4788181694021527,1.184213523305401,0.2287759861248974,0.5831200602177602,0.5911628958191752,2.528410153098517
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+'s isch gar kei Red dervo... se geht nitt mit Ene... Das
+                        sin Dummheite!
+
+        
+",56,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.0645585847495454,0.7181286767484666,1.5132800863648117,0.1596975517488756,2.0618025167755127,0.1197731638116569,1.031992220546699,0.0,0.522175882330821,0.4192732975528394,2.187153417482338
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Wenn ich se hätt welle hirothe, so wàr se doch scho
+                        ku!
+
+        
+",56,lustig-im-julie-si-gheimniss,16,1,0.0625,0.0322792923747727,0.7181286767484666,1.3398062869810243,0.0798487758744378,1.795301282554636,0.0598865819058285,1.031992220546699,0.0,0.522175882330821,0.4192732975528394,1.941359793054424
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Sie hat mir's uf jedefall proposiert!
+
+        
+",56,lustig-im-julie-si-gheimniss,10,1,0.1,0.0322792923747727,0.0,1.1115934302446036,0.0798487758744378,1.6902994117575207,0.0598865819058285,1.0391837862832636,0.0,0.0,0.0,1.8670399494152936
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Hörsch's, Fritz!
+
+        
+",56,lustig-im-julie-si-gheimniss,8,1,0.125,0.0322792923747727,0.0,1.111593430244603,0.0798487758744378,1.6902994117575207,0.0598865819058285,1.0391837862832636,0.0,0.0,0.0,1.8670399494152936
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Isch das jetz nitt züem wild werde!
+
+        
+",56,lustig-im-julie-si-gheimniss,10,1,0.1,1.0374727991995825,0.6249423779122375,1.7263045891874562,0.7764097459745808,1.8249698777893413,0.9236302832480644,0.9927280234506184,0.8673355840714198,0.8688145361610491,0.5231434609613501,1.43758820292508
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Junger Mensch, mache Se, ass das Ding emol fertig
+                        wird... nàmme Sie se mit Sturm i!
+
+          
+
+        
+",56,lustig-im-julie-si-gheimniss,23,3,0.1304347826086956,1.3084898629987465,0.6249423779122375,2.120195377697793,0.8030260045993934,2.2121908550108125,0.943592477216674,0.9927280234506184,0.8673355840714198,0.8688145361610491,0.5231434609613501,1.6814886960740378
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(fir sich)
+
+          
+Kanallie vo Patron!
+
+        
+",56,lustig-im-julie-si-gheimniss,9,2,0.2222222222222222,1.4702415668281268,0.6249423779122375,2.530112545665684,0.8030260045993934,2.762985611773629,1.119183899020761,0.9927280234506184,0.8673355840714198,0.8688145361610491,0.800680047569952,2.068795966395536
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Wenn's Ene recht isch, so will ich nur g'schwind geh ne
+                        Nàihmaschine placiere, wo-n-i versproche ha... derno
+                        kumm i wieder... i will mi züe glicher Zit o ne wenig
+                        lo frisiere... awer lehn Se kei Andrer ku, denn ich bi
+                        sicher, ass ich reüssiere thüe!
+
+        
+",57,lustig-im-julie-si-gheimniss,58,7,0.1206896551724138,1.5212327339509573,0.7291040735909142,2.0565411023018245,0.8521892728520426,1.997182964465677,1.2024846491846888,0.3180922551574038,0.950614782263464,0.9174377228608448,0.8307580336620877,1.2293563179874476
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich verlang nitt mehr... kämme Se nur glich wieder
+
+        
+",57,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,1.5050930877635709,0.7291040735909142,1.969804202609931,0.8122648849148236,1.8639323473552387,1.1725413582317747,0.3180922551574038,0.950614782263464,0.9174377228608448,0.8307580336620877,1.1064595057734905
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(fir sich)
+
+          
+Ich bi ganz rasend vor Zorn!... un das isch mi Patron,
+                        wo mir das macht!...
+
+        
+",57,lustig-im-julie-si-gheimniss,25,6,0.24,0.6454395673093378,0.2486677727993743,1.4336826230598358,0.1744956111761067,1.6645977187810346,0.4837839391433137,0.0607580029983415,0.2229452481624462,0.1950020471165528,0.5516961467401357,1.2208075930119549
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Was sàisch jetz züe dem, Fritz?...
+
+        
+",58,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.4067017958849467,0.2486677727993743,1.213265633933286,0.2277281284257319,1.5438779757804406,0.5237083270805327,0.0607580029983415,0.2229452481624462,0.1950020471165528,0.5516961467401357,1.2227007242909116
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Lehn Se mich in Rüeh... Sie sin e Judas vo me
+                        Patron...
+
+        
+",58,lustig-im-julie-si-gheimniss,16,2,0.125,0.244950092055566,0.2486677727993743,1.0088804865901568,0.2277281284257319,1.3895640570299124,0.3481169052764455,0.0607580029983415,0.2229452481624462,0.1950020471165528,0.5516961467401357,1.1010811879477629
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Unglickliger!... Dü machsch mir Vorwirf, wil ich Dich
+                        ve-n-ere Intriguantene befreie will... wil ich Dich
+                        süech uf e besserer Weg z'bringe!
+
+        
+",58,lustig-im-julie-si-gheimniss,32,6,0.1875,0.1993388069951978,0.4931897496363201,1.3484420984978385,0.1918729894854891,1.9756664815115428,0.3888428307268459,0.1731972977138772,0.2688168492253522,0.3056440597965316,0.5216181606480002,1.6895059750847772
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Uf e schlechter bringe Se mi... denn schaüe Se doch nei,
+                        's ka nitt si... 's Julie isch unschuldig... ich thàt
+                        mi Hand ins Fir lege.
+
+        
+",58,lustig-im-julie-si-gheimniss,33,4,0.1212121212121212,0.2640750127225019,0.4931897496363201,1.499873263253244,0.1519486015482702,2.1221485549320547,0.4466952506759753,0.3418562397871808,0.2688168492253522,0.3056440597965316,0.5216181606480002,1.8475697256316792
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Fritz, Dü bisch e Simpel!
+
+        
+",59,lustig-im-julie-si-gheimniss,10,2,0.2,0.1346746725393116,0.3486836725156225,1.1138029157945024,0.1330812931240629,1.7065680816709778,0.3016522593751146,0.2810982367888393,0.1291507992549501,0.1592651993797744,0.277536586608602,1.5449270504671446
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich will's du reste z'Red stelle..
+
+        
+",59,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.1023953801645388,0.3486836725156225,0.940329116410715,0.0532325172496251,1.4400668474501013,0.2417656774692861,0.2810982367888393,0.1291507992549501,0.1592651993797744,0.277536586608602,1.2991334260392304
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Vor mir awer... ich bi's z'friede.
+
+        
+",59,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.1185350263519252,0.6014809671351886,0.9667253552509634,0.093156905186844,1.519765484205968,0.2717089684222004,0.6197290314420256,0.1291507992549501,0.1592651993797744,0.3539162124673927,1.6013563700080429
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Nei... nei... alleinig... ich bitt Sie drum.
+
+        
+",59,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.113155144289463,0.2527972946195661,1.3560071539170182,0.0798487758744377,1.3202960869204057,0.1476822928078721,0.5072897367264899,0.6361845103148076,0.0,0.3539162124673927,1.3555818484011593
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ass Dü Dich wieder iwerschwàtze losch vo-n-ere? nix
+                        do... vor mir... ich will's ha... güet, do isch se...
+
+        
+",59,lustig-im-julie-si-gheimniss,30,2,0.0666666666666666,0.048418938562159,0.2527972946195661,1.2045759891616126,0.1197731638116566,1.1738140134998931,0.0898298728587427,0.3386307946531864,0.6361845103148076,0.0,0.3539162124673927,1.1975180978542572
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(kunnt ine rechts).
+
+          
+Dispetiere-n-ihr denn noch allewil mitnander?
+
+        
+",59,lustig-im-julie-si-gheimniss,15,2,0.1333333333333333,0.0322792923747727,0.2527972946195661,1.3283778135265063,0.0798487758744377,1.2739805889415006,0.0598865819058285,0.3386307946531864,0.6361845103148076,0.0,0.6173486160150281,1.3387318492593874
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Kàm Se-n-emol do ane, Jumpfer Julie.
+
+        
+",60,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.048418938562159,0.2527972946195661,1.4151147132184003,0.1197731638116566,1.407231206051939,0.0898298728587427,0.3386307946531864,0.6361845103148076,0.0,0.6173486160150281,1.4616286614733442
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Julie, was geht eigentlig vor?... Dü hasch dà Morge ne
+                        Visite biku?...
+
+        
+",60,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.0322792923747727,0.0,1.183186453753391,0.0798487758744377,0.9310517312837838,0.0598865819058285,0.0,0.6361845103148076,0.0,0.2634324035476354,0.8937179835261823
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Vom e junge Mensch... Se brücht's nitt z'làigne, mir sin
+                        sicher.
+
+        
+",60,lustig-im-julie-si-gheimniss,19,3,0.1578947368421052,0.0430390564996969,0.0,0.4418371232351705,0.1064650344992503,0.5887521715132149,0.079848775874438,0.0,0.0,0.0,0.2634324035476354,0.591835396189639
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(fir sich)
+
+          
+'s hat schint's ebber 's Emma sàh aku?...
+
+        
+",60,lustig-im-julie-si-gheimniss,16,1,0.0625,0.3504028179710722,0.0,0.7638705182295353,0.0665406465620314,0.7641293919038324,0.401088328529698,0.0,0.0,0.0,0.2634324035476354,0.712177656661979
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Se wird roth!
+
+        
+",60,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,0.3826821103458449,0.0,0.7268055935565353,0.1463894224364693,0.7972134335726636,0.4609749104355264,0.0,0.0,0.0,0.0,0.693860717470806
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Wil ihr's wisse, so sag ich nitt nei.
+
+        
+",60,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.3665424641584585,0.5230255087734338,0.9498174385672318,0.1064650344992503,1.2584589304463334,0.4310316194826122,0.0,0.0,0.0,0.0,1.1526329114398846
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+So, so! un er isch schint's lang bi Dr gsi?...
+
+        
+",61,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.3665424641584585,0.5230255087734338,0.9498174385672318,0.1064650344992503,1.2584589304463334,0.4310316194826122,0.0,0.0,0.0,0.0,1.1526329114398846
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Un er hat Dir dr Hof g'macht!
+
+        
+",61,lustig-im-julie-si-gheimniss,10,2,0.2,0.3557827000335342,0.5230255087734338,0.891992838772636,0.0798487758744377,1.1696251857060411,0.4110694255140028,0.0,0.0,0.0,0.0,1.0707017032972463
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+'s isch unnöthig, ass Se sich verstellt... mr
+                        wisse-n-alles!
+
+        
+",61,lustig-im-julie-si-gheimniss,17,2,0.1176470588235294,0.2416402671081853,0.5230255087734338,0.8801651140970617,0.1197731638116566,1.1854976476517964,0.3776902194681288,0.0,0.4541358436234834,0.0,0.0,1.1350369711291015
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(fir sich)
+
+          
+Das sin wieder d'böse Miler gsi, wo das ufbrocht hàn.
+
+        
+",61,lustig-im-julie-si-gheimniss,18,2,0.1111111111111111,0.7452253957949873,0.5230255087734338,1.328094594604451,0.4066176033315122,1.3477420513893938,0.8264456038173709,0.0,0.7829357613884271,0.0,0.0,1.1101775211512783
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+So isch's denn wohr, ass Dü ne gern hasch!
+
+        
+",61,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.7452253957949873,0.1598741104842307,1.198716147583468,0.4066176033315122,0.9880912966908454,0.8264456038173709,0.2283319541380529,0.7829357613884271,0.0914162668304087,0.2578343973995036,0.850305451035226
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(lacht)
+
+          
+Eh jo... ich versteck's jo gar nitt, ass ich dà junge
+                        Mensch gern ha.
+
+        
+",61,lustig-im-julie-si-gheimniss,22,5,0.2272727272727272,0.7452253957949873,0.3798841554097863,1.5569694147295243,0.4066176033315122,1.3615408771087063,0.9641979523318168,0.4542659734673019,0.7829357613884271,0.1279827735625722,0.5266485918127168,1.280290416626619
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Allons... se-n-isch doch ufrichtig...
+
+        
+",62,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.7613650419823735,0.3798841554097863,1.643706314421418,0.4465419912687312,1.494791494219145,0.9941412432847312,0.4542659734673019,0.7829357613884271,0.1279827735625722,0.5266485918127168,1.4031872288405758
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Un Du grinsch, Dü alter Esel!...
+
+        
+",62,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.5681437134363472,0.3798841554097863,1.469961860168588,0.4465419912687311,1.5413808494390222,0.7062808966753449,0.4542659734673019,0.3287999177649436,0.1279827735625722,0.8236378826472441,1.4681187870715466
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(lacht)
+
+          
+Oh I wie sin ihr doch beide-n-eso dumm!
+
+        
+",62,lustig-im-julie-si-gheimniss,15,2,0.1333333333333333,0.0322792923747727,0.3798841554097863,0.8485585802774114,0.0798487758744377,1.112635211480548,0.1976389304202746,0.4542659734673019,0.0,0.1279827735625722,0.8236378826472441,1.247184612621456
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Jumpfer Julie!
+
+        
+",62,lustig-im-julie-si-gheimniss,6,2,0.3333333333333333,0.048418938562159,0.2200100449255555,0.7549251822876976,0.1197731638116566,1.0110404693054265,0.2275822213731888,0.225934019329249,0.0,0.0365665067321634,0.5658034852477405,1.04828448876843
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ich hätt eüch grad in eürem Irrthum sotte lo... uf
+                        jedefall, wenn ich red', so isch's nitt wege-n-Ihne..
+                        's isch nur wege-n-em Fritz, wo-n-ich nitt unglicklig
+                        ka sàh.
+
+        
+",62,lustig-im-julie-si-gheimniss,43,3,0.0697674418604651,0.1673983285154296,0.243043956583579,0.74207711556714,0.2344874564011712,1.0115258441629986,0.2841982899079078,0.2248785894310714,0.1943181291147695,0.1134541022995233,0.3671712583828438,1.007882152510535
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(fir sich)
+
+          
+Se süecht e-n-Üsred.
+
+        
+",63,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.3291500323448104,0.243043956583579,0.9464622629102692,0.2344874564011712,1.1658397629135266,0.459789711711995,0.2248785894310714,0.1943181291147695,0.1134541022995233,0.3671712583828438,1.1295016888536833
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Eh bien, dà junge Mensch, wo-n-eüch eso z'schaffe git,
+                        isch... e Jumpfre!
+
+        
+",63,lustig-im-julie-si-gheimniss,22,2,0.0909090909090909,0.313010386157424,0.633194958413237,1.077601629329454,0.1945630684639523,1.2431326449767284,0.4298464207590807,0.5613816836161412,0.1943181291147695,0.1134541022995233,0.4843830561818461,1.2650769829722657
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Wie das güet g'funde-n-isch!
+
+        
+",63,lustig-im-julie-si-gheimniss,10,2,0.2,0.3291500323448104,0.633194958413237,1.1643385290213475,0.2344874564011712,1.3763832620871668,0.459789711711995,0.5613816836161412,0.1943181291147695,0.1134541022995233,0.4843830561818459,1.3879737951862228
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(fir sich)
+
+          
+Alles derf i awer doch nitt sage...
+(lüt)
+ eine vo mine
+                        Frindine, wo reist, un fir nitt belästigt z'werde, hat
+                        se sich....
+
+        
+",63,lustig-im-julie-si-gheimniss,35,4,0.1142857142857142,0.6365137938161857,0.633194958413237,1.6459370069939634,0.1945630684639523,1.7763962592209253,0.7810292643672551,0.5613816836161412,0.1943181291147695,0.1134541022995233,0.7232808552515078,1.7440794063192655
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Fir die Erfindung bekunnt Se kei Brevet... das packt
+                        nitt!
+
+        
+",64,lustig-im-julie-si-gheimniss,15,2,0.1333333333333333,0.6954257538796822,0.390151001829658,1.591653853603488,0.1197731638116566,1.6900258398064585,0.7921955600750914,0.3365030941850697,0.0,0.0,0.6530988877031911,1.5990131255428732
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ihr sin nitt iwel verwitscht worde dasmol
+(se lacht: ha
+                        ha ha).
+
+        
+",64,lustig-im-julie-si-gheimniss,18,2,0.1111111111111111,0.517534403862915,0.390151001829658,1.3005318065684652,0.0798487758744377,1.402461303945492,0.58666084731809,0.3365030941850697,0.0,0.0,0.6530988877031911,1.3544967769857676
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(lacht)
+
+          
+Ha ha ha... wie sin mir so dumm gsi aiie beide.. Sie
+                        nitt, Herr Rothfuchs, Sie nitt.
+
+        
+",64,lustig-im-julie-si-gheimniss,26,3,0.1153846153846153,0.5282941679878393,0.0,1.0040189241860218,0.1064650344992503,1.0429125119558942,0.6066230412866995,0.0,0.0,0.0,0.2388977990696617,0.9283467922607004
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Un Dü glaübsch eso Dummheite?
+
+        
+",64,lustig-im-julie-si-gheimniss,9,2,0.2222222222222222,0.5282941679878393,0.0,1.0040189241860218,0.1064650344992503,1.042912511955894,0.6066230412866995,0.0,0.0,0.0,0.2388977990696617,0.9283467922607004
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Worum nitt gar!
+
+          
+
+        
+",64,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,0.2370700527038504,0.0,0.6091573459052997,0.1863138103736882,0.776150131932574,0.3153267795843536,0.0,0.0,0.0,0.0,0.6951379933416146
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Ich versicher Se...
+
+        
+",64,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.0591787026870833,0.0,0.3180352988702767,0.1463894224364693,0.4885855960716075,0.1097920668273523,0.0,0.0,0.0,0.0,0.4506216447845091
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+'s ich nitt wohr... Se liegt!
+
+        
+",64,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.0753183488744697,0.0,0.4047721985621704,0.1863138103736882,0.621836213182046,0.1397353577802665,0.0,0.0,0.0,0.0,0.5735184569984662
+comedy,E Commis,M,clerk,elementary_professions,,"
+          
+Dr Commis
+
+          
+(kunnt hinte-n-ine mit eme Brief in dr Hand: züem
+                        Herr Rothfuchs)
+                    
+
+          
+Do isch e Brief aku fir Se... 's steht « pressée »
+                        druf.
+
+        
+",65,lustig-im-julie-si-gheimniss,33,2,0.0606060606060606,0.2424499347663125,0.0,0.6380696458025976,0.1996219396860945,0.8205670043027201,0.3253078765686584,0.0,0.0,0.0,0.0,0.7361035974129336
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(nimmt 'n)
+
+          
+Scho güet!
+(dr Commis geht)
+ was ka jetz das si?...
+(er
+                        macht 'n uf un liest)
+ er isch vo mim güete Frind
+                        Stockfisch vo Strossburg.
+
+        
+",65,lustig-im-julie-si-gheimniss,39,6,0.1538461538461538,0.2316901706413884,0.0,0.7734534859293024,0.1730056810612819,1.0207672114160935,0.3053456826000489,0.1124392947155357,0.0,0.0,0.109841450116993,0.9140561405014122
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(fir sich)
+
+          
+Vom Emma sim Vater.
+
+        
+",65,lustig-im-julie-si-gheimniss,10,2,0.2,0.3611625820959964,0.0,0.8043648338886442,0.093156905186844,0.9085798959457448,0.4210505224983076,0.1124392947155357,0.0,0.0,0.109841450116993,0.7898820524166466
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Tiens, tiens!
+
+        
+",65,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,0.3934418744707691,0.0,0.9778386332724316,0.1730056810612819,1.1750811301666215,0.480937104404136,0.1124392947155357,0.0,0.0,0.109841450116993,1.0356756768445607
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Thàt Se-n-is allei lo, Jumpfer Julie, ich ha mit em
+                        Fritz ebbes z'rede.
+
+        
+",66,lustig-im-julie-si-gheimniss,22,4,0.1818181818181818,0.502227611504967,0.1822829674376842,1.10842800422577,0.3143401445705205,1.2554284176303951,0.6581146729284763,0.1124392947155357,0.2949914304377889,0.0850905767246424,0.1624779257782304,1.1186142156912442
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(fir sich)
+
+          
+Ich will glich geh 's Emma preveniere...
+
+        
+",66,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.4860879653175806,0.5417797929978081,1.446909470415778,0.2744157566333015,1.4928472879347825,0.925889959633215,0.1124392947155357,0.2949914304377889,0.2802835514803221,0.3629286237596523,1.2776628114577135
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Geth Se jetz bol?
+
+        
+",66,lustig-im-julie-si-gheimniss,8,1,0.125,0.5129873756298913,0.5417797929978081,1.398262529980967,0.3409564031953331,1.4258976979318476,0.9757954445547388,0.0,0.2949914304377889,0.280283551480322,0.2530871736426592,1.222607080583192
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was isch denn jetz das fir e Neüigkeit?
+
+        
+",66,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.674739079459272,0.5417797929978081,1.602647677324096,0.3409564031953331,1.5802116166823756,1.1513868663588258,0.0,0.2949914304377889,0.280283551480322,0.2530871736426592,1.3442266169263406
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Weisch Dü, ass dà junge Mensch schint's doch e
+                        Jumpfre-n-isch? ... grad schribt mr do dr Herr
+                        Stockfisch vo Strossburg, ass si Tochter vo d'heim
+                        furtg'loffe-n-isch, als Herr verkleidet...
+
+        
+",66,lustig-im-julie-si-gheimniss,43,6,0.1395348837209302,0.6908787256466584,0.5417797929978081,1.68938457701599,0.3808807911325521,1.7134622337928138,1.18133015731174,0.0,0.2949914304377889,0.280283551480322,0.2530871736426592,1.4671234291402977
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich ha jo allewil g'sàit, 's Julie isch unschuldig ...
+                        worum isch awer dà junge Mensch, oder vielmehr die
+                        Jumpfre, sich grad do ane ku flichte?
+
+        
+",67,lustig-im-julie-si-gheimniss,32,6,0.1875,0.5659533424250742,0.3594968255601237,1.5422378810563535,0.1996219396860945,1.5776700600692837,0.9742092978344856,0.0,0.0,0.1951929747556796,0.2882614991639668,1.3493249326193526
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Eh, dr Herr Stockfisch sàit mr do, ass, wo si Tochter
+                        furt gsi isch, so hat er e Brief g'funde vo-n-ere
+                        g'wisse Jumpfer Julie Flink vo Milhüse un ass er
+                        vermüethet, ass si Tochter dert ane-n-isch.
+
+        
+",67,lustig-im-julie-si-gheimniss,49,7,0.1428571428571428,0.422646948524135,0.1114717148084737,1.1130015338154984,0.2452498116143447,1.333082369667257,0.535120202318933,0.0961437411957342,0.0,0.0,0.2061539693635534,1.2313795430739305
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Di schöne Prinzessin ... se wird ere g'hulfe ha un hat
+                        sie jetz züe si gnu.
+
+        
+",67,lustig-im-julie-si-gheimniss,20,3,0.15,0.4011274202742864,0.1114717148084737,0.9973523342263066,0.1920172943647195,1.1554148801866722,0.495195814381714,0.0961437411957342,0.0,0.0,0.2061539693635534,1.0675171267886543
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ah !... das isch jetz halt die G'schichte... awer hein,
+                        dà junge Mensch, oder die Jumpfre wege mir, die hat uns
+                        nitt iwel fir e Narre g'ha! ...
+
+        
+",68,lustig-im-julie-si-gheimniss,36,5,0.1388888888888889,0.1423246941472772,0.1114717148084737,0.6703360984772997,0.1920172943647195,0.9085126101858274,0.2142495394951747,0.0961437411957342,0.0,0.0,0.2061539693635534,0.8729258686396166
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Das isch e Fraü ... à la bonne heure ich ha vergewes
+                        allewil eso eine g'süecht ... tiens wenn ich 
+se thàt
+                        hirothe? worum nitt ... ich bi ganz verliebt in se ...
+                        ha ha ha ich müess lache, wenn ich dra denk, wie-n-er,
+                        das heisst, wie sie uns gnu hat vorig!
+
+        
+",68,lustig-im-julie-si-gheimniss,63,5,0.0793650793650793,0.1003616140600726,0.2224096748716343,0.7613266873868106,0.0882138857279502,0.9235434638893408,0.1363969830175977,0.3557480828229072,0.0,0.0601538906529146,0.4383742588134328,1.0425230591464725
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ah ihr hàn g'màriàgelt... das isch emol e Person, Fritz!
+                        décidément, das müess mi Fraü gà!
+
+        
+",69,lustig-im-julie-si-gheimniss,24,2,0.0833333333333333,0.116501260247459,0.2224096748716343,0.7778840123931084,0.1281382736651692,0.9789883501490976,0.1663402739705119,0.3557480828229072,0.0,0.0601538906529146,0.3505634576308876,1.077383016820734
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(kunnt mit eme Kuffer in dr Hand un e Lade unter'm
+                        Arm)
+                    
+
+          
+Do bin i jetz ... ich ha mich frisiere lo.
+
+        
+",69,lustig-im-julie-si-gheimniss,27,3,0.1111111111111111,0.217035340272288,0.3539819166467396,0.8887369820923438,0.1972246943264335,0.8756792990745617,0.3264877870734893,0.259604341627173,0.4253634074699106,0.1736079929524379,0.3024022569981958,0.993581308139615
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(galant)
+
+          
+Eh, was Sie fir e Last Dings do hat... git Se mir die
+                        Sache z'àmme
+(er nimmt alles un legt's uf e Stühl).
+
+        
+",69,lustig-im-julie-si-gheimniss,35,5,0.1428571428571428,0.2774321161540706,0.5100423173786028,1.1978765866031609,0.1865781908765085,1.243284968295161,0.3887394782076804,0.5291327329598439,0.4253634074699106,0.1736079929524379,0.4680826924516076,1.3888097522383291
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(hilft)
+
+          
+Se-n-ich noch stark derzüe!
+(er nimmt e Fraüekappe, wo
+                        züer Lade-n-üse lüegt un zeigt se-n-im Heu Rothfuchs)
+
+                        das isch doch ebbe klar!
+
+        
+",70,lustig-im-julie-si-gheimniss,37,2,0.054054054054054,0.2127314346223183,0.5100423173786028,1.1161225276659088,0.1865781908765085,1.18155940079495,0.3185029094860455,0.5291327329598439,0.4253634074699106,0.1736079929524379,0.4680826924516076,1.3401619377010696
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(verwundert)
+
+          
+Die Fraü, wo dunte wohnt, hat mir das alles mitgà... 's
+                        isch fir d'Jumper Emma.
+
+        
+",70,lustig-im-julie-si-gheimniss,24,1,0.0416666666666666,0.5297789838061253,0.3991043573154422,1.1736915343669756,0.1706084357016209,1.075404533261177,0.657708436713054,0.2695283913326707,0.4253634074699106,0.1134541022995232,0.2358624030017282,1.04511338323864
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(klopft 'm uf d'Achsle)
+
+          
+Sie Nitnutzige!
+
+        
+",70,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.5297789838061253,0.3991043573154422,1.4456425159184447,0.1706084357016209,1.48055599557255,0.657708436713054,0.6068462754792779,0.4253634074699106,0.1134541022995232,0.2358624030017282,1.485414972417209
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(klopft em uf d'Achsle)
+
+          
+Kleine Schelmene!
+
+        
+",70,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.4107995938528548,0.1560604007318632,1.4063733617865035,0.0558941431121063,1.7086207931951314,0.4633400196638891,0.9441641596258852,0.0,0.0,0.1656804354534117,1.7238987154987448
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Will Se-n-is denn noch lang züem Beste ha!...
+
+        
+",70,lustig-im-julie-si-gheimniss,15,2,0.1333333333333333,0.3557827000335343,0.0,1.1261460571729844,0.0798487758744377,1.3854319963446784,0.4110694255140028,0.6746357682932145,0.0,0.0,0.0,1.3696358754713498
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Hat Se mich denn no nitt lang genüe quält? ...
+
+        
+",71,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.3557827000335343,0.0,1.1261460571729844,0.0798487758744377,1.3854319963446784,0.4110694255140028,0.6746357682932145,0.0,0.0,0.0,1.3696358754713498
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich?... was soll das heisse?...
+
+        
+",71,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.0322792923747727,0.0,0.7173757624867259,0.0798487758744377,1.0768041588436223,0.0598865819058285,0.6746357682932145,0.0,0.0,0.0,1.1263968027850528
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(fir sich)
+
+          
+Se g'fallt mr allewil mehr!
+
+        
+",71,lustig-im-julie-si-gheimniss,12,3,0.25,0.1347338795318978,0.0,0.6931283953045699,0.0665406465620314,0.8857232316971526,0.1669664327909152,0.3373178841466072,0.0,0.0,0.1756216023650902,0.902283009509988
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Was hàn se... was hàn se?..
+
+        
+",71,lustig-im-julie-si-gheimniss,14,1,0.0714285714285714,0.4582372871906593,0.0,0.829947708439359,0.0665406465620314,0.7891996068868358,0.5181492763990894,0.0,0.0,0.0,0.1756216023650902,0.7052204930177156
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(lacht)
+
+          
+Mr sin doch làcherlig gsi vorig, nitt wohr?...
+
+        
+",71,lustig-im-julie-si-gheimniss,16,3,0.1875,0.4528574051281972,0.0,0.8010354085420612,0.0532325172496251,0.7447827345166896,0.5081681794147846,0.0,0.0,0.0,0.1756216023650902,0.6642548889463967
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(lacht)
+
+          
+Sie hat g'wiss ab uns g'lacht innerlig, hi hi hi..
+
+        
+",71,lustig-im-julie-si-gheimniss,16,1,0.0625,0.4528574051281972,0.0,0.8010354085420612,0.0532325172496251,0.7447827345166896,0.5081681794147846,0.0,0.0,0.0,0.1756216023650902,0.6642548889463967
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+'s ka keine wieschtere-n-Affe gà!
+
+        
+",71,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.614609108957578,0.0,1.0054205558851903,0.0532325172496251,0.8990966532672177,0.6837596012188718,0.0,0.0,0.0,0.1756216023650902,0.7858744252895452
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(lacht)
+
+          
+Ha ha ha!
+
+        
+",72,lustig-im-julie-si-gheimniss,9,2,0.2222222222222222,0.512154521800453,0.0,0.7577169415158771,0.0665406465620314,0.6850261181023146,0.576679750333785,0.0,0.0,0.0,0.0,0.5696866293860404
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(lacht)
+
+          
+Hi hi hi!
+
+        
+",72,lustig-im-julie-si-gheimniss,8,1,0.125,0.1886511141416914,0.0,0.3489466468296185,0.0665406465620314,0.3763982806012586,0.2254969067256109,0.0,0.0,0.0,0.0,0.3264475566997434
+comedy,Herr ADOPLH,M,,,,"
+          
+Adloph
+
+          
+(lacht)
+
+          
+Ha ha ha ... die amüsiere mich,die Zwe!...
+
+        
+",72,lustig-im-julie-si-gheimniss,16,2,0.125,0.1778913500167671,0.0,0.7406573828359819,0.0399243879372188,0.7239555635975699,0.2055347127570014,0.517885737735608,0.0,0.0,0.0,0.7781752559699399
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Mr wàre noch allewil im Irrthum ohne dr Brief vo-n-Ihrem
+                        Vater...
+
+          
+
+        
+",72,lustig-im-julie-si-gheimniss,17,3,0.1764705882352941,0.1886511141416914,0.0,0.9388411320017692,0.0665406465620314,0.968400770039226,0.2254969067256109,0.517885737735608,0.0,0.0,0.1756216023650902,1.0361801731919695
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Mi Vater?...
+
+        
+",72,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.0268994103123106,0.0,0.7344559846586403,0.0665406465620314,0.8140868512886978,0.0499054849215237,0.517885737735608,0.0,0.0,0.1756216023650902,0.9145606368488208
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+'s isch mi bester Frind... er hat Ene g'wiss als viel vo
+                        mir g'redt?...
+
+        
+",72,lustig-im-julie-si-gheimniss,20,2,0.1,0.0268994103123106,0.0,0.7344559846586403,0.0665406465620314,0.8140868512886981,0.0499054849215237,0.517885737735608,0.0,0.0,0.1756216023650902,0.9145606368488208
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Er hat wohl vermüethet, ass Sie züem Julie ku wird.
+
+        
+",72,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.0268994103123106,0.0,0.7344559846586403,0.0665406465620314,0.8140868512886981,0.0499054849215237,0.517885737735608,0.0,0.0,0.1756216023650902,0.9145606368488208
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Do kumm ich nimmig drüs!
+
+        
+",73,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.1886511141416914,0.0,0.4893057962008102,0.0665406465620314,0.5320097423026224,0.2254969067256109,0.0,0.0,0.0,0.1756216023650902,0.5025212657791348
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Un wil sich d'Glegeheit jetz presentiert, so will ich
+                        glich profetiere dervo... Sie g'fallt mir
+                        üsserordentlig güet un ich offrier Ihne d'Hand... Ihr
+                        Vater hat g'wiss d'grösste Freid, wenn Sie iwillige
+                        thüet.
+
+        
+",73,lustig-im-julie-si-gheimniss,43,6,0.1395348837209302,0.1832712320792292,0.0871709181289056,0.3716591377160856,0.0532325172496251,0.4310640938951305,0.2155158097413061,0.0,0.0,0.0,0.0,0.3824267869922637
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich hoff, Sie wird doch die dumme G'schichte nitt glaübt
+                        ha, wo-n-ich Ihre vorig ha welle-n-abinde... ich ha
+                        noch nie an eso Sache denkt!
+
+        
+",73,lustig-im-julie-si-gheimniss,35,3,0.0857142857142857,0.1940309962041535,0.0871709181289056,0.4294837375106814,0.0798487758744377,0.5198978386354228,0.2354780037099156,0.0,0.0,0.0,0.0,0.4643579951349018
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Was!... d'Jumpfer Emma isch also unschuldig?
+
+        
+",74,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.1778913500167671,0.0871709181289056,0.3427468378187877,0.0399243879372188,0.3866472215249844,0.2055347127570014,0.0,0.0,0.0,0.0,0.3414611829209447
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+'s Julie isch rein wie dr frisch g'fallene Schnee!
+
+        
+",74,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.1778913500167671,0.0871709181289056,1.2616543882876985,0.0399243879372188,1.2416087534555338,0.2055347127570014,0.0,0.0,0.0,0.0,1.1820769065754928
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Un ich, wo se-n-eso veràchtlig b'handelt ha!... do sin
+                        Sie dra d'schuld... awer, Herr Rothfuchs, das isch e
+                        schlechter G'spass, ich ha stark im Sinn...
+
+        
+",74,lustig-im-julie-si-gheimniss,38,5,0.131578947368421,0.0225955046623409,0.0871709181289056,1.0919640008213265,0.0558941431121063,1.140595081549181,0.0419206073340799,0.0,0.0,0.0,0.0,1.1096160951179272
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(lacht)
+
+          
+Sie spielt doch pràchtig dr junge Mensch...
+(fir sich)
+
+                        das isch jetz emol e Fräü, wo mir geht!
+
+        
+",74,lustig-im-julie-si-gheimniss,28,4,0.1428571428571428,0.1061612976082623,0.0,1.156987933657775,0.0625482077683095,1.1408777914455,0.1347068667282759,0.0,0.0,0.0,0.0,1.093963830961322
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(züem Adolph)
+
+          
+Sie mien em halt verzeihe.
+
+        
+",75,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.0954015334833381,0.0,1.0991633338631792,0.0359319491434969,1.0520440467052077,0.1147446727596664,0.0,0.0,0.0,0.0,1.0120326228186838
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Ah, Ihr hàn mich fir e Narre g'ha... eh bien, warte ne
+                        wenig... jetz isch's an mir... wenn Ihr denn meine, ich
+                        seig e Jumpfre.
+
+        
+",75,lustig-im-julie-si-gheimniss,38,6,0.1578947368421052,0.3110704719225124,0.2637980105294778,1.5755259475465542,0.0359319491434969,1.5010227131545777,0.3754491260098763,0.1121676980616899,0.0,0.0279022589481644,0.2279952560193371,1.4385328630677976
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Nitt wohr, Sie verzeiht mr... un git mr Ihr Jowort?...
+
+        
+",75,lustig-im-julie-si-gheimniss,16,2,0.125,0.3272101181098988,0.2637980105294778,0.7433552967695372,0.0758563370807158,0.7793117983344666,0.4053924169627905,0.1121676980616899,0.0,0.0279022589481644,0.2279952560193371,0.7208139516272065
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Wenn Sie meine-n-ass mi Vater z'friede-n-isch...
+
+        
+",75,lustig-im-julie-si-gheimniss,14,3,0.2142857142857142,0.3207542596349443,0.4323295402758552,0.8054547767415233,0.0598865819058282,0.954630789928769,0.3934151005816248,0.3379215611638141,0.0,0.0279022589481644,0.4639393976642657,0.9683311372304272
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Also, 's blibt derbi... oh, ich spir, ass ich Sie
+                        glicklig mache wird... ich bi ganz vernarrt in Se...
+                        ich will jetz glich in Ihrem Vater telegraphiere, ass
+                        Sie do isch un um Ihre Hand froge...
+(er schmutzt em
+                        d'Hand)
+ allons kumm, Fritz.
+
+        
+",76,lustig-im-julie-si-gheimniss,59,5,0.0847457627118644,0.2382644431015153,0.4323295402758552,0.9732255292305488,0.0558941431121063,1.1987340654226522,0.3026250605842898,0.6203514353076511,0.0,0.0279022589481644,0.4639393976642657,1.303617616837745
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Jà un ich?... ich hätt o gern ebbes g'schmutzt.
+
+        
+",76,lustig-im-julie-si-gheimniss,14,1,0.0714285714285714,0.2382644431015153,0.7520777612443168,1.333966124593764,0.0558941431121063,1.6684247839937718,0.3026250605842898,1.0770153435837568,0.0,0.2107347926089819,0.9796081924632728,1.9472114889717111
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Allons, hopp!... in dr Lade
+(se gehn hinte-n-üse).
+
+        
+",76,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.0548747970371136,0.488279750714839,1.0310773102941766,0.1357429189865442,1.485947351765279,0.1018071892399083,0.964847645522067,0.0,0.1828325336608174,0.7516129364439357,1.7665048731505113
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(allei)
+
+          
+Ha ha ha!... Die Zwe sin jetz wieder emoi güet... bin
+                        ich eigentlig in e Narrehüs g'rothe do?... awer mit dem
+                        allem ha-n-ich jetz d'Jumpfer Emma beleidigt wege dem
+                        Alte sine dumme G'schichte... ich müess 
+se um
+                        Verzeihung bete...
+(er klopft an d'Thüre links)
+ Emma,
+                        Jumpfer Emma!
+
+        
+",77,lustig-im-julie-si-gheimniss,66,8,0.1212121212121212,0.196767513457513,0.572973081249763,1.1213399079468398,0.1334490000671813,1.5274327960879683,0.1129594686316403,1.0419061515493513,0.1517100283517258,0.2124072268056174,0.8150724266707042,1.8083340010044249
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Oh, Jumpfer Emma, thàt Se doch nur bliwe, ass ich mich
+                        entschuldige ka...
+
+        
+",77,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.196767513457513,0.4044415515033855,1.024545668098096,0.1334490000671813,1.2988135576494906,0.1129594686316403,0.816152288447227,0.1517100283517258,0.2124072268056174,0.579128285025776,1.5116580905156214
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+No dàne Dummheite, wo Se mir g'sàit hàn, isch's
+                        ferig!...
+
+        
+",78,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.1903116549825584,0.4044415515033855,0.7112138920915588,0.1174792448922938,0.9109280142251244,0.1009821522504747,0.5337224143033901,0.1517100283517258,0.2124072268056174,0.5791282850257758,1.0541134366297509
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+'s kunnt jo nitt vo mir... 's isch dà alte Rothfuchs, wo
+                        mir das Dings ig'schwàtzt hat...
+
+        
+",78,lustig-im-julie-si-gheimniss,22,1,0.0454545454545454,0.1903116549825584,0.084693330534924,0.3504732967283438,0.1174792448922938,0.4412372956540045,0.1009821522504747,0.0770585060272842,0.1517100283517258,0.0295746931447999,0.0634594902267685,0.4105195644957843
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+'s isch eithüen... Sie hätte's nitt solle glaüwe... ich
+                        ha stark im Sinn, wieder heim z'geh!... uf jedefall
+                        blib ich nitt do in dem Hüs... ich gang geh ne Zimmer
+                        lehne...
+
+        
+",78,lustig-im-julie-si-gheimniss,42,3,0.0714285714285714,0.1580323626077857,0.084693330534924,0.3583001517122025,0.0376304690178559,0.4448370363073762,0.0410955703446463,0.3019370954583557,0.1517100283517258,0.0295746931447999,0.0634594902267685,0.4582603328535832
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Nix do!... Sie brüche mir nitt noz'laüfe... Sie hàn mich
+                        beleidigt!
+
+        
+",78,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.804136235698676,0.0,1.0323037258892505,0.0,0.6857358083565397,1.3322676295501878e-16,0.2248785894310714,0.61666889240696,0.0,0.0,0.5254018963307296
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(kunnt hinte-n-ine un sieht dr Adolph dort kneie un
+                        's Emma verschwinde un meint, 's seig si Fraü)
+                    
+
+          
+Was sin das jetz wieder fir Kumedi?
+
+        
+",79,lustig-im-julie-si-gheimniss,32,2,0.0625,0.9658879395280568,0.0,1.2366888732323795,0.0,0.8400497271070677,0.1755914218040872,0.2248785894310714,0.61666889240696,0.0,0.0,0.6470214326738781
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(steht uf)
+
+          
+Ah... Sie sin's, Herr Fritz?
+(fir sich)
+ Ich will ere
+                        glich nolaüfe...
+
+        
+",79,lustig-im-julie-si-gheimniss,24,3,0.125,1.0844821728725682,0.0,1.6120708922900413,0.0266162586248125,1.3018603925552938,0.3126145636420882,0.4497571788621428,0.61666889240696,0.0,0.0,1.1035667244976617
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+'s geht geh ne Zimmer lehne... 's will nimmig do
+                        bliwe... ich will em glich nogeh;
+(fir sich)
+ denn ich
+                        ha Hoffnung... viel Hoffnung
+(er laüft hinte-n-üso un
+                        rennt an dr Herr Rothfuchs).
+
+        
+",79,lustig-im-julie-si-gheimniss,46,4,0.0869565217391304,1.173427847880952,0.0,1.7576319158075528,0.0465784525934219,1.445642660485777,0.4153819200205889,0.4497571788621428,0.61666889240696,0.0,0.0,1.225824898776214
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(kunnt ine)
+
+          
+Oh! dà Flegel... so hattsch ne denn arretiert!
+
+        
+",80,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,1.2057071402557245,0.0,1.749805060823694,0.1264272284678598,1.4420429198324052,0.4752685019264172,0.2248785894310714,0.61666889240696,0.0,0.0,1.1780841304184153
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+s' isch jo kei Jumpfre!...
+
+        
+",80,lustig-im-julie-si-gheimniss,10,1,0.1,0.4338501969318212,0.0,1.0722757886858771,0.2062760043422977,1.292909320570991,0.5351550838322456,0.2248785894310714,0.0,0.0,0.0,1.1920102513013124
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+'s isch jo ne Herr!
+
+        
+",80,lustig-im-julie-si-gheimniss,9,2,0.2222222222222222,0.336657077851986,0.0,1.2148382401103226,0.3659735560911734,1.6715978702622167,0.4793368258398153,0.2248785894310714,0.0,0.0,0.0,1.5619779638139923
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Küm ha-n-i' mi Depesche furt g'spediert g'ha, so kunnt
+                        noch e Brief vom Herr Stockfisch mit ere 
+ Photographie
+                        drin vo sin're Tochter, fir ass ich se besser erkenne
+                        sott... do isch se... die isch viel schöner... die
+                        g'fallt mir noch viel besser...
+
+        
+",80,lustig-im-julie-si-gheimniss,53,5,0.0943396226415094,0.308586959939045,0.0,1.0599893194969428,0.4032363181659111,1.4847137596909028,0.460459518248112,0.0,0.0,0.0,0.0,1.3507153860697998
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+'s isch wohr... 's isch e ganz andre Nase... wer isch
+                        denn derno das gsi, wo grad vor em Julie kneit isch?
+
+        
+",81,lustig-im-julie-si-gheimniss,28,3,0.1071428571428571,0.2196412849306614,0.0,1.0458341852320572,0.3832741241973016,1.545429909398386,0.3576921618696113,0.121516005996683,0.0,0.0,0.0,1.475338260667994
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Isch er vor ihre kneit?
+
+        
+",81,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,0.2196412849306614,0.0,1.045834185232057,0.3832741241973016,1.545429909398386,0.3576921618696113,0.121516005996683,0.0,0.0,0.0,1.475338260667994
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Glaübsch's jetz bol, ass er Dinere Jumpfer Julie dr Hof
+                        macht?
+
+        
+",81,lustig-im-julie-si-gheimniss,17,4,0.2352941176470588,0.1954318156495819,0.0,1.0695660048004327,0.3233875422914732,1.5765291803575407,0.31277722544024,0.121516005996683,0.0,0.0,0.1647621751754895,1.4606678746044484
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Desto besser... loss se laüfe... 's isch 's beste, wo De
+                        mache kasch
+(fir sich)
+ ich ha d'Parthie g'wunne.
+
+        
+",81,lustig-im-julie-si-gheimniss,29,3,0.1034482758620689,0.3792301666340519,0.2650714600075625,1.0956774018843145,0.3154173008794928,1.3484810400863132,0.5420115737459723,0.121516005996683,0.2119295246606024,0.1237366481484192,0.241304858506265,1.2368447828012257
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+O Herr Rothfuchs!... hi hi hi...
+(er nimmt 's Nastüch
+                        üse).
+
+        
+",82,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.3209853435772542,0.2650714600075625,1.0486181028238202,0.3313870560543804,1.3400557194302771,0.4837523214055032,0.121516005996683,0.2119295246606024,0.1237366481484192,0.241304858506265,1.2373556931495489
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Schàmsch Dü Dich nitt, z'grine wege dere...
+
+        
+",82,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.3371249897646405,0.2650714600075625,1.003949113263088,0.3713114439915993,1.2688079189027497,0.5136956123584173,0.0,0.2119295246606024,0.1237366481484192,0.241304858506265,1.1133714564867587
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Oh, wenn Sie wisse thàte... ich halt gar nimmig am
+                        Lewe... gar nimmig...
+
+        
+",82,lustig-im-julie-si-gheimniss,19,2,0.1052631578947368,0.3048456973898678,0.5174017343833576,1.1825727972872424,0.2914626681171615,1.3988890162168466,0.4538090304525889,0.2258908028036846,0.2119295246606024,0.1237366481484192,0.5149819456817478,1.3449880799688718
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Worum denn, Dü kasch jo genüe-n-eso finde.
+
+        
+",82,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.6604031954050108,0.5174017343833576,1.571059557882886,0.6579927796184826,1.561708926420621,0.8454432258704149,0.2258908028036846,0.2119295246606024,0.1237366481484192,0.3502197705062581,1.301936067195632
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Oh nei... denn 's Julie isch mehr gsi fir mich as das...
+                        viel mehr...
+
+        
+",82,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.7355496673297568,0.2523302743757951,1.606770856717688,0.5062654692815872,1.5653824357511508,0.8476185573611998,0.2258908028036846,0.0,0.0,0.2736770871754826,1.277410982829324
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Was isch's denn g'si?
+
+        
+",83,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,0.7355496673297568,0.2523302743757951,1.606770856717688,0.5062654692815872,1.5653824357511508,0.8476185573611998,0.2258908028036846,0.0,0.0,0.2736770871754826,1.2774109828293236
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Eh bien, mach Dr kei bös Gebliet... ich süech Dr
+                        e-n-Andere... ne riche, wo Dü hirothsch...
+
+        
+",83,lustig-im-julie-si-gheimniss,26,4,0.1538461538461538,0.9058098406868952,0.4474057752906241,1.9393530622651676,0.6610965843552428,1.8537630010477424,0.991403617214888,0.3941423498962194,0.1567305399342097,0.0,0.4807776314922473,1.517343929685825
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Nei, nei... 's isch alles ferig... ich weiss jetz nit
+                        meh anders z'mache, as ich stürz mi in e... Kloster!
+
+        
+",83,lustig-im-julie-si-gheimniss,28,2,0.0714285714285714,0.9058098406868952,0.195075500914829,1.5872555788572256,0.6610965843552428,1.4571806695127685,0.991403617214888,0.1682515470925348,0.1567305399342097,0.0,0.2071005443167646,1.0399336817757985
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Zeig, bisch doch e wenig stark... b'schaü mich... ich bi
+                        o in ere trürige Position...
+
+        
+",83,lustig-im-julie-si-gheimniss,22,2,0.0909090909090909,0.5583221657654454,0.195075500914829,1.0883000990013127,0.314528666822531,1.1300108712394008,0.6147410672735193,0.1682515470925348,0.1567305399342097,0.0,0.2071005443167646,0.9747592683986264
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Das isch ganz ebbes anders...
+
+        
+",84,lustig-im-julie-si-gheimniss,8,2,0.25,0.2348187581066838,0.195075500914829,0.8766386381939928,0.314528666822531,1.128130660195294,0.263558223665345,0.3505255560875595,0.1567305399342097,0.0,0.2071005443167646,1.10184176902745
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Ich, wo verliebt bi in das Portrait, weiss nitt emol, wo
+                        's Original isch... wo soll ich jetz geh süeche?...
+
+        
+",84,lustig-im-julie-si-gheimniss,29,4,0.1379310344827586,0.2106092888256042,0.195075500914829,0.7465332886561521,0.2546420849167027,0.9282547345296364,0.2186432872359737,0.3505255560875595,0.1567305399342097,0.0,0.2071005443167646,0.9174965507065146
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Oh still!... d'Polizei!... ich ha nitt an d'Polizei
+                        denkt... die werde mir se scho finde! Au revoir... ich
+                        will glich geh
+(er laüft hinte-n-üse un rennt an dr
+                        Adolph).
+
+        
+",84,lustig-im-julie-si-gheimniss,46,3,0.0652173913043478,0.266627683353637,0.0,0.7176757697819834,0.3175481188857819,0.8135704957118104,0.3159854970255599,0.1822740089950246,0.0,0.0,0.0,0.6800476086968084
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Sie Flegel!
+
+          
+
+        
+",84,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.2989069757284097,0.0,0.8911495691657709,0.3973968947602198,1.0800717299326874,0.3758720789313883,0.1822740089950246,0.0,0.0,0.0,0.9258412331247226
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was, er traüt wieder do ane z'ku!...
+
+        
+",85,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.2827673295410234,0.0,0.8044126694738771,0.3574725068230008,0.9468211128222488,0.3459287879784741,0.1822740089950246,0.0,0.0,0.0,0.8029444209107656
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(züem Herr Rothfuchs)
+
+          
+Mache Sie's eigentlig express?...
+
+        
+",85,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.3150466219157961,0.0,0.7807776349787259,0.4373212826974387,0.9065747205861764,0.4058153698843025,0.0,0.0,0.0,0.0,0.678416472023559
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Gehn Se geh Band haüe!...
+(er geht üse).
+
+        
+",85,lustig-im-julie-si-gheimniss,16,2,0.125,0.3231164450094893,0.0,0.8241460848246728,0.4572834766660482,0.9732000291413956,0.4207870153607597,0.0,0.0,0.0,0.0,0.7398648781305376
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was, Sie sin's wieder... meine Sie ebbe, ich weiss nitt,
+                        ass Sie kei Jumpfre sin...
+
+        
+",85,lustig-im-julie-si-gheimniss,23,1,0.0434782608695652,0.0806982309369318,0.0,0.4336844984594684,0.1996219396860944,0.666253085552192,0.149716454764571,0.0,0.0,0.0,0.0,0.614484061069785
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ah, Sie wisse's... eh bien jà, ich bin e junger Mensch
+                        un noch e glickliger derzüe.
+
+        
+",85,lustig-im-julie-si-gheimniss,23,3,0.1304347826086956,0.0484189385621591,0.2601006678864386,0.4964356871937069,0.1197731638116566,0.6986735424845752,0.0898298728587427,0.2243353961233798,0.0,0.0,0.2761340590890195,0.7074112318870078
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Glicklig?... wie so?...
+
+        
+",86,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,0.0484189385621591,0.2601006678864386,1.4954031000847272,0.1197731638116566,1.758104772471631,0.0898298728587427,1.2719367488525155,0.0,0.0,0.2761340590890195,2.008697730258205
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich bi-n-ere vorig nog'loffe un am End vo dr Gasse
+                        ha-n-ich se ig'holt un ha-n-ere züeg'redt, bis ass se
+                        mi ag'hört hat un jetz isch se decidiert mit mr z'ku,
+                        's mag geh, wie's will!
+
+        
+",86,lustig-im-julie-si-gheimniss,49,1,0.0204081632653061,0.0161396461873863,0.2601006678864386,1.3219293007009398,0.0399243879372187,1.4916035382507542,0.0299432909529142,1.2719367488525155,0.0,0.0,0.2761340590890195,1.762904105830291
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+So isch's denn wohr... Se thüet alles mit Fiesse
+                        trete!...
+
+        
+",86,lustig-im-julie-si-gheimniss,16,2,0.125,0.0,0.2601006678864386,1.235192401009046,0.0,1.3583529211403156,8.881784197001253e-17,1.2719367488525155,0.0,0.0,0.2761340590890195,1.640007293616334
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Se hat mich chargiert, ku ihre müess ere helfe
+                        wandle...
+
+        
+",86,lustig-im-julie-si-gheimniss,14,2,0.1428571428571428,0.0,0.2601006678864386,1.235192401009046,0.0,1.3583529211403156,8.881784197001253e-17,1.2719367488525155,0.0,0.0,0.2761340590890195,1.640007293616334
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Das isch e-n-infamer Streich, e liederliger! un Sie
+                        meine, das geht eso?...
+
+        
+",87,lustig-im-julie-si-gheimniss,21,1,0.0476190476190476,0.0,0.0,0.99896741289102,0.0,1.0594312299870556,8.881784197001253e-17,1.047601352729136,0.0,0.0,0.0,1.3012864983711971
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Se thüet's nitt anderscht.
+
+        
+",87,lustig-im-julie-si-gheimniss,8,1,0.125,0.0,0.0,0.0,0.0,0.0,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.0
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Jà... elender Tropf!... ich bi-n-ihre Mann!... ich ha se
+                        g'hirothe im versteckte, in Strossburg, vor zwei Monet!
+
+        
+",87,lustig-im-julie-si-gheimniss,29,4,0.1379310344827586,0.0,0.0,0.0,0.0,0.0,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.0
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Sie ihre Mann?... das verbiet ich Ihne!
+
+        
+",87,lustig-im-julie-si-gheimniss,12,2,0.1666666666666666,0.0,0.0,0.0,0.0,0.0,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.0
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ich ha stark im Sinn, Sie üse z'werfe!
+
+        
+",87,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.0,0.0,0.0,0.0,0.0,8.881784197001253e-17,0.0,0.0,0.0,0.0,0.0
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Wenn ich e Nàihmaschine do hätt, thàt ich's ene uf em
+                        Kopf verschla!...
+
+        
+",88,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.0,0.0,0.5439019631029383,0.0,0.8103029246227453,8.881784197001253e-17,0.6746357682932145,0.0,0.0,0.0,0.8806031783571384
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Ah so!... wart...
+(se nàmme-n-enander am Krage).
+
+        
+",88,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.0,0.0,0.5439019631029383,0.0,0.8103029246227453,8.881784197001253e-17,0.6746357682932145,0.0,0.0,0.0,0.8806031783571384
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(kunnt hinte-n-ine)
+
+          
+Was git's do
+(er wehrt ab; se schlen beide uf ne)
+
+                        höre-n-uf... Sakerdie noch emol... ihr mache mr weh!
+
+          
+
+        
+",88,lustig-im-julie-si-gheimniss,36,4,0.1111111111111111,0.1625154428498706,0.0,1.353103101090777,0.1507480592089468,1.7827037462598496,0.1782725473382349,1.354529259812171,0.2172832879787955,0.0,0.0,1.9070888949381348
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Fritz!
+
+        
+",88,lustig-im-julie-si-gheimniss,5,1,0.2,0.1947947352246433,0.0,1.5265769004745646,0.2305968350833847,2.0492049804807264,0.2381591292440633,1.354529259812171,0.2172832879787955,0.0,0.0,2.152882519366049
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Rothfuchs.
+
+          
+Ihr sin zwei Mörder!
+
+        
+",88,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,0.1947947352246433,0.0,1.5265769004745646,0.2305968350833847,2.0492049804807264,0.2381591292440633,1.354529259812171,0.2172832879787955,0.0,0.0,2.152882519366049
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+'s geht uf Lewe un Tod... ich hol mine Pistole!
+(er geht
+                        hinte-n-üse).
+
+        
+",89,lustig-im-julie-si-gheimniss,22,6,0.2727272727272727,0.1947947352246433,0.0841100914585983,1.2970678143435967,0.2305968350833847,1.655903838302191,0.2381591292440633,0.8676297205023872,0.2172832879787955,0.0,0.2504908951049353,1.7353588538122444
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Lehn Se ne laüfe... 's isch e Nitnutz... awer sage Se
+                        mr... hàn Sie se nitt gsàh?...
+
+        
+",89,lustig-im-julie-si-gheimniss,24,1,0.0416666666666666,0.2270740275994161,0.0841100914585983,1.4705416137273843,0.3104456109578226,1.9224050725230672,0.2980457111498916,0.8676297205023872,0.2172832879787955,0.0,0.2504908951049353,1.9811524782401588
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Im Herr Stockfisch si Tochter... d'Jumpfer Emma... se
+                        soll doch do si... ich ha se grad g'sàh ufe geh züe dr
+                        Jumpfer Julie... ich ha se glich erkennt...
+
+        
+",89,lustig-im-julie-si-gheimniss,37,6,0.1621621621621621,0.0860781129993939,0.0841100914585983,0.7769896753287371,0.2129300689985008,1.1276717403665475,0.1596975517488758,0.1877362289834305,0.0,0.0,0.2504908951049353,1.118529177944438
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(fir sich)
+
+          
+Was sàit jetz dà wieder fir Dings?
+
+        
+",89,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.7008056359421444,0.0841100914585983,1.4210564653174669,0.1330812931240629,1.4784261811477826,0.8021766570593959,0.1877362289834305,0.0,0.0,0.2504908951049353,1.359213698889118
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(kunnt üse rechts)
+
+          
+Was isch denn eigentlig das fir e Làrme do!...
+
+        
+",90,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,1.024309043600906,0.0841100914585983,1.8298267600037248,0.1330812931240629,1.7870540186488388,1.15335950066757,0.1877362289834305,0.0,0.0,0.2504908951049353,1.602452771575415
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Do isch jetz emol Eine... Ihre...
+
+        
+",90,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,1.0565883359756785,0.0,1.688907682415542,0.2129300689985008,1.6365534704255065,1.2132460825733986,0.0,0.0,0.0,0.0,1.3851668831999953
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+(verwundert)
+
+          
+Mine?
+(fir sich)
+ was isch jetz das fir e Dame?
+
+        
+",90,lustig-im-julie-si-gheimniss,18,4,0.2222222222222222,1.3478124512596676,0.0,2.083769260696264,0.1330812931240629,1.9033158504488263,1.5045423442757442,0.0,0.0,0.0,0.2388977990696617,1.618375682119081
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(züer Jumpfer Julie)
+
+          
+Wo isch d'Jumpfer Emma... se müess doch bi Ihre si!
+
+        
+",90,lustig-im-julie-si-gheimniss,20,3,0.15,1.3370526871347432,0.0,2.025944660901668,0.1064650344992503,1.814482105708534,1.4845801503071347,0.0,0.0,0.0,0.2388977990696617,1.536444473976443
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Das macht mir, ass ich se hirothe will, ich ha scho in
+                        ihrem Vater g'schriwe derwege...
+
+        
+",90,lustig-im-julie-si-gheimniss,22,3,0.1363636363636363,0.7008056359421444,0.0,1.4713448967987015,0.1330812931240629,1.594027104279797,0.8021766570593959,0.0,0.0,0.0,0.458580699303648,1.3581306464230067
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Sie wànn se hirothe?... awer armer Herr Rothfuchs,
+                        se-n-isch jo g'hirote!
+
+        
+",91,lustig-im-julie-si-gheimniss,19,2,0.1052631578947368,0.3934418744707691,0.0,1.149311501804337,0.1730056810612819,1.4186498838891797,0.4809371044041358,0.0,0.0,0.0,0.458580699303648,1.2377883859506669
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+D'Tochter vom Herr Stockfisch?
+
+        
+",91,lustig-im-julie-si-gheimniss,9,3,0.3333333333333333,0.4042016385956934,0.0,1.2071361015989328,0.1996219396860945,1.507483628629472,0.5008992983727453,0.0,0.0,0.0,0.458580699303648,1.3197195940933049
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Vom Fritz?
+
+        
+",91,lustig-im-julie-si-gheimniss,6,1,0.1666666666666666,0.1129775233117045,0.0,0.8122745233182108,0.2794707155605324,1.2407212486061518,0.2096030366703994,0.0,0.0,0.0,0.2196829002339861,1.086510795174219
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Was sàit jetz dà do?... Ah, jetz geht mr e Liecht uf!
+
+        
+",91,lustig-im-julie-si-gheimniss,18,1,0.0555555555555555,0.1022177591867803,0.0,1.2983518866265538,0.2528544569357198,1.962190428488605,0.18964084270179,0.6746357682932145,0.0,0.0,0.2196829002339861,1.88518276538872
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Se hàn im versteckte g'hirote in Strossburg, er hat mr's
+                        gr ad g'stande vorig.
+
+        
+",91,lustig-im-julie-si-gheimniss,19,1,0.0526315789473684,0.091457995061856,0.0,1.035411061357003,0.2262381983109071,1.5653897549152298,0.1696786487331805,0.6746357682932145,0.0,0.0,0.0,1.577018447569562
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+O dà liederlige Zittel!
+
+          
+
+        
+",91,lustig-im-julie-si-gheimniss,8,1,0.125,0.1075976412492424,0.0,1.1221479610488967,0.266162586248126,1.6986403720256682,0.1996219396860947,0.6746357682932145,0.0,0.0,0.0,1.6999152597835188
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(mit zwei Pistole)
+
+          
+Allons!... vorwàrts, ich bi g'ristet?
+
+        
+",91,lustig-im-julie-si-gheimniss,15,1,0.0666666666666666,0.0645585847495454,0.0,0.8908495618705132,0.1596975517488756,1.3433053930644991,0.1197731638116568,0.6746357682932145,0.0,0.0,0.0,1.3721904272129666
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(nimmt ne-n-an Ohr)
+
+          
+Kum emol do ane, Nitnutz!
+
+        
+",92,lustig-im-julie-si-gheimniss,16,1,0.0625,0.0645585847495454,0.0,0.8908495618705132,0.1596975517488756,1.3433053930644991,0.1197731638116568,0.6746357682932145,0.0,0.0,0.0,1.3721904272129666
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Lehn Se mi, Ferr Rothfuchs... ich will Blüet!
+
+        
+",92,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.8358842836818035,0.0,1.1858766140673556,1.1332610863767865,1.0860990497178076,0.8981758442179746,0.0,0.7160630345270504,0.0,0.0,0.7389928494108782
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph
+
+          
+Jà, mr wànn Blüet.
+
+        
+",92,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,1.6072099826140611,0.0,2.0248056293671364,2.106824621004697,1.6391956309938611,1.6765785246242924,0.0,1.432126069054101,0.0,0.0,0.9863984499659284
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(züem Fritz)
+
+          
+Zeig, sag mr emol, bisch Dü g'hirothe?
+
+        
+",92,lustig-im-julie-si-gheimniss,16,1,0.0625,1.6072099826140611,0.0,2.0248056293671364,2.106824621004697,1.6391956309938611,1.6765785246242924,0.0,1.432126069054101,0.0,0.0,0.9863984499659284
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Oh je!... 's wird mr schwach!
+
+        
+",92,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,1.6072099826140611,0.0,2.0248056293671364,2.106824621004697,1.6391956309938611,1.6765785246242924,0.0,1.432126069054101,0.0,0.0,0.9863984499659284
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(fir sich)
+
+          
+Dà Hasefüess
+
+        
+",92,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,1.89843409789805,0.0,2.260102124669608,2.0269758451302597,1.6813222342740406,1.967874786326638,0.0,1.432126069054101,0.0,0.0,0.9838438982243114
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(fir sich)
+
+          
+Tiens, mi Fraü do?
+
+        
+",92,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,1.4506118066245537,0.0,1.8299434040560851,1.0534123105023487,1.4368534904990429,1.5406549495284945,0.0,0.7160630345270504,0.0,0.0,0.979677370355558
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+G'hirothe, ohne mi Permission!.. un noch derzue mit dr
+                        einzige Person, wo mir g'falle hätt un wo-n-ich ha
+                        welle hirothe!...
+
+        
+",93,lustig-im-julie-si-gheimniss,31,3,0.0967741935483871,0.6900458718172201,0.0,1.1881828901696512,0.1064650344992504,1.2213652157247563,0.7822144630907863,0.15416722310174,0.0,0.1513284708728674,0.0,1.1138394847066764
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Jà, un noch derzüe mit der einzige Person, wo-n-ihm, wo
+                        mir, wo-n-uns g'falle hatt un wo mr hàn welle hirothe!
+
+        
+",93,lustig-im-julie-si-gheimniss,31,2,0.064516129032258,0.6577665794424474,0.0,1.2237249432139898,0.0266162586248126,1.3280258241460927,0.7223278811849579,0.38541805775435,0.0,0.3783211771821687,0.0,1.3175006204240578
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(zeigt uf si Fraü)
+
+          
+Sie, Ihne g'falle... Sie hàn jo alle Schlechtigkeite
+                        vo-n-ere g'sàit!
+
+        
+",93,lustig-im-julie-si-gheimniss,22,2,0.0909090909090909,0.6577665794424474,0.0,1.4956759247654594,0.0266162586248126,1.7331772864574655,0.7223278811849579,0.7227359419009571,0.0,0.3783211771821687,0.0,1.7578022096026271
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(fir sich)
+
+          
+Sin jetz die drei amüsant!
+
+        
+",93,lustig-im-julie-si-gheimniss,11,1,0.0909090909090909,0.6577665794424473,0.0,1.4956759247654592,0.0266162586248126,1.7331772864574655,0.722327881184958,0.7227359419009571,0.0,0.3783211771821687,0.0,1.7578022096026271
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Dü bisch irr... ich red' vo dr Andere.
+
+        
+",94,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.3665424641584585,0.0,1.2603794294629882,0.1064650344992504,1.6910506831772865,0.4310316194826121,0.7227359419009571,0.0,0.3783211771821687,0.0,1.7603567613442443
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Was fir e-n-Andere!
+
+        
+",94,lustig-im-julie-si-gheimniss,8,1,0.125,0.6792861076922959,0.0,1.4719812227359,0.0798487758744378,1.6620702141765746,0.7622522691221769,0.5685687187992172,0.0,0.2269927063093012,0.0,1.6220281191243728
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Still!... wie traüsch Dü nur noch vor de-n-Aüge vo Dim
+                        Mann z'erschine!
+
+        
+",94,lustig-im-julie-si-gheimniss,20,2,0.1,0.6792861076922959,0.0,1.2629653703077737,0.0798487758744378,1.2889083715343617,0.7622522691221769,0.3373178841466072,0.0,0.0,0.0,1.1725733589790772
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(züem Julie)
+
+          
+Ah çà... wer isch Ihre Mann?... dà do?...
+(er zeigt uf
+                        dr Adolph).
+
+        
+",94,lustig-im-julie-si-gheimniss,27,3,0.1111111111111111,0.6900458718172201,0.0,1.2301396429185465,0.1064650344992504,1.2426916288375296,0.7822144630907863,0.2248785894310714,0.0,0.0,0.0,1.107737370728859
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich Ihre Mann?...
+
+        
+",94,lustig-im-julie-si-gheimniss,7,1,0.1428571428571428,0.3665424641584585,0.0,0.8213693482322878,0.1064650344992504,0.9340637913364734,0.4310316194826121,0.2248785894310714,0.0,0.0,0.0,0.8644982980425618
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(zeigt uf dr Fritz)
+
+          
+E nei... er!
+
+        
+",94,lustig-im-julie-si-gheimniss,12,1,0.0833333333333333,0.3342631717836858,0.0,1.191797511951439,0.0266162586248126,1.4778654817383423,0.3711450375767838,0.8995143577242859,0.0,0.0,0.0,1.4993078519717866
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Dü?
+
+        
+",95,lustig-im-julie-si-gheimniss,5,1,0.2,0.0430390564996969,0.0,0.9565010166489678,0.1064650344992504,1.435738878458163,0.0798487758744379,0.8995143577242859,0.0,0.0,0.0,1.5018624037134036
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Un siter wenn das?...
+
+        
+",95,lustig-im-julie-si-gheimniss,9,1,0.1111111111111111,0.0753183488744697,0.0,1.1299748160327554,0.1863138103736883,1.70224011267904,0.1397353577802663,0.8995143577242859,0.0,0.0,0.0,1.7476560281413178
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Siter allewil, wenn's I b'liebt... siter allewil!
+
+        
+",95,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.0645585847495454,0.0,1.7330044580976636,0.1596975517488757,2.276974163272682,0.1197731638116569,0.6746357682932145,0.0,0.0,1.053729614190542,2.428632681689315
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+(zeigt uf dr Adolph
+
+          
+Drum sàhn Se jetz wohl, ass ich dà Springer do müess
+                        kalt mache.
+
+          
+
+        
+",95,lustig-im-julie-si-gheimniss,22,3,0.1363636363636363,0.0645585847495454,0.0,1.9143051124653097,0.1596975517488757,2.5470751381469308,0.1197731638116569,0.8995143577242859,0.0,0.0,1.053729614190542,2.722167074475028
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Wil ihr's känne mitnander!
+
+        
+",95,lustig-im-julie-si-gheimniss,8,2,0.25,0.0645585847495454,0.2615127543867169,1.5252775217136665,0.1596975517488757,2.034020270516239,0.1197731638116569,0.2248785894310714,0.0,0.0,1.053729614190542,2.1323983992094067
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Fritz, Dü redsch üs de Hitze!
+
+        
+",95,lustig-im-julie-si-gheimniss,10,1,0.1,0.0322792923747727,0.2615127543867169,1.351803722329879,0.0798487758744378,1.7675190362953626,0.0598865819058284,0.2248785894310714,0.0,0.0,1.053729614190542,1.8866047747814925
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Ich kenn jo die Dame gar nitt... ich ha se jo noch nie
+                        g'sàh!
+
+        
+",95,lustig-im-julie-si-gheimniss,18,1,0.0555555555555555,0.0,0.2615127543867169,1.1783299229460915,0.0,1.5010178020744855,8.881784197001253e-17,0.2248785894310714,0.0,0.0,1.053729614190542,1.6408111503535785
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Sie kenne d'Jumpfer Julie nitt?...
+
+        
+",96,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.0161396461873863,0.2615127543867169,0.4229119264108347,0.0399243879372189,0.7005996489767408,0.0299432909529142,0.2248785894310714,0.0,0.0,0.0,0.7072657080911875
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+D'Jumpfer Julie... Sie?... ah! jetz wird's mir klar! ha
+                        ha ha... wie si mir so dumm!... enfin, 's isch güet...
+                        awer ich ha nur 's Emma gern... ich ha mich nur fir's
+                        Emma lo frisiere.
+
+        
+",96,lustig-im-julie-si-gheimniss,52,7,0.1346153846153846,0.1133455858328968,0.4113527673466023,0.4218719189321927,0.089087656189868,0.5861873165704536,0.1634130187751527,0.0652377011823008,0.0832791981920441,0.0747421200799124,0.1037449567777081,0.5815852659431343
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(fir sich)
+
+          
+Wo soll ich mich geh verstecke!
+
+        
+",96,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.2912369358496639,0.1498400129598855,0.5581195936159207,0.1290120441270869,0.5765037954393659,0.368947731532154,0.0652377011823008,0.0832791981920441,0.0747421200799124,0.1037449567777081,0.5352671114087222
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+Natirlig... Dü bisch glickliger as Dü's nur
+                        verdiensch!
+
+        
+",96,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.2912369358496639,0.1498400129598855,0.5581195936159207,0.1290120441270869,0.5765037954393659,0.368947731532154,0.0652377011823008,0.0832791981920441,0.0747421200799124,0.1037449567777081,0.5352671114087222
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Eh bien, un ich? wo isch jetz emol die Jumpfer Emma,
+                        ass ich se hirothe ka?
+
+        
+",97,lustig-im-julie-si-gheimniss,23,3,0.1304347826086956,0.3019966999745882,0.4099406808463241,0.8521691815285426,0.1556283027518995,0.9642592313329184,0.3889099255007635,0.2895730973056806,0.0832791981920441,0.0747421200799124,0.3798790158667278,0.9559191147964974
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Wenn Sie nur d'Ente thàte vertrete!... denn Sie sin an
+                        dr ganze G'schichte d'Schuld... was d'Hiroth
+ abelangst
+                        mit dr Jumpfer Emma, die känne Sie sich üs em Sinn
+                        schla.
+
+        
+",97,lustig-im-julie-si-gheimniss,39,4,0.1025641025641025,0.2858570537872019,0.4099406808463241,0.8906747262650814,0.1157039148146806,1.0259152645438132,0.3589666345478493,0.4053895322825516,0.0832791981920441,0.0747421200799124,0.3798790158667277,1.0683236746917912
+comedy,JULIE,F,,,,"
+          
+Julie.
+
+          
+D'Jumpfer Emma isch dert in ihrem Zimmer... sie soll
+                        entscheide zwische-n-eüch Zwei 
+(se klopft an Thüre
+                        links).
+
+        
+",97,lustig-im-julie-si-gheimniss,26,1,0.0384615384615384,0.1886511141416914,0.2601006678864386,0.7104140793760771,0.0665406465620315,0.8702266220758517,0.2254969067256109,0.3401518311002508,0.0,0.0,0.2761340590890196,0.9004697240541315
+comedy,EMMA,F,,,,"
+          
+Emma
+
+          
+(kunnt üse)
+
+          
+Was das fir e Làrme-n-isch!
+
+        
+",98,lustig-im-julie-si-gheimniss,13,1,0.0769230769230769,0.3342631717836858,0.2601006678864387,0.8280623270273129,0.0266162586248126,0.8912899237159412,0.3711450375767838,0.3401518311002508,0.0,0.0,0.2761340590890196,0.899192448183323
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Adolph.
+
+          
+Kàm Se, mir wisse-n-alles!... 's isch alles üse ku!
+
+        
+",98,lustig-im-julie-si-gheimniss,17,1,0.0588235294117647,0.3342631717836858,0.2601006678864387,0.8280623270273129,0.0266162586248126,0.8912899237159412,0.3711450375767838,0.3401518311002508,0.0,0.0,0.2761340590890196,0.899192448183323
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Endlig ha-n-ich denn 's Glick, ihre Reize z'bewundere!
+
+        
+",98,lustig-im-julie-si-gheimniss,16,4,0.25,0.4220403588392357,0.2243949141243733,1.099150483667378,0.0199621939686094,1.0120443441874891,0.4477967989290967,0.344856002998266,0.0,0.3157920012461416,0.2310112142310484,1.0484970786897865
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Dr Herr Rothfuchs! .. dr Frind vo-n-Ihrem Vater... ich
+                        ha-n-um Ihre Hand g'frogt, glich wo-n-i 's Portrait
+                        g'sàh ha...
+
+        
+",98,lustig-im-julie-si-gheimniss,32,4,0.125,0.4543196512140085,0.2243949141243733,1.1473818386227328,0.0998109698430473,1.0836389280870329,0.5076833808349251,0.229039568021395,0.0,0.3157920012461416,0.2310112142310484,1.0589893310084493
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Oh Herr Rothfuchs... mi Hand g'hört im Herr Adolph.
+
+        
+",98,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.518878235963554,0.2243949141243733,1.494329437390308,0.259508521591923,1.6166413965287867,0.6274565446465818,0.229039568021395,0.0,0.3157920012461416,0.2310112142310484,1.5505765798642774
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Un dr Herr Stockfisch... was sàit dà derzü.
+
+          
+
+        
+",99,lustig-im-julie-si-gheimniss,13,2,0.1538461538461538,0.2599334130543379,0.2243949141243733,1.4325067414716242,0.4192060733407988,1.841016027469484,0.3960468648500644,0.229039568021395,0.0,0.3157920012461416,0.2310112142310484,1.7989247560338086
+comedy,EMMA,F,,,,"
+          
+Emma.
+
+          
+Ich ha d'Erlaübniss... mi Vater hat mir grad
+                        telegraphiert, ich soll nur wieder heimku, er thàt mich
+                        frei lo hirothe, wer ich will.
+
+        
+",99,lustig-im-julie-si-gheimniss,31,4,0.1290322580645161,0.3491679555192908,0.4066778815620575,1.5555851510150132,0.5052417927829348,1.9188915127703727,0.5418231776369382,0.229039568021395,0.1457385968360771,0.4008825779707841,0.2836476898922858,1.8709609334446475
+comedy,JULIE,F,,,,"
+          
+Julie
+
+          
+(züem Heu Rothfuchs)
+
+          
+Ich ha du reste im Emma scho g'sàit, was Sie alles fir
+                        Eigeschafte hàn, so dass es züem vorüs nit hat welle
+                        wisse vo-n-Ihne.
+
+        
+",99,lustig-im-julie-si-gheimniss,35,2,0.0571428571428571,0.4123827081681974,0.1822829674376842,1.1948325538054554,0.4852795988143253,1.5646955751558005,0.6208006441201028,0.0,0.1457385968360771,0.0850905767246424,0.0526364756612374,1.4226238358935577
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz.
+
+          
+Sie mien in minere Fraü verzeihe, Herr Rothfuchs, denn
+                        ich bi an allem d'Schuld, wil ich Ihne nitt ha traüe
+                        z'g'steh, ass ich scho g'hirothe bi...
+
+        
+",100,lustig-im-julie-si-gheimniss,35,4,0.1142857142857142,0.3881732388871178,0.3130393446310426,1.1421643904432623,0.4253930169084968,1.5134436779861695,0.5758857076907317,0.0,0.1457385968360771,0.0850905767246424,0.0526364756612374,1.3836958691183807
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs
+
+          
+(fir sich)
+
+          
+Eh bien, ich will ene zeige, was dr Herr Rothfuchs fir
+                        Eigeschafte hat!
+(lüt)
+ Fritz, vo Morn eweg...
+
+        
+",100,lustig-im-julie-si-gheimniss,31,7,0.2258064516129032,0.5269190541567348,0.5184587252951911,1.2882334802602196,0.3113233370878713,1.5082148049388788,0.6910093584585049,0.0961437411957342,0.1457385968360771,0.0850905767246424,0.1709796438422458,1.4297771764964198
+comedy,Herr FRITZ,M,manager,intermediate_professionals,,"
+          
+Fritz
+
+          
+(àngstlig)
+
+          
+Vo Morn eweg...
+
+        
+",100,lustig-im-julie-si-gheimniss,8,1,0.125,0.4623604694071893,1.1760923862849135,1.354751360950105,0.1516257853389956,1.4723461439108507,0.5712361946468482,0.0961437411957342,0.1457385968360771,0.0850905767246424,0.1709796438422458,1.729576647085408
+comedy,Herr ROTHFUCHS,M,textile_merchant,service_and_sales,,"
+          
+Herr Rothfuchs.
+
+          
+Vo Morn eweg bisch Dü mi Associé!
+
+        
+",100,lustig-im-julie-si-gheimniss,11,2,0.1818181818181818,0.3892655731296227,1.3226262493420904,1.5251425908273402,0.1055144538340785,1.7762881794272634,0.4554031728128886,0.0961437411957342,0.0,0.0,0.1183431681810084,2.1761306416109347

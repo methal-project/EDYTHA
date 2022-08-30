@@ -1,0 +1,1771 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Un wenn ich bis do her kumme bin, so geh ich a ganz nin — deß loß ich m'r nit g'falle, daß m'r
+            d'Orangerie absperrt. Di isch für Jedermann do. Un wenn ich do e Scheppel trinke will, so kann mers
+            ken Mensch verwehre.
+
+          
+",1,schneegans-steckelburjer-universite-saaue,53,4,0.0754716981132075,,,,,,,,,,,
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Awer, Eugène, j't'en prie! Dü sisch jo, 's isch e Concert oder e Hochzitt. — Gehn mer liewer ins
+            Bäckehiesel.
+
+          
+",1,schneegans-steckelburjer-universite-saaue,29,2,0.0689655172413793,,,,,,,,,,,
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Nein, Sophie. — Wenn's e Concert isch, un wenn's eb's koscht, so bezahl' ich schun. Ich bin nit e'
+            so, daß ich uf's Geld lüej. Deß weisch dü schun, Sophie. Je ne suis pas commeça que je regarde à
+            l'argent.
+
+          
+",2,schneegans-steckelburjer-universite-saaue,56,2,0.0357142857142857,,,,,,,,,,,
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Zell weiß ich schun! Ça je le sais bien — awer du machsch' d'r noch e ""mauvaise affaire"". — Kumm,
+            d' Lytt lüejen alli so. Un do kummt schun e Herr uf uns zü! O, i müß mich schemme.
+
+          
+",3,schneegans-steckelburjer-universite-saaue,51,3,0.0588235294117647,,,,,,,,,,,
+comedy,Ein Herr vom Comité,M,professor,professionals_scientific_technical,upper_class,"
+            
+Herr:
+
+            
+Entschuldigen Sie, mein Herr, ich muß Sie darauf aufmerksam machen, daß es hier geschlossene
+            Gesellschaft ist, und der Saal abgesperrt ist. Oder haben Sie etwa eine Einladungskarte erhalten
+            ?
+
+          
+",4,schneegans-steckelburjer-universite-saaue,36,4,0.1111111111111111,0.0909596475247631,0.0935977191788831,1.039331146216074,0.1069393363655958,1.4282683407417005,0.0802045022741968,0.5782518915501134,0.0,0.0,0.1741112427523506,1.4723622801064549
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Haw' ich's d'r nit gsaat? Allez, kumm. — J't'en prie, Eugène! . ..
+
+          
+",5,schneegans-steckelburjer-universite-saaue,22,1,0.0454545454545454,0.0432307955520493,0.0,0.7516222415920938,0.1069393363655958,1.1210237062306434,0.0802045022741968,0.4998670659919324,0.0,0.0,0.1741112427523506,1.1534889744122852
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis
+
+            
+(im bekannten sog. Psarrerdeutsch):
+
+            
+Nein, mein Herr, ich habe keine Einladungskarte — aber ich muß doch sagen — die Orangerie ist für
+            Jedermann da, und ich seh nicht ein, warum man sie absperren sollte, an einem so schönen Abend wie
+            heute, ganz besonders.
+
+          
+",5,schneegans-steckelburjer-universite-saaue,55,6,0.109090909090909,0.0486346449960555,0.0,0.9874888671287264,0.1203067534112953,1.4647392858612347,0.0902300650584714,0.6220555047872806,0.0,0.0,0.2901854045872511,1.5243084390644974
+comedy,Ein Herr vom Comité,M,professor,professionals_scientific_technical,upper_class,"
+            
+Herr:
+
+            
+Entschuldigen Sie vielmals, — aber die Stadt ist so freundlich gewesen, uns das Lokal zu
+            überlassen, um unser Fest darin abzuhalten. So gern ich Ihnen das Vergnügen machen würde. . .
+
+          
+",6,schneegans-steckelburjer-universite-saaue,38,5,0.131578947368421,0.0551192643288629,0.0648072704195036,0.9798256371532345,0.1363476538661346,1.3675127102861078,0.102260740399601,0.5753635181037724,0.0,0.0370568987516222,0.3947022864332806,1.457869279535838
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Awer Eugène, sois donc raisonnable — Kumm, mer gehn jezt. . .
+
+          
+",6,schneegans-steckelburjer-universite-saaue,18,1,0.0555555555555555,0.0443115654408505,0.0648072704195036,0.7605431536625827,0.1096128197747357,1.0381276993199342,0.0822096148310517,0.3754166917069994,0.0,0.0370568987516222,0.3947022864332806,1.1145821462791328
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+O jemerliche! Wenn der Mann emol ebbs in simm Kopf het, so isch's nit mejli, mit dem beschte Wille
+            nit. . . Entschuldigen Sie, mein Herr.
+
+          
+",7,schneegans-steckelburjer-universite-saaue,36,3,0.0833333333333333,0.0226961676648259,0.0648072704195036,0.6831429767974619,0.0561431515919378,0.9142410109550898,0.0421073636939533,0.3754166917069994,0.0,0.0370568987516222,0.4527393673507308,1.0072653305838626
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis
+
+            
+(zum Herrn):
+
+            
+Ich bezahl jo gern was es koscht. . . . Saue Se mer nur, was ich ze bezahle hab.
+
+          
+",7,schneegans-steckelburjer-universite-saaue,28,1,0.0357142857142857,0.0226961676648259,0.388843622517022,1.0487214504506832,0.0561431515919378,1.3902307337403177,0.0421073636939533,0.8382049021439251,0.0,0.2223413925097332,0.975323776580878,1.6594904154551784
+comedy,Ein Herr vom Comité,M,professor,professionals_scientific_technical,upper_class,"
+            
+Herr
+
+            
+(lachend):
+
+            
+Ja, mein verehrter Herr, es ist nichts zu bezahlen. Sie sehen ja doch selber ein, daß Sie sich
+            nicht in eine fremde Gesellschaft eindrängeln können.
+
+          
+",8,schneegans-steckelburjer-universite-saaue,35,7,0.2,0.0358198020288409,0.388843622517022,1.1538895794148636,0.0886068787029222,1.4128014117231604,0.0664551590271916,0.9150275435567202,0.0,0.2223413925097332,0.9587417534616064,1.7280366853948084
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Mein Herr! Ich bin nit le premier venu. Ich bin der Herr Eugène Mathis, un wohn uf'em Pont
+            couvert, un Jedermann kennt mich für en' ordentlicher Mann — un deß isch min Frau . . .
+
+          
+",8,schneegans-steckelburjer-universite-saaue,43,4,0.0930232558139534,0.0617582793600705,0.3240363520975183,1.2102917424041728,0.1527704805222797,1.5812001472281327,0.1145778603917098,0.6617992906450689,0.0,0.185284493758111,1.0283361143679275,1.8217049216514651
+comedy,Ein Herr vom Comité,M,professor,professionals_scientific_technical,upper_class,"
+            
+Herr:
+
+            
+Ja, mein verehrter Herr! Ich bezweifle ja nicht im Geringsten, daß Sie ein ordentlicher Mann sind.
+            Es liegt mir ja natürlich vollständig fern, Ihnen in irgend einer Weise zu nahe treten zu wollen,
+            aber Sie werden doch begreifen. . . .
+
+          
+",9,schneegans-steckelburjer-universite-saaue,50,10,0.2,0.0976863369240274,0.3240363520975183,1.6484162557139697,0.2260533038658413,1.9670911578347905,0.1721410525479847,0.9752417419728944,0.0422414522933243,0.185284493758111,1.097980611468868,2.320787015941898
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Nein, Herr, min Mann begrifft's nit; wenn er sich so ebs in de Kopf setzt, so isch Alles verlore.
+            D' Lit sauen als: C'est une tête carrée.
+
+            
+(Unterdessen sind sie immer weiter gegangen, bis in die Mitte des Saales. Andere Herren des
+            Comité's sind auf dieses Vorkommniß aufmerksam geworden und sprechen zusammen. Im Publikum befindet
+            sich stud. med. Kühne, der nun unter lebhaften Zeichen der Verwunderung näher tritt.)
+
+          
+",10,schneegans-steckelburjer-universite-saaue,89,12,0.1348314606741573,0.217467416323022,0.3240363520975183,1.6711792462317632,0.3433389197435682,1.8311733701234976,0.3080703649077251,0.9752417419728944,0.183046293271072,0.185284493758111,0.8658322877990671,2.148543994592937
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Donnerschlag! Das sind ja meine Wirthsleute! Was will denn der verdrehte Kerl 
+            
+hier? Na, das ist ja famos! . . . 
+            
+(geht auf sie zu):
+ Guten Tag Herr Mathis! Guten Tag Frau Mathis! — Was machen Sie nur
+            hier? 
+            
+(Auf den Herrn vom Comite zugehend.)
+ Erlauben Sie, daß ich mich Ihnen vorstelle: Mein
+            Name ist: Studiosus Kühne.
+
+          
+",11,schneegans-steckelburjer-universite-saaue,77,10,0.1298701298701298,0.2436685448877678,0.0,1.6763272563813765,0.3925603924048707,1.744896136517195,0.3475875440523057,0.8397924538836348,0.2252877455643964,0.0,0.4128923756698602,1.981976950595315
+comedy,Ein Herr vom Comité,M,professor,professionals_scientific_technical,upper_class,"
+            
+Herr:
+
+            
+Prof.....
+
+          
+",12,schneegans-steckelburjer-universite-saaue,4,1,0.25,0.2575641577437837,0.0,1.5095391272648944,0.4269337505223836,1.646298376467658,0.3733675626404404,0.6407813736754916,0.2252877455643964,0.0,0.3134002369542312,1.789499851346006
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ah, Sind sie a do, Herr Kihne!
+
+          
+",12,schneegans-steckelburjer-universite-saaue,12,2,0.1666666666666666,0.3561467039034758,0.0,1.5374453331485871,0.5928366115546994,1.4722015409728384,0.5108000816576957,0.6407813736754916,0.436495007031018,0.0,0.1392889942018805,1.576422668971361
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Gueten owe, Herr Kihne. Ich bitt' Sie, sind Sie doch so frindlich un helfe Se m'r mine Mann zü
+            persuadiere, daß er ken G'schicht anfangt.
+
+          
+",12,schneegans-steckelburjer-universite-saaue,33,7,0.2121212121212121,0.3576488300034414,0.0,1.190305263107739,0.5898701777272843,1.1598272709668485,0.5096900025651074,0.327338922347666,0.4545984865852999,0.0,0.0696444971009402,1.1360943679858266
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ich saa d'rs jetz ein für alle mol. Loß mi jetz gehn. Was min Recht isch, isch min Recht, un do
+            kann der Herr Kihne a nix mache . . . un wenn sie mir's verwehre, no mach ich erscht recht Krambohl,
+            oder schrieb an d'Birjerzittung! Do solle Sie erscht sehn . . . .
+
+          
+",13,schneegans-steckelburjer-universite-saaue,67,6,0.0895522388059701,0.2642831358089166,0.0775533062634235,1.128388469868082,0.4592171448038579,1.1843703423239669,0.3637351274210925,0.327338922347666,0.3137936456075521,0.0,0.0696444971009402,1.1962612389648228
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Herr Jeses! Was wurd jetz noch do drüs!
+
+          
+",14,schneegans-steckelburjer-universite-saaue,13,2,0.1538461538461538,0.2542935555761892,0.0775533062634235,0.8447852987574125,0.4500979232796538,0.92850210192699,0.3542946366293357,0.0,0.2715521933142278,0.0,0.0,0.8340475157623952
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne
+
+            
+(zum Herrn);
+
+            
+Wenn Sie mir erlauben, Herr Prof., so würde ich Ihnen rathen, die beiden eintreten zu lassen. Das
+            sind köstliche Leute, wirkliche Straßburger Typen, die unterhalten die ganze Gesellschaft. . . .
+
+          
+",14,schneegans-steckelburjer-universite-saaue,45,5,0.1111111111111111,0.2742727160416439,0.1952396988981821,1.024777475124659,0.4683363663280619,1.0326889619442086,0.3731756182128493,0.2252659865332734,0.3560350979008764,0.0975974454258471,0.1182135350214193,1.0283831352010318
+comedy,Ein Herr vom Comité,M,professor,professionals_scientific_technical,upper_class,"
+            
+Herr:
+
+            
+Na, dann meinetwegen. Ich hoffe die andern Herren vom Comité haben nichts dagegen?
+
+          
+",14,schneegans-steckelburjer-universite-saaue,18,5,0.2777777777777778,0.1497516925507221,0.3391136858630265,0.8355260495161341,0.2382699034763888,0.9409654742769432,0.1876203978310757,0.3075110248134817,0.1448278364342548,0.0975974454258471,0.2296281468783414,1.0011929651563594
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Und wenn es auch nicht im Programm steht, Sie werden es sicher nicht bereuen. Erlauben Sie mir
+            nur, die Geschichte zu deichseln. Das werde ich schon recht machen. - 
+            
+(Zu Herrn Mathis.)
+ Kommen Sie doch nur mit, Herr und Frau Mathis, und haben Sie keine
+            Angst. Sie werden sehen, wie's hier gemüthlich wird.
+
+          
+",15,schneegans-steckelburjer-universite-saaue,69,6,0.0869565217391304,0.1177253583308057,0.4289860986201577,0.9714964688015644,0.1813209310059418,1.017618514317746,0.269197216801625,0.3075110248134817,0.1559447045145629,0.0975974454258471,0.2296281468783414,1.07929313938504
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Awer, ich tröj mir nit, ich bin jo a nit en toilette, und die Madame do sin jo alli so scheen hell
+            angezöje.
+
+          
+",16,schneegans-steckelburjer-universite-saaue,30,4,0.1333333333333333,0.0805022742383237,0.3514327923567341,0.8914194992807343,0.3297510636135555,0.8887562561304408,0.2591716540173504,0.3075110248134817,0.1559447045145629,0.0975974454258471,0.2296281468783414,1.0169232743865746
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne
+
+            
+(von dem Podium aus zum Publikum gewendet) :
+
+            
+Verehrte Damen und Herren, ich bitte Sie Plaß zu nehmen! Der Zufall hat gewollt, daß meine
+            vortrefflichen Wirthsleute sich hier in unsere Gesellschaft verirrt haben. Ich bin sicher, daß Sie
+            damit einverstanden sein werden, wenn ich sie in Ihrem Namen auffordere hier auf dem Podium Plaß zu
+            nehmen. Es find ganz famose Leute, die echten Steckelburjer, von altem Schrot und Korn! Ich
+            unterhalte mich sehr oft und gerne mit ihnen, und ich glaube annehmen zu dürfen, daß es auch für Sie,
+            meine verehrten Anwesenden, von Interesse sein wird, ein solches echtes Straßburger Gespräch mit
+            anzuhören. Namentlich dürfte es für die, welche hier früher docirt oder studirt haben, eine Freude 
+            
+sein, sich wieder in die alte Straßburger Vergangenheit hinein zu versetzen. Also ich
+            stelle Ihnen vor: Herr Mathis, Eigenthümer und Rentier, und seine Frau, Wirthsleute, wie man sie
+            nicht besser haben könnte. Ich wohne schon seit 3 Semestern bei ihnen. Mein Name ist stud. Kühne.
+            Pst! Musik!
+
+          
+",17,schneegans-steckelburjer-universite-saaue,198,24,0.1212121212121212,0.1100467521407611,0.3514327923567341,0.984935678703626,0.3626620082387723,0.9519015134382164,0.2893035061094555,0.3696937755136812,0.1816448088833857,0.0975974454258471,0.2723776060685678,1.0989895518028832
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Cantus ex! Ein Schmollis der Musik! Und Ihnen, mein verehrter Herr Mathis, komm' ich einen Halben
+            aufs Spezielle sine, sine. Das ist doch reizend von Ihnen und Ihrer Frau, daß Sie uns mit Ihrer
+            Gegenwart beehren! Prosit!
+
+          
+",18,schneegans-steckelburjer-universite-saaue,48,5,0.1041666666666666,0.0641291143440768,0.2337463997219755,0.7585803781675542,0.2802599633710066,0.7645373993964897,0.2222998231614238,0.1444277889804077,0.097161904296737,0.0,0.2934530652490291,0.8446044829696249
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis
+
+            
+(wüthend):
+
+            
+Ja here Sie mol, Herr Kihne. Was isch jetz deß ? Was solle mir do mache? Was lon sie uns do auf
+            deren Estrade size, daß alli Lit uns anlüeje! Mer thät grad meine, mir sin ""bêtes curieuses"", Wisse
+            Sie, deß loß ich mir nit g'falle! ich bin en alter Chasseur d'Afrique.J'ai fait plusieurs campagnes
+            mit Üszeichnung. Un min Capitaine het als g'saat: ,Mathis est un brave soldat. Il porte le bâton de
+            maréchal 
+            
+dans son havresac."" Un wer weiß, wenn d' Schwowe. nit g'kumme wärde . . . ..
+
+          
+",19,schneegans-steckelburjer-universite-saaue,117,11,0.094017094017094,0.0870614745190392,0.1826968503482316,0.8016305330541437,0.2970309474782934,0.8210282731321863,0.2589789096682814,0.1170090867116177,0.1403919897625621,0.0402193948590902,0.3342281320588422,0.920624612860307
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+O bli doch still! Herr Jeses Gott! — Dü hesch jo durchüs nin gehn welle.
+
+          
+",20,schneegans-steckelburjer-universite-saaue,21,4,0.1904761904761904,0.0897633992410423,0.2157008437336188,0.7497455466430052,0.3037146560011431,0.9627155256467134,0.1598517477968143,0.2553719820580485,0.0689301898346478,0.0402193948590902,0.4908701622033337,1.0379314732863878
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ja, nin gehn, haw i gewellt! Awer nit do sitze, so vor alli Litt, grad wie wenn ich Theater wott
+            spiele. Deß leijt m'r grad an. Ich bin ken Comédien.
+
+          
+",20,schneegans-steckelburjer-universite-saaue,40,4,0.1,0.0897633992410423,0.2157008437336188,1.1339888039013022,0.1419171063478299,1.6098652990401583,0.1598517477968143,0.3424393296491112,0.0689301898346478,0.0402193948590902,1.077833490718835,1.6987330327618793
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Nun, nun, mein lieber Herr Mathis,nehmen Sie das doch. nicht krumm! — Sehen Sie, Sie wollten
+            durchaus hineingehn. Schließlich, nach langem Hinund Herreden, ist es mir gelungen, Ihnen einen Platz
+            im Saale zu verschaffen, und dazu noch einen sehr ehrenvollen, den ehrenvollsten vielleicht; und
+            jetzt reklamieren Sie wiederum! Sie sind mir der rechte Straßburger, denn das habe ich in den 3
+            Semestern, die ich hier studirte, doch allmählich herausbekommen. Ein jeder Straßburger hat etwas von
+            seinem Nationalhelden an sich, dem Hans im Schnackenloch . . ""Der Hans im Schnackenloch het Alles was
+            er will, und was er will das het er nit, und was er het, das will er nit, der Hans im Schnackenloh
+            het Alles, was er will!"" -
+
+          
+",21,schneegans-steckelburjer-universite-saaue,150,10,0.0666666666666666,0.1121142357522907,0.278207072826577,1.2054430741655264,0.1841345832286109,1.6837670605281758,0.2106649750231747,0.2974732069622353,0.147151788244324,0.0727884300180527,1.195293319928996,1.7580277050304085
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+O gehn Se m'r doch mit Ihrem Stroßburjer Ditsch. S'macht mer grad Büchweh, wenn ichs heer. So redt
+            mer doch nit: Der Hans im Schnokeloch het Alles was er will, und was 
+            
+er will, deß het er nit, und was er het, deß will er nit, der Hans im Schnokeloch het
+            Alles was er will — oder wenn mr's scheen uf franzesch saue will:""Jean dans le tru du cusin, il havre
+            di tut ce qui vul'r, et tut ce qui vul'r il havre di pas, et tut ce qu'il havre ti vul'r ti pas. Jean
+            dans le tru du cusin, il havre ti tut ce qui vul'r. — Gel' Sophie, so ischs! — Un do brücht m'r nit
+            so ze lache. Un was lache denn die Pfohl alli do?
+
+          
+",22,schneegans-steckelburjer-universite-saaue,155,7,0.0451612903225806,0.1864647397577452,0.52308945012123,1.7000029369508822,0.2384344517335397,2.1618499421110697,0.1986342996820451,0.795271175488945,0.147151788244324,0.2055710027120315,1.500110336367436,2.418154949720665
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Dü redsch halt so firig! Kannsch denn's Mül nit halte?
+
+          
+",23,schneegans-steckelburjer-universite-saaue,16,4,0.25,0.3668152315670039,0.4302650125301296,1.8017110219448704,0.3357432281870539,2.192138885569372,0.149924537834058,0.7404448394775267,0.1039217027784989,0.2090184298705303,1.3479206577007008,2.4940942278524827
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Halt dü's Mül. — Un jetzt, Herr Kihne, mecht ich doch endlich e-mol wisse, was mir do mache. Was
+            welle die Lit? Was sin so vieli do? Isch's e Hochzitt, e Kindtauf oder was?
+
+          
+",23,schneegans-steckelburjer-universite-saaue,47,5,0.1063829787234042,0.4645460829762936,0.3073886063876112,1.8156025683529229,0.3933619517579801,2.1011872404225884,0.1230524430124188,0.6020819441310958,0.1039217027784989,0.2439518874846017,1.1912786275562095,2.5066195487371474
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Aber, mein lieber Herr Mathis! Wissen Sie denn nicht, was heute los ist? Es ist ja das
+            fünfundzwanzigste Jubiläum der Universität, heute, und nicht bloß heute, sondern auch gestern und
+            vorgestern, und morgen noch!
+
+          
+",24,schneegans-steckelburjer-universite-saaue,45,7,0.1555555555555555,0.4691779539282989,0.3971641813497193,1.6375004020913864,0.4048197377971512,1.7421547540325466,0.1316457825417969,0.7497516463386587,0.1039217027784989,0.391616285935996,0.7562221408211045,2.1370822174634787
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Grad wie e silwerni Hochzitt! -
+
+          
+",25,schneegans-steckelburjer-universite-saaue,10,2,0.2,0.4010710911825946,0.3346579522567611,1.5861985322138117,0.2895890651540548,1.8022798150936503,0.0206240148705077,0.7325350183253351,0.0,0.3590472507770335,0.889494516678468,2.227382221709922
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Hesch e Recht, Sophie, e silwerni Hochzitt ! Weisch noch, wie mer unsri celebrirt hen!
+
+          
+",25,schneegans-steckelburjer-universite-saaue,21,2,0.0952380952380952,0.3202359678443328,0.0897755749621081,0.9637551682129504,0.2192482961942866,1.1396856899713683,0.0206240148705077,0.2347370497986253,0.0,0.2262646780830547,0.445388506038147,1.3804157910717538
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+'s sind jetzt 11 Johr!
+
+          
+",25,schneegans-steckelburjer-universite-saaue,9,1,0.1111111111111111,0.3400566855107255,0.0897755749621081,1.1524472799978895,0.5011378595174746,1.1342494549830762,0.3556424296106661,0.2347370497986253,0.4224145229332432,0.1825978560654656,0.445388506038147,1.2143961943185375
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Isch des e Gejäschts g'sin! — A, e silwerni Hochzitt! Un die celebrirt jetz d'Université? Ja, mit
+            wem denn?
+
+          
+",25,schneegans-steckelburjer-universite-saaue,28,2,0.0714285714285714,0.2342200599354265,0.0897755749621081,1.116621594855993,0.4234680103779992,1.038141828587038,0.3436117542695366,0.4088717449807507,0.4224145229332432,0.1476643984513942,0.445388506038147,1.122797333771181
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Na, mein lieber Herr Mathis! Wohl kaum mit der Bürgerschaft, nach dem was Sie davon zu wissen
+            scheinen! — Na, schad' nichts, wird schon allmählich anders werden! — Ja, sagen Sie mal, haben Sie
+            denn gar nicht gemerkt, daß in der Stadt etwas besonderes los ist?
+
+          
+",26,schneegans-steckelburjer-universite-saaue,59,10,0.1694915254237288,0.2328304986498249,0.1017368392937934,1.0067680088014428,0.4200306745662479,0.930500338411034,0.3410337524107231,0.3229174359651152,0.4224145229332432,0.0679348342479776,0.4625420339617828,0.9952582579789254
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ich hab's gemerkt, Herr Kihne! O jemerliche, was sind Sie agitiert gsin die Täj! Als B'süch g'hett
+            von güti Frind, als im schenste Gala, un furt gange, un heim kumme un wider furtgange — un als im
+            Waue g'sesse un rumg'fahre. — Was hett min Berwel Kleider mien birschte un Stiefel wichse! Un was hen
+            sie z'nächt Kleider vertreckelt uff'm Fackelzüg!
+
+          
+",27,schneegans-steckelburjer-universite-saaue,77,7,0.0909090909090909,0.2702606823137475,0.1552212502531552,0.932848845890906,0.4903470640823943,0.7126948739926035,0.3974868654744097,0.3229174359651152,0.4827594547808494,0.0679348342479776,0.1690603697040322,0.7418095257198211
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ah, für deß isch der Fackelzüg gsin am Frida!
+
+          
+",28,schneegans-steckelburjer-universite-saaue,13,1,0.0769230769230769,0.2702606823137475,0.1552212502531552,0.932848845890906,0.4903470640823943,0.7126948739926036,0.3974868654744097,0.3229174359651152,0.4827594547808494,0.0679348342479776,0.1690603697040322,0.7418095257198211
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ja, natürlich, mein lieber Herr Mathis! Haben Sie sich denn das nicht angesehn?
+
+          
+",28,schneegans-steckelburjer-universite-saaue,19,4,0.2105263157894736,0.0487782674963355,0.1552212502531552,0.7066266136166719,0.0983879653121153,0.7488041225826472,0.0775067949106632,0.4099847835561778,0.0603449318476061,0.0679348342479776,0.3431716124563829,0.898514234511439
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+O lon Sie mich numme rühig, Herr Kihne Ich hab genüe mit dem Fackelzüg am 22te März g'hett. Do haw
+            i mit gehn mien! — Ich bin doch trésorier vom Angelverein. Un wenn mir nit mitgange werde, do wär's
+            uns schlecht gange! Do sin mir halt mit. A paar sin d'heim gebliwwe. Awer ich bin halt 
+            
+im Comité gsin. Un dernoh, wisse Sie, 's isch halt der alt Kaiser g'sin. — J'ai été
+            chasseur d'Afrique, et j'ai fait plusieurs campagnes mit Uszeichnung. — Awer wisse Sie, dem alt
+            Kaiser müß mer's lon, 's isch so en alter ehrwirdiger Herr g'sin, vor dem haw i Respekt bekumme. Dem
+            het m'r gern a Plaisir gemacht. A nach em Tod! — Oui, awer anmol ich güt. So im Treck rum watschlen e
+            paar Stund isch ken Fraid! — Un no henn Sie deß am Frida gemacht? Gelte Sie, m'r bekummt e scheener
+            Durscht nochher. -
+
+          
+",29,schneegans-steckelburjer-universite-saaue,184,24,0.1304347826086956,0.2889944082985851,0.2922452314702488,0.9236813552253448,0.274097365793039,0.9889579819343728,0.1668080249653062,0.3148832025105149,0.1396000885349521,0.1353244292723051,0.4564188273906678,1.0706555555642878
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Herr Jeses Gott! Un Kleider sen üs. Do hemmer putze mien! Unser Berwel isch ganz üßer sich gjsin.
+            — Un saue Sie, Herr Kihne, was hen Sie denn gescht owes gemacht? O jemerliche, wie het des Zimmer
+            üsgsehn denne Morje, wie 's Berwel nin isch gange, 's het mer verzehlt, alles durchenander ! Un
+            Stiefel uff em Kannapee! Un d'Hose uff em Ofe; un unterm — Bett sin a noch Saches g'sin. Un Sie henn
+            g'schlofe un g'schnarcht noch am halwer elfe, wie ich von d'r Kirch' bin g'kumme; un hen so e roter
+            Kopf g'het! Ja, ja Herr Kihne! — Un uff an Mol, do schellt's un schellt's un schellt's — 's Berwel
+            geht nuf un saat mer: 's wurd fur der Kaffee sin! Awer nein: ""Kaffee nehmen Sie nur ruhig wieder mit.
+            Ich trinke keinen heute. Aber bringen Sie mir ein Glas Wasser !"" 
+            
+Un wie's deß Glas Wasser gebrocht het, schnell wider gebimmelt, un s' Berwel isch üßer
+            Othem gsin, un het als g'saat: O je, was het numme der Herr Kihne hit! Un was hen Sie gwellt: Noch e
+            Glas Wasser! Und doch saue Sie gewehnlich als: ""'s Wasser ischs für's liebe Vieh! Wein muß der Mensch
+            trinke."" -Un dernoh isch's im Trab gange, un Sie hen so g'scholte, wil Sie d'andre Kleider hen
+            gebirscht han welle ; un mir hen springe mien. Sie sin erecht bees gsin, wil nit alles glich ferti
+            isch g'sin. Un wie ich Sie g'fröjt hab, was denn los ish, daß Sie so jeschte, no hen sie g'saat: ""Ich
+            muß mich tummeln, weil um 3/4 12 Frühschoppen im Tivoli ist. Da darf ich nicht zu spät kommen."" Saue
+            Sie doch: Wurd mer denn glich relegiert, wenn mer ze spot zum Frihschoppe kummt?
+
+          
+",30,schneegans-steckelburjer-universite-saaue,360,26,0.0722222222222222,0.3057047735023581,0.3060881340479365,1.0068017170229275,0.3154335323497405,1.127496502924188,0.2014816000345796,0.2754906104266717,0.1396000885349521,0.0849646797334315,0.3415264101688074,1.161308614580819
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Relegirt — — ich bitte Sie, Frau Mathis. Wie kommen Sie überhaupt zu dem Wort?
+
+          
+",31,schneegans-steckelburjer-universite-saaue,20,3,0.15,0.2682745898384355,0.2526037230885747,0.8799289874317573,0.245117142833594,1.0142856387037729,0.145028486970893,0.2754906104266717,0.0792551566873459,0.0849646797334315,0.3415264101688074,1.0596520752373757
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Jo, 's hett fascht so lang gedürt un isch so ambetant g'sin ze lese, wie deß Dings do in Kreta. —
+            Awer saue Sie, Herr Kihne, was han Se denn gescht owes ghet, daß Sie so in dem Zuestand beim kumme
+            sin?
+
+          
+",31,schneegans-steckelburjer-universite-saaue,51,4,0.0784313725490196,0.2763803640044447,0.3462014422674578,0.9862951448417266,0.2651682684021433,1.1506724794293046,0.1600668311473049,0.2754906104266717,0.0792551566873459,0.0849646797334315,0.3415264101688074,1.1964540396404628
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne :
+
+            
+Nun, gestern Abend war ja Commers !
+
+          
+",32,schneegans-steckelburjer-universite-saaue,10,1,0.1,0.2682745898384354,0.3462014422674578,1.0561443744364396,0.2451171428335941,1.0772300674248334,0.145028486970893,0.5366926531998597,0.0792551566873459,0.0849646797334315,0.1674151674164567,1.2255359896510254
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Sie han mir schints e scheens Commerce gemacht, mit Kischte, gelte Si?
+
+          
+",32,schneegans-steckelburjer-universite-saaue,17,3,0.1764705882352941,0.0280584490361859,0.2091774610503643,0.8264862592049729,0.0694077423526703,0.9085134796420375,0.0557272569162499,0.4576595390633972,0.0,0.017575084709104,0.2281793940355361,1.0858635884179235
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Er wurd doch nit im Hôtel du Commerce sin gsin, wo's Casino isch, uf'm Gütebergplatz. Do hett er
+            sich nit so viehmäßig kenne betrinke. Deß hätte d'habitués nit gelitte. Un dernoh — weiß i a nit, ob
+            er grad ins Casino het nien kumme kenne! Do welle sie ken Schwowe han. Nit daß sie eb's geje sie
+            hätte — so politisch mein ich — nein, awer sie wellen under sich sin -
+
+          
+",33,schneegans-steckelburjer-universite-saaue,87,9,0.1034482758620689,0.0357644759283903,0.1351967054806089,0.8849802484500037,0.0954734109175245,0.9212189048054524,0.0958103147863178,0.4149183324965083,0.0,0.0,0.3166123637227982,1.0380696381976904
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Aber, mein lieber Herr Mathis, Sie scheinen ja gar nicht zu wissen, was ein Commers ist. Es ist
+            eine festliche Veranstaltung beim Bier ; Professoren und Studenten kommen zusammen, halten Reden,
+            reiben Salamander, singen Lieder, rauchen ihre Cigarren und die Damen schauen von der Tribüne
+            herunter auf das fröhliche Treiben, das sich da unten entwickelt.
+
+          
+",34,schneegans-steckelburjer-universite-saaue,67,15,0.2238805970149253,0.0752987076909308,0.1351967054806089,1.1686697157029582,0.1148067554204499,1.2014421154935306,0.1386401979682859,0.537736867840974,0.0,0.0,0.3850114984271605,1.3647021716748395
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Na, deren ihri Kleider mien den andre Morjen e scheener Gschmack han, wenn sie sich so raichere
+            lon! — Un deß isch Alles für's Jubilé g'sin ?
+
+          
+",35,schneegans-steckelburjer-universite-saaue,33,4,0.1212121212121212,0.1399838530052792,0.4324488059994444,1.3671312809465466,0.1970127517584793,1.3501159910801648,0.2425153546974267,0.7242111286279643,0.1282038393694425,0.0694105796679944,0.5715202449741289,1.6116642616373231
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ja natürlich, und heute ist hier Festessen gewesen, und Sie nehmen selbst nun an der 
+            
+geselligen Vereinigung mit Damen theil, die sich in den festlich geschmückten Räumen der
+            OrangerieRestauration abspielt.
+
+          
+",35,schneegans-steckelburjer-universite-saaue,36,5,0.1388888888888889,0.145731679451024,0.5712060259592455,1.338341111635906,0.2389718848124158,1.4229348611699282,0.2425153546974267,0.5671759127904625,0.1282038393694425,0.0694105796679944,0.7847393588262779,1.6103147944473324
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Deß alles noch silwerni Hochzitt! — Passe Sie uf! Do were noch andri Hochzitte drüs wenn so viel
+            Mamsellen un Herre zsamme sin! . . .Meinsch nit Sophie?
+
+          
+",36,schneegans-steckelburjer-universite-saaue,35,5,0.1428571428571428,0.145731679451024,0.5712060259592455,1.2945289128668285,0.2389718848124158,1.3907931350547476,0.2425153546974267,0.6871440086285263,0.1282038393694425,0.0694105796679944,0.6107279172729135,1.559353139216134
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+O sicherlich! So es Fescht macht m'r jo a numme für deß, daß e mariage drüß wurd.
+
+          
+",36,schneegans-steckelburjer-universite-saaue,23,2,0.0869565217391304,0.1180729776886428,0.5296070396575198,1.4351733346991296,0.1635495994634404,1.7096977158944822,0.1617433840875208,0.6204950664962687,0.1282038393694425,0.0694105796679944,0.988361109379302,1.7835719353847703
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Oder e Paar! Un saue Sie, Herr Kihne, all die Herren un Madamen un Mamselle die g'here zür
+            Université?
+
+          
+",36,schneegans-steckelburjer-universite-saaue,25,3,0.12,0.0995015197019261,0.5296070396575198,1.3622232714241491,0.2450831357329376,1.714346400343502,0.1389646264741019,0.497676531151803,0.1282038393694425,0.0694105796679944,1.036406833388511,1.751545842462469
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ja, do mißt ich jo e Paar Herre kenne! Ich bin doch Proprietär von e Paar Hieser in der Neistadt
+            und do haw ich mit dene Herre manchmol zu dhün. Un ich müß saue, ich bin recht zefridde mit 'ne. Sie
+            bezahlen ihre Zins regelmäßig und keiner isch mir noch ebs schuldig gebliewe.
+
+          
+",37,schneegans-steckelburjer-universite-saaue,61,6,0.0983606557377049,0.0267106002215684,0.1387572199598011,1.1084407945737236,0.1428260138263589,1.464218271235728,0.0200511255685492,0.3692471687588544,0.0,0.0,0.8498980868415427,1.4261442175292205
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+O ja, deß muß mer 'ne lon, 's sind ordentlichi und bravi Litt.
+
+          
+",37,schneegans-steckelburjer-universite-saaue,19,4,0.2105263157894736,0.1511507405020367,0.1486929213606758,1.1235867125295589,0.274050993834427,1.359459973754631,0.2227192301591414,0.2650803418231682,0.2244863657643297,0.0694105796679944,0.6796159047621065,1.2647215009283324
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Manchmol sind si so e bissel krittlich, und lamentire! — So hen se nit verstehn welle, daß mer so
+            d'Beim abhaut, wo einem grad vor der Nas stehn, un d' Üssicht versperre . . . 
+            
+Awer ich loß mir nix saue. J'ai été Chasseur d'Afrique, j'ai fait plusieurs campagnes,
+            mit Üszeichnung — und min Capitaine het als g'saat: ""Mathis est un brave soldat. Il porte le bâton de
+            maréchal dans son havresac, un wenn d'Schwowe nit kumme wärde . . . . . Awer ich bin als heflich und
+            frindlich mit 'ne, und wenn einer ebs will, so sau ich als, Herr Professor, wissen Sie, ich bin schon
+            in Stroßburi seit 64 Jahren, seit meiner Geburt, und Sie sind erst hier seit ein Paar Jahren, und Sie
+            verstehen . . . Un do fahr ich als so furt — un sie verstehn's in de meischte Fäll! — 'S sin halt
+            g'scheiti Litt. Ja, wenn mer so lang stüdiert, und 's doch nit verstehn thät, — wisse Sie, deß wär
+            doch trürig. Wer müß doch zü ebs kummen in der Welt.
+
+          
+",38,schneegans-steckelburjer-universite-saaue,214,22,0.102803738317757,0.2169478261297722,0.2201524166001677,1.236078550942422,0.3666141821550038,1.403788469419042,0.2964845455808708,0.1948734801509972,0.3012890062976466,0.0975361994900291,0.7505518668175192,1.3020573614604412
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Heer, Eugène, do fallt mer awer grad ebs in. Die Herre were sicher froh sin, daß dü a zum Jubilé
+            kumme bisch! Deß kann Dir viellicht noch nutze.
+
+          
+",39,schneegans-steckelburjer-universite-saaue,37,6,0.1621621621621621,0.2715866272488713,0.3811433018351199,1.0067982904788972,0.3666141821550038,0.9680488119114868,0.2964845455808708,0.3400997896423656,0.3012890062976466,0.0975361994900291,0.4352462904769516,1.0655463583161573
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis :
+
+            
+Siesch, Alterle. Ich hab doch Recht g'het, daß ich durchüs hab nin gehn welle! Ja, ja, hab so e'
+            pressentiment g'het, daß ich so nin müß. — Wer weiß, viellicht nimmt einer noch der erscht Stock, wo
+            nit verlehnt isch, wenn er erscht sicht, was ich für e Proprietär bin. Gelte Sie, Herr Kihne, wenn
+            Sie so ebs heere, — Sie 
+            
+kenne mich schun lang. — Do kennte Sie ebs fur mich mache.
+
+          
+",40,schneegans-steckelburjer-universite-saaue,93,9,0.0967741935483871,0.2542264197690516,0.437626860471615,1.037187043582985,0.2746589127463809,0.9271302888543708,0.2831171285351713,0.4948861853598103,0.3012890062976466,0.0975361994900291,0.3768052456145019,1.098788563508377
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne
+
+            
+(allmählich ärgerlich werdend):
+
+            
+Versteht sich, mit dem größten Vergnügen, mein Verehrtester. — Aber sagen Sie mir doch mal, das
+            interessirt mich, und ist ja typisch für die hiesigen Verhältnisse. Haben Sie denn gar keine Ahnung
+            von diesem Fest gehabt?
+
+          
+",41,schneegans-steckelburjer-universite-saaue,50,6,0.12,0.2542264197690516,0.5503939462913673,1.3377562711969984,0.2746589127463809,1.2461048795956304,0.3774247724298101,0.6287783610466988,0.3012890062976466,0.0975361994900291,0.4928794074494024,1.4309632018604934
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Vom Jubilé ? Nein, was geht mich deß an? Wisse Sie, min liewer Herr Kihne! Ich will nen ebs saue.
+            Je veux vous dire quelquechose. Ich hab als in mim Lewe deß principe ghet: Mer soll sin Sach güt
+            mache. Was d'andri mache, deß geht eine nix an.
+
+          
+",42,schneegans-steckelburjer-universite-saaue,61,4,0.0655737704918032,0.1321442272088479,0.5280842337546113,1.2650437393302263,0.1215259252529256,1.3340048126493724,0.1897950120156297,0.6548516366835224,0.0768026405333169,0.0281256198220347,0.5870175394770365,1.5444006845663902
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ja, wisse Sie, min Mann isch en alter rentier, er het sini paar Hieser ; er macht, daß
+            d'locataires zefridde sin , er cüjonirt sie nit — -
+
+          
+",43,schneegans-steckelburjer-universite-saaue,36,5,0.1388888888888889,0.0663471415811124,0.4566247385151194,1.2675519444913572,0.0289627369323488,1.4244176001859516,0.1160296965939004,0.6747442805904799,0.0,0.0,0.7275935565975497,1.6195482323339243
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Un ich loß mich a nit cüjonire. Ich hab min Frau! Mini Kinder sin driwwen in Frankrich. Ich mach
+            mini G'schäft, am zweie spiel ich mini Partie Ecarté im Bausin, am 6e trink ich min Scheppel im
+            Dauphin oder in der Taverne, am 10 geh' ich schlofe. Un witersch süch ich nix un will ich a nix
+            süche. Un am Sundaa geh ich halt fische am Pont Couvert oder wo's sunsch am beschten isch.
+
+          
+",44,schneegans-steckelburjer-universite-saaue,86,6,0.0697674418604651,0.0945016789974229,0.3752468626779366,1.17505181287648,0.0803201941695455,1.267906789963185,0.1160296965939004,0.6039577608731899,0.0,0.0,0.522665018662295,1.4679987209890084
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ein sehr bequemer Standpunkt! -Und Sie haben gar nicht mal das Gefühl, daß die Universität auch
+            etwas für die Stadt bedeutet?
+
+          
+",45,schneegans-steckelburjer-universite-saaue,27,3,0.1111111111111111,0.2305848933046139,0.3187633040414414,1.250076780752594,0.2457475614782762,1.392012988750626,0.3476946164934129,0.6411266696258249,0.2056008349505822,0.0,0.4646612048111734,1.589101422308265
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Einmol haw ich's ghet, un ich will ne saue, wenn. -Deß isch zellemol g'sin, wo mer d'r tramway
+            electrique bis z'r Orangerie het fihre welle. Wie ich 'ne gsaat hab, ich hab so e paar Hieser drüsse.
+            Un no hen als d'locataires lamentirt un reclamirt, daß der tramway electrique von d'r Kinigstroß bis
+            an d'Orangerie sott gehn. No het mer deß rangire welle. Un alles wärs zefridde g'sin. Do kummt uff
+            anmol so e Herr Professor von d'r Université un saat: Die Wissenschaft erlaubt nicht, daß der tramway
+            an der Universität vorbeifährt. Es stört uns in unseren Arbeiten."" Voilà! Qu'est ce que vous pensez
+            de ça? Hab 'ne doch grad g'saat, daß ich d' Professore für g'scheidt halt, en gros. — Awer so ebs
+            saue! — Wenn Sie sich noch beklaue thäte, daß d' jetzig Dampfmaschin se steert, wil si so bimmelt und
+            poltert und schnüft. — Awer so en' electrischer. Kaschte, wo miesstill fahrt! do heert doch Alles
+            uf.
+
+          
+",46,schneegans-steckelburjer-universite-saaue,195,18,0.0923076923076923,0.2599839559644191,0.273118451712194,1.074576879346766,0.2673225195725749,1.2608735642464015,0.256728826860199,0.5380901569661222,0.2056008349505822,0.0,0.4042458791440858,1.4246304953608606
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Awer heer, Eugène! Min Nevö, der Ernest, wo stüdirt hett, hett's uns doch scheen explizirt, worum
+            deß isch g'sin.
+
+          
+",47,schneegans-steckelburjer-universite-saaue,30,1,0.0333333333333333,0.2518781817984099,0.146735242888274,0.8546621877495504,0.2472713940040257,0.995317535357642,0.241690482683787,0.4249495337382359,0.2056008349505822,0.0,0.2671708153437386,1.1237906198519076
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Lo mi rühig mit dim Nevö. Der halt's allewil mit de' Schwowe. — Ja, Herr 
+            
+Kiehne, zellemols haw i g'sen, daß d'Université a ebs fur d'Stadt beditt!
+
+          
+",47,schneegans-steckelburjer-universite-saaue,38,6,0.1578947368421052,0.4029737453732609,0.2752202693571327,0.9719092493753838,0.3726399029894851,1.009389635794963,0.3544687802421277,0.4133405540594276,0.3083269850414795,0.0599774359414774,0.197188506866101,1.1665558174374342
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Im negativen Sinne also nur! — Und nicht einmal das macht Eindruck auf Sie, um etwas ganz
+            Materielles anzuführen, da Sie ja nur dafür Interesse zu haben scheinen — daß aus allen Gauen
+            Deutschlands Studenten hierher kommen, sich bei den Bürgern einmiethen und ihr gutes Geld hier
+            verzehren!
+
+          
+",48,schneegans-steckelburjer-universite-saaue,55,6,0.109090909090909,0.3201804068378514,0.1956072599593634,1.016210749176715,0.3212824457522883,1.1378649140938009,0.3544687802421277,0.4492022130515115,0.3083269850414795,0.0599774359414774,0.2908178096479775,1.2478124260482055
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Was haw ich dr'vun? Si trinke doch nur bairisch Bier. Un unser Bier lüje si nit emol an, un saue
+            gar, 's isch Wackesbier. Un doch hett m'r frijer als g'saat, mir hen hier 's bescht Bier!
+
+          
+",49,schneegans-steckelburjer-universite-saaue,46,1,0.0217391304347826,0.1804946262346563,0.7099128993382656,1.472064383542094,0.146943467079758,1.577999919393224,0.1161201518197655,0.8570873877717506,0.1027261500908972,0.0599774359414774,0.7711288332043937,1.5533222301389926
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ja, deß müß mer faue, Herr Kihne! Deß kenne mir Stroßburjer nit verputze, daß Sie alles von drüße
+            kumme lon: Wirscht, Schinke, Brot oder in dene Delicatessehandlungen inkaufe. Un daß sie nix halten
+            uf unsri gueti Stroßburjer Charcuterie, Knackwirscht und Brofesserwirscht, un unser Mülun Füßsalat,
+            un Froscheschenkel . . . . Un nit emol wäsche lon se hie, wo m'r doch so scheeni Wäschpritschen in
+            der Ill han.
+
+          
+",50,schneegans-steckelburjer-universite-saaue,84,10,0.119047619047619,0.270803344409827,0.9181384276963952,1.6326691789067715,0.2456794503765548,1.6791052404082485,0.3090552366777897,0.9373162804367412,0.2929385261405275,0.1710343634102686,0.7841690878729218,1.6824815861520004
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Aber Verehrteste! Ihr macht mich endlich nervös. Wenn uns das Alles nicht shmeckt! — Und dann ist
+            das Alles nur äußerlich! Der Student ist doch nicht bloß da, um zu essen und 
+            
+zu trinken! Der Student bezieht die Universität aus idealen Gründen. Der Student ist der
+            Pionier der Wissenschaft. -
+
+          
+",51,schneegans-steckelburjer-universite-saaue,60,4,0.0666666666666666,0.3436660067298741,0.9181384276963952,2.1096677159393087,0.2456794503765548,2.1685223677673022,0.3090552366777897,0.9373162804367412,0.2929385261405275,0.1710343634102686,1.1003432738377814,2.089533549430427
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Un der Hussard wo spazire fahrt! Meine Si, ich sieh Se nit, die Herre Studente, wi si in ihre
+            citadines in d'r Stadt 'rum fahre, der ein' in Uniform, d'r ander mit sim Käppel uf em Kopf, als
+            rechti faquins mit ihre gele Hendschih, un als numme zwei z'samme in einer Kitsch, daß es nobler
+            üssicht, un 's G'sicht so verhaue, daß m'r grad meint, s'isch e roh's Biftek.
+
+          
+",52,schneegans-steckelburjer-universite-saaue,87,8,0.0919540229885057,0.192570443155023,0.7896534012275368,1.8913485219833368,0.1203109413910955,2.048428076138605,0.196276939119449,0.9542514419414893,0.1902123760496302,0.1110569274687911,1.0321840192039309,1.9643383041138252
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Aber mein lieber Herr Mathis! Sehen Sie denn nicht ein, daß das die Hülle ist, hinter welcher sich
+            der Kern verbirgt? Wir sind die Raupen, aus denen sich der Schmetterling entwickelt! Und als solche
+            werden wir einst über das Land dahin flattern, und die Wissenschaft, die wir an der Brust unserer
+            alma mater gesogen, in die Herzen dieser im Grunde deutschen Bevölkeruug einpflanzen.
+
+          
+",53,schneegans-steckelburjer-universite-saaue,75,6,0.08,0.2362389907629327,0.7896534012275368,1.880049737256107,0.202346729159933,1.9892113277818448,0.2621389043604167,0.8439499931753268,0.2606147965385041,0.1110569274687911,1.0546288782569548,1.8864838326615487
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Versteh'sch was er saat?
+
+          
+",54,schneegans-steckelburjer-universite-saaue,7,1,0.1428571428571428,0.2362389907629327,0.2753477618486346,1.5440455652311962,0.202346729159933,1.7322079482042865,0.2621389043604167,0.2441095139850079,0.2606147965385041,0.1110569274687911,0.9892135772056658,1.6167902159625305
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Er redt gar scheen!
+
+          
+",54,schneegans-steckelburjer-universite-saaue,8,1,0.125,0.1165312099279567,0.0,1.2073261978552008,0.0820357877688375,1.4083348737478345,0.0658619652409676,0.0749800598987899,0.0704024204888738,0.0,0.9205144863693252,1.2615647191124877
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne
+
+            
+(immer feuriger werdend) :
+
+            
+Sie haben einen viel zu philiströsen und hausbackenen Standpunkt! . . . Es ist zum Verzweifeln,
+            daß Sie nicht die hohe Aufgabe verstehen können, die sich die Universität gesteckt hat, daß Sie nicht
+            verstehen, daß sie eine Wohlthat ist für das Land. 
+            
+Gemäß dem Wahlspruch, der in goldenen Lettern auf dem Giebel unserer Hochschule prangt,
+            litteris et patriae, wird die Universität unentwegt das Banner der Wissenschaft und der
+            Vaterlandsliebe hochhalten, und dieses Banner, es wird wehen über die fruchtbaren Gauen des schönen
+            wiedergewonnenen Elsaßlandes, und alle die Söhne dieses im Grunde urdeutschen Landes, sie werden sich
+            um dasselbe scharen in edler Begeisterung. — Und in diesem Sinne, Commilitonen, fordere ich Euch auf
+            einen urkräftigen Salamander. . . . Donnerwetter, wo bin ich denn? Es brummt mir im ganzen Kopf
+            herum, da sag ich ja meine Commersrede wieder her. Es sind auch zu schwere Tage....
+
+          
+",55,schneegans-steckelburjer-universite-saaue,173,12,0.0693641618497109,0.0628008966898614,0.0,0.8341557586845232,0.1163699731304065,1.0144415739646535,0.0937801664693142,0.1040025090958108,0.1056036307333107,0.0,0.6635567279662155,0.9735153157966616
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Heere Se, Herr Kihne, welle Si nit e Prise nemme?
+
+          
+",56,schneegans-steckelburjer-universite-saaue,15,2,0.1333333333333333,0.0790124450218799,0.0,0.8106309951153087,0.1564722242675049,0.9754734236700626,0.123856854822138,0.0290224491970209,0.1056036307333107,0.0,0.5901863119017777,0.9103117200138436
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Loß ne doch gehn, Mathis! Dü siehsch jo, er isch ganz üsser Othem! — Un er het scheen geredt, gar
+            ze scheen. — Alles haw i nit verstande, 's isch ze gelehrt g'sin — awer wenn ich's so iwerdenk, er
+            het doch e Recht, d'Universität isch doch e Wohlthat für's Land. Min Nevö, der a stüdiert het, un
+            jetz Lehrer worren isch, er saat's als au. Un deß hesch dü doch selwer a gsaat, daß d'Lehrer in d'r
+            Schuel ihri Sach besser mache wie zer franzesche Zitt'. Weisch dü wie unsri Kinder guet gelehrt han,
+            daß alli im 
+            
+Frankrich verstünt sin g'sin, wie sie derte kumme sin. — Un d'Lehrer kumme doch von d'r
+            Üniversität?
+
+          
+",57,schneegans-steckelburjer-universite-saaue,144,16,0.1111111111111111,0.0353438974139702,0.1234525977030466,0.7888208431006212,0.0744364364986674,0.9785687719568208,0.0579948895811703,0.1092202240469886,0.0352012102444369,0.0,0.5000431327234478,0.9663437558067786
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Oui, oui, oui, 's ich schun guet! Mach dü a noch Plän jetz !
+
+          
+",58,schneegans-steckelburjer-universite-saaue,20,2,0.1,0.0353438974139702,0.1234525977030466,0.3528182558019774,0.0744364364986674,0.4273775753675327,0.0579948895811703,0.1092202240469887,0.0352012102444369,0.0,0.0851474102183205,0.4815762213486869
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Nein, Mathis, so derfsch m'r nit rede! un weisch: dü hesch's doch selwer emol ing'sehn, wie guet
+            es isch, daß m'r d'Universität han, wie unserm Pauline ihr Kind so krank isch g'sin, un wie sie von
+            Epinal do her sin g'fahre — un alli han gemeint: Mit dem Kind isch's üs . . un dü hesch selwer
+            g'krine. No het min Nevö g'saat, m'r solle doch zue dem Professor gehn, wo so berihmt isch. Er wurd's
+            heile! Un mir sin ane gange, un ihm isch's a gelunge, mit Gottes Hilf!
+
+          
+",59,schneegans-steckelburjer-universite-saaue,115,8,0.0695652173913043,0.0776143966344854,0.3890078060193158,0.6532106135429282,0.1560082628969233,0.6468207443612277,0.139856714637739,0.3575197674257444,0.1171506386420135,0.0,0.0851474102183205,0.9047913505346596
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis
+
+            
+(sich die Augen abwischend):
+
+            
+Oui, oui, oui, 's isch guet, deß isch ebs. — Awer, sehn Si' Herr Kihne, wenn Si so rede, wie Si
+            vorher geredt han, von dem Banner un dem scheene Land . .. do mueß i halt grad lache. I kann m'r a
+            nit denke, daß Si emol e Schmetterling wäre. — Wisse Si, d'Welsche hen a so vielmols scheeni Rede
+            g'halte, deß het m'r a nit guet g'falle. — Wir Stroßburjer, mir sin praktischi Litt. Mir mache unsri
+            Sach, awer deß Gejeschts isch uns zewidder.
+
+          
+",60,schneegans-steckelburjer-universite-saaue,114,11,0.0964912280701754,0.1065896046322149,0.470268169459878,0.7266272563519831,0.156978554416934,0.7670051098106898,0.117407002200815,0.3940597114218291,0.0819494283975766,0.0211245002013147,0.1238368063687863,1.041998068385561
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Na, da sollten Sie aber doch gerade die stille, aber stete Arbeit der Wissenschaft anerkennen, die
+            nicht um äußerer Lorbeeren willen, sondern nur der Sache zu Liebe ihre Arbeit verrichtet ?
+
+          
+",61,schneegans-steckelburjer-universite-saaue,37,6,0.1621621621621621,0.0903780563001964,0.470268169459878,0.6769294911148838,0.1168763032798355,0.7079820532370806,0.0873303138479912,0.4892811890751369,0.0819494283975766,0.0211245002013147,0.1238368063687863,1.0396901013920217
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ja, Herr Kihne! Si henn e recht. So isch mer's a vorkumme, wie ich bi dem Professer bin g'sinn mit
+            dem kranke Kind, er isch so schlicht g'sin, un het nit g'fröit, wer mir sin, un was m'r han. Er het
+            numme sin Sach gemacht. — Un min Nevö saat als grad' so ebs, wie Sie's g'saat han. Wie er gelehrt het
+            uff d'r Universitté, het er a so als d'impression g'het wie wenn's die Herre numme so mache thäte,
+            wil sie denke, daß es so wohr isch. . . . Un sie lüeje nit rechts un nit links, nach dem was d' Litt
+            saue, sie mache so grad furt, fur sich — — Ich kann's nit guet explicire . . . awer wenn min Nevö do
+            wärt, er kennt's ne so scheen klar mache. . . .
+
+          
+",62,schneegans-steckelburjer-universite-saaue,168,17,0.1011904761904761,0.0922852972804339,0.4057799880198288,0.6372734253918109,0.1215942151783177,0.6643595065499543,0.0908687477718528,0.458781559938214,0.0819494283975766,0.0211245002013147,0.1568387090663704,0.9850090220982806
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler
+
+            
+(aus dem Publikum):
+
+            
+Er isch do, Tante. Un dü hesch e' Recht. Ja, ich hab's d'r vilmols so g'saat. 
+            
+(Kommt vor und tritt auf das Podium)
+
+          
+",63,schneegans-steckelburjer-universite-saaue,39,2,0.0512820512820512,0.0922852972804339,0.4057799880198288,0.7904091628012073,0.1215942151783177,0.7691572681631303,0.0908687477718528,0.6329162551203393,0.0819494283975766,0.0211245002013147,0.1568387090663704,1.160096310395248
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne
+
+            
+(zu Schaufler):
+
+            
+Meine Name ist stud. Kühne.
+
+          
+",63,schneegans-steckelburjer-universite-saaue,13,1,0.0769230769230769,0.0500147980599188,0.1402247797035597,0.4900168050602566,0.0400223887800618,0.5497140991694354,0.0090069227152841,0.3846167117415836,0.0,0.0211245002013147,0.1568387090663704,0.7368811812092753
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Dr. Schaufler — Ja, meinen Ihr denn, wenn's Fescht von d'r Universität isch, un d'alti Schieler
+            ing'lade sin, werd ich d'heim bliewe, hinter mini vier Wänd? Deß wär jo 'e Schand! Ich bin d'ganz
+            Zitt do g'sesse un haw Eich züg'hert. Un es hät mich noch recht g'fuxt, daß dü Unkel unsri gueti
+            Stroßburjer so lächerlich machsch.
+
+          
+",64,schneegans-steckelburjer-universite-saaue,74,10,0.1351351351351351,0.0487628984714998,0.1026204887649086,0.6304594896523281,0.0452321895696018,0.702231673838208,0.0446609530639657,0.4595536549389364,0.0514207133565636,0.0,0.1961761662798954,0.9045152803537594
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ich! Do heert awer Alles uf! Ich en alter Chasseur d'Afrique . ..
+
+          
+",65,schneegans-steckelburjer-universite-saaue,18,2,0.1111111111111111,0.0487628984714998,0.1026204887649086,0.9487362704668552,0.0452321895696018,1.1861640526699602,0.0446609530639657,0.6642524168807882,0.0514207133565636,0.0,0.4440682058740804,1.3832098801016084
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Ja g'rad dü, mit dim Chasseur d'Afrique . . . — Und sehen Sie, mein lieber Herr — gestatten Sie
+            mir die Bemerkung, Sie haben auch nicht den richtigen Ton mit den Leuten getroffen. Sie sind zu
+            nervös geworden, das darf man hierzulande nie.
+
+          
+",65,schneegans-steckelburjer-universite-saaue,54,9,0.1666666666666666,0.1083514280387786,0.043656072501911,1.130020411234932,0.0952048028503447,1.2848578428896436,0.0850304959674159,0.6998721290459228,0.0983556603491462,0.0,0.4625180950765262,1.461751013052457
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ja, aber erlauben Sie, ich habe mich lang genug gehalten . . . Aber diese hausbackenen
+            Anschauungen . . . .
+
+          
+",66,schneegans-steckelburjer-universite-saaue,25,2,0.08,0.1083514280387786,0.043656072501911,1.130020411234932,0.0952048028503447,1.2848578428896436,0.0850304959674159,0.6998721290459228,0.0983556603491462,0.0,0.4625180950765262,1.461751013052457
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Geduld, Geduld, wenn's Herz auch bricht. Bedenken Sie, daß Sie es hier nicht mit leichtbeweglichen
+            und leichtentzündbaren Franken, sondern mit schwerfälligen und langsamen Alemanen zu thun haben. Sehn
+            Sie, all' die schönen Reden, das Banner der Wissenschaft, die Pioniere, das wiedergewonnene, im
+            Grunde deutsch 
+            
+gebliebene Land, all diese überschwinglichen Redensarten, die können höchstens einen
+            Augenblick ein weiches Frauenherz rühren, 
+            
+(zur Frau Mathis):
+ Gel' Tante?
+
+          
+",67,schneegans-steckelburjer-universite-saaue,86,4,0.0465116279069767,0.1083514280387786,0.1599860318970464,1.2072967703930186,0.0952048028503447,1.4062850971104437,0.0850304959674159,0.6998721290459228,0.0983556603491462,0.0,0.4625180950765262,1.614471595090624
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ja, mir hets guet g'falle, 's isch grad wie Müsik g'sin.
+
+          
+",68,schneegans-steckelburjer-universite-saaue,17,5,0.2941176470588235,0.0614957705475162,0.1163299593951354,1.0311803970944742,0.054690525179225,1.212384965517144,0.0439079768273117,0.6290266707283144,0.0469349469925825,0.0,0.4426674798538857,1.4027052420924442
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Awer verstande hesch's doch nit, liebs Täntele? 
+            
+(zu Kühne)
+ Nein, mein lieber Freund, das sind rauschende Phrasen. Aber was der
+            Bevölkerung imponirt, das ist die gewissenhafte Arbeit des Lehrers in der Schule, der fürsorgliche
+            Rat des Arztes — ich kann hinzufügen, die gerechte Handhabung der Justiz und Ordnung in der
+            Verwaltung, 
+            
+(zu Mathis gewendet):
+ deß mien Ihr doch saue, daß deß besser isch wie z'r franzesche
+            Zitt. — -
+
+          
+",69,schneegans-steckelburjer-universite-saaue,89,11,0.1235955056179775,0.0823674240914636,0.192254174629242,0.9681198597500096,0.0921460001191185,1.0470970399212247,0.0743641963491443,0.4377612010967178,0.085336267259241,0.0,0.4572742967617382,1.1869742666671592
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+In d'r Birgerzittung isch nix dervon ze lese, un doch isch's e Schwob wo sie schribt. Il ne faut
+            pas être plus royaliste que le roi.
+
+          
+",70,schneegans-steckelburjer-universite-saaue,32,1,0.03125,0.0208716535439473,0.192254174629242,0.6646249394570533,0.0374554749398934,0.7940162973789565,0.0304562195218325,0.3524433432185383,0.0384013202666584,0.0,0.3798915222051379,0.9239848692952322
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Loß doch d'Zittung, de wursch als de mauvaise humeur, wenn dü dervon redsch! — Un gel Ernest,
+            unsri Pfarrer sin doch a recht guet?
+
+          
+",70,schneegans-steckelburjer-universite-saaue,33,3,0.0909090909090909,0.0208716535439473,0.192254174629242,0.6173277232932627,0.0374554749398934,0.920467853878044,0.0304562195218325,0.178308648036413,0.0384013202666584,0.0,0.5655825419666749,0.9577061378667414
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler :
+
+            
+Die Geistlichkeit ist von jeder in unserm Land vortrefflich g'sin — -
+
+          
+",71,schneegans-steckelburjer-universite-saaue,15,1,0.0666666666666666,0.0208716535439473,0.0759242152341066,0.5400513641351757,0.0374554749398934,0.7990405996572436,0.0304562195218325,0.178308648036413,0.0384013202666584,0.0,0.5655825419666749,0.8049855558285742
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Aber ich bitte Sie — ich sehe nicht ein, was das Alles mit der Universität zu thun hat?
+
+          
+",71,schneegans-steckelburjer-universite-saaue,22,1,0.0454545454545454,0.0208716535439473,0.0759242152341066,0.3984803121707345,0.0374554749398934,0.6247149635564351,0.0304562195218325,0.1086547699635629,0.0384013202666584,0.0,0.4481898762635746,0.5929085318687681
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Ist denn die Universität nicht die Anstalt, welche die jungen Leute zu diesen Berufen vorbereitet?
+            Und ist das Alles nicht in letzter Linie ihr Verdienst? . .
+
+          
+",71,schneegans-steckelburjer-universite-saaue,33,2,0.0606060606060606,0.0,0.0,0.3487355342998209,0.0,0.524589954645006,0.0,4.440892098500626e-17,0.3772305755785552,0.0,0.1856910197615371,0.3935857428713448
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ja aber die Wissenschaft !
+
+          
+",71,schneegans-steckelburjer-universite-saaue,7,1,0.1428571428571428,0.0,0.0,0.6550070091186138,0.0,0.7341854778713579,0.0,0.3482693903642506,0.3772305755785552,0.0,0.1856910197615371,0.74376031946528
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Die Arbeit der Wissenschaft ist selbstlos. Und wenn sie, erhaben über das Parteigetriebe und frei
+            von der Beeinflussung durch die Tagespolitik, nur ihrer hohen Aufgabe der Erforschung der Wahrheit
+            nachgeht, und wenn sie dieses Streben nach Wahrheit und sachlicher Objectivität, die von jeher ein
+            besonderes Verdienst der deutschen Wissenschaft war, der jungen Generation einpflanzt, dann hat sie
+            meines Erachtens ihre Pflicht gethan. Und da werden sich die Früchte schon einstellen, langsam aber
+            sicher, vielleicht am allerersten durch uns, die Lehrer. Aber in der Schule liegt die Zukunft.
+
+          
+",72,schneegans-steckelburjer-universite-saaue,103,12,0.116504854368932,0.0,0.0629996331630447,0.6024693406657509,0.0,0.5601435251600234,0.0,0.39542321231157,0.3772305755785552,0.0,0.0466351534554814,0.5934925724705692
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ich heer der Ernest gar gern rede.
+
+          
+",73,schneegans-steckelburjer-universite-saaue,11,1,0.0909090909090909,0.0,0.387035985260563,0.9680478143189722,0.0,1.0361332479452514,0.0,0.8582114227484958,0.3772305755785552,0.185284493758111,0.5692195626856286,1.245717657341885
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler
+
+            
+(fortfahrend zu Kühne):
+
+            
+Und zu dieser Fanfarenmusik gehört auch das sog. Germanisiren. Ich erinnere mich stets, als
+            Student die Commersrede eines allgemein geachteten und weltberühmten Professors gehört zu haben, —
+            und in diesen Tagen ist auch wieder davon die Rede gewesen — die in dem Worte gipfelte: Die
+            Universität ist keine 
+            
+SchnellgermanisirungsAnstalt . . . . Wissen Sie, sobald ein Straßburger dies Wort nur
+            hört . ..
+
+          
+",74,schneegans-steckelburjer-universite-saaue,78,2,0.0256410256410256,0.0,0.387035985260563,0.9680478143189722,0.0,1.0361332479452514,0.0,0.8582114227484958,0.3772305755785552,0.185284493758111,0.5692195626856286,1.245717657341885
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis :
+
+            
+Heer mol, Nevö, jetzt hesch genü der Schwowe g'sspielt. Was red'sch dü von Germanisiren un so
+            Plän.
+
+          
+",75,schneegans-steckelburjer-universite-saaue,23,1,0.0434782608695652,0.0,0.387035985260563,0.7251508012647572,0.0,0.7427926114125085,0.0,0.8582114227484958,0.0,0.185284493758111,0.5692195626856286,1.0609404713390174
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Loß ne doch, er redt so scheen gelehrt.
+
+          
+",75,schneegans-steckelburjer-universite-saaue,13,1,0.0769230769230769,0.0,0.387035985260563,0.4188793264459644,0.0,0.5331970881861566,0.0,0.5099420323842451,0.0,0.185284493758111,0.5692195626856286,0.7107658947450822
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Weisch Nevö, in minen Aue bisch dü ken Stroßburjer meh.
+
+          
+",75,schneegans-steckelburjer-universite-saaue,14,1,0.0714285714285714,0.0,0.3240363520975183,0.3655784736532214,0.0,0.4759897227852279,0.0,0.4627882104369257,0.0,0.185284493758111,0.5225844092301474,0.652225084871316
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Unkel, ich bin villicht e besserer wie dü.
+
+          
+",75,schneegans-steckelburjer-universite-saaue,13,1,0.0769230769230769,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7763568394002506e-16,0.0
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ja, er het a Recht, er loßt nix uf sin Vaterstadt kumme.
+
+          
+",75,schneegans-steckelburjer-universite-saaue,18,4,0.2222222222222222,0.0,0.0935977191788831,0.260272576040491,0.0,0.3019802309748015,0.0,0.2370274673886424,0.0,0.0,1.7763568394002506e-16,0.3583666408228333
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Un all deß Gepappels haw i jetz genü! — Ich bin doch nit do, f'r e ditsch Fescht ze celebrire, was
+            mich Stroßburjer nix angeht, un wo d' Litt doch ken Herz f'r uns hen.
+
+          
+",76,schneegans-steckelburjer-universite-saaue,42,2,0.0476190476190476,0.0,0.0935977191788831,0.4704643819638106,0.0,0.6261179088021649,0.0,0.2370274673886424,0.0,0.0,0.2393462059301929,0.6368592796212768
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Do bisch grad uf em Holzweg, Unkel! — Meinsch denn wirklich, die Herre hen ken Verständniß f'r
+            Strotzburjer Dings?
+
+          
+",76,schneegans-steckelburjer-universite-saaue,26,4,0.1538461538461538,0.0,0.0935977191788831,0.6917605344865702,0.0,0.9717427069552438,0.0,0.3869875871862221,0.0,0.0,0.3860870380590683,1.0101551065294463
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Nit emol soviel! Hesch dü schon einer g'sen, wo Pompier woren isch?
+
+          
+",77,schneegans-steckelburjer-universite-saaue,17,1,0.0588235294117647,0.0,0.0935977191788831,0.6917605344865702,0.0,0.9717427069552438,0.0,0.3869875871862221,0.0,0.0,0.3860870380590683,1.0101551065294463
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Isch denn deß d'Hauptsach ? Nein, Unkel. Do bring ich dir morjen e Büch, wo einer von dene Herre
+            für's Jubiläum gemacht het. Do wursch dich villicht anders b'sinne.
+
+          
+",77,schneegans-steckelburjer-universite-saaue,39,6,0.1538461538461538,0.0,0.1648146555051258,0.822231547067916,0.0,1.1183731121070186,0.0,0.5054566767068496,0.0,0.096116431120509,0.3860870380590683,1.2353504333232157
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Deß wurd Eich awer g'falle! — Gellen, Ihr halten ebs uf eier Stroßburjer Ditsch?
+
+          
+",77,schneegans-steckelburjer-universite-saaue,20,2,0.1,0.0,0.0712169363262427,0.8037593835712371,0.0,1.176626148799529,0.0,0.5683494489133667,0.0,0.096116431120509,0.3860870380590683,1.2684701747141738
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Deß will ich meine! Strotzburjer Ditsch isch e Sproch, wie en andri Sprach. — Wie ich frijer
+            Chasseur d'Afrique bin g'sin, hätts mich als g'suxt, wenn so e Paar Parisiens kumme sin un zü mer
+            g'saat hen, wie ich Stroßburjer Ditsch mit den andren Elsässer geredt hab: Laissez donc cette langue
+            barbare, et parlez français!
+
+          
+",78,schneegans-steckelburjer-universite-saaue,67,3,0.044776119402985,0.0,0.1960138952314202,0.6773069123997665,0.0,0.9451080927515758,0.0,0.5683494489133667,0.0,0.096116431120509,0.1467408321288755,1.090083943339002
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Jo, un do henn Si als g'saat: C'est une tête carrée. — Un weisch, wenn die Kinder jetz kumme, 's
+            Pauline üs Epinal, un der Jules von Nancy un 's Emilie üs Paris, no heißt's als: Papa, ne parle donc
+            pas cet horrible jargon.
+
+          
+",79,schneegans-steckelburjer-universite-saaue,58,2,0.0344827586206896,0.0,0.6220483617824945,0.7976419657351561,0.0,0.9175656264843844,0.0,0.6417086984380223,0.0,0.096116431120509,1.7763568394002506e-16,1.2354534337990457
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Awer, dü weisch, daß ich m'r deß nit g'falle loß, un daß ich dernoh d' Antwort gib: E jeder soll
+            rede, wi im d'r Schnawel gewachsen ish. Chacun doit parler comme le bec lui à poussé. Voilà mon
+            opinion. Deß isch min Ansicht.
+
+          
+",80,schneegans-steckelburjer-universite-saaue,54,1,0.0185185185185185,0.0,0.6220483617824945,0.7976419657351561,0.0,0.9175656264843844,0.0,0.6417086984380223,0.0,0.096116431120509,1.7763568394002506e-16,1.2354534337990457
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Eh ben! wenn deß din Ansicht ish, so wursch din Fraid han, wenn dü 
+            
+deß Elsässicsh Büch fiehsch, was der Herr g'schriewe het.
+
+          
+",81,schneegans-steckelburjer-universite-saaue,31,3,0.0967741935483871,0.0108076988880123,0.5508314254562517,0.7252531616152539,0.0267348340913989,0.8601647205205751,0.0200511255685492,0.523239608917395,0.0,0.0,1.7763568394002506e-16,1.0925543187861204
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Sie meinen wohl das elsässische Idiotikon ?
+
+          
+",81,schneegans-steckelburjer-universite-saaue,9,2,0.2222222222222222,0.0108076988880123,0.7453011095578408,0.7524200855272365,0.0267348340913989,0.953294434462806,0.0200511255685492,0.5010606675038783,0.0,0.1111980700215352,0.5062675777072962,1.3345607485090083
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+'s Werterbüch vom Elsässer Ditsch.
+
+          
+",82,schneegans-steckelburjer-universite-saaue,9,1,0.1111111111111111,0.0108076988880123,0.6205041506526632,0.9746072080050404,0.0267348340913989,1.5189780568887272,0.0200511255685492,0.5010606675038783,0.0,0.1111980700215352,1.0797896446479485,1.9055447634128824
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Un do ka mer Alles drin finde, was mir rede, so jeder Taa, unsri gewehnlichi Sproch? -
+
+          
+",82,schneegans-steckelburjer-universite-saaue,24,1,0.0416666666666666,0.6287327578126082,0.194469684101589,1.520250908689722,0.6430243209377595,1.7826902215187772,0.6898568342741087,0.2777412981816428,0.0,0.1111980700215352,1.0797896446479485,1.5027768033698423
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ja wohl, das finden Sie Alles drin!
+
+          
+",82,schneegans-steckelburjer-universite-saaue,11,2,0.1818181818181818,0.6287327578126082,0.3889393682031781,1.8136857155689268,0.6430243209377595,2.159711735800472,0.6898568342741087,0.7296172915454111,0.0,0.2223961400430705,1.3934175469367218,2.12124474885058
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Un deß hät 'e Professor g'schriewe?
+
+          
+",82,schneegans-steckelburjer-universite-saaue,10,1,0.1,0.6179250589245958,0.3889393682031781,1.7556035071074831,0.6162894868463605,2.070482236612506,0.6698057087055596,0.7296172915454111,0.0,0.2223961400430705,1.3934175469367218,2.038948537069735
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Ja, er un e Elsässer, die gen 's zammen herüs, zum Jubiläum d'r Universität.
+
+          
+",82,schneegans-steckelburjer-universite-saaue,21,4,0.1904761904761904,0.6179250589245958,0.3079678369282764,1.7869107290628103,0.6162894868463605,1.9845505343449443,0.6698057087055596,0.716646975235772,0.0,0.2553727167022988,1.0214731111763091,1.8579910969806697
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Nun de Bickel, deß hätt ich jetz nit for mejli g'halte.
+
+          
+",83,schneegans-steckelburjer-universite-saaue,15,1,0.0666666666666666,0.6179250589245958,0.3079678369282764,1.4809842718331574,0.6162894868463605,1.326247290139613,0.6698057087055596,0.716646975235772,0.0,0.2553727167022988,0.447951044235657,1.1869006746535238
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Heer, Eugène. Deß müeß e guets Buech sin! Deß sott in kener Hüshaltung fehle.
+
+          
+",83,schneegans-steckelburjer-universite-saaue,21,1,0.0476190476190476,0.0,0.3079678369282764,0.5937093652903267,0.0,0.7444527936236754,0.0,0.716646975235772,0.0,0.2553727167022988,0.447951044235657,1.0710033173283509
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Derfsch's m'r kaufe fur min Anniversaire, deß macht m'r Plaisir! Ich hätt awer nit gedenkt, daß e
+            Professor so ebs macht. Sie kumme mir ze stolz fur deß vor.
+
+          
+",83,schneegans-steckelburjer-universite-saaue,37,6,0.1621621621621621,0.0,0.1758966322792761,0.8093419713050775,0.0,1.0496555270393075,0.0,0.4055164143818887,0.0,0.1441746466807635,0.5088403530743896,1.034699938227329
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ja, glauben Sie denn, mein lieber Herr, daß wir kein Vergnügen haben an Eurem 
+            
+urwüchsigen Dialekt? Glauben Sie denn, daß wenn wir nicht unsere helle Freude daran
+            hätten, ich Sie hier auf das Podium gelootst hätte, um die Gesellschaft zu unterhalten?
+
+          
+",84,schneegans-steckelburjer-universite-saaue,51,10,0.196078431372549,0.0032423096664036,0.1758966322792761,0.9669969507751144,0.0080204502274196,1.220006225142817,0.0060153376705647,0.520678658830447,0.0,0.1441746466807635,0.5784848501753298,1.235749228181859
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Un meinsh denn, Unkel, daß deß mejli wärt g'sin, am Jubilé ze franzesche Zitte? Ich mein, die
+            Herre hätten a g'saat: Laissez donc cet horrible jargon!
+
+          
+",85,schneegans-steckelburjer-universite-saaue,36,3,0.0833333333333333,0.0032423096664036,0.0623984794525887,0.8217793525950576,0.0080204502274196,1.0708641858451835,0.0060153376705647,0.2559076769584431,0.0,0.0,0.6763100318982473,1.0123162877999192
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Grad wies Pauline un 's Emilie un d'r Jules! . . Ja, deß isch wohr! deß mueß m'r de Ditsche lon.
+            Sie hen Fraid dran, deß het m'r a g'sehn, wie sie d'r Pfingstmonda inscenirt han, un jetz d'andri
+            elsässischi Comedi!
+
+          
+",86,schneegans-steckelburjer-universite-saaue,53,5,0.0943396226415094,0.0614750452506898,0.1813528165411294,1.0436689928672676,0.0641656958092576,1.2960098566405804,0.1011461383950069,0.3255615550312932,0.0951061880248151,0.0555284637343955,0.8280522430195181,1.2714027271250323
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Ja, natürlich! Ich schwärme doch auch für mein Plattdeutsch und die Württemberger für ihr
+            Schwäbisch.
+
+          
+",87,schneegans-steckelburjer-universite-saaue,20,3,0.15,0.0614750452506898,0.1813528165411294,1.3008164447045971,0.0641656958092576,1.5841642710937125,0.1011461383950069,0.4416513518193767,0.0951061880248151,0.0555284637343955,1.0602005666893188,1.6172300174553516
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Sehn Sie, das ist ein fruchtbarerer Boden als ""das schöne neugewonnene Bruderland, wo die bunten
+            Schmetterlinge fliegen und das Banner der Wissenschaft weht""! Was an der Scholle klebt, kann nur von
+            der Scholle ausgehen.
+
+          
+",87,schneegans-steckelburjer-universite-saaue,44,2,0.0454545454545454,0.0614750452506898,0.3516142558788114,0.9463017501268158,0.0641656958092576,1.144794531837986,0.1011461383950069,0.3009059193094918,0.0951061880248151,0.0555284637343955,0.6856833555618128,1.340506615151971
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ja, ja, do sicht mer, was mir Steckelburjer fur gfitzte Litt sin. Denn weisch, Sophie, ich merk
+            eb's! — Ja, ich habs halt dick hinter den Ohre! Ich hab's d'r doch vielmols g'saat, die Herre
+            Professore, die sinn g'scheidt !Un wil sie so g'scheidt sinn, so welle sie als eb's 
+            
+nei's lehre. Einer von mine locataires hett mer emol so g'saat, wie ich ihm reproches
+            gemacht hab, daß sie so langi Vacanze hen. ""Ja das brauchen wir zum Studieren !"" Un siehsch Sophie,
+            wie di's verstehn, allewil ebs nei's ze profitiere ! Jetz hen sie sich uff 's Stroßburjer Ditsch
+            gelejt — un fur deß noch besser ze lehre un nix ze bezahle derfur, do hen sie deß mit dem Herr Kihne
+            rangiert , daß mier zwei do kummen un e ganzi Halbstund vor 'ne redde. Sie wisse fur ihri Sach a ihr
+            Jubilé üszenutze, — Awer ich bin a g'sitzt! Wenn ich ebs gib, so will ich a ebs d'rfur han. —
+            Messieurs, Sie wisse, ich bin proprietaire, ich hab e paar scheni Hieser, un wenn Sie mir die Ehre
+            machen wollen, bei mir zu wohnen, so empfehle ich mich Ihnen beschtens. Am liebschte, deß will ich
+            glich faue, hätt' ich dene Herre, wo deß Stroßburjer Ditsch Dictionnair g'schriwe hett. Ich thät ne
+            guet logiere, nit grad fur nix, — deß kammer nit, — awer ich thät em e scheeni faveur mache. Un er
+            kennt ebs Strotzburjer Ditsch bi mer profitiere.
+
+          
+",88,schneegans-steckelburjer-universite-saaue,294,32,0.1088435374149659,0.0747697083304265,0.3822279023652764,1.1515435411751842,0.0682811595098809,1.3841901242698569,0.1612987986688564,0.3733802638273931,0.1572011919263723,0.0555284637343955,0.727332132309481,1.6197318113470256
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne :
+
+            
+Der schlaue Fuchs !
+
+          
+",89,schneegans-steckelburjer-universite-saaue,6,1,0.1666666666666666,0.5890753477093288,0.3822279023652764,1.741467902868084,0.0682811595098809,1.797375576585282,0.1612987986688564,0.3733802638273931,0.1572011919263723,0.0555284637343955,0.4951838086396801,1.7654014044531707
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Heer, Eugène, jetz isch awer Zitt, daß mer heimgehn. Ich heer d'Lumpeglock grad litte. Un 's isch
+            wit bis z'm Pont convert.
+
+          
+",89,schneegans-steckelburjer-universite-saaue,33,2,0.0606060606060606,0.5308426121250427,0.4815539277862911,1.850452412795,0.012135913928043,2.142185307212164,0.0661679979444142,0.303726385754543,0.0620950039015572,0.0,0.6369232617761602,2.09432732267033
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Hesch e Recht. En alter Stroßburjer geht bi Zitte schlofe. Kummsch mit, Ernest?
+
+          
+",90,schneegans-steckelburjer-universite-saaue,19,3,0.1578947368421052,0.5308426121250427,0.4815539277862911,1.6692395714415245,0.012135913928043,1.986377761674218,0.0661679979444142,0.1876365889664594,0.0620950039015572,0.0,0.570036297835816,1.8873964111478667
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Mach mer numme ken Commers mit Kischte , wie der Herr Kihne! — Dü bisch doch so e halwer Schwob. —
+            Kumm Sophie, m'r gehn jetz.
+
+          
+",90,schneegans-steckelburjer-universite-saaue,32,3,0.09375,0.5416503110130549,0.2488940089960203,1.5727690615867944,0.0388707480194419,1.832752752420583,0.0862191235129634,0.1876365889664594,0.0620950039015572,0.0,0.5700362978358161,1.6642514588523771
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Austrinken zuerst, meine Verehrten, das gehört dazu und auf Ihr ganz spezielles Wohl.
+
+          
+",90,schneegans-steckelburjer-universite-saaue,18,3,0.1666666666666666,0.5251133382669144,0.3479268185772814,1.4164241641926554,0.0267348340913989,1.780373313625636,0.0200511255685492,0.2896739661986698,0.0,0.0741320466810235,0.6678282921797231,1.691900746406219
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+G'sundheit Ihne, und Dir, und Dir Alterle, und d'r ganze G'sellschaft, e scheeni santé un viel
+            Amusement züm Jubilé. Un nix fer unguet, mini Herre, wenn ich so frisch von d'r Lewer geredt hab. Ich
+            bin halt en alter Chasseur d'Afrique. J'ai fait plusieurs campagnes, mit Üszeichnung und min
+            Capitaine het als g'saat :""Mathis est un brave soldat. Il porte le bâton de maréchal dans son
+            havresac!"" Un wer weiß, wenn d'Schwowe nit . . . . Awer jez saue ich nix meh. Vive le jubilé!
+
+          
+",91,schneegans-steckelburjer-universite-saaue,108,12,0.1111111111111111,0.052204368155717,0.4348090364860948,0.9383253566535824,0.0524135627099973,1.4521547535578254,0.0200511255685492,0.4123098271382444,0.0,0.0878629654125247,0.744109576323701,1.6603691720334877
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+            
+Alle:
+
+            
+Hoch.
+
+          
+",92,schneegans-steckelburjer-universite-saaue,4,1,0.25,0.652044847346036,0.2165286739765394,1.2720421892244596,0.0524135627099973,1.5708913158737727,0.516811156781007,0.4123098271382444,0.0,0.739243668591774,0.4506279120659504,1.6335294877919524
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Heer' mol Unkel, witt dü morje villicht uf den Üsflüg? ...
+
+          
+",92,schneegans-steckelburjer-universite-saaue,16,4,0.25,0.652044847346036,0.2165286739765394,1.317007785012512,0.0524135627099973,1.6186610807922428,0.516811156781007,0.5622699469358242,0.0,0.7392436685917742,0.2853665523364936,1.6903763000909915
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Erlauben Sie aber, Ihr Onkel dürfte wohl kaum je akademische Bildung genossen haben und
+            dann...
+
+          
+",92,schneegans-steckelburjer-universite-saaue,19,4,0.2105263157894736,0.6412371484580237,0.4593372337833026,1.4242160256288332,0.0256787286185983,1.8775475888540367,0.4967600312124577,0.7011405960266457,0.0,0.7948427036025418,0.4421805034808804,2.045046337857722
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ja, wo sol denn des anne gehn ?
+
+          
+",93,schneegans-steckelburjer-universite-saaue,11,1,0.0909090909090909,0.6412371484580237,0.3296907777155765,1.5239356273233595,0.0256787286185983,1.7297762603399558,0.4967600312124577,0.7597360201922264,0.0,0.7207106569215183,0.2330952352883648,1.88729714074823
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Auf drei Ähren! - 
+            
+(Nimmt das StudentenProgramm heraus, mit dem Bild des Studenten aus dem 16. Jahrh. darauf,
+            kukt hinein).
+ Ach, da steht nichts Näheres 
+            
+(legt es auf den Tisch)
+: Aber auf der Karte! 
+            
+(liest die Karte).
+
+          
+",93,schneegans-steckelburjer-universite-saaue,54,1,0.0185185185185185,0.5998404791903188,0.2428085598067631,1.257053112938468,0.0,1.426520128047993,0.4967600312124577,0.6371001592526518,0.0,0.7069797381900169,0.1568139511443869,1.5440566905491426
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mme. Mathis
+
+            
+(hat das Programm genommen, mit Entsetzen die Figur betrachtend):
+
+            
+Awer Ihr wären Sich doch nit so wischt travestiere! Wenn so Carnevaldings d'rbi isch, loß i mine
+            Mann nit mitgehn.
+
+          
+",94,schneegans-steckelburjer-universite-saaue,39,2,0.0512820512820512,0.0,0.2428085598067631,0.592462130168464,0.0,0.7378281643097674,0.0,0.6371001592526518,0.0,0.0555990350107677,0.1568139511443869,0.9828840172484056
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Jo, wenn Ihr so uf drei Aehre thäte nufgehn, kennt 'e scheener Crambohl drüs wäre. — So wiethig
+            wie der Brigand do, haw ich nit emol üsg'sehn, wie ich mich als Chasseur d'Afrique mit den Arawer in
+            der Kabylie 'rumg'schlaue hab!
+
+          
+",95,schneegans-steckelburjer-universite-saaue,50,2,0.04,0.0,0.2428085598067631,0.7133623364403701,0.0,0.9179447981434234,0.0,0.7870602790502315,0.0,0.0555990350107677,0.1568139511443869,1.178627208355301
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Seien Sie unbesorgt! Das ist ja nur ein Symbol!
+
+          
+",96,schneegans-steckelburjer-universite-saaue,13,1,0.0769230769230769,0.0,0.0,0.8543433621813981,0.0,0.7794243141200159,0.0,0.9964590203236608,0.0,8.881784197001253e-17,1.7763568394002506e-16,1.0918355354016616
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Auch so ein Schmetterling, der das Banner der Wissenschaft hoch hält ?
+
+          
+",96,schneegans-steckelburjer-universite-saaue,16,2,0.125,0.2999202395951593,0.0,0.8803673787476072,0.0,0.914174772762777,0.2483800156062288,0.6481896299594101,0.0,0.3256903515896247,1.7763568394002506e-16,1.022247295458095
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ja, awer min Mann kennt sich egariere, wenn er e' bissel Wien getrunke het.
+
+          
+",96,schneegans-steckelburjer-universite-saaue,20,2,0.1,0.2999202395951593,0.0,1.0335031161570034,0.0,1.0189725343759528,0.2483800156062288,0.8223243251415354,0.0,0.3256903515896247,1.7763568394002506e-16,1.1973345837550624
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis :
+
+            
+Hab ken Angst, Sophie — deß kann mer in de Vogese nimmer so licht, 's sin jo iwerall Wejwieser.
+            Weisch noch, wo m'r vorm — Johr, uf 'em Odilienberg sin g'sin! do hemmer glich der Wej g'funde.
+
+          
+",97,schneegans-steckelburjer-universite-saaue,46,3,0.0652173913043478,0.2999202395951593,0.1797448255142624,1.44651103150401,0.0,1.380316155135521,0.5043887541061516,1.0222711515383085,0.0,0.3256903515896247,1.7763568394002506e-16,1.531669309049467
+comedy,Dr. Schaufler,M,professor,professionals_scientific_technical,upper_class,"
+            
+Dr. Schaufler:
+
+            
+Un weisch dü, Unkel, wer die viele Wejwieser gemacht het, un die bequeme Wej, un d'Schlesser
+            restaurirt !
+
+          
+",97,schneegans-steckelburjer-universite-saaue,26,2,0.0769230769230769,0.2999202395951593,0.1797448255142624,1.2047106189601977,0.0,1.0200828874682089,0.5043887541061516,0.7223509119431488,0.0,0.3256903515896247,1.7763568394002506e-16,1.1401829268356758
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Und der geht auch so halb und halb von der Universität aus. Kennen Sie denn den kleinen Herrn
+            nicht. .. .
+
+          
+",98,schneegans-steckelburjer-universite-saaue,25,1,0.04,0.2999202395951593,0.1797448255142624,0.8984391441414047,0.0,0.8104873642418567,0.5043887541061516,0.3740815215788983,0.0,0.3256903515896247,1.7763568394002506e-16,0.7900083502417407
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ah! der mit dem große Schlapphuet, der d'Kinder so gern het, un ken Wien trinkt, un als uf's
+            Minster krattelt ? Dene kennt jo jeder Mann in Stroßburi.
+
+          
+",98,schneegans-steckelburjer-universite-saaue,38,4,0.1052631578947368,0.0,0.380173427635296,0.8864495793068023,0.0,0.8548318965110934,0.2560087384999226,0.751398378646827,0.0,0.0463211234395278,0.1306461023075369,1.0524743290327494
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Un der hets gemacht? Heer emol, Sophie, 's kummt m'r doch fascht vor, daß die Litt doch meh fur's
+            Land gemacht han, als ich gemeint hab. — Un wenn noch emol so e Jubilé kummt, thät ich viellicht e
+            scheeni Red halten uf die Litt, scheen uf franzeesch.
+
+          
+",99,schneegans-steckelburjer-universite-saaue,60,8,0.1333333333333333,0.0,0.3801734276352959,0.975114254441218,0.0,1.1102674025652297,0.2560087384999226,0.8771839230598613,0.0,0.0463211234395278,0.1306461023075369,1.268873422949573
+comedy,Otto Kühne,M,doctor,professionals_scientific_technical,upper_class,"
+            
+Kühne:
+
+            
+Die können Sie ja morgen auf dem Ausfluge halten.
+
+          
+",100,schneegans-steckelburjer-universite-saaue,12,3,0.25,0.0,0.2004286021210334,0.664196830700476,0.0,0.8187889562144456,0.0,0.7933268934511718,0.0,0.0463211234395278,0.1306461023075369,1.0512635565198134
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Ja, Hop la Geis, deß mueß g'stüdirt sin. So schnell geht's nit. -Jetz will i awer heim, daß i
+            morjen ufstehn kann.
+
+          
+",100,schneegans-steckelburjer-universite-saaue,32,3,0.09375,0.0,0.3428624747735188,0.8675675017543008,0.0,0.9970265235886572,0.0,0.9094166902392552,0.0,0.0463211234395278,0.1306461023075369,1.3258785676218767
+comedy,Sophie Mathis,F,,,,"
+            
+Mme. Mathis:
+
+            
+Ja, mach schnell, d'Lumpeglock het schun ufg'hert. Bonsoir Bisamme!
+
+          
+",100,schneegans-steckelburjer-universite-saaue,17,3,0.1764705882352941,0.0,0.3428624747735188,0.9696579933605648,0.0,1.0668916979974412,0.0,1.025506487027339,0.0,0.0463211234395278,0.1306461023075369,1.4426034264865215
+comedy,Eugène Mathis,M,rentier,rentiers,upper_class,"
+            
+Mathis:
+
+            
+Bonsoir un au revoir, morje frij!
+
+          
+",100,schneegans-steckelburjer-universite-saaue,10,2,0.2,0.0,0.1424338726524854,0.6493520668101654,0.0,0.6782011838590918,0.0,0.6481896299594101,0.0,8.881784197001253e-17,1.7763568394002506e-16,0.8995511110451444

@@ -1,0 +1,2828 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(kummt mit-em Meyer sine gewichste Schueh v. 1. un reicht se zue dr Düer r. nin.)
+
+          
+Do Patron sinn d' Schueh! 
+          
+(geht an de Disch)
+ Jetz isch schun nien Ühre un Der steht endli uf — wenn dis dr Diener
+          tät mach no wär's e füler Kaib, awer dr Herr — hahaha. Der soll nächt kenni heime g'schleift hann. D'
+          Stäj isch-r uf Händ un Fües eruf gegrobelt. Er wurd e schöner Katzejammer hann. Jetzt isch-r widder
+          verschläckt un weiss nit wass-r esse un drinke will. Na, do hett-r jo d'Üswahl: Rollmops, Sardinle,
+          Häri, Servilasalädel, Schwitzerkäs — Härz was begährsch, Stäcke wo bisch !
+
+        
+",1,clemens-a-latzi-visit,127,10,0.0787401574803149,,,,,,,,,,,
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(v.r.)
+
+          
+Uutsch — ah min-r Kopf, min-r Kopf! Do hinne brummt's grad as wenn lütter Maikafer drinne rum däte
+          surre.
+
+        
+",2,clemens-a-latzi-visit,28,2,0.0714285714285714,,,,,,,,,,,
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(f. s.)
+
+          
+Hattsch weniger gedrunke 
+          
+(lütt)
+ Guete Morje, Herr Meyer ! — Do sitze se anne un esse se emol e Mumpfel, no wurd's
+          ne schun besser wäre.
+
+        
+",2,clemens-a-latzi-visit,38,4,0.1052631578947368,,,,,,,,,,,
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Was hesch dänn Guet's? 
+          
+(geht an de Disch)
+ Häri — brr — nein — ich kann nix esse. 
+          
+(setzt sich).
+ Schänk mr emol e Glas Soda in, ich hab e Brand. — E Stüeckel Schwitzerkäs
+          kennt i glauwi esse ohne Brot. 
+          
+(drinkt).
+ Ah, diss küehlt ! Win kann i kenner schmecke hitt morje.
+
+        
+",3,clemens-a-latzi-visit,71,6,0.0845070422535211,,,,,,,,,,,
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Jo, sie wäre genuej gebüerscht hann gescht Nacht. Sie sinn gemutzt gsinn — hahaha, e Nuntebuckel
+          !
+
+        
+",4,clemens-a-latzi-visit,22,1,0.0454545454545454,0.1299319677886794,0.0482069364633015,0.941452486603072,0.3768062480913094,1.119916700643715,0.1747168607620031,0.3344774197049239,0.0,0.0,0.3459079468461835,1.1605588217962333
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Was haw-i denn alles angschtellt in minere Kischt — hä?
+
+        
+",4,clemens-a-latzi-visit,13,1,0.0769230769230769,0.1248327161025092,0.3983522133002184,0.8887010484204042,0.3641923097097305,0.9594793191611884,0.145325846433792,0.2547680546408511,0.0,0.3009437291377222,0.2389964513291992,1.0707655784575063
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ich muess jetz noch lache, wenn i dran dänk, wie se uf Händ un Fües d'Stäj eruf gegrobelt sinn — un
+          e Arweit haw-i ghett mit-ne bis Sie im Bett sinn gläje. Sie hann als mit-mr welle danze un no hann se
+          im Anglais un de Cilinder uf-em Kopf in's Bett welle leje — Sie hann als gsaat: ""Ich hab kalti Fües""
+          !
+
+        
+",5,clemens-a-latzi-visit,73,6,0.0821917808219178,0.1924955718798163,0.4631648556264355,0.971183123869736,0.1288972413872477,1.0515649070019326,0.145325846433792,0.4564200736238603,0.1168796494277075,0.3360870885180286,0.34586999231794,1.1681047387232952
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Ei, ei — uuh min-r Kopf — was der kaiwe Risling nitt alles anstellt — — puh ich schwitz ganz —
+          schenk mr e Soda in! Wenn numme dr Deifel alli Süffereje hole dät...
+
+        
+",6,clemens-a-latzi-visit,39,3,0.0769230769230769,0.1797474426643907,0.4631648556264355,1.0089774174776749,0.0973623954333003,1.1117500346998537,0.1216747119683314,0.5547240291309478,0.1168796494277075,0.3360870885180286,0.34586999231794,1.2707546455957897
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Wo Sie nitt d'rbi sinn — gelle Patron !
+
+        
+",6,clemens-a-latzi-visit,12,1,0.0833333333333333,0.0676628557773071,0.4631648556264355,0.9804454748715236,0.0973623954333003,1.3744971214146215,0.0,0.442439647971338,0.1168796494277075,0.3360870885180286,0.5394439438907603,1.3200544588773162
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Verschon mich um's Himmelswille mit dine füle Witz hit. 
+          
+(drinkt)
+ Ah, wie guet — oh, min-r Kopf ! — Brrr ! Ich muess mich vun jetzt ab meh
+          zeruckhalte im drinke, ich verdraa's nimi... awer was will i als mache wenn i Gschäfte will mache füer
+          d'Assurance. Wenn i emol die Generalagentür in Strossburri hab, un ich hab Üssicht ass-es ball isch, no
+          kann ich meh uf-em Büro bliewe.
+
+        
+",7,clemens-a-latzi-visit,85,8,0.0941176470588235,0.1893375677456385,0.4631648556264355,1.2340776232690949,0.0973623954333003,1.569190364855184,0.067880104090707,0.4888132404439093,0.1168796494277075,0.3360870885180286,0.6274352484114112,1.505255877455652
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Derf ich no au mit, Patron, wenn se emol uf Strosburri kumme ?
+
+        
+",8,clemens-a-latzi-visit,17,3,0.1764705882352941,0.1893375677456385,0.2327232838772442,1.3453343466931165,0.0973623954333003,1.7941184407781114,0.067880104090707,0.5314904324170965,0.1168796494277075,0.0351433593803063,0.7716253827120845,1.609771878807122
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Ich well noch sähne. Dü besch e bissel lichtsinni un hesch mr schun e manicher dummer Streich
+          angstellt.
+
+        
+",8,clemens-a-latzi-visit,22,2,0.0909090909090909,0.1216747119683314,0.1679106415510271,1.0490100304348355,0.0,1.5310850117465784,0.067880104090707,0.3298384134340873,0.0,0.0,0.6647518417233437,1.3134410683777331
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+E ""bissel"" lichtsinni isch jo nitt viel un ich versprech ne, nie meh e Dummheit ze mache.
+
+        
+",8,clemens-a-latzi-visit,23,3,0.1304347826086956,0.1216747119683314,0.1679106415510271,0.9427053623007298,0.0,1.3656499879086392,0.067880104090707,0.2315344579269998,0.0,0.0,0.6647518417233437,1.1137193655019388
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Na — will de mir diss verspreche duesch, will i dich mitnämme. — Was isch im Briefkäschtel
+          gsinn?
+
+        
+",9,clemens-a-latzi-visit,23,1,0.0434782608695652,0.1216747119683314,0.1679106415510271,0.6223617634356874,0.0,0.7476922694771828,0.067880104090707,0.2315344579269998,0.0,0.0,0.232181438821324,0.6996166645300546
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+D'Zittunge — ah, un e Brief. Der isch schun gescht Owe kumme. 
+          
+(gibt-ne im Meyer.)
+
+        
+",9,clemens-a-latzi-visit,24,2,0.0833333333333333,0.0,0.4197766038775677,0.5377328368865272,0.0,0.7399244958112166,0.0,0.1851608654544286,0.0,0.0,0.1441901343006732,0.7164505908984861
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer:
+
+          
+Vun Nanci, vun dr General-Direction. 
+          
+(lest)
+ Mir wurd's schwach ! Ich sell sofort uf General-Direction kumme, wäje persönliche
+          Besprechunge — wohrschin's isch's wäje dere Stell als Generalagent in Strosburri. Ei, ei un noch emol e
+          Ei — mit dem Kopf soll ich uf Nanci — mit dem Katzejammer Isebahn fahre?! Lang mer emol schnell dr
+          Fahrplan 
+          
+in minere Mapp. Wenn mejli grej ich dene Schnellzug, wo geje de zehne abfahrt, no wär ich
+          geje de zweje in Nanci.
+
+        
+",10,clemens-a-latzi-visit,96,11,0.1145833333333333,0.0760661946129321,0.297659773658639,0.657884984597388,0.0,0.7665533251432864,0.0452003524865117,0.2019936714048312,0.091391004215022,0.0,0.0698553429213618,0.78937460431514
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Voila, Patron, dr Fahrplan. 
+          
+(gibt ne).
+
+        
+",10,clemens-a-latzi-visit,14,1,0.0714285714285714,0.0760661946129321,0.297659773658639,0.9782285834624304,0.0,1.384511043574743,0.0452003524865117,0.2019936714048312,0.091391004215022,0.0,0.5024257458233814,1.203477305287024
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(riebt sich d'Aue)
+
+          
+Es danzt mer alles vor de Aue — 9,40 fahrt dr Schnellzugg, do kennt's noch lange, dene kennt i
+          nämme. Wieviel Ühr isch denn? 
+          
+(lüejt uf sinere Sackühr.)
+ Ja do — die steht — do isch halwer drej — die haw ich vergässe
+          ufzezeje.
+
+        
+",11,clemens-a-latzi-visit,60,6,0.1,0.0760661946129321,0.297659773658639,1.2522562853769856,0.0,1.6710923066217425,0.0452003524865117,0.3698846465393569,0.091391004215022,0.087364742624601,0.5024257458233814,1.5346647242343097
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(luejt uf sinere Ühr)
+
+          
+Es isch jetzt genau noch e Viertel üewer Nien.
+
+        
+",11,clemens-a-latzi-visit,18,3,0.1666666666666666,0.0760661946129321,0.297659773658639,1.4015358862278138,0.0,1.8934884466648128,0.0452003524865117,0.5550455119937855,0.091391004215022,0.087364742624601,0.5024257458233814,1.7763555065642218
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Schnell, es langt noch, ich nämm 's Velo. Lang mr miner Frack, dr Panamahuet un dr hell Bardessü im
+          Kaschte. 
+          
+(Jean holt alles un hilft-em anzeje).
+ Also, ich kumm sobald wie mejli zeruck, b'stellsch
+          min Esse ab im Restaurant, duesch emol all Zimmer grüendlich brobber mache — no hesch Beschäftigung —
+          un mach mr kenn Lumpestreich, sunsch raucht's !
+
+        
+",12,clemens-a-latzi-visit,74,6,0.081081081081081,0.0760661946129321,0.0457938113320983,1.4083041629893025,0.0,1.9387289427883183,0.12806766537845,0.5550455119937855,0.171431287242843,0.087364742624601,0.6476761819497804,1.8109582591778888
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Sie brüche kenn Angscht ze hann, Patron — Sie kenne ruehj reise.
+
+        
+",13,clemens-a-latzi-visit,16,4,0.25,0.0,0.0,0.9995082999565856,0.0,1.513590517027492,0.0828673128919382,0.3530518405889542,0.0800402830278209,0.087364742624601,0.6859634397539235,1.3271446750524871
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Bon — also, adje Jean, un mach wie ich gsaat hab. 
+          
+(an dr Düer)
+ Hesch au's Velo gebutzt gescht?
+
+        
+",13,clemens-a-latzi-visit,28,2,0.0714285714285714,0.0,0.0,0.6791647010915434,0.0,0.8956327985960357,0.0828673128919382,0.3530518405889542,0.0800402830278209,0.087364742624601,0.2533930368519038,0.9130419740806032
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean:
+
+          
+Ja, ja, Patron, gebutzt un ganz frischi Luft nin gebummbert.
+
+        
+",13,clemens-a-latzi-visit,16,5,0.3125,0.0,0.0,0.8508868575745832,0.0,1.0494564087567675,0.0828673128919382,0.6056338423137755,0.0800402830278209,0.0,0.3399071174323078,1.147976232669642
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+No isch guet. 
+          
+(a. d. M.)
+
+        
+",13,clemens-a-latzi-visit,11,1,0.0909090909090909,0.0,0.0,0.701607256723755,0.0,0.8270602687136972,0.0828673128919382,0.4204729768593468,0.0800402830278209,0.0,0.3399071174323078,0.9062854503397296
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(luschti)
+
+          
+E ganzer Daa ellein. Was kennt mr do alles anstelle? Ah, ich sell jo gründlich brobber mache. 
+          
+(wischt e Stuehl ab mit-em Schurz)
+ A füer was denn dies, es wurd jo doch widder dräcket. 
+          
+(luejt zuem Fänschter nüss)
+ Dort vorne rädelt dr Patron. Dem isch's nitt um 's Velo fahre
+          — hahaha — e Gsicht hett-r
+
+        
+",14,clemens-a-latzi-visit,73,5,0.0684931506849315,0.0,0.1444714648187978,0.7385936865680369,0.0,0.8598374603610459,0.0,0.4204729768593468,0.0,0.0,0.2811707618863127,0.9052233486264764
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Aah, do bin i drbie, denn ich hab e Hunger, ass mr 's Wisse in de Aue gixt. 
+          
+(Gelächter).
+
+        
+",15,clemens-a-latzi-visit,28,1,0.0357142857142857,0.2491320067753367,0.1444714648187978,1.2458232411221446,0.0,1.053072704039609,0.0,0.4204729768593468,0.0,0.0,0.1730281611608078,0.8896889779041564
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Männel, Männel ! Dich möecht ich emol sähne, wenn dü kenn Hunger hesch.
+
+        
+",15,clemens-a-latzi-visit,18,3,0.1666666666666666,0.3321760090337822,0.1444714648187978,1.4415950592122673,0.0,1.168980928468418,0.0,0.4204729768593468,0.0,0.0,0.1730281611608078,0.9190194127443732
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Ich kann nix drfüer, es isch e Erbstüeck vun mim Vater. Der hett immer g'saat ""Esse un drinke hebt
+          dr Lieb an dr Seel zamme"" und ""Wer nicht essen will, soll auch nicht arbeiten"".
+
+        
+",15,clemens-a-latzi-visit,44,5,0.1136363636363636,0.3321760090337822,0.1444714648187978,1.1420201761870958,0.0,0.9987978754815966,0.0,0.1842136058860153,0.0,0.0,0.0865140805804039,0.7203516226440344
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+In dr Bibel steht geschriewe: ""Der Mensch lebt nicht vom Brote allein — es muss auch Fleisch dabei
+          sein"".
+
+        
+",16,clemens-a-latzi-visit,25,2,0.08,0.6414575429040237,0.1444714648187978,1.4494602859573535,0.0,1.194692570773534,0.0,0.1842136058860153,0.0,0.0,0.0865140805804039,1.0292062504568056
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Do ess emol dene Servilasalad, dü Frässbüch ! 
+          
+(schenkt Win in)
+ Un jetz welle mr emol Gsundheit drinke. Gsundheit! 
+          
+(stosse an un trinke. Schakob duet g'höerich inschiewe)
+
+        
+",16,clemens-a-latzi-visit,37,3,0.081081081081081,0.6414575429040237,0.0,1.2367023575031724,0.0,0.9297494132280836,0.0,0.1842136058860153,0.0,0.0,0.0,0.7936302546096247
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor:
+
+          
+Männel, Männel, isch dies e Dröpfele !
+
+        
+",17,clemens-a-latzi-visit,11,2,0.1818181818181818,0.3923255361286871,0.0,0.6493869032328041,0.0,0.5820247399416563,0.0,0.1842136058860153,0.0,0.0,0.0,0.7056389500889739
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Wenn mr vun dem drinkt, meint mr grad e Engele schlupft eim mit samete Badhöesele de Hals nab.
+
+        
+",17,clemens-a-latzi-visit,22,2,0.0909090909090909,0.3092815338702415,0.0,0.4536150851426813,0.0,0.4661165155128472,0.0,0.1842136058860153,0.0,0.0,0.0,0.6763085152487569
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Jetz ess doch Victor, nämm was de Luscht hesch — un dü, bisch schun ferdi mit dim Servilasalad ?
+          Bisch jetz satt ?
+
+        
+",17,clemens-a-latzi-visit,27,2,0.074074074074074,0.3092815338702415,0.0,0.7236017173436433,0.0,0.5885983642222661,0.0,0.4984329275102007,0.0,0.0,0.0,0.827410139218945
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Ohoo... satt! Jetz bekumm ich erscht Idee!
+
+        
+",18,clemens-a-latzi-visit,12,2,0.1666666666666666,0.0,0.0,0.4161616075733854,0.0,0.3927036689303287,0.0,0.4984329275102007,0.0,0.0,0.0,0.5185555114061738
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Do ess denne Käs, vun uns zwei will ne doch kenner. 
+          
+(Alli drej esse — Paus.)
+
+        
+",18,clemens-a-latzi-visit,23,2,0.0869565217391304,0.0,0.0,0.9945237547859164,0.0,1.1401807295712814,0.0,0.5919366470523668,0.0,0.2763154789034522,0.3519652180826033,1.157276595287812
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Weiss kenner nix ze babble? Schakob, die höert mr jetz gar nimm !
+
+        
+",18,clemens-a-latzi-visit,17,1,0.0588235294117647,0.0,0.0,1.6793717393683312,0.0,2.1059648069003525,0.0,0.5919366470523668,0.0,0.2763154789034522,1.05589565424781,1.9799422857459448
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Kenn Zitt — wenn ich babbel, kann i nitt esse.
+
+        
+",18,clemens-a-latzi-visit,14,1,0.0714285714285714,0.0,0.4892779293917611,1.9709526079588933,0.0,2.641549471678192,0.0,0.5919366470523668,0.0,0.2763154789034522,1.05589565424781,2.502006183015992
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Warde, ich verzehl ebs — ich weis ebs gelunges. Im Isebahn isch e besserer Herr g'sässe un im sälwe
+          Coupé e Madame mit-eme Hundel, e nätt's Bummerle, uf-em Geere. Der Herr züend't sich e Cygarr an un 
+          
+näwelt druff los wie e Düerik. Die Madame reclamiert und saat sie kann's Rauche nitt
+          verdraue. Der Herr saat, er verdraat's un raucht härzhaft widdersch. Do risst die Madame dem Herr d'
+          Cygarr üs-em Müll un schmisst se racta zuem Coupéfänschter nüss, der Herr awer au nitt füll un schmisst
+          dere Madame ihr Hündel au nüss. Die Madame isch schier in Ohnmacht kejt un an der Station geht se rüss
+          ün direkt zuem chef de gare — der Herr geht awer au glich noch un allwill se do mit-nander uf-un-ab
+          mache, ze kummt's Hündele ze laufe — un was meine-nr was-es im Müll hett g'hett ?
+
+        
+",19,clemens-a-latzi-visit,162,23,0.1419753086419753,0.0798143742183164,0.5525364891792378,2.198360473675712,0.2357765873672617,3.1671561858573853,0.1554256225036221,0.1179316809798846,0.0256636204660832,0.3031405241174368,1.2383866851435017,2.822887837521348
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(schnell)
+
+          
+Im Herr sini Cigarr !
+
+        
+",20,clemens-a-latzi-visit,10,2,0.2,0.1053106326491675,0.5525364891792378,2.3353812227280457,0.2988462792751565,3.3776559781374225,0.2027278914345432,0.1179316809798846,0.0256636204660832,0.3031405241174368,1.2383866851435017,3.017031429527948
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Aba — — — d' Zung hett's im Müll g'hett. 
+          
+(lache Schakob üss.)
+
+        
+",20,clemens-a-latzi-visit,20,2,0.1,0.1053106326491675,0.7469744161578891,2.0259623185898845,0.2988462792751565,2.885046491586322,0.2027278914345432,0.3516427202051033,0.0256636204660832,0.1322551233549037,1.1087433079443307,2.790812449972782
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Pah, diss sinn widder so Plän vun dir — so isch eine guet ze verwiische, wenn mer am Esse isch. 
+          
+(isch böes.)
+
+        
+",20,clemens-a-latzi-visit,30,3,0.1,0.3477278490921293,0.7469744161578891,1.6113333622363242,0.5364558137012011,2.097088428743566,0.4185376787038452,0.3516427202051033,0.2387190905419165,0.1322551233549037,0.4048128717791242,2.0325005679070607
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Schakob, alle rej dich nitt uf wäje dem, drinke mr liewer eins — Alle Gebott santé, ass mr
+          s'franzeesch nitt vergässe.
+
+        
+",21,clemens-a-latzi-visit,28,3,0.1071428571428571,0.3477278490921293,0.257696486766128,1.469032094496591,0.5364558137012011,1.7838999040087973,0.4185376787038452,0.536803585659532,0.2387190905419165,0.1322551233549037,0.4048128717791242,1.752127452966926
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(hübst vor Plaisir uf-em Stuehl erum)
+
+          
+Wenn ich alle Daa so e Läwe hätt, no wott i gar nitt stärwe.
+
+        
+",21,clemens-a-latzi-visit,26,2,0.0769230769230769,0.2679134748738128,0.4387993208582902,1.5826017942726185,0.3006792263339394,1.6423504520986618,0.263112056200223,1.2295654559450158,0.2130554700758332,0.105430078140919,0.4873558906444289,1.893577939161028
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Schakob, jetz müehsch dü emol ebs verzehle — weisch denn kenn Witz ?
+
+        
+",21,clemens-a-latzi-visit,16,1,0.0625,0.2424172164429617,0.4387993208582902,2.041832199652321,0.2376095344260446,2.1330803604771376,0.2158097872693019,1.6005541957255862,0.2130554700758332,0.105430078140919,1.1912863268096356,2.536924639427538
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Mit-em nüechtere Maue — ich glaab dü bisch gebickt — so kann ich doch nix verzehle. Lang mr noch
+          Brot un Wurscht ! 
+          
+(Jean gibt-em).
+
+        
+",22,clemens-a-latzi-visit,31,1,0.032258064516129,0.2424172164429617,0.2443613938796388,2.245422224039128,0.2376095344260446,2.4517340281735174,0.7130136646209312,1.2733394369582016,0.6932971682427589,0.0,0.9689644859262032,2.684183016711006
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Männel, Männel, hesch dü e Abbeditt — 
+          
+(blickt Jean asse-es e Witz gibt)
+ Awer Schakob, im Ernscht. Ich wett mit dir um was ass
+          de witt, dass dü nitt ""Kaschper mit de Nas"" kannsch saue. Awer drejmol hinter-e-nand mit züegebundene
+          Aue.
+
+        
+",22,clemens-a-latzi-visit,54,4,0.074074074074074,0.0,0.2443613938796388,2.1242659844182823,0.0,2.4492154388518297,0.4972038773516293,1.366086621903344,0.4802416981669256,0.0,1.144947094967505,2.829201781386872
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Ho zell! Do mach ich gröescht Wettung — so daub bin ich doch nitt -.
+
+        
+",23,clemens-a-latzi-visit,19,1,0.0526315789473684,0.0,0.2443613938796388,1.9749863835674544,0.0,2.2268192988087594,0.4972038773516294,1.1809257564489155,0.4802416981669257,0.0,1.144947094967505,2.58751099905696
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Hoho, geh nurre nitt so hoch dran.
+
+        
+",23,clemens-a-latzi-visit,11,1,0.0909090909090909,0.0,0.0,1.2178472105012226,0.0,1.450058367609373,0.4972038773516294,0.463735924725713,0.4802416981669257,0.0,0.8799130452065083,1.6066233469513278
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Naan, nitt eso — um ebs, wo mr au halte kann.
+
+        
+",23,clemens-a-latzi-visit,16,1,0.0625,0.4802416981669256,0.0,1.0779022899143489,0.29789827193136,1.131301118854143,0.4972038773516294,0.0927471849451425,0.4802416981669257,0.0,0.1759826090413016,1.0989483803347118
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Na, saue mr — um dene Häri do. Denne will ich esse, wenn ich gewinn.
+
+        
+",23,clemens-a-latzi-visit,21,1,0.0476190476190476,0.4802416981669256,0.7863902566623195,1.3738514993126074,0.29789827193136,1.450654157900753,0.0,0.967642570316816,0.0,0.0,0.878459271242703,1.3842265005377823
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Angenumme! Dü gehsch awer witt erab vun-ere Million uf e Häri — awer es gilt! E Nastuech here füer
+          d'Aue züzebinde.
+
+        
+",24,clemens-a-latzi-visit,27,1,0.037037037037037,0.4802416981669256,0.7863902566623195,1.6726275132570827,0.29789827193136,1.9425351528653363,0.0,1.4303779817349591,0.0,0.0,0.7024766622014013,1.8999262744592411
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(gibt sin Nastuech)
+
+          
+Do nämme min's, denn von ejere will ich kenn's im Gsicht hann.
+
+        
+",24,clemens-a-latzi-visit,23,1,0.0434782608695652,0.4802416981669256,0.7863902566623195,1.6726275132570827,0.29789827193136,1.9425351528653363,0.0,1.4303779817349591,0.0,0.0,0.7024766622014013,1.8999262744592411
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(duet-em d' Aue zübinde)
+
+          
+So, guet zügebunde !
+
+        
+",24,clemens-a-latzi-visit,13,1,0.0769230769230769,0.4802416981669256,0.7863902566623195,1.6726275132570827,0.29789827193136,1.9425351528653363,0.0,1.4303779817349591,0.0,0.0,0.7024766622014013,1.8999262744592411
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(geht schnell nüss un macht sich d' Händ schwarz mit Wichs.)
+
+        
+",25,clemens-a-latzi-visit,16,3,0.1875,0.0,0.7863902566623195,1.4261832360646989,0.0,1.8751549961698235,0.0,1.4303779817349591,0.0,0.0,0.9272423197182944,1.801578366587082
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Autsch — nitt so fescht! Dü risch mr jo d' Hoor erüss do hinte.
+
+        
+",25,clemens-a-latzi-visit,18,2,0.1111111111111111,0.0,0.0,0.8747299513667455,0.2358289214557461,1.1716258707631426,0.0,0.5554825963632858,0.0,0.0,0.2247656575168932,1.2328020881791248
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ja, es mues fescht sinn, dü derisch kenn Grimmele sähne, sunsch gilt's nitt. 
+          
+(hebbt-em d' Händ vors's Gsicht un schwärzt ne)
+ Siehsch mini Händ ?
+
+        
+",25,clemens-a-latzi-visit,35,3,0.0857142857142857,0.0,0.0,0.5593487895409789,0.2358289214557461,0.595084248641713,0.0,0.1506210848146227,0.0,0.0,0.2247656575168932,0.6591747893629176
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Naan, ich sieh nix, es isch alles schwarz vor-mr.
+
+        
+",26,clemens-a-latzi-visit,14,1,0.0714285714285714,0.0,0.0,0.5593487895409789,0.2358289214557461,0.595084248641713,0.0,0.1506210848146227,0.0,0.0,0.2247656575168932,0.6591747893629176
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+So, jetz muehsch drejmol Kaschper mit dr Nas saue. 
+          
+(stellt de Schakob in d' Mitte von d'r Scène, vorne an de Disch).
+ So, jetz los !- 
+          
+(Die Zwei könne küm noch 's Lache verbisse.)
+
+        
+",26,clemens-a-latzi-visit,47,3,0.0638297872340425,0.1270691573265333,0.3311280968135642,1.2070360844077763,0.2358289214557461,1.1840582208194037,0.0,0.5560452950153887,0.0,0.2168062940668002,0.4906259148401665,1.3188020027162826
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(streckt d' Händ nüss, mit komischer Stimm)
+
+          
+Kaschper mit dr Nas, Kaschper mit dr Nas, Kaschper mit dr Nas! 
+          
+(risst's Nastuech rab)
+ Gewunne, gewunne !
+
+        
+",27,clemens-a-latzi-visit,37,3,0.081081081081081,0.1270691573265333,0.3311280968135642,1.2115813945796226,0.2358289214557461,1.0191067630096309,0.0900416640052614,0.5560452950153887,0.0,0.3974373933097337,0.2658602573232732,1.202673857472226
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean und Victor :
+
+          
+(lache-ne üss)
+
+          
+Hahaha — verlore hesch, verlore !
+
+        
+",27,clemens-a-latzi-visit,15,3,0.2,0.1270691573265333,0.3311280968135642,0.9945522024181408,0.0,0.8297616075834695,0.0900416640052614,0.5560452950153887,0.0,0.3974373933097337,0.2658602573232732,0.9264115340671732
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Jean und Victor :
+
+          
+(lache-ne üss)
+
+          
+Hahaha — verlore hesch, verlore !
+
+        
+",27,clemens-a-latzi-visit,15,3,0.2,0.1270691573265333,0.3311280968135642,0.8620945616914228,0.0,0.7391148095756874,0.0900416640052614,0.4054242102007659,0.0,0.3974373933097337,0.2658602573232732,0.7749664858936437
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Dü hesch — Kaschper nitt mit dr 
+          
+""Nas""
+gsaat, dü hesch's jo mit-em 
+          
+""Müll""
+gsaat. 
+          
+(lache-ne üss).
+
+        
+",28,clemens-a-latzi-visit,29,2,0.0689655172413793,0.1270691573265333,0.3311280968135642,0.8620945616914228,0.0,0.7391148095756874,0.0900416640052614,0.4054242102007659,0.0,0.3974373933097337,0.2658602573232732,0.7749664858936438
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(wüeti)
+
+          
+O, ihr eländi Kaiwe, ass-r sinn! Jetz lonn mich mit Fridde, ich geh furt, los geh-wi, ich ess kenn
+          Bisse meh — ich hab e Wuet wie e drejstöecket's Hüs !
+
+        
+",28,clemens-a-latzi-visit,43,7,0.1627906976744186,0.1538005525195361,0.2583207161897675,0.5379359209136394,0.1253551709676484,0.47382491719045,0.249636693100156,0.1789045884167671,0.0786117789362515,0.3722093628409786,0.1819056810833698,0.4440036303883745
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(fladiert)
+
+          
+Alle, Schakob, dü wursch doch noch Gschpass verstehn.
+
+        
+",29,clemens-a-latzi-visit,16,1,0.0625,0.1538005525195361,0.2583207161897675,0.3235286540890144,0.1253551709676484,0.3236840797924531,0.1595950290948946,0.1789045884167671,0.0786117789362515,0.1915782635980452,0.1819056810833698,0.3286643578480962
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Jo, sej doch kenn Kind wie e Beckeknächt — Schaköebele, da, derfsch de Häri doch noch esse.
+
+        
+",29,clemens-a-latzi-visit,23,1,0.0434782608695652,0.1538005525195361,0.8127719482897721,0.8250119247474619,0.1253551709676484,0.7395773550934737,0.1595950290948946,0.6973278143406901,0.0786117789362515,0.1915782635980452,0.1819056810833698,1.1841294148050792
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Alle wäje mir — ze will ich widder guet sinn. Siehsch, wenn ich jetz e böeser Karakter hätt, ze dät
+          ich dr Häri gar nitt esse. 
+          
+(sitzt ane un fangt an ze-n-esse.)
+
+        
+",30,clemens-a-latzi-visit,43,2,0.0465116279069767,0.5174263771839787,0.8127719482897721,1.230340467090744,0.4817694726067152,1.0063163768229464,0.4833097099988476,0.6973278143406901,0.3981949840500015,0.1915782635980452,0.1819056810833698,1.2806601273936966
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ich weiss jo, dü bisch e güeter Dschori. — Zej, Victor, jetz muesch eins singe, dass Läwe in d'
+          Büdick kummt !
+
+        
+",30,clemens-a-latzi-visit,29,3,0.1034482758620689,0.5174263771839787,0.9756795442095314,1.4576590268366107,0.4817694726067152,1.2623549135163177,0.4833097099988475,0.8431657551750407,0.3981949840500015,0.1915782635980452,0.3585950475907008,1.5888821825825654
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Angenumme. — Also ufgebaset — de Refrain singe-nr mit. 
+          
+
+            
+Das Rindfleisch ist teuer,
+
+            
+Das ist doch zu dumm,
+
+            
+Es laufen genug Rindviecher rum.
+
+            
+(ditt uf Schakob)
+
+            
+Refr.:
+
+            
+Drulala, drula, drulala usw. !
+
+          
+
+          
+(Alli drej singe de Refr. un klopfe mit de Messer an Däller un Gläser.)
+
+        
+",31,clemens-a-latzi-visit,64,5,0.078125,0.3636258246644425,0.7173588280197638,1.3080849747019945,0.4855388906826243,1.1153620746707018,0.3237146809039529,0.7753576860309307,0.3195832051137499,0.0,0.1766893665073309,1.4868627814588038
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+
+            
+De Patron isch furt,
+
+            
+Diss isch zo züe schöen,
+
+            
+Jetzt halte mr zamme un lonn's Esse nitt stehn.
+
+            
+Refr.:
+
+            
+Drula — — — — !
+
+          
+
+        
+",32,clemens-a-latzi-visit,33,6,0.1818181818181818,0.49982167657399,0.8320700536410829,1.663160338211262,0.6969349667019212,1.4904421180288123,0.4154521577587541,0.8487515209863524,0.4112969472060434,0.0535477586420436,0.2819087278271238,1.8765770938171236
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+
+            
+Das Rindfleisch ist teuer,
+
+            
+Ich mach mir nix drüss,
+
+            
+Ich ess e Häri un lach Ejch no üss
+
+            
+(macht-ne e langi Nas).
+
+            
+Refr.:
+
+            
+Drula — — — - !
+
+          
+
+          
+.(Mitte im Refrain schellt's. Schakob singt als wittersch. Jean hebt-em 's Müll zü.)
+
+        
+",32,clemens-a-latzi-visit,58,4,0.0689655172413793,0.49982167657399,0.2776188215410782,1.267160619357691,0.8583407030063681,1.1286157888790354,0.4154521577587541,0.3303282950624295,0.4112969472060434,0.0535477586420436,0.2819087278271238,1.123150146018124
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Stille, um Gottswille stille — es hett gschellt. 
+          
+(es schellt)
+ Am End dr Patron. — Der hett dr Zugg verfählt. — Was jetz? Wenn der ejch do
+          finde duet — er hett schun e Wuet.
+
+        
+",33,clemens-a-latzi-visit,45,5,0.1111111111111111,0.2712946994321449,0.2776188215410782,1.1198884261583184,0.6366676587588329,1.1126678228787608,0.2381791496810525,0.3303282950624295,0.0917137420922934,0.0535477586420436,0.3684228084075278,1.1347789676967168
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Jo, Schöide — im zweite Stock.
+
+        
+",33,clemens-a-latzi-visit,10,1,0.1,0.2712946994321449,0.114711225621319,0.8925698664124517,0.6366676587588329,0.8566292861853896,0.2381791496810525,0.1844903542280789,0.0917137420922934,0.0535477586420436,0.1917334419001968,0.8265569125078482
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Mansch duet's weh ?
+
+        
+",34,clemens-a-latzi-visit,7,2,0.2857142857142857,0.553004623693799,0.114711225621319,1.123418507442592,0.7460974311113144,0.8540807351144342,0.5360411723655849,0.0829839600366695,0.4880400263628536,0.0535477586420436,0.1917334419001968,0.7539204216842966
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Mache nitt lang, verschwinde, verstecke ejch, hopp !
+
+        
+",34,clemens-a-latzi-visit,13,2,0.1538461538461538,0.4168087717842515,0.0,1.004609777663913,0.5347013550920174,0.765761312649439,0.6929056341865983,0.0095901250812478,0.636447133354023,0.0,0.0865140805804039,0.6440863501309467
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Schakob — do hinter de Fauteuil 
+          
+(druckt Schakob hinter de Fauteuil)
+ Victor — dü gehsch unter de Disch — naan halt — in de
+          Kaschte.
+
+        
+",34,clemens-a-latzi-visit,30,3,0.1,0.5855773364279371,0.0,1.0594832886004864,0.477984286921954,0.8461044499412866,0.6929056341865983,0.0095901250812478,0.636447133354023,0.0,0.0865140805804039,0.6579533348475664
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Awer nitt bschliese, sunsch verstick ich jo.
+
+        
+",34,clemens-a-latzi-visit,11,1,0.0909090909090909,1.0126995717934917,0.0,1.6225813995384193,0.3432430295304224,1.0987949609775982,0.546463961360347,0.0095901250812478,0.636447133354023,0.0,0.0,0.8998333660459007
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ich loss Düer e bissel offe, hebbsch Düer am Schloss ass se nitt ufgeht — do ejeri Kappe. 
+          
+(gibt ne d' Kappe).
+ So, un jetz mache mr uf un lueje, wer's isch. 
+          
+(schellt)
+ Ich kumm, ich kumm ! 
+          
+(Geht a. d. M.)
+
+        
+",35,clemens-a-latzi-visit,58,5,0.0862068965517241,1.095209558380947,0.16854644830293,1.82595260028753,0.4227952506896303,1.3042395727040166,0.6812548313593456,0.1206866443539049,0.7712031296089714,0.0786783027102592,0.0486698847873325,1.1114554950764866
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(luejt in d' Höeh)
+
+          
+Wie gfällt's dr im Kaschte, Victor ?
+
+        
+",35,clemens-a-latzi-visit,17,1,0.0588235294117647,0.8134996341192927,0.16854644830293,1.421149357302992,0.1842408892935913,1.1300968828281348,0.3833928086748132,0.1110965192726571,0.3748768453384111,0.0786783027102592,0.0486698847873325,0.9574470291757038
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Ich hab jetz schun Kritzweh — wenn mr nurre schun drüsse wärde — Pscht — sie kumme — Salü ! 
+          
+(Beidi verschwinde).
+
+        
+",36,clemens-a-latzi-visit,27,2,0.074074074074074,0.8134996341192927,0.4204124106294707,1.3538859454208143,0.1842408892935913,1.0302617317096152,0.1347908699989985,0.1110965192726571,0.1347559962549483,0.0786783027102592,0.0486698847873325,0.8796021333175016
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(kummt mit Mobil d. d. M. Mobil isch belade mit acht Päkle, lajt se alli uf e Stuehl, dr
+          Barablie nimmt-em dr Jean ab un stellt ne ins Eck am Kaschte.)
+
+        
+",36,clemens-a-latzi-visit,38,2,0.0526315789473684,0.644731069475607,0.4204124106294707,1.417448283955607,0.0795522211592079,1.2294458583311303,0.1347908699989985,0.3888378174543,0.1347559962549483,0.0786783027102592,0.0486698847873325,1.1262332129377668
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Also da wären wir nu... rue de la liberté 39, zweiter Stock. Sind Sie Herr Inspektor Meyer?
+
+        
+",37,clemens-a-latzi-visit,23,3,0.1304347826086956,0.2075285894502885,0.4204124106294707,0.9053149230222234,0.3154492315607636,0.9824772768064314,0.3239516675179447,0.3888378174543,0.333501761271686,0.0786783027102592,0.0486698847873325,0.9829671198263216
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(redd komisch hochditsch)
+
+          
+Ja, ja — — der bin — ä — ich bin der ""Inspektor Meyer"".
+
+        
+",37,clemens-a-latzi-visit,25,3,0.12,0.1250186028628336,0.2518659623265407,1.2317742851799842,0.2358970104015557,1.1396198571111404,0.1891607975189462,0.8802256374401338,0.1987457650167376,0.0,0.0,1.377125183489854
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(f. s.)
+
+          
+Der saat mr dü? — 
+          
+(lütt)
+ Ja-ja, ich bin dr Johann.
+
+        
+",37,clemens-a-latzi-visit,22,2,0.0909090909090909,0.1250186028628336,0.2518659623265407,1.5618176745779755,0.2358970104015557,1.5568582314422943,0.1891607975189462,0.8802256374401338,0.1987457650167376,0.0,0.3140660044031501,1.744082455771054
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Aber mich kennste nich, was? Ei, herrjemersch, mach doch kein so komisches Gesichte — ich bin doch
+          dein Daufpate.
+
+        
+",38,clemens-a-latzi-visit,26,1,0.0384615384615384,0.1250186028628336,0.0,1.392814452729565,0.2358970104015557,1.3699327616676982,0.1891607975189462,0.8802256374401338,0.1987457650167376,0.0,0.3140660044031501,1.5420471108242864
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ei — das ist aber furicht ! Sie sind mein Pate. 
+          
+(f. s.)
+ Dies isch im Patron siner Pfetter. Der isch vun driwe.
+
+        
+",38,clemens-a-latzi-visit,30,4,0.1333333333333333,0.2060344257945333,0.0,1.531087165213738,0.3812849222487751,1.445280969276716,0.3073802611926953,0.6024843392584909,0.3478050887792909,0.0,0.6001497026251676,1.5166513497318488
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ja — mein Gutester, ich habe dich über die Daufe gehalten. — Damals warscht de kaum so gross und
+          hast ganz mörderisch geschrien, du warst damals schon kein Freund vom Wasser.
+
+        
+",39,clemens-a-latzi-visit,37,7,0.1891891891891892,0.1912602614934366,0.1742547289787916,1.623520806082341,0.219353936260972,1.579906089527155,0.2444026402772632,0.7506095399260446,0.2652564637633601,0.1110382610721073,0.769988718736329,1.7209797737049843
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ich verstehe nicht — wie meinste, auf der Latte?
+
+        
+",39,clemens-a-latzi-visit,13,1,0.0769230769230769,0.1912602614934366,0.1742547289787916,1.535955600823805,0.219353936260972,2.0256100103064774,0.2444026402772632,0.1481252006675537,0.2652564637633601,0.1110382610721073,1.5947394757236395,2.094559391584717
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ja, das heisst — nicht verbutzen, nicht leiden können. — Herr — Herr — ä — ?
+
+        
+",40,clemens-a-latzi-visit,22,4,0.1818181818181818,0.2422527783551387,0.1742547289787916,1.57929694007552,0.3454933200767616,2.097356319041234,0.3390071781391053,0.2610910142785208,0.2652564637633601,0.1110382610721073,1.2806734713204893,2.229473089446865
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Also bitte nämmen Sie Platz, Herr Ottomobil Pfärdefabrik —
+
+        
+",40,clemens-a-latzi-visit,12,2,0.1666666666666666,0.2677490367859899,0.1742547289787916,1.716317689127854,0.4085630119846564,2.3078561113212714,0.3863094470700264,0.2610910142785208,0.2652564637633601,0.1110382610721073,1.2806734713204893,2.4236166814534656
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil:
+
+          
+Bitte — Otto Mobil, Pferdewurstfabrik mit Dampfbetrieb.
+
+        
+",40,clemens-a-latzi-visit,11,1,0.0909090909090909,0.1867332138542902,0.1742547289787916,1.3541255753674386,0.263175100137437,1.898913693647648,0.2680899833962773,0.2610910142785208,0.1161971400008068,0.1110382610721073,0.994589773098472,2.0864762690510346
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Herr Automo — —
+
+        
+",40,clemens-a-latzi-visit,6,1,0.1666666666666666,0.1274812921542554,0.0,1.2267123334550445,0.3153484595394739,1.928775172716472,0.2365113446546054,0.112965813610967,0.0,0.0,0.8247507569873106,2.063661556737
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Um Gotteswillen, sprich meinen scheenen deutschen Namen nicht französisch aus.
+
+        
+",40,clemens-a-latzi-visit,14,2,0.1428571428571428,0.1274812921542554,0.0,0.9528506945286604,0.3153484595394739,1.3575628709808438,0.2365113446546054,0.112965813610967,0.0,0.0,0.2521308359379867,1.3331245101949365
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Sitzen Sie jetzt da annen, wenn's beliebt. 
+          
+(setzt sich, ass er de Fauteuil im Au hett, Mobil sitzt geje 's Publikum).
+
+        
+",41,clemens-a-latzi-visit,31,2,0.064516129032258,0.1810797928853349,0.0,0.7958743696126922,0.1892090757236843,1.064534925783036,0.1419068067927632,0.0,0.0,0.0,0.2521308359379867,0.982817267680586
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Danke! Ja, mein Lieber, dass hättest du dir a wees Knebbche nicht träumen lassen, dass ich noch mal
+          in's Elsass komme.
+
+        
+",41,clemens-a-latzi-visit,29,6,0.2068965517241379,0.1555835344544838,0.1179129213714149,0.9960835879509868,0.1261393838157895,1.235418557041028,0.0946045378618421,0.3184862198680945,0.0,0.0,0.4971615308204124,1.3146644427179115
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ja, ich hatte keine Ruhe nich und wollte dich un deine Eltern noch mal sehen. Als du auf die Welt
+          kamst, da war ich hier im Elsass an der Post, ich ging dann nach Dräsden und fing eine
+          Pferdewurstfabrik an. Jetzt in meinen alten Tagen da wollte ich doch Euch noch mal besuchen und da
+          sagten mir deine Eltern, dass du hier in der rue de la liberté wohnst und Inspektor bist — na ja, und
+          da bin ich nun — es freut mich, dass ich dich so frisch und munter angetroffen habe — ach ja !
+
+        
+",42,clemens-a-latzi-visit,107,12,0.1121495327102803,0.1555835344544838,0.1592703357842961,1.513522208883395,0.1261393838157895,1.6573524218874716,0.0946045378618421,0.7718062031054791,0.0,0.0374614260986242,0.5391833368100769,1.911080092445238
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Bitte sehr, Herr Auto — ä Herr Otto Mobil, die Freude ist ganz auf meiner Seite. 
+          
+(f. s.)
+ Wenn-r nurre Furt wär. 
+          
+(lütt)
+ Und nun wollen wir eins miteinander pfätzen, eins dranschütten. 
+          
+(schänkt Win in, dr Schakob luejt in d' Höeh. Jean winkt-em mit dr Hand nabzegehn).
+
+        
+",43,clemens-a-latzi-visit,64,9,0.140625,0.1815785357258504,0.1592703357842961,1.4815862511060738,0.1238628479802331,1.554292381914261,0.134740886538847,0.804574188274508,0.0799587199485409,0.0374614260986242,0.5391833368100769,1.8212259275761256
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(verschrocke)
+
+          
+Habe ich denn gefuchtelt ? Ah, eine Schnoock, eine Schnake fliest da in der Luft herum. So, nun
+          wollen wir aber Gsundheit trinken ! Herr Taufpate, es soll Ihnen wohl tuhen bis in den grossen Zeh
+          !
+
+        
+",44,clemens-a-latzi-visit,47,6,0.1276595744680851,0.1900772885361341,0.2357915421617525,1.414061913153858,0.1448860786161981,1.4944965553525056,0.1505083095158207,0.9138616553462278,0.0799587199485409,0.0812163717818173,0.4104608642251721,1.811582022310781
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Gesundheit !
+
+        
+",44,clemens-a-latzi-visit,4,1,0.25,0.0854862709433524,0.2357915421617525,1.19765350942012,0.1448860786161981,1.2985398174844025,0.1505083095158207,0.9138616553462278,0.0799587199485409,0.0812163717818173,0.4104608642251721,1.6600182946817832
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(rueft)
+
+          
+Gsundheit !
+
+        
+",44,clemens-a-latzi-visit,7,1,0.1428571428571428,0.0854862709433524,0.1178786207903375,0.8604235420294912,0.1448860786161981,0.9171563939463738,0.1505083095158207,0.5953754354781334,0.0799587199485409,0.0812163717818173,0.1654301693427463,1.1340275276378575
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(verschrocke)
+
+          
+Wer hat denn da gesprochen ?
+
+        
+",45,clemens-a-latzi-visit,11,1,0.0909090909090909,0.0854862709433524,0.0765212063774563,0.3429849210970829,0.1448860786161981,0.4952225290999303,0.1505083095158207,0.1420554522407487,0.0799587199485409,0.043754945683193,0.1234083633530819,0.537611877910531
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(f. s.)
+
+          
+So e Dolle ! 
+          
+(lütt)
+ Ei — ei — dass ist — ah, dass ist der Babaagei — in zälleren Stubb dort
+          drüben.
+
+        
+",45,clemens-a-latzi-visit,33,2,0.0606060606060606,0.4224034706905964,0.0765212063774563,0.4830410581292559,0.3770566242772895,0.3508109318417262,0.3845382411571371,0.1092874670717196,0.2205728768686993,0.043754945683193,0.1234083633530819,0.3265545729163323
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ein Papagei?! Ei Herrjämersch, hat der mich aber erschrocken — denn muss ich mir mal ansehen.
+
+        
+",45,clemens-a-latzi-visit,22,1,0.0454545454545454,0.4139047178803127,0.0,0.38216167735952,0.3560333936413246,0.1735279473286594,0.3687708181801634,0.0,0.2205728768686993,0.0,0.0,0.0873757141498902
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(schnell)
+
+          
+Nein, Herr Mabul — ä — Mobil. Sie können ihn jetzt nicht gücken, die Tür ist verschlossen und mein
+          Diener hat den Schlüssel im Sack.
+
+        
+",46,clemens-a-latzi-visit,34,3,0.088235294117647,0.4309022235008801,0.0,0.6319765290063794,0.3980798549132543,0.536952002548911,0.4003056641341108,0.0,0.2205728768686993,0.0,0.2372547966620168,0.4509466806838709
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Na, ich kann ihn ja später beaugapfeln. Wie heisst denn der Papagei ?
+
+        
+",46,clemens-a-latzi-visit,17,1,0.0588235294117647,0.4309022235008801,0.0,1.029349451186533,0.3980798549132543,0.8088923965722566,0.4003056641341108,0.451863254443868,0.2205728768686993,0.0,0.2372547966620168,0.9052818252044595
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(ruft geje Düer 1.)
+
+          
+Schakob !
+
+        
+",46,clemens-a-latzi-visit,10,1,0.1,0.6400842586864435,0.0,1.4621662586540096,0.3980798549132543,1.2008058723084631,0.4003056641341108,0.451863254443868,0.2205728768686993,0.0,0.2372547966620168,1.2084092804624549
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(brüelt)
+
+          
+Halt's Müll !
+
+        
+",46,clemens-a-latzi-visit,9,2,0.2222222222222222,0.4793323877716591,0.0,1.3205401754066644,0.1990794634735049,1.2288930501444402,0.0315348459539473,0.451863254443868,0.0,0.0,0.2372547966620168,1.2948912071244696
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Der spricht ja französisch. — Was hat er gesagt ?
+
+        
+",47,clemens-a-latzi-visit,13,1,0.0769230769230769,0.4793323877716591,0.0,1.717913097586818,0.1990794634735049,1.5008334441677855,0.0315348459539473,0.9037265088877362,0.0,0.0,0.2372547966620168,1.749226351645058
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Er hat gesagt — — 
+          
+(f. s.)
+ was sell i numme saue. 
+          
+(lütt)
+ Er hatt gesagt: Sei gegrüsst! 
+          
+(f. s.)
+ Ich schwitz vor Angscht noch Gagummere.
+
+        
+",47,clemens-a-latzi-visit,38,3,0.0789473684210526,0.4623348821510917,0.0,1.468098245939959,0.157033002201575,1.1374093889475343,0.0,0.9037265088877362,0.0,0.0,0.0,1.3856553851110776
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Aber nun wollen wir anstossen — — Gesundheit!
+
+        
+",47,clemens-a-latzi-visit,11,1,0.0909090909090909,0.4623348821510917,0.0,1.0707253237598051,0.157033002201575,0.8654689949241886,0.0,0.451863254443868,0.0,0.0,0.0,0.9313202405904888
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(pfifft im Kaschte durch d' Finger).
+
+        
+",48,clemens-a-latzi-visit,11,1,0.0909090909090909,0.2531528469655284,0.0,0.6379085162923287,0.157033002201575,0.4735555191879822,0.0,0.451863254443868,0.0,0.0,0.0,0.6281927853324937
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(verschrocke)
+
+          
+Hier im Zimmer hat jemand gepfiffen !
+
+        
+",48,clemens-a-latzi-visit,12,1,0.0833333333333333,0.0,0.0,0.3973729221801538,0.0,0.2719403940233459,0.0,0.451863254443868,0.0,0.0,0.0,0.4543351445205889
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(f. s.)
+
+          
+Jetz fangt der au an. 
+          
+(lütt)
+ Ei — ä dass war in zällere Stubb da drüben 
+          
+(zeigt nach r.)
+ Da drinnen hab ich eine Atzel. 
+          
+(f. s.)
+ Denne due ich verkohle.
+
+        
+",48,clemens-a-latzi-visit,46,1,0.0217391304347826,0.0,0.0,1.7763568394002506e-16,0.0,2.220446049250313e-16,0.0,0.0,0.0,0.0,0.0,3.552713678800501e-16
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Atzel? Ei e Atzel. — Das ist ein Vogel denn man dressieren kann, dass er Lieder pfeifen tun tut. 
+          
+(f. s.)
+ Isch mr diss a lätzi Visit. 
+          
+(lütt)
+ Awer jetz welle mir uns nicht mehr stören lassen, Gesundheit !
+
+        
+",49,clemens-a-latzi-visit,51,4,0.0784313725490196,0.0,0.0,0.1273825808791479,0.0,0.1785309017358444,0.0,0.1223851511820103,0.0,0.0,0.0,0.1906724366274649
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Auf dein ganz spezielles Wohl. mein lieber Johann. 
+          
+(geje de Düer)
+ Prosit Schakob ! 
+          
+(Sie drinke).
+
+        
+",50,clemens-a-latzi-visit,25,5,0.2,0.0418364070371126,0.2333209532986456,0.5743942784593391,0.0,0.7762381307614693,0.0,0.5128286463588516,0.0,0.0525059348198317,0.4421268698826092,0.9421537066390892
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ich versteh ihn kein Wort.
+
+        
+",50,clemens-a-latzi-visit,8,1,0.125,0.0418364070371126,0.2333209532986456,0.5743942784593391,0.0,0.7762381307614693,0.0,0.5128286463588516,0.0,0.0525059348198317,0.4421268698826092,0.9421537066390892
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(f. s.)
+
+          
+S' isch au besser. 
+          
+(lütt)
+ Aber — mein lieber Taufpate, wollen Sie nicht ein Mumpfel ebs essen, ein Stücklein
+          Käs oder e Sardinchen ?
+
+        
+",50,clemens-a-latzi-visit,35,3,0.0857142857142857,0.0418364070371126,0.4691467960414756,0.9584252416318106,0.0,1.262111222548061,0.0,0.8466889153363935,0.0,0.0525059348198317,0.9321882596474604,1.5449296458348525
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Gieb dir keine Mühe, mein Gutester, ich habe gar keinen Hunger — Ei du blitzblaues Donnerwetter —
+          die Hauptsache hätte ich beinahe vergessen. Was meinste, was ich da in den Paketen habe ?
+
+        
+",51,clemens-a-latzi-visit,39,4,0.1025641025641025,0.1041194087309468,0.4691467960414756,1.22410486940838,0.0,1.516360536144838,0.0,0.8466889153363935,0.0,0.0525059348198317,1.1101293571439732,1.7425339008622007
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Da bin ich jetz aber wunderfitzich, da bin ich gespannt wie ein Wäschseil, was da drinnen tut
+          sein.
+
+        
+",51,clemens-a-latzi-visit,23,2,0.0869565217391304,0.1041194087309468,0.4691467960414756,1.0967222885292325,0.0,1.3378296344089935,0.0,0.724303764154383,0.0,0.0525059348198317,1.1101293571439732,1.551861464234736
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Lauter Wurscht, echte Pferdewurst aus meiner Fabrik mit Dampfbetrieb — Salami-, Zungen-, Schwarz-,
+          Servelat-, Fleisch-, Lyoner-, Frankfurter-, Bratwurscht — alles prima geräuchert.
+
+        
+",52,clemens-a-latzi-visit,40,5,0.125,0.0622830016938341,0.3425159842717117,0.9193777188336288,0.0,1.1401136562607026,0.0,0.506242767312971,0.0,0.0,0.93197068012271,1.2097081391864508
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Pfüi Deifel !
+
+        
+",52,clemens-a-latzi-visit,5,1,0.2,0.0622830016938341,0.3425159842717117,0.9193777188336288,0.0,1.1401136562607026,0.0,0.506242767312971,0.0,0.0,0.93197068012271,1.2097081391864508
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Jaa, mein Gutester, die schmeckt fein, da rieche mal ran. 
+          
+(Jean schmeckt am e Päckel.)
+ Na?
+
+        
+",52,clemens-a-latzi-visit,26,3,0.1153846153846153,0.0622830016938341,0.3204389988552028,0.8734205547405228,0.0,1.0874217696914854,0.0,0.445898339126422,0.0,0.1778169025481362,0.8945423128028989,1.1156585871059066
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Die schmeckt hirnwietich guet! 
+          
+(macht e Gsicht geje de Litt.)
+
+        
+",53,clemens-a-latzi-visit,16,5,0.3125,0.2279037615353105,0.4261660223487961,1.0161489595276412,0.154237367316674,1.2156615605035834,0.1675949050082788,0.5039185958679712,0.1117168499073994,0.3373654566004673,0.9468823543749376,1.1485620679879798
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Siehste Johann, solche feine Wurst gibt's nur bei uns daheim, hier im Elsass oder Frankreich gibts
+          so was nicht — ausgeschlossen !
+
+        
+",53,clemens-a-latzi-visit,27,1,0.037037037037037,0.2279037615353105,0.4261660223487961,1.0161489595276412,0.154237367316674,1.2156615605035834,0.1675949050082788,0.5039185958679712,0.1117168499073994,0.3373654566004673,0.9468823543749376,1.1485620679879798
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(pfifft: ""Du bist verrückt mein Kind !"")
+
+        
+",53,clemens-a-latzi-visit,14,3,0.2142857142857142,0.2279037615353105,0.5042929581865827,1.072110607474506,0.154237367316674,1.17739226176015,0.1675949050082788,0.504343839507183,0.1117168499073994,0.3373654566004673,0.9201689581756088,1.258531047206549
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Was — gilt das mir? ""Du bist verrückt, mein Kind"" ?
+
+        
+",53,clemens-a-latzi-visit,17,3,0.1764705882352941,0.2279037615353105,0.6891100355532509,1.3977393833059584,0.154237367316674,1.53911421389405,0.1675949050082788,0.6771515814818241,0.1117168499073994,0.3373654566004673,1.1574237548376256,1.7778279713884568
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Nein — nein — dass pfeift er allen gälten. 
+          
+(f. s.)
+ Wenn ich ne numme drüsse hätt. 
+          
+(lütt)
+ Wissen Sie was, Herr Automoppel — na ich verbabble mich immer, ich kann denn
+          dabbichten Namen nicht behalten.
+
+        
+",54,clemens-a-latzi-visit,47,2,0.0425531914893617,0.2534000199661615,0.4753611782269299,1.1966863332789268,0.2173070592245688,1.3164328009567128,0.2148971739391999,0.403635740690831,0.1117168499073994,0.159548554052331,0.7047907323925853,1.4632451762798382
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Mein bester Johann, sage doch einfach Taufpate.
+
+        
+",54,clemens-a-latzi-visit,11,2,0.1818181818181818,0.025496258430851,0.3696341547333365,1.025979829133194,0.0630696919078947,1.268579987098178,0.047302268930921,0.3456154839492819,0.0,0.0,0.8303917883170591,1.5839502981647875
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Mein Herr Taufpate, komm wir gehen ein wenig fort, ein paar Seidel schlänkern, wottsch ?
+
+        
+",55,clemens-a-latzi-visit,20,3,0.15,0.0424937640514184,0.3696341547333365,1.275794680780053,0.1051161531798246,1.6320040423184294,0.0788371148848684,0.3456154839492819,0.0,0.0,1.067646584979076,1.9475212646987683
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Du bist ja zu liebenswürdig — aber ich bin ermüdet von der Reise — wir bleiben heute zu Hause und
+          morgen reisen wir in die Vogesen.
+
+        
+",55,clemens-a-latzi-visit,29,6,0.2068965517241379,0.0424937640514184,0.1848170773666682,1.2938430163400525,0.1051161531798246,1.5750111444055848,0.0788371148848684,0.402559257044547,0.0788626824185186,0.0523443340671916,0.9598584769139044,1.872711154677113
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+O jeh, min Kriz!
+
+        
+",55,clemens-a-latzi-visit,8,1,0.125,0.0424937640514184,0.0,0.9682142405086,0.1051161531798246,1.2132891922716846,0.0788371148848684,0.229751515069906,0.0788626824185186,0.0523443340671916,0.7226036802518875,1.3534142304952046
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Das freut dich doch — was ?
+
+        
+",55,clemens-a-latzi-visit,9,1,0.1111111111111111,0.0169975056205673,0.0,1.512861067441549,0.0420464612719298,1.6929380655692825,0.0315348459539473,1.0969429258878864,0.0788626824185186,0.0523443340671916,0.7226036802518875,2.199264249750754
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Oh, dass freut mich ganz gemein. 
+          
+(f. s.)
+ Wänn de nur biem Deifel wärsch.
+
+        
+",56,clemens-a-latzi-visit,21,4,0.1904761904761904,0.0169975056205673,0.0,1.525304934120494,0.0420464612719298,1.6549152092918054,0.0315348459539473,1.387468745222697,0.0788626824185186,0.0523443340671916,0.3667214852588621,2.257841071928768
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Jaa — ich will die Zeit ausnützen, wo ich im Elsass bin. Meine Bauline, so heisst meine Frau, die
+          wollte mich erst gar nicht fahren lassen, sie hatte solche Angst, es könnte mir was passieren — es
+          passieren ja auch immer so viele Eisenbahnunglücker.
+
+        
+",56,clemens-a-latzi-visit,53,6,0.1132075471698113,0.0,0.0898724127571312,1.85568653912804,0.0,1.943724976634376,0.1280043692499613,1.4627792876300083,0.0788626824185186,0.0523443340671916,0.7104684331024412,2.580043267225933
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Da muss ich Sie jetzt aber auch dabbicht fragen, sind Sie in keiner Lebensversicherung ?
+
+        
+",57,clemens-a-latzi-visit,18,1,0.0555555555555555,0.3240632917267988,0.0898724127571312,2.165031227077298,0.5815516473888775,1.987535293575678,0.6008822239449578,1.2330277725601022,0.596237295050213,0.0,0.5810017445055959,2.3675896861147785
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Aber, aber, lieber Herr Taufpate, das ist kein Plan. Wenn man in einer Lebensversicherung ist, so
+          passiert einem sobald kein Unglück. Und setzen wir den Fall, es passierte Ihnen ein Unglück, dann würde
+          Ihre Frau dasitzen mit ihren zwölf Kindern.
+
+        
+",57,clemens-a-latzi-visit,51,7,0.1372549019607843,0.3313479369927563,0.2772660072833544,2.4513268643153725,0.5995715593625618,2.3796282735537337,0.614397157925221,1.4460451170830546,0.596237295050213,0.0,0.6893474272639536,2.791984010075572
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(lacht)
+
+          
+Hahaha — ich habe ja gar keine Kinder.
+
+        
+",58,clemens-a-latzi-visit,14,3,0.2142857142857142,0.3313479369927563,0.4620830846500226,2.0692780192762905,0.5995715593625618,1.918757497750888,0.614397157925221,0.902282533054338,0.596237295050213,0.0,0.6893474272639536,2.188590465972612
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ich setze ja nur den Fall, Sie hätten zwölf Kinder und kämen tot nach Hause, das Misere für die Frau
+          mit den zwölf Kindern.
+
+        
+",58,clemens-a-latzi-visit,29,3,0.1034482758620689,0.3313479369927563,0.6469001620166909,2.1187513551255903,0.5995715593625618,1.8514219532528131,0.614397157925221,0.935185540508791,0.596237295050213,0.0,0.6893474272639536,2.21540085315942
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(hielt)
+
+          
+Ach Herrjämersch, die armen Kinder und kein Vater mehr.
+
+        
+",59,clemens-a-latzi-visit,16,3,0.1875,0.3313479369927563,0.7418448266262279,1.705715988690668,0.5995715593625618,1.3378192224569978,0.4863927886752596,1.0326827400761207,0.596237295050213,0.0,0.1083456827583576,1.8147827103139336
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Seien Sie nur getrost ruhig und heilen Sie nicht — wir können die Sache noch machen — mein Patron
+          ist — das heisst, Ich, bin ja Inspektor von einer Lebensversicherung.
+
+        
+",59,clemens-a-latzi-visit,35,4,0.1142857142857142,0.0072846452659574,0.7418448266262279,1.3509740838202349,0.0180199119736842,1.379072524683511,0.0135149339802631,1.145648553687088,0.0,0.0,0.3944293809803752,1.9754653675351388
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Na, da musst du mich gleich heute noch versichern ?
+
+        
+",59,clemens-a-latzi-visit,13,1,0.0769230769230769,0.0,0.5544512321000047,1.06467844658216,0.0,0.9869795447054552,0.0,0.9326312091641352,0.0,0.0,0.2860836982220175,1.5510710435743458
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(schätzt ne ab)
+
+          
+O — so ebbene 20 000 Frs. sind Sie schon wert, dass ist nicht zu viel.
+
+        
+",60,clemens-a-latzi-visit,26,2,0.0769230769230769,0.1620316458633994,0.3696341547333365,1.391262024095308,0.2907758236944388,1.3251664688430052,0.2364389273474982,1.0305685031321967,0.2981186475251065,0.0,0.2860836982220175,1.6890154483868645
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+20 000 Franks? Gut, machen wir. — Ach, was wird da meine Frau, die Bauline für eine Freude haben,
+          wänn ich sage, dass sie 20 000 Franks bekommt, wenn ich tot bin.
+
+        
+",60,clemens-a-latzi-visit,43,3,0.0697674418604651,0.1620316458633994,0.1848170773666682,1.2856752012151813,0.2907758236944388,1.369046763602342,0.2364389273474982,0.707139676342933,0.2981186475251065,0.0,0.5765845704748155,1.539104749145229
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(f. s.)
+
+          
+Do haw i im Patron e guet's Gschäft gemacht! 
+          
+(lütt)
+ Da wird sich Ihre Frau sicher eins grunzen, wenn sie soviel Mummes bekommt. 
+          
+(Geste vum Geld zehle.)
+
+        
+",61,clemens-a-latzi-visit,42,10,0.238095238095238,0.1620316458633994,0.0,1.2070147937797802,0.2907758236944388,1.3572244256048582,0.2364389273474982,0.5762597274864143,0.2981186475251065,0.0,0.6994396489393742,1.3913250406152722
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Mummes ? 
+          
+(es schellt).
+
+        
+",61,clemens-a-latzi-visit,9,1,0.1111111111111111,0.1620316458633994,0.0,0.9087348993095038,0.2907758236944388,0.967431752215988,0.2364389273474982,0.4632939138754472,0.2981186475251065,0.0,0.4133559507173566,0.9986091503449688
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(verschrocke)
+
+          
+Es hett gschellt ! 
+          
+(f. s.)
+ Am End noch so e lätzi Visit ! 
+          
+(es schellt drej mol e kurzes Zeiche).
+ Diss isch dr Patron — es isch sinn Zeiche.
+
+        
+",62,clemens-a-latzi-visit,41,3,0.073170731707317,0.1620316458633994,0.0,1.0155160989311844,0.2907758236944388,1.1734176583598068,0.2364389273474982,0.4632939138754472,0.2981186475251065,0.0,0.5575460850180298,1.1366433840022636
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Wer klingelt denn? 
+          
+(zuem Jean)
+ Was hast du denn, du bist so blass ?
+
+        
+",62,clemens-a-latzi-visit,20,2,0.1,0.0,0.3260829122860841,1.1217860458771844,0.0,1.0302220761817602,0.1134437702737357,0.0419277931181221,0.3518377139182786,0.0,0.5575460850180298,0.8466275566185836
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Nein, bleib nur sitzen, wenn dir unwohl ist, ich mache schon auf. 
+          
+(ab d. M.)
+
+        
+",63,clemens-a-latzi-visit,23,1,0.0434782608695652,0.0,0.3260829122860841,1.6585437797964515,0.7619140521365309,0.9871504049040408,0.6001426181470615,0.0419277931181221,0.3518377139182786,0.0,0.2670452127652319,0.7547349047977718
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(steht uf)
+
+          
+O jeh, mini Fües schlofe mr.
+
+        
+",63,clemens-a-latzi-visit,13,1,0.0769230769230769,0.0,0.3260829122860841,2.017881899564854,0.7619140521365309,1.5275300712637292,0.6001426181470615,0.5554825963632857,0.3518377139182786,0.0,0.1441901343006732,1.3424319413318044
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(kummt züem Kaschte nüss)
+
+          
+Ich bin ganz gerädert un schwitz wie e Bär.
+
+        
+",63,clemens-a-latzi-visit,18,4,0.2222222222222222,0.0797179147378723,0.3260829122860841,2.2684345036751603,0.7619140521365309,1.7939597583169558,0.7571809163524942,0.6292105629936012,0.3518377139182786,0.0,0.1441901343006732,1.62648496962612
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(horicht an d. M.)
+
+          
+Stille! — Es isch dr Patron — guet Nacht uns !
+
+        
+",63,clemens-a-latzi-visit,20,3,0.15,0.0797179147378723,0.3260829122860841,2.2684345036751603,0.7619140521365309,1.7939597583169555,0.7571809163524942,0.6292105629936012,0.3518377139182786,0.0,0.1441901343006732,1.62648496962612
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(hielt)
+
+          
+Mir isch 's Läwe verleid't, war ich numme drüsse !
+
+        
+",64,clemens-a-latzi-visit,16,1,0.0625,0.0797179147378723,0.4887227877592776,2.217917927507412,0.7619140521365309,2.1378061366627774,0.6437371460787584,1.0667243854966528,0.0,0.0,0.6742582338226661,2.266622490604697
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Männel, Männel, wie wurd's uns noch gehn!
+
+        
+",64,clemens-a-latzi-visit,13,2,0.1538461538461538,0.0797179147378723,0.4887227877592776,1.487128285522071,0.0,1.9077196234063716,0.1570382982054327,1.0667243854966528,0.0,0.0,0.6742582338226661,2.0718257745079534
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Sie kumme — versteckle Ejch un miesli stille gsinn 
+          
+(mr höert Stimme).
+ Es isch dr Herr — jetz wurd's bitter !
+
+        
+",64,clemens-a-latzi-visit,27,4,0.1481481481481481,0.0924660439532978,0.614655768922548,1.192301468419959,0.0315348459539473,1.4392438343044764,0.1806894326708932,0.5112417891333672,0.0,0.0,0.6742582338226661,1.5448428959949008
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(mit Meyer d. d. M.)
+
+          
+So kommen Sie nur herein — —
+
+        
+",64,clemens-a-latzi-visit,16,1,0.0625,0.0127481292154255,0.614655768922548,0.9417488643096537,0.0315348459539473,1.17281414725125,0.0236511344654605,0.4375138225030516,0.0,0.0,0.6742582338226661,1.2607898677005855
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(schnell infalle)
+
+          
+Erlauben, dass ich mich vorstelle: Otto Mobil, Pferdewurstfabrik mit Dampfbetrieb aus Dräsden — und
+          hier — 
+          
+(zeijt uf Jean)
+ Herr Johann Meyer, Inspektor.
+
+        
+",65,clemens-a-latzi-visit,36,4,0.1111111111111111,0.025496258430851,0.614655768922548,1.0154377398522612,0.0630696919078947,1.2388752422797529,0.047302268930921,0.5763844715938731,0.0,0.0,0.530068099521993,1.401095516794025
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(unterbricht ne)
+
+          
+Was soll der sinn — Inspektor? 
+          
+(betracht Jean)
+ Hesch widder e Lumpestreich geliefert? Witte dene Frack üsszeje — dü! 
+          
+(will uf Jean los).
+
+        
+",65,clemens-a-latzi-visit,37,4,0.1081081081081081,0.025496258430851,0.2770600902841178,0.6079300233286294,0.0630696919078947,0.8301787173519513,0.047302268930921,0.4182020764485249,0.0,0.1098896814796406,0.0882342725507386,0.8586569044602548
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(geht dezwische)
+
+          
+Mein Herr, wollen Sie ruhig sein. Was fällt denn Ihnen ein, so'n Krakeel zu machen in einer fremden
+          Wohnung. 
+          
+(Jean zejt de Anglais üss).
+
+        
+",66,clemens-a-latzi-visit,37,2,0.054054054054054,0.0509925168617021,0.2770600902841178,0.9826523007989184,0.1261393838157895,1.3753148001823283,0.0946045378618421,0.4182020764485249,0.0,0.1098896814796406,0.444116467543764,1.404013354261226
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+In-ere fremde Wohnung ? Ja, zuem Gücksel, bin ich denn als noch voll? — Ah, do geht mir a Licht uf —
+          
+          
+(zue Mobil)
+ Das ist ja Inspektor Meyer gar nicht.
+
+        
+",66,clemens-a-latzi-visit,40,5,0.125,0.0382443876462766,0.1511271091208474,1.2916495849659435,0.0946045378618421,1.6208174866857197,0.0709534033963816,0.8907891992762765,0.0,0.1098896814796406,0.6145809408629436,1.8784031335348008
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Inspektor Meyer, das bin ich, und das ist mein Diener Jean.
+
+        
+",67,clemens-a-latzi-visit,16,1,0.0625,0.0382443876462766,0.1511271091208474,1.7670526418018535,0.0946045378618421,2.2900900677864,0.0709534033963816,0.8907891992762765,0.0,0.1098896814796406,1.3263453308489943,2.5808288491235416
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Nein, so was — das ist ja ein famoser Spass. 
+          
+(lacht)
+ Dann bin ich ja Dein Taufpate. 
+          
+(will Meyer umarmen)
+ Komm an mein Herz, Johann !
+
+        
+",67,clemens-a-latzi-visit,36,7,0.1944444444444444,0.025496258430851,0.2408602532360332,2.015721057555944,0.0630696919078947,2.3715799148200545,0.047302268930921,1.1315565989491383,0.0,0.1098896814796406,1.4280259579898584,2.803852378155056
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Exküsiere se monsieur — das muss ein Irrtum sein. Mein Taufpate ist schon längst gestorben.
+
+        
+",68,clemens-a-latzi-visit,19,2,0.1052631578947368,0.025496258430851,0.0897331441151857,2.308650946940785,0.2925623114320341,2.557450977907492,0.3031281187720013,0.8522251715914351,0.261557637846417,0.0,1.6956738804321454,2.9155203052801677
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ja, zum Kuckuck noch mal — da bin ich ja schön ins Döppche getreten. Ich will zu Herrn Johann Meyer,
+          der Inspektor ist und rue de la liberté Nr. 39, zweiter Stock, wohnen soll.
+
+        
+",68,clemens-a-latzi-visit,43,4,0.0930232558139534,0.0,0.2448102192430757,2.469668231055313,0.2294926195241393,2.448296003497667,0.2558258498410802,1.5144142682476038,0.2640724012268692,0.0502952676090453,1.503530723321901,3.037536124024873
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Die Adresse stimmt ja — aber — —
+
+        
+",69,clemens-a-latzi-visit,10,1,0.1,0.0,0.2448102192430757,2.405031883618069,0.2294926195241393,2.2760210799903047,0.2558258498410802,1.4936903998637203,0.2640724012268692,0.0502952676090453,1.3330662500027215,2.8193920207952026
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(schnell)
+
+          
+Halt, ich hab's — jetzt wurd's hell! Herr Auto — äh — Herr Ottomopel — Sie sind alleweg lätz. Auf
+          demselben Hausgang nach der anderen Seite zu, da wohnt auch ein Meyer, und der ist Inspektor im
+          Schlaghaus 
+          
+(Schlachthaus).
+
+        
+",69,clemens-a-latzi-visit,54,9,0.1666666666666666,0.2198851526230635,0.2448102192430757,2.2831931483707786,0.5005487298280744,1.9402579810591292,0.4648298150345633,1.4936903998637203,0.4239579052896318,0.0502952676090453,0.6213018600166708,2.373401531146293
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Richtig, da habe ich im ersten Moment gar nicht daran gedacht.
+
+        
+",70,clemens-a-latzi-visit,15,1,0.0666666666666666,0.2198851526230635,0.1550770751278899,2.2790525448226666,0.5005487298280744,2.415427205985226,0.4648298150345633,1.480648968339301,0.4239579052896318,0.0502952676090453,1.4014649249544022,2.765910322719971
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ja — so wird's wohl sein! Mein Herr, entschuldigen Sie vielmals meine Störung, es tut mir sehr leid.
+          Möchten Sie nicht so freundlich sein, mir ein bischen zu helfen bei meinen Sachen — es waren acht
+          Pakete.
+
+        
+",70,clemens-a-latzi-visit,46,11,0.2391304347826087,0.3287709361013197,0.1968159149701389,2.087745179664237,0.3379967903380014,2.2773272202764936,0.3472659631376581,1.5813387916914998,0.2805667262570658,0.1474158677341679,1.3026717171194595,2.701526958756576
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(hilft-em)
+
+          
+Sin's alli — 
+          
+(zehlt)
+1, 2, 3, 4, 5, 6, 7, — es fählt jo eins.
+
+        
+",71,clemens-a-latzi-visit,32,1,0.03125,0.3287709361013197,0.0417388398422489,1.5520056180794204,0.3379967903380014,1.841346111855941,0.3472659631376581,0.919149695035331,0.2780519628766136,0.0971206001251226,1.1389326792366783,2.0341546902108987
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Zeij emol! 
+          
+(zehlt au noch)
+1, 2, 3, 4, 5, 6, 7, 8, 9 — jetzt isch's eins zeviel. — Zehle mr
+          noch-emol.
+
+        
+",71,clemens-a-latzi-visit,39,1,0.0256410256410256,0.3287709361013197,0.0417388398422489,1.1546326958992668,0.3379967903380014,1.5694057178325953,0.3472659631376581,0.4672864405914628,0.2780519628766136,0.0971206001251226,1.1389326792366783,1.57981954569031
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Es stimmt ! Also nun Adjee — besten Dank für die gute Aufnahme und wenn se mal gute Pferdewurst
+          wollen, meine Adresse ist: Otto Mobil, Pferdewurstfabrik mit Dampfbetrieb in Dräsden. 
+          
+(a. d. M).
+
+        
+",72,clemens-a-latzi-visit,42,5,0.119047619047619,0.1088857834782561,0.0417388398422489,0.9174875191502914,0.0669406800340663,1.3997911463835655,0.1382619979441751,0.4672864405914628,0.1181664588138509,0.0971206001251226,1.3132332025883575,1.4953979405010118
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Gottlob, ass i dene los hab.
+
+        
+",72,clemens-a-latzi-visit,10,1,0.1,0.1088857834782561,0.6462472763256388,1.142442680083414,0.0669406800340663,1.3415729937315335,0.1382619979441751,0.662532936419727,0.1181664588138509,0.5366793260436851,0.7843266007127161,1.4053636030866932
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Gäll, es fallt dr kenn Löje in ?
+
+        
+",73,clemens-a-latzi-visit,11,1,0.0909090909090909,0.4059771346638426,0.6045084364833899,1.558592801991495,0.5841743725998019,1.335659837080798,0.0,0.5618431130675282,0.7012778965662453,0.4395587259185625,0.7238351777202132,1.2037597936257918
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Doch — ich hab welle sähn, wie mr Ihrer Anglais basst un uewer dem isch diss Ottomobil kumme un hett
+          mich füer dr Inspektor Meyer ghalte un d'rno — ja un no haw-ich ne ülewerred't, dass er sieh in d'
+          Läwesversicherung losst ufnämme füer 20 000 Francs.
+
+        
+",73,clemens-a-latzi-visit,53,4,0.0754716981132075,0.4059771346638426,0.7304414176466603,1.879370992644004,0.5841743725998019,1.674509939090878,0.0,0.7347472084362939,0.7012778965662453,0.4395587259185625,0.8922617494596278,1.612901993172877
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Füer 20000 Frcs.? Na, wenn-r sich versichere losst, no will ich dr noch-emol glauwe, was de mr
+          vorgelöje hesch — andere Falls — !
+
+        
+",74,clemens-a-latzi-visit,31,2,0.064516129032258,0.4059771346638426,0.7304414176466603,2.1815033541177264,0.5841743725998019,2.169562946887484,0.0,0.7347472084362939,0.7012778965662453,0.4395587259185625,1.3190852411161706,2.1053785736278683
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Es isch eso, Patron. Awer worum kumme se denn widder retour ?
+
+        
+",74,clemens-a-latzi-visit,16,2,0.125,0.4059771346638426,0.982307379973201,2.3942592305590145,0.5841743725998019,2.501572365157333,0.0,0.7347472084362939,0.7012778965662453,0.4395587259185625,1.3610699192155018,2.3424516483100453
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(ärjerlich)
+
+          
+Ich hab de Zugg verfählt. — Ich hab Blattfües bekumme, stells Velo zuem Abdecker nin un lauf an d'
+          gare un wie ich anne kumm, fahrt mr dr Zugg vor dr Nas weg. Dr nägscht fahrt erscht noch de viere, no
+          dät's doch ze spot wäre bis ich uf Nanci käm. Ich hab awer glich e Tepesch ufgänn, dass ich bestimmt
+          als morje kumm. 
+          
+(zieht de Bardessü üss).
+
+        
+",75,clemens-a-latzi-visit,85,10,0.1176470588235294,0.4059771346638426,0.4434870200368345,1.881596515162374,0.5841743725998019,1.9109187737560425,0.0624059873675156,0.2284523550050941,0.7719494933403368,0.0871502616758393,1.0755510106717858,1.7203658042534191
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Do isch numme die Kischt vun nächt schuld dran. 
+          
+(will de Bardessü in de Kaschte hänke).
+
+        
+",76,clemens-a-latzi-visit,22,4,0.1818181818181818,0.0,0.6578568829280738,1.2811838008206224,0.0,1.703144976844971,0.0624059873675156,0.2640732733754044,0.0706715967740914,0.1623861939602699,1.0569701433268683,1.709813926048518
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(ängschtlich, nimmt Meyer de Bardessü ab)
+
+          
+Lonn se numme Patron — gänn se mir ne, ich hänk ne in de Kaschte. 
+          
+(hänkt ne nin, losst Dier e bissel offe).
+
+        
+",76,clemens-a-latzi-visit,40,6,0.15,0.0561555688817264,0.6466351273861224,1.0912498273119688,0.0541425398277723,1.5162951075791251,0.1541434642223168,0.0911691780066386,0.1623853388663849,0.2159339526023135,0.9937629329072466,1.415021428793376
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Nitt ganz zü mache.
+
+        
+",77,clemens-a-latzi-visit,7,1,0.1428571428571428,0.0561555688817264,0.6466351273861224,1.1080314702405638,0.0541425398277723,1.5175471712963369,0.1541434642223168,0.386081044527901,0.1623853388663849,0.2159339526023135,0.5669394412507037,1.5217099569657688
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ja, ja. Der hett gässe füer Zwei. 
+          
+(f. s.)
+ Awer was füer zwei.
+
+        
+",77,clemens-a-latzi-visit,21,2,0.0952380952380952,0.0561555688817264,0.3947691650595817,1.5736022933199387,0.0541425398277723,1.5655236303527034,0.1541434642223168,1.2898075534156372,0.1623853388663849,0.2159339526023135,0.3506542397996939,2.0212935505742364
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(sieht de Kaschte halwer offe stehn)
+
+          
+Jean, worum isch dr Kaschte nitt zü ? Dü weisch, dass ich diss nitt liede kann.
+
+        
+",77,clemens-a-latzi-visit,29,3,0.1034482758620689,0.0561555688817264,0.3290810885125582,1.4363119604131898,0.0541425398277723,1.385689301273954,0.0917374768548012,1.2342592937793089,0.0917137420922934,0.1287836909264741,0.2832360581404551,1.8395415286892545
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Ich — ich hab — ä — wisse se Patron — der Schlüssel schliesst so schlecht, ich bring ne fascht nitt
+          erum.
+
+        
+",78,clemens-a-latzi-visit,26,2,0.0769230769230769,0.0561555688817264,0.114711225621319,1.404675865339001,0.0541425398277723,1.5011649515204717,0.0917374768548012,1.1986383754089984,0.0917137420922934,0.0535477586420436,0.3215045627708027,1.8292364504464476
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(geht an de Kaschte)
+
+          
+Was de Schlüssel geht so schlächt ? 
+          
+(schliesst ab un steckt de Schlüssel in de Sack)
+ Plän vun dir, dr Schlüssel schliesst
+          ganz guet dü schicksch dich numme so daub.
+
+        
+",78,clemens-a-latzi-visit,42,5,0.119047619047619,0.0,0.0,1.3376144490756094,0.0,1.448425733079001,0.0,1.257620748713251,0.0,0.0,0.2162852014510098,1.8347197698799809
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(luejt in d' Höeh)
+
+          
+O jeh — der verstickt ! 
+          
+(schnell wieder nab.)
+
+        
+",79,clemens-a-latzi-visit,20,1,0.05,0.0,0.0,1.0187004446732923,0.0,0.9521206615651832,0.0,0.9627088821919886,0.0,0.0,0.2162852014510098,1.2355546612525965
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(ganz niedergschlaue)
+
+          
+Ich hab nix gsaat, Patron.
+
+        
+",79,clemens-a-latzi-visit,13,2,0.1538461538461538,0.0,0.0,0.5435834019466647,0.0,0.9653712684911288,0.0,0.2064383065648834,0.0,0.0,0.4325704029020196,0.8335182770110533
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Ich dät mir's au schwär verbitte dies. 
+          
+(sitzt in de Fauteuil).
+
+        
+",79,clemens-a-latzi-visit,18,2,0.1111111111111111,0.0,0.0,0.5435834019466647,0.0,0.9653712684911288,0.0,0.2064383065648834,0.0,0.0,0.4325704029020196,0.8335182770110533
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Nix wie malchance haw-ich hitt. E Kopf wie e Seschter, geschwolleni Hoor, dr Zugg verfählt — ei — ei
+          
+          
+(nimmt e Cygarette üss-em Etui).
+ Jean — Fier !
+
+        
+",80,clemens-a-latzi-visit,36,2,0.0555555555555555,0.0,0.0,0.6004407946756253,0.2358289214557461,0.8457375647015617,0.0,0.2064383065648834,0.0,0.0,0.2162852014510098,0.902729249930164
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Was Dejhänkers isch denn mit dir, dü riedersch jo wie Äschbelaub ? 
+          
+(lüejt Jean scharf an)
+ Was isch los mit dir ?
+
+        
+",80,clemens-a-latzi-visit,27,2,0.074074074074074,0.0,0.3022542182416949,1.3531513382741536,0.2358289214557461,1.4677273699124,0.0,0.4283774897943953,0.0,0.6411454837166064,0.3927537465524871,1.3638662240066235
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Es isch nix los mit mr, Patron! 
+          
+(lejt's Schwäwelhöelzel in de Äschebächer, f. s.)
+ Wenn'r nurre nitt verstickt! 
+          
+(lütt)
+ Patron, wenn se so güet welle sinn, gänn se mr de Schlüssel vom Kaschte.
+
+        
+",81,clemens-a-latzi-visit,47,7,0.1489361702127659,0.0,0.3886125663107506,1.6290552588118046,0.2358289214557461,1.9309157690846668,0.0,0.508640791661185,0.0,0.7039395874192581,0.6903564182397777,1.7153303196965013
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Diss hett noch Zitt — rüm emol z'erscht de Disch ab.
+
+        
+",81,clemens-a-latzi-visit,14,1,0.0714285714285714,0.0,0.8778904957025118,1.601007325768687,0.2358289214557461,1.909369038889869,0.0,0.3611848584005538,0.0,0.7039395874192581,0.4740712167887678,1.730760312166914
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Patron — ich hab gemerickt — ich — ä — ich glaub, ich hab gsähne, dass se e Fläcke im Bardessü hann,
+          hinte, ja hinte.
+
+        
+",82,clemens-a-latzi-visit,32,4,0.125,0.0,0.8778904957025118,1.780436456029986,0.2358289214557461,2.1318435670035694,0.0,0.4741506720115208,0.0,0.7039395874192581,0.5822138175142728,1.9478697735400323
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Ich glaub dü hesch e Fläcke — awer im Hirn. — Jean, ich fröj dich jetz zuem letschte Mol — was hesch
+          de widder angstellt? Dü bisch so verdattert, dü hesch ebs uf-m Gewisse, glich gsteh's !
+
+        
+",82,clemens-a-latzi-visit,45,4,0.0888888888888888,0.1453503332626619,0.8778904957025118,1.8239530134955964,0.0,2.2954837907849037,0.0,0.4741506720115208,0.0,0.7039395874192581,0.7472186439338246,1.9875166866724083
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Was soll ich denn gstehn ? Ich hab ganz sicher nix angstellt — ich hab e Gewisse so rein wie e
+          Bitschelbubbel.
+
+        
+",83,clemens-a-latzi-visit,25,3,0.12,0.1453503332626619,0.5756362774608168,1.253492538293457,0.0,2.008109267726431,0.0,0.291533070984844,0.0,0.0627941037026517,0.7907565340584164,1.843780508660673
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(mit Zwiefel)
+
+          
+Na — na! 
+          
+(ruckt mit-m Fauteuil geje dr Wand).
+
+        
+",83,clemens-a-latzi-visit,19,1,0.0526315789473684,0.3545323684482252,0.4892779293917611,1.410405425223282,0.0,1.9368343442903704,0.0,0.2112697691180542,0.0,0.0,0.4931538623711259,1.79544386822879
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(brüelt)
+
+          
+Uaah — Aufsch! Miner Kopf — uuh !!
+
+        
+",83,clemens-a-latzi-visit,15,1,0.0666666666666666,0.3545323684482252,0.0,1.7009202808309407,0.0,2.220724233114909,0.0,0.2112697691180542,0.0,0.0,1.3646564791295197,2.1334480747114086
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+(verzwiefelt)
+
+          
+Jetzt isch's hüsse !
+
+        
+",84,clemens-a-latzi-visit,10,1,0.1,0.8075361007108791,0.8427322415146504,2.345102984678346,0.3487782320722411,2.458447788910161,0.7246049849730526,0.0983039555070872,0.8003566152732218,0.8112612222035788,1.4998633023406778,2.153967964915913
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(verstümt)
+
+          
+Oho?! 
+          
+(steht uf, luejt hinter de Fauteuil, zejt de Schakob am Ohrläppel in d' Höeh).
+ Jetz wäre
+          mr's ball hüsse hann. Was mach'sch denn dü do hinte, dü Dräckgsicht ?
+
+        
+",84,clemens-a-latzi-visit,45,1,0.0222222222222222,0.6621857674482171,0.8427322415146504,2.5323960376037387,0.3487782320722411,2.772650829831877,0.7246049849730526,0.653786551870373,0.8003566152732218,0.8112612222035788,1.3348584759211255,2.5631310753682213
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(zuem Jean)
+
+          
+Isch diss Dräckgsicht jetzt dinn rein Gewisse, dü Galeesome ! Ich hab dr's doch angsähne, dass ebs
+          nitt stimmt — awer jetz raucht's in dr Fächtschuel. Ich schmiss Ejch nüss, dass-r Hals un Bein breche 
+          
+(will beidi anpacke).
+
+        
+",85,clemens-a-latzi-visit,53,2,0.0377358490566037,0.662185767448217,0.8427322415146504,2.495955470041006,0.3487782320722411,2.741436442302533,0.7246049849730526,0.5554825963632857,0.8003566152732218,0.8112612222035788,1.4448616935341605,2.48216542994963
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(klopft im Kaschte — Jean un Schakob gehn noch links).
+
+        
+",85,clemens-a-latzi-visit,15,1,0.0666666666666666,0.4530037322626537,0.8427322415146504,2.0631386625735297,0.3487782320722411,2.3495229665663278,0.7246049849730526,0.5554825963632857,0.8003566152732218,0.8112612222035788,1.4448616935341605,2.179037974691634
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(klopft stärker)
+
+          
+Mache uf —
+
+        
+",86,clemens-a-latzi-visit,9,2,0.2222222222222222,0.4530037322626537,0.8427322415146504,1.7049623396515514,0.3487782320722411,1.863642623028556,0.7246049849730526,0.8332238945449285,0.8003566152732218,0.8112612222035788,0.5733590767757665,1.681506044433838
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Diss kummt jo üss-em Kaschte — do huckt allewäj noch so e Vöjel. 
+          
+(macht de Kaschte-n-uf).
+
+        
+",86,clemens-a-latzi-visit,24,4,0.1666666666666666,0.0,0.0,1.150706673670552,0.0,1.8065608655577328,0.0,0.97209454363575,0.0,0.0,0.4985838959767735,1.7987453429419002
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+(im Arm e Cygarrekischtel, in dr Hand e Schnapsbudell — hett halwer e Kischt)
+
+          
+A, bonjour Monsieur Meyer, est-ce que je vous dérange ? Männel, Männel — isch diss e Schnäpsel —
+          hüpp !
+
+        
+",86,clemens-a-latzi-visit,42,4,0.0952380952380952,0.0,0.0995880533250546,0.8672251648826116,0.0,1.2711773459533056,0.0,0.4522328656427745,0.157033002201575,0.0752359322844305,0.4985838959767735,1.2480355316532403
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+
+          
+(ganz baff, no wüeti zuem Victor)
+ Witt dü die Schnapsboudell un die Cigarre häre gänn ? 
+          
+(nimmt-em beid's ab un gitt-em Tritt hinte nin, ass-r fliejt bis nüewer in de
+          Fauteuil).
+
+        
+",87,clemens-a-latzi-visit,41,2,0.048780487804878,0.0,0.0995880533250546,0.8170898653696506,0.0,1.1166679727844289,0.0,0.5996887989034057,0.157033002201575,0.0752359322844305,0.1685742431376697,1.1913499135953232
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Ich bin glauwi e Flieger — hüpp.
+
+        
+",87,clemens-a-latzi-visit,10,2,0.2,0.0,0.0995880533250546,1.2098045964545945,0.0,1.5072154060826637,0.0,0.5996887989034057,0.157033002201575,0.0752359322844305,0.5102224491571226,1.5680236963770315
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Do stehn se jetzt die drej Galjevöjel. 
+          
+(z. Jean)
+ So haltsch dü dinn Verspräche ? Hesch denn kenn Ehrgefüehl im Lieb, hein? Un
+          Ihr zwei — wie kumme Ihr denn üewerhaupt do rinn ?
+
+        
+",88,clemens-a-latzi-visit,41,4,0.0975609756097561,0.0,0.2255210344883249,1.4545910124461667,0.0,1.5280752216700637,0.1780166968206623,0.4463194353691951,0.157033002201575,0.0752359322844305,0.7418839081510147,1.6045402391773824
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Na, ich wurr ganz kurze Prozess mache, ich zeij ejch alli Drej im Gendarm an.
+
+        
+",88,clemens-a-latzi-visit,20,2,0.1,0.0,0.2255210344883249,1.3446918465196196,0.0,1.373111430988842,0.1780166968206623,0.4549047195390049,0.157033002201575,0.0752359322844305,0.5733096650133448,1.5492541434053888
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Alli drej :
+
+          
+(jommere)
+
+          
+Ooh, Monsieur Meyer, nurre diss nitt !
+
+        
+",88,clemens-a-latzi-visit,15,1,0.0666666666666666,0.0,0.1259329811632703,1.1803345527550757,0.0,1.2413065304640585,0.1780166968206623,0.4192838011686945,0.0,0.0,0.5733096650133448,1.3748916077043118
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Alli drej :
+
+          
+(jommere)
+
+          
+Ooh, Monsieur Meyer, nurre diss nitt !
+
+        
+",89,clemens-a-latzi-visit,15,1,0.0666666666666666,0.0,0.1259329811632703,1.020877550553917,0.0,0.9931539947071496,0.1780166968206623,0.2718278679080634,0.0,0.0,0.5733096650133448,1.0753090533906196
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Alli drej :
+
+          
+(jommere)
+
+          
+Ooh, Monsieur Meyer, nurre diss nitt !
+
+        
+",89,clemens-a-latzi-visit,15,1,0.0666666666666666,0.0,0.1259329811632703,0.6281628194689732,0.0,0.6026065614089144,0.1780166968206623,0.2718278679080634,0.0,0.0,0.231661458993892,0.6986352706089112
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Monsieur Meyer — ich hab min'r Namesdaa welle fiere. : Meyer : Was, dinner Namesdaa, hitt isch doch
+          nitt Jean?
+
+        
+",89,clemens-a-latzi-visit,26,2,0.0769230769230769,0.0,1.572780513324639,2.132179884826224,0.0,2.0126630852430827,0.0,2.209974231553571,0.0,1.292269354698141,1.2539088543731496,2.566331215939027
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Awer hitt haw-ich grad Zitt — ich hab nitt alle Daa frej.
+
+        
+",89,clemens-a-latzi-visit,15,3,0.2,0.0,1.735873156455226,2.069916505488586,0.0,1.9430387710787875,0.0,2.06251829829294,0.0,1.292269354698141,1.2539088543731496,2.440769960715351
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Herr Meyer — ich hab de Jean numme welle fröje well Zitt dass isch — un no — —
+
+        
+",90,clemens-a-latzi-visit,21,2,0.0952380952380952,0.025496258430851,1.9805121211511063,2.352727688836201,0.0630696919078947,2.421330895747744,0.047302268930921,2.06251829829294,0.0,1.292269354698141,1.2539088543731496,2.8959455013569744
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+So — so — do bisch dü jo ganz unschuldi ?
+
+        
+",90,clemens-a-latzi-visit,13,2,0.1538461538461538,0.025496258430851,1.9805121211511063,2.684633183682652,0.0630696919078947,2.902588182980293,0.047302268930921,2.209974231553571,0.0,1.292269354698141,1.5583953257027674,3.582413562382828
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Ja!
+
+        
+",90,clemens-a-latzi-visit,4,1,0.25,0.025496258430851,1.9805121211511063,3.082006105862805,0.0630696919078947,3.174528577003638,0.047302268930921,2.661837485997439,0.0,1.292269354698141,1.5583953257027674,4.036748706903416
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Na, dü wursch jetz schun erfahre well Zitt ass isch — 
+          
+(es schellt).
+
+        
+",90,clemens-a-latzi-visit,19,2,0.1052631578947368,0.025496258430851,0.6523705725223482,1.2550736575330217,0.0630696919078947,1.6778103599063836,0.047302268930921,0.5993191877044992,0.0,0.0,0.3044864713296175,2.031031993913105
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Zeruck, un do stehn gebliewe, ich mach sälwer uf 
+          
+(a. d. M).
+
+        
+",90,clemens-a-latzi-visit,19,1,0.0526315789473684,0.025496258430851,0.4892779293917611,1.6057188372219855,0.0630696919078947,2.166470558442982,0.047302268930921,1.154801784067785,0.0,0.0,0.3044864713296175,2.582083041812826
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Diss gitt mir e netti Sauce — hüpp !
+
+        
+",91,clemens-a-latzi-visit,11,1,0.0909090909090909,0.0,0.2446389646958805,1.32290765387437,0.0,1.6881784337740258,0.0,1.154801784067785,0.0,0.0,0.3044864713296175,2.1269075011712024
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Ich wurr e netti Söjerej bekumme vun mim Chef. 
+          
+(zuem Jean)
+ Awer dü bisch schuld an allem.
+
+        
+",91,clemens-a-latzi-visit,23,5,0.217391304347826,0.0,0.2446389646958805,1.236624251315781,0.1651602807524824,1.4749587213236954,0.0786390256662319,1.007345850807154,0.0,0.0,0.1520034754406703,1.6324179442788282
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Victor :
+
+          
+Ja — dü bisch — hüpp — dran schuld.
+
+        
+",91,clemens-a-latzi-visit,12,2,0.1666666666666666,0.0,0.2446389646958805,1.0379377902257043,0.1651602807524824,1.3389885243120223,0.0786390256662319,0.7814142235852198,0.0,0.0,0.1520034754406703,1.405250372018534
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Soo — jetz bin ich au noch schuld dran, isch diss dr Dank füer 's Esse un 's Drinke ?
+
+        
+",91,clemens-a-latzi-visit,23,2,0.0869565217391304,0.0,0.0,0.8921473559304232,0.1651602807524824,1.071196191923103,0.0786390256662319,0.7814142235852198,0.0,0.0,0.1520034754406703,1.1442184233835104
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Ich hab jo gar nix welle esse, dü hesch mich jo müen zwinge dezü.
+
+        
+",92,clemens-a-latzi-visit,18,1,0.0555555555555555,0.5010840354951976,0.0,1.4093980358137126,0.1651602807524824,1.2898972129001662,0.3975106846177213,0.2259316272219341,0.0,0.0,0.1520034754406703,0.8677653971936465
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+O Ihr eländi Kaiwe, dass-r sinn, Ihr Schmuerel !
+
+        
+",92,clemens-a-latzi-visit,13,1,0.0769230769230769,0.5010840354951976,0.0,1.4093980358137126,0.1651602807524824,1.2898972129001662,0.3975106846177213,0.2259316272219341,0.0,0.0,0.1520034754406703,0.8677653971936465
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+(d. d. M. mit Mobil)
+
+          
+Ja, zuem Gücksel, jetz wurd's guet!
+
+          
+(Victor un Schakob lonn Jean gehn un stelle sich 1.).
+
+        
+",92,clemens-a-latzi-visit,32,4,0.125,0.5853173888177874,0.1720668384319785,1.3792996000704116,0.0812138097416585,1.163355656132272,0.4564778742336912,0.3388974408329011,0.1375706131384401,0.0803216379630654,0.0496864412541842,0.8573695573852591
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ei, Herrjämersch — Sie haben ja Besuch, Herr Meyer. — Da geht's ja ganz putzich zu bei Ihnen.
+
+        
+",93,clemens-a-latzi-visit,25,5,0.2,0.5955158921901278,0.1720668384319785,1.6171025772258545,0.1064416865048164,1.428398705554054,0.4753987818060596,0.5334387904703138,0.1375706131384401,0.0803216379630654,0.0496864412541842,1.1911605592695529
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Ja, sehen Sie, Herr Mobil, mein Diener hat während meiner Abwesenheit seine beiden Kumpane hier
+          bewirtet, und als Sie dann plötzlich hereingeschneit kamen, da hat sich dieser Dreckfink hinter 
+          
+den Fauteuil versteckt und dieser Poilu im Schrank dort.
+
+        
+",93,clemens-a-latzi-visit,46,8,0.1739130434782608,0.606235482225281,0.1720668384319785,1.9209684587510527,0.1222091094817901,1.7331955839234765,0.5657434981415063,0.5899216972757974,0.1375706131384401,0.0803216379630654,0.1386569900024405,1.5306954499906098
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ach nee, dass ist ja wees Kneppche, ganz komisch — aber nu geben Sie mir bitte meinen Schirm wieder,
+          den ich habe stehen lassen.
+
+        
+",94,clemens-a-latzi-visit,30,7,0.2333333333333333,0.1051514467300833,0.1720668384319785,1.1063210283190468,0.1222091094817901,1.0247922982010311,0.2468718391900168,0.6966038574136731,0.1375706131384401,0.0803216379630654,0.2106943716990081,1.3036683836495293
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Hier steht-r ja! 
+          
+(gibt ne Mobil)
+ Und wie ist es, Herr Ottomobil, Sie wollten sich doch in die
+          Lebensversicherung aufnehmen lassen. Herr Meyer wird es Ihnen besorgen.
+
+        
+",94,clemens-a-latzi-visit,36,4,0.1111111111111111,0.1561439635917855,0.1720668384319785,1.4797057569687535,0.2483484932975797,1.513776981266942,0.341476377051859,0.8095696710246401,0.1375706131384401,0.0803216379630654,0.2106943716990081,1.8055393537928768
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ei du blitzblaues Donnerwetter noch mal, das hätte ich fast vergässen. Nich wahr, Herr Meyer, Sie
+          sind so freundlich und nehmen mich in die Versicherung auf, damit ich keine Angst mehr zu haben brauche
+          und meine Bauline, das ist se nämlich meine Frau, der will ich auch ne Freude bereiten.
+
+        
+",95,clemens-a-latzi-visit,60,11,0.1833333333333333,0.1060065928681504,0.0490213160493443,1.6288065654416155,0.2314702318472545,1.7732810993504375,0.3252800352293487,0.6966038574136731,0.0542033904591102,0.0,0.4779179729024215,2.0131043479703847
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Aber mit dem grössten Vergnügen, Herr Mobil, 
+          
+(es schellt)
+ E Moment — 
+          
+(a. d. M.).
+
+        
+",96,clemens-a-latzi-visit,24,2,0.0833333333333333,0.121304347926661,0.0490213160493443,1.7240545250338344,0.2693120469919914,1.940252879195021,0.3536613965879013,0.7787723798768443,0.0542033904591102,0.0,0.4779179729024215,2.1006092274962533
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+Worum saat-r mir denn allewill Dräckgsicht?
+
+        
+",96,clemens-a-latzi-visit,9,1,0.1111111111111111,0.1105847578915078,0.0490213160493443,1.4201886435086366,0.2535446240150177,1.6354560008255985,0.2633166802524547,0.7222894730713608,0.0542033904591102,0.0,0.3889474241541652,1.7610743367751964
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Betrachten Sie nur mal Ihre Visage im Spiegel.
+
+        
+",96,clemens-a-latzi-visit,11,1,0.0909090909090909,0.1105847578915078,0.0490213160493443,1.269746591504869,0.2535446240150177,1.4579698454417689,0.2633166802524547,0.615607312933485,0.0542033904591102,0.0,0.3169100424575976,1.5394820823164042
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Schakob :
+
+          
+(luejt sich im e Taschespiejel)
+
+          
+Herrjeh — ich bin jo ganz verschmiert — diss sinn Ihr zwei gsinn — na, kumme numme nüss ! 
+          
+(butzt sich mit-em Nastuech).
+
+        
+",96,clemens-a-latzi-visit,36,2,0.0555555555555555,0.0595922410298057,0.300887278375885,1.2248220869047317,0.1274052401992281,1.4040631679073632,0.1687121423906125,0.6500974325831492,0.0542033904591102,0.0,0.3169100424575976,1.5392290114335156
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+(lacht)
+
+          
+Ihr scheint mir ja eine ganz gelungene Sippschaft zu sein — hahaha ! Jetzt wird mir's auch klar wie
+          Wurschtsuppe. 
+          
+(zuem Schakob)
+ Sie waren der — der Papagei, der kam mir doch gleich so komisch vor mit
+          seiner Stimme, und Sie 
+          
+(zuem Victor)
+ na, wie hiess der Vogel ?
+
+        
+",97,clemens-a-latzi-visit,63,6,0.0952380952380952,0.025496258430851,0.2518659623265407,1.0716839359522043,0.0630696919078947,1.2685624022302888,0.047302268930921,0.7745599527440042,0.0,0.0,0.1326633969572611,1.4671190734039838
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Ja — richtig die Atzel!
+
+        
+",98,clemens-a-latzi-visit,8,2,0.25,0.0,0.2518659623265407,0.9511319428896762,0.0,1.2509006095299595,0.0,0.6811483892630522,0.0,0.0,0.5735852429965591,1.4927592936717846
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Gratüliere, Herr Meyer, gratüliere !
+
+        
+",98,clemens-a-latzi-visit,9,1,0.1111111111111111,0.0509925168617021,0.2518659623265407,1.2251734409943444,0.1261393838157895,1.6719001940900338,0.0946045378618421,0.6811483892630522,0.0,0.0,0.5735852429965591,1.8810464776849856
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Alle drej :
+
+          
+
+          
+(gehn uf Meyer zü)
+ Mir gratüliere au.
+
+        
+",98,clemens-a-latzi-visit,13,1,0.0769230769230769,0.0509925168617021,0.2518659623265407,1.6730122435468289,0.1261393838157895,2.339088614219245,0.0946045378618421,1.2366309856263382,0.0,0.0,0.5735852429965591,2.6061188246747222
+comedy,Victor,M,military_man_(war_veteran),military,,"
+          
+Alle drej :
+
+          
+
+          
+(gehn uf Meyer zü)
+ Mir gratüliere au.
+
+        
+",98,clemens-a-latzi-visit,13,1,0.0769230769230769,0.0509925168617021,0.0,1.7923908220497438,0.1261393838157895,2.571199028816952,0.0946045378618421,1.6446576487289928,0.0,0.0,0.5735852429965591,2.829573272404
+comedy,Schakob,M,messenger/deliverer/helper,service_and_sales,lower_class,"
+          
+Alle drej :
+
+          
+
+          
+(gehn uf Meyer zü)
+ Mir gratüliere au.
+
+        
+",98,clemens-a-latzi-visit,13,1,0.0769230769230769,0.0509925168617021,0.0,2.0287433105373323,0.1261393838157895,2.972888078525417,0.0946045378618421,2.075677724931423,0.0,0.0,0.4409218460392979,3.237607898920669
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Patron — verzeje se mr numme noch diss einte Mol — es soll mr e Warnung sinn, was ich hitt üsgstande
+          hab. Ich due sicher hitt nix meh anstelle.
+
+        
+",99,clemens-a-latzi-visit,34,4,0.1176470588235294,0.0509925168617021,0.1825120679524972,1.8992159860357951,0.1261393838157895,2.763584897204087,0.1773193666876044,1.6664477890898577,0.0,0.1780166968206623,0.1081426007255048,2.7930075709569206
+comedy,Otto Mobil,M,manufacturer,industry_and_transportation,upper_class,"
+          
+Mobil :
+
+          
+Na, Herr Meyer, seien Sie nich so hart wie ne Salamiwurst — Sie wissen ja: ""Jugend kennt keine
+          Tugend"".
+
+        
+",99,clemens-a-latzi-visit,27,5,0.1851851851851851,0.1433798432893785,0.1825120679524972,1.9106775451922124,0.0252278767631579,2.6682015755004738,0.2143545583006282,1.7568204399786311,0.0,0.1780166968206623,0.2112364453489186,2.6701948027274893
+comedy,J. Meyer,M,insurance_inspector,intermediate_professionals,upper_middle_class,"
+          
+Meyer :
+
+          
+Mintswäje, will ich hitt noch so Chance hab, ze will ich noch emol beidi Aue züdruecke un will's
+          Ejch durich lonn gehn.
+
+        
+",100,clemens-a-latzi-visit,28,2,0.0714285714285714,0.3118465499345579,0.9150458106069902,2.064523692280189,0.1876554962464751,2.6040459234728623,0.4895669888650319,1.2013378436153452,0.2751412262768803,0.3386599727467932,0.3106093278572874,2.519456121254137
+comedy,Jean,M,valet,elementary_professions,lower_class,"
+          
+Jean :
+
+          
+Vielmols merci, Patron. — Dr nej Generalagent soll läwe: vive, vive, vive! 
+          
+(Alli rüefe mit, Mobil schrejt ""Hurrah"").
+
+        
+",100,clemens-a-latzi-visit,32,3,0.09375,0.3118465499345579,1.077953406526749,1.9507846490952525,0.1876554962464751,2.398881946180841,0.4895669888650319,0.7916931880864099,0.2751412262768803,0.3386599727467932,0.6314888286652917,2.2406400631105634

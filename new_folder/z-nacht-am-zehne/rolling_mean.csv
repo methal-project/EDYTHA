@@ -1,0 +1,441 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Seppi,M,,,,"
+          
+Seppi
+
+          
+(am Arm vom Franz; si sin beide vom Neüe benewelt)
+                    
+
+          
+Dü... Franz... stell.. stell mi do an d'Müre
+
+          
+Un lüeg, wo mir wànn dure geh...
+
+        
+",1,lustig-z-nacht-am-zehne,35,5,0.1428571428571428,,,,,,,,,,,
+comedy,Franz,M,,,,"
+          
+Franz.
+
+          
+Los... Seppi... bisch z'bedü.. dü.. üre!
+
+          
+Kasch nimmig denn alleinig steh?...
+
+        
+",2,lustig-z-nacht-am-zehne,21,2,0.0952380952380952,,,,,,,,,,,
+comedy,Seppi,M,,,,"
+          
+Seppi.
+
+          
+Was, was verzählsch... De wirsch's nur meine;
+
+          
+Mi Ühre steht nitt... ich ha keine...
+
+          
+Du... Du...
+
+        
+",3,lustig-z-nacht-am-zehne,26,2,0.0769230769230769,,,,,,,,,,,
+comedy,Franz,M,,,,"
+          
+Franz
+
+          
+(singt)
+
+          
+Ligsch mr im Sinn...
+
+        
+",4,lustig-z-nacht-am-zehne,9,1,0.1111111111111111,,,,,,,,,,,
+comedy,Seppi,M,,,,"
+          
+Seppi.
+
+          
+Nei Durscht
+
+          
+Ha-n-ich... das ha-n-i welle sage.
+
+        
+",5,lustig-z-nacht-am-zehne,15,1,0.0666666666666666,0.0,0.9023263448072568,0.7258311731217816,0.0,0.8026636816039098,0.2596901558246299,0.21735513243022,0.0892549171860068,0.1700480843509152,0.1365375603907768,0.9662499424858187
+comedy,Franz,M,,,,"
+          
+Franz.
+
+          
+Dü bisch mr noch e schöner Burscht...
+
+          
+Dü kasch sechs Liter küm vertrage!...
+
+          
+Do... stand do dra... ich... ich will sàh,
+
+          
+Eb uns will ebber z'trinke gà...
+
+          
+Gib.. gib acht... thüe kei Käpfle schnide!...
+
+        
+",6,lustig-z-nacht-am-zehne,49,4,0.0816326530612244,0.0962825507900652,0.7856494894004641,0.6854444220428264,0.0698792945940267,0.8092651364942064,0.3115239684437837,0.21735513243022,0.0837757452235206,0.1700480843509152,0.1365375603907768,0.9380656631418076
+comedy,Seppi,M,,,,"
+          
+Seppi.
+
+          
+Loss mich nitt lang allei eso...
+
+          
+
+        
+",7,lustig-z-nacht-am-zehne,9,3,0.3333333333333333,0.2039786279692302,0.6127962362190548,0.52920184102263,0.2193240866712052,0.5814311034596427,0.4484048296107309,0.0,0.3573389053464216,0.0779924939641791,0.0482456479709794,0.6794291895487585
+comedy,Franz,M,,,,"
+          
+Franz
+
+          
+(geht unter dr Boge)
+
+          
+Nei... heb Di siter an de Wide...
+
+          
+Aha... do isch e Keller scho!
+
+        
+",8,lustig-z-nacht-am-zehne,24,2,0.0833333333333333,0.2039786279692302,0.5383218331504016,0.4775010583685928,0.2193240866712052,0.4744387688001151,0.4139885080649595,0.0,0.3573389053464216,0.0779924939641791,0.0482456479709794,0.5216739557671939
+comedy,Seppi,M,,,,"
+          
+Seppi
+
+          
+(fallt um)
+
+          
+Z'hilf, Franz!... ich ha ne Parterre g'numme
+
+          
+Un ha mi Ba.. mi Babegei
+
+          
+Ag'schla... ich.. ich glaüb, 's isch entzwei...
+
+        
+",9,lustig-z-nacht-am-zehne,34,2,0.0588235294117647,0.2039786279692302,0.4322519645987718,0.4121694756712326,0.2193240866712052,0.4084920704995534,0.3737610376580206,0.0,0.3573389053464216,0.0779924939641791,0.0482456479709794,0.4401272602558679
+comedy,Franz,M,,,,"
+          
+Franz
+
+          
+(vo witem)
+
+          
+Di Babegei!... die Red... die dumme...
+
+          
+Ne Aff hasch... un kei iwler glaüb!
+
+        
+",10,lustig-z-nacht-am-zehne,24,3,0.125,0.2039786279692302,0.5029652102998584,0.4557238641361394,0.2193240866712052,0.4524565360332612,0.4005793512626465,0.0,0.3573389053464216,0.0779924939641791,0.0482456479709794,0.4944917239300852
+comedy,Franz,M,,,,"
+          
+Franz
+
+          
+(kunnt z'ruck)
+
+          
+Ah!... drum ewe...
+
+          
+Halt 's Mül... schrei nitt as .. wi taüb!
+
+          
+Kumm do, ass ich Dich ka ufhewe...
+
+        
+",11,lustig-z-nacht-am-zehne,32,6,0.1875,0.2304629174582156,0.4852868988745867,0.5456586428228745,0.2324666652116895,0.4786828329408333,0.3929483428195238,0.0,0.2735631601229009,0.2042806185107467,0.0482456479709794,0.5532826423784132
+comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
+          
+Schutzmann
+
+          
+(knnnt mit schnelle Schritte)
+
+          
+Wer schreit denn hier so wie ein Bär?
+
+        
+",12,lustig-z-nacht-am-zehne,16,2,0.125,0.2283798650632046,0.3182096056548894,0.6114418444008176,0.0830218731345109,0.531093204364635,0.4238897292414898,0.0,0.0,0.1262881245465676,0.0,0.5972735481737098
+comedy,Franz,M,,,,"
+          
+Franz
+
+          
+(kunnt ku z'daüdle)
+
+          
+'s isch kein vo uns, Herr.. Kummissär!...
+
+        
+",13,lustig-z-nacht-am-zehne,18,3,0.1666666666666666,0.2449846859739207,0.2828529828043461,0.6789014691799384,0.1240969564399665,0.6462021201689591,0.4412868849182684,0.0,0.0,0.1262881245465676,0.0,0.6965302440316529
+comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
+          
+Schutzmann.
+
+          
+Still... schweigen Sie!...
+
+        
+",14,lustig-z-nacht-am-zehne,8,1,0.125,0.2449846859739207,0.1767831142527163,0.6135698864825783,0.1240969564399665,0.5802554218683973,0.4010594145113295,0.0,0.0,0.1262881245465676,0.0,0.6149835485203268
+comedy,Franz,M,,,,"
+          
+Franz.
+
+          
+Still... Seppi.... gib acht uf die Zunge...
+
+          
+'s isch ha.. halt doch 's Güwerlema!
+
+        
+",15,lustig-z-nacht-am-zehne,21,4,0.1904761904761904,0.3257307889204245,0.1591048028274447,0.6794029698739574,0.1741844949123011,0.6335718408228319,0.394354836110173,0.0,0.0,0.1262881245465676,0.0,0.6568463891000216
+comedy,Seppi,M,,,,"
+          
+Seppi.
+
+          
+'s isch 's Gü.. Gü... heisch em z'trinke doch...
+
+          
+'s derf o fir u .. uns ebbes mache!...
+
+        
+",16,lustig-z-nacht-am-zehne,26,1,0.0384615384615384,0.6484444516782943,0.1237481799769014,1.031389609407951,0.0911626217777901,0.8919272786272419,0.7693845611894291,0.0,0.0,0.0,0.0,0.78985773061986
+comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
+          
+Schutzmann
+
+          
+(züem Seppi)
+
+          
+Still!... reden Sie... wie ist die Sache?
+
+          
+Was machen Sie so spät hier noch?
+
+        
+",17,lustig-z-nacht-am-zehne,24,1,0.0416666666666666,0.5428314268941403,0.1237481799769014,0.8050759848704783,0.0911626217777901,0.7033325915126812,0.5613348431935768,0.0,0.0,0.0,0.0,0.6119831625623374
+comedy,Seppi,M,,,,"
+          
+Seppi.
+
+          
+Ich wird mich miesse ge.. geniere,
+
+          
+Wenn.. wenn ich mich will amüsiere!...
+
+        
+",18,lustig-z-nacht-am-zehne,19,1,0.0526315789473684,0.5262266059834242,0.0530349342758149,1.2154374762839324,0.0500875384723345,1.0495480184354515,0.5037102171098591,0.6257373197737849,0.0,0.0,0.0,1.0759750804015875
+comedy,Franz,M,,,,"
+          
+Franz.
+
+          
+Sag... Seppi... dà isch uns nitt hold...
+
+          
+Kumm... su.. sunscht git's noch Stempeneie...
+
+        
+",19,lustig-z-nacht-am-zehne,22,2,0.0909090909090909,0.5262266059834242,0.1591048028274447,1.2807690589812926,0.0500875384723345,1.1154947167360132,0.5439376875167982,0.6257373197737849,0.0,0.0,0.0,1.157521775912914
+comedy,Franz,M,,,,"
+          
+Franz
+
+          
+(zornig)
+
+          
+Ne Procewàrwel!... mir!! jo wohl!!!...
+
+        
+",20,lustig-z-nacht-am-zehne,17,3,0.1764705882352941,0.662098488751718,0.1767831142527163,1.43359700452843,0.0,1.200492837952684,0.7118410932200845,0.6257373197737849,0.0,0.0,0.0,1.1460716329804626
+comedy,Seppi,M,,,,"
+          
+Seppi
+
+          
+(züem Schutzmann)
+
+          
+Herr Präsident!... Sie mien verzeihe,
+
+          
+Wenn ich nitt ufsteh ka allei...
+
+          
+Ich ha... ich jo... Sie thien's jo wisse,
+
+          
+Halt Rhumetisse in de Bei...
+
+          
+Hàn Sie mr viellicht nitt e Kisse!
+
+        
+",21,lustig-z-nacht-am-zehne,46,5,0.108695652173913,0.3067209398169626,0.1767831142527163,1.0142505131373327,0.1070666791277841,0.948080489389433,0.2728238280977683,0.6257373197737849,0.0839890682837845,0.0,0.0,0.9720596455681476
+comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
+          
+Schutzmann
+
+          
+(züem Franz)
+
+          
+Wie heissen Sie?
+
+        
+",22,lustig-z-nacht-am-zehne,9,2,0.2222222222222222,0.3067209398169626,0.2828529828043461,1.079582095834693,0.1070666791277841,1.014027187689995,0.3130512985047073,0.6257373197737849,0.0839890682837845,0.0,0.0,1.0536063410794736
+comedy,Seppi,M,,,,"
+          
+Seppi
+
+          
+(züem Franz)
+
+          
+Lo.. lo..
+
+        
+",23,lustig-z-nacht-am-zehne,9,3,0.3333333333333333,0.6074828477879354,0.9679446022019282,0.9948152650336132,0.3970470658511777,0.793197214824,0.8312035816646016,0.0,0.5751959175444992,0.2867948162126258,0.1774094023618614,0.7059709149258288
+comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
+          
+Schutzmann
+
+          
+(züem Seppi)
+
+          
+Still, Sie!
+
+        
+",24,lustig-z-nacht-am-zehne,9,1,0.1111111111111111,0.6074828477879354,0.8618747336502984,0.9294836823362528,0.3970470658511777,0.7272505165234383,0.7909761112576625,0.0,0.5751959175444992,0.2867948162126258,0.1774094023618614,0.6244242194145027
+comedy,Seppi,M,,,,"
+          
+Seppi
+
+          
+(fahrt furt)
+
+          
+Lo.. loss ne rede... 's kunnt mr i...
+
+          
+'s isch finster... un er hat.. züem schriwe
+
+          
+Kei Fedre un kei G'schindetir...
+
+          
+
+        
+",25,lustig-z-nacht-am-zehne,31,2,0.064516129032258,0.6263367453346694,1.2721693179149436,0.9920472583971424,0.6240779030716105,0.7504691429817313,0.9876331330534156,0.0,0.9597705554921572,0.5113316132386292,0.3163064002040287,0.7297359394761005
+comedy,Franz,M,,,,"
+          
+Franz.
+
+          
+Thien Sie kaltblietig bliwe,
+
+          
+Dr Seppi redt halt hinterfir,
+
+          
+'s isch d'Nachtlu.. luft... Sie sàhn's jo wohl...
+
+          
+Zeig, Seppi... stand jetzt uf emol!
+
+        
+",26,lustig-z-nacht-am-zehne,35,4,0.1142857142857142,0.6169798941790081,1.3252042521907583,0.9578839161068142,0.567098762416161,0.6751662831134715,0.9631676514728118,0.0,0.8757814872083728,0.5113316132386292,0.3163064002040287,0.6650227642031716
+comedy,Seppi,M,,,,"
+          
+Seppi
+
+          
+(steht miehsam uf, unterstützt von Franz)
+
+          
+Ma.. marsch! isch gli g'sait... ich will's woge...
+
+          
+Ich mächt Se nur emol jetz froge,
+
+          
+Wo eigentlig dr Tramway steckt!...
+
+          
+Franz... lo.. los... hörsch ne niene ku?
+
+        
+",27,lustig-z-nacht-am-zehne,49,6,0.1224489795918367,0.6545751326753797,1.5153117310365227,1.1153288523863831,0.6033463107565852,0.8293153080170732,1.0379935544695331,0.0724517108100733,0.937182343365962,0.603863660048846,0.3839950956295203,0.8262122369108453
+comedy,Seppi,M,,,,"
+          
+Seppi.
+
+          
+Im alte Spittel!
+
+        
+",28,lustig-z-nacht-am-zehne,6,1,0.1666666666666666,0.3538132247044069,0.8302201116389407,0.6569429842975278,0.3133659240331915,0.5228742398554119,0.519841271309639,0.0724517108100733,0.4459754941052473,0.31706884383622,0.2065856932676588,0.5290523538559708
+comedy,ne Schutzmann,M,policeman,government_executive_officials,,"
+          
+Schutzmann
+
+          
+(zeigt unter dr Boge)
+
+          
+Hier durch...
+
+        
+",29,lustig-z-nacht-am-zehne,10,1,0.1,0.3538132247044069,0.8302201116389407,0.6569429842975278,0.3133659240331915,0.522874239855412,0.519841271309639,0.0724517108100733,0.4459754941052473,0.31706884383622,0.2065856932676588,0.5290523538559708
+comedy,Franz,M,,,,"
+          
+Franz
+
+          
+(züem Seppi)
+
+          
+Mr hàn dr Weg güet gnu...
+
+        
+",30,lustig-z-nacht-am-zehne,12,3,0.25,0.1183413414428754,0.4199255273742954,0.4770066931872992,0.0863350868127587,0.4275589290177214,0.299781405966832,0.0724517108100733,0.2174477774838765,0.2849648012414948,0.0676886954254916,0.4586656756323359
+comedy,Seppi,M,,,,"
+          
+Seppi.
+
+          
+Zeig... Franz... so heb mi denn, Dü Zittel!...
+
+          
+Herr Kummissär... Sie känne geh,
+
+          
+Mr brüche Se jetz nimmig meh!...
+
+        
+",31,lustig-z-nacht-am-zehne,30,2,0.0666666666666666,0.0625024698624457,0.4729604616501103,0.5668060325457347,0.0978601732986076,0.6018614656869078,0.366104609888939,0.0724517108100733,0.2174477774838765,0.2849648012414948,0.0676886954254916,0.6336434584323274

@@ -9,10 +9,10 @@
 @Desc      :   In readme.md
 '''
 
-# Requirements: sklearn, pandas, os, alsatian_tokeniser
+# Requirements: sklearn, pandas, os, sys, alsatian_tokeniser
 
 import pandas as pd
-import os
+import os, sys
 import alsatian_tokeniser as alsatian_tokeniser
 from sklearn.feature_extraction.text import TfidfVectorizer
 # lexicon name
@@ -35,7 +35,10 @@ for word in list_als:
 
 # read csv files and replace variants
 ret = alsatian_tokeniser.RegExpTokeniser()
-path = "../pre_treatment/treated_files/"
+if (len(sys.argv) == 1):
+    path = "../pre_treatment/treated_files/"
+else:
+    path = sys.argv[1] + "/"
 list_treated_files = os.listdir(path)
 
 for file in list_treated_files:

@@ -9,17 +9,22 @@
 @Desc      :   In readme.md
 '''
 
-# Requirements: csv, xml, os, sys, pandas
+# Requirements: csv, xml, os, pandas, argparse
 
 import csv
 import xml.etree.ElementTree as ET
-import os, sys
+import os
 import pandas as pd
+from argparse import ArgumentParser
 
-dir_path = "./pre_treatment/treated_files"
+parser = ArgumentParser()
+parser.add_argument("--savepath", help = 'a directory path to save files')
+parser.add_argument("--dir", help = 'a directory path of the xml file')
+parser.add_argument("--filename", help = 'filename of xml file')
+
 xml_in = ""
 
-def main():
+def main(savepath, dir, filename):
     """main funtion to execute codes
 
     Args:
@@ -31,10 +36,12 @@ def main():
 
     """
     
-    if not os.path.exists(dir_path):
-        os.makedirs(dir_path)
-    xml_in = "./pre_treatment/" + sys.argv[1] + "/" + sys.argv[2]
-    csv_out = dir_path + "/" + sys.argv[2][:-3] + "out.csv"
+    if (savepath == None):
+        dir_path = "./pre_treatment/treated_files"
+    else:
+        dir_path = savepath
+    xml_in = "pre_treatment/" + dir + "/" + filename
+    csv_out = dir_path + "/" + filename[:-3] + "out.csv"
 
     file_personography = "./pre_treatment/methal-personography.xml"
     tree_person = ET.parse(file_personography)# make a xml tree of extra personal information
@@ -52,8 +59,8 @@ def main():
 
     list_piece = get_speaker_text(root, dic_person)
     write_csv(list_piece, csv_out)
-    short_name = sys.argv[2][:-4]
-    if ("lustig" in sys.argv[1]):
+    short_name = filename[:-4]
+    if ("lustig" in dir):
         short_name = "lustig-" + short_name
     df = pd.read_csv(csv_out, index_col = False)
     # ------------------------------- slice the piece -------------------------------------
@@ -274,7 +281,11 @@ def write_csv(list_piece, csv_out):
         writer.writerows(list_piece)
 
 if __name__ == "__main__":
-    main()
+    args = parser.parse_args()
+    savepath = args.savepath
+    dir = args.dir
+    filename = args.filename
+    main(savepath, dir, filename)
     
     
 

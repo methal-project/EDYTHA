@@ -1,0 +1,1668 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+(Luejt uff d'Pendule es schlaat.)
+
+          
+Was schun halwer Vier! — Eh bien Salome, i mueß dr saa, daß der Herr uff sich warte loßt. Jetzt sitze mer schun zitter de dreie do un erwarte dinne prétendu, halt diß er wills au moins wäre, denn er het uns sauwe lonn, daß er hitt kummt, am dreie, fur sinni demande persöhnli ze mache. Ja diß isch nit alles, mer kann doch au üßgemacht ghett, daß mer geje de Viere zues Kretschelmeyers gehn un die Gschicht vun denne drei Stühle, wo sie noch vun mir hann, in Richtigkeit ze bringe.
+
+        
+",1,horsch-neui-hosse,118,11,0.0932203389830508,,,,,,,,,,,
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Oh, oh, madame Ziwelbloos, duen Sie nit so dick, die drei Stühle sin au de Péru nit! Na ’s nächst Mool saa i, dini Stühle !
+
+        
+",2,horsch-neui-hosse,34,1,0.0294117647058823,,,,,,,,,,,
+comedy,Rickele,F,,,,"
+          
+Nicele:
+
+          
+Awer Babbe!
+
+		  
+
+        
+",3,horsch-neui-hosse,5,1,0.2,,,,,,,,,,,
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+(uffgebrocht.)
+
+          
+Du bisch widder emol gifti hitt. Ich will ewe au mini Rechte kann, min Sach isch so guet wie dins, un ’s ghört üwerhaupt ganz min.
+
+        
+",3,horsch-neui-hosse,36,4,0.1111111111111111,,,,,,,,,,,
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Witt e Sü? Wer weiß es jo un i weiß es jo au, de heschs mer schun oft genue ze schmecke genn; un jetz hawis ball dick! 
+(Ils se tournent le dos.)
+
+        
+",4,horsch-neui-hosse,41,2,0.048780487804878,0.1228572638535983,0.1496404552580184,1.3678834463988143,0.2878584696529701,1.6333357518308589,0.0610060135113064,0.6774052140737347,0.0415990239237829,0.0772039780519259,0.953686259538786,1.8760115533457304
+comedy,Rickele,F,,,,"
+          
+Rickele:
+
+          
+Oh gehn doch, — wenn jezt der Herr do rin kumme dät, un dät euch so sehn ?
+
+        
+",5,horsch-neui-hosse,22,3,0.1363636363636363,0.0487248403689439,0.3050492630234423,1.2343242047395402,0.2702203460648323,1.5492081324955134,0.0328555327061413,0.3878229017246141,0.0,0.0,0.8445352201284688,1.807534115342776
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Hesch recht ma Figle, — denne hät i jezt falscht vergesse, der isch als noch nit do.
+
+        
+",5,horsch-neui-hosse,22,2,0.0909090909090909,0.0177093651465726,0.3050492630234423,0.7680809207296433,0.0438073769415217,0.9516801033040512,0.0328555327061413,0.3878229017246141,0.0,0.0,0.4888911042452777,1.1590994447231069
+comedy,Rickele,F,,,,"
+          
+Rickele:
+
+          
+Zuem Glück!
+
+        
+",5,horsch-neui-hosse,5,1,0.2,0.0177093651465726,0.3050492630234423,0.7680809207296433,0.0438073769415217,0.9516801033040512,0.0328555327061413,0.3878229017246141,0.0,0.0,0.4888911042452777,1.1590994447231069
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Was falscht? — Jezt ward i awer nimm länger. Zeij due dich an Salome, un du au Rickele.
+
+        
+",6,horsch-neui-hosse,24,2,0.0833333333333333,0.0177093651465726,0.3050492630234423,0.5817836111073044,0.0438073769415217,0.6634288230093084,0.0328555327061413,0.3132987569918902,0.0,0.0,0.3394998985908559,0.8422520700556226
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Ja, wenn der awer derwnlisch kummt.
+
+        
+",6,horsch-neui-hosse,10,1,0.1,0.0177093651465726,0.3050492630234423,0.7312153121180882,0.0438073769415217,0.7182718252110004,0.0328555327061413,0.4917620200099389,0.0,0.0,0.0,0.9581569296317132
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbl oos:
+
+          
+Nur stäht! 
+(ruft)
+ Rosalie! — ’s hört guet unser Maidel. Ro-sa-lie!
+
+        
+",6,horsch-neui-hosse,20,2,0.1,0.0,0.0,0.4324602830320195,0.0,0.2959522735518907,0.0,0.4917620200099389,0.0,0.0,0.0,0.4944521738239876
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+I habs grad welle duen, — Rosalie mer gehn furd un wenn e Herr kummt, un fröjt noch uns, ze saat sie er soll e bissel warte, oder soll so guet sin un mache daß er im e halb Stündel widder do isch, i denk mer sin derno widder zeruck.
+
+        
+",7,horsch-neui-hosse,58,5,0.0862068965517241,0.0106256190879435,0.1155129298321141,0.651792568431271,0.026284426164913,0.6100319589683598,0.0426716930246256,0.4917620200099389,0.0,0.0240981508038244,0.2065550065623514,0.8133433816290372
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Mer brüche jo zwanzig Minüte fur hin un her ze gehn, i will nit renne wie naasblueti.
+
+        
+",8,horsch-neui-hosse,21,1,0.0476190476190476,0.3622279211305935,0.1155129298321141,1.1212360442413662,0.026284426164913,0.863184273324458,0.4607489125314744,0.4917620200099389,0.4809908695258312,0.0240981508038244,0.2065550065623514,0.9293660116348952
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Jezt loß mi gehn, — ihr meine glauwi, i bli am e jede Zeijlade stehn, un schlür derno so furt wie, — wie e Schneck im lange Gras. Rickele: A mon Dieu! — So gehn doch emol furt.
+
+        
+",9,horsch-neui-hosse,48,4,0.0833333333333333,0.3622279211305935,0.1155129298321141,1.1212360442413662,0.026284426164913,0.863184273324458,0.4607489125314744,0.4917620200099389,0.4809908695258312,0.0240981508038244,0.2065550065623514,0.9293660116348952
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+(zue Rosalie)
+
+          
+Sie het also ghört. Gibt sie awer acht, nitt daß re d'Katz widder ’s Biffele- mod wo fur z'Nacht gerischt isch, üß der Plat holt. Gibt sie au im Carnailleföjel frisch Wasser, un trett sie im Hundel wo wirkli in der Küche leijt un Jungi hett nitt uff-m Weddele erum. 
+(Dr Ziwelbloos sekt sich widder.)
+ Sie kann au denne Salat reine wo drüsse —
+
+        
+",10,horsch-neui-hosse,82,5,0.0609756097560975,0.3622279211305935,0.2086813347646987,0.930090606172737,0.026284426164913,0.7919992085976604,0.4607489125314744,0.0620501576851013,0.4809908695258312,0.0546573876217121,0.2065550065623514,0.7007623632913604
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+I ward, — heschs ball?
+
+        
+",11,horsch-neui-hosse,9,1,0.1111111111111111,0.3622279211305935,0.2086813347646987,0.930090606172737,0.026284426164913,0.7919992085976604,0.4607489125314744,0.0620501576851013,0.4809908695258312,0.0546573876217121,0.2065550065623514,0.7007623632913604
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Wenn mer uff dich höre wott, ze dät mer 's Gsind spaziere lon gehn, un mir fur sie d'Ar- weit mache.
+
+        
+",11,horsch-neui-hosse,28,2,0.0714285714285714,0.5294996303131884,0.4565663896213683,1.1714034972970595,0.1715201781933368,0.9538902600669612,0.7086958056905623,0.3290716974326074,0.771534265467128,0.2001951854333961,0.1049356911690229,0.8740256047109332
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Un vergetz Sie au nit noch-m kleine Fritzel ze lueije, i mein sie könnt au e bissel ’s Dings awische ; im Summer zejt sich so licht der Staub in d’Zimmer un no kann mer, — — 
+(Man hört rufen.)
+
+        
+",12,horsch-neui-hosse,48,5,0.1041666666666666,0.1778973282705384,0.4565663896213683,0.7019600214869641,0.1715201781933368,0.700737945710863,0.2906185861837135,0.3290716974326074,0.2905433959412968,0.2001951854333961,0.1049356911690229,0.7580029747050754
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Z iwelblo os:
+
+          
+Salome ! Kannsch noch e bissel bliewe, mer sige uff der Steij un warte!
+
+        
+",13,horsch-neui-hosse,20,3,0.15,0.1778973282705384,0.6490879393415586,0.9688905420502528,0.1715201781933368,1.049520724871146,0.3288825418519484,0.5070860572642781,0.2905433959412968,0.240358770106437,0.2343818390679449,1.127083939838066
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+I kumm, i kumm! 
+(ab)
+
+        
+",13,horsch-neui-hosse,11,2,0.1818181818181818,0.1778973282705384,0.555919534408974,0.7275756970868628,0.1715201781933368,0.824753516046053,0.3288825418519484,0.4450358995791768,0.2905433959412968,0.2097995332885492,0.2343818390679449,0.8612354143576129
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(loßt sich uff e Stuehl falle.)
+
+          
+Oh jeh, oh jeh! ha ha ha! — So isch's jedsmol wenn d'Madam üßgeht. Un wenn sie mitnander furtgehn, ze mueß zerscht gezankt wäre. Die arm Mamsell dürt mi. Na die wurd au froh sin, wenn sie üß der So- cietät kommt. Ich fur min Teil, kanns Ziel nimm erwarte, fur ’s Päckel ze mache, un ze gehn. — 
+(Abwischend)
+ Ja un noch ebbs, hein ? die soll sich nit meine uff ihri paar Grundscholle hin, wo sie mitgebrocht het. Bi-re jede Occassion muen mer diß höre. Do isch's jedesmol uff e anderi Art. Einmol heißt's ja mini Stückle hann allewyl meh getraa als dinni, minni Stückle vertraue de Mischt besser, de Grund isch besser, blit länger naß, un diß, un zell un jens! Gi du liewer Gott, i hätt schun lang e Glasglock drüwer mache lonn. 
+(Es klopft.)
+ Hetts nit geklopft? 
+(Es klopft noch einmal)
+ Entrez! «
+
+        
+",14,horsch-neui-hosse,199,24,0.1206030150753768,0.2437188023574407,0.6749026852335083,1.21125529952424,0.220185922123142,1.3315724149591597,0.3694228220757617,0.805362521095019,0.3836400171131964,0.2209314889357151,0.3217529896755502,1.4194778403554755
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Bonjour Monsieur — — — 
+(ershreckt)
+ Rosalie! 
+(Blit unter der Dhüer stehn.)
+
+        
+",15,horsch-neui-hosse,20,2,0.1,0.0658214740869023,0.3115047005447245,0.7506101230006659,0.0486657439298052,0.8556016780733897,0.0788042358920481,0.5383409813475131,0.0930966211718996,0.0512955403202066,0.2168172985065273,0.9273233911308532
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(freudig)
+
+          
+Emil! — was führt dich do her? Ei ze kumm doch erin. I hab dich jo schun so lang nimm gsehn! Zey saa emol wo bisch denn du gsteckt ?
+
+        
+",16,horsch-neui-hosse,39,3,0.0769230769230769,0.0658214740869023,0.3115047005447245,0.7506101230006659,0.0486657439298052,0.8556016780733897,0.0788042358920481,0.5383409813475131,0.0930966211718996,0.0512955403202066,0.2168172985065273,0.9273233911308532
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(zebbelt)
+
+          
+Ich, - ich, ei ich bin noch allewyl hie gsin 
+(kommt langsam herein)
+.
+
+        
+",17,horsch-neui-hosse,23,2,0.0869565217391304,0.0658214740869023,0.1189831508245343,0.7585768000509286,0.0486657439298052,0.8115881635452652,0.0405402802238133,0.3603266215158424,0.0930966211718996,0.0111319556471658,0.431330817981264,0.9030875566230474
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Giebsh mer nit emol e Hand? — 
+(Klein- laut)
+ un au kein Schmug!
+
+        
+",17,horsch-neui-hosse,20,2,0.1,0.0658214740869023,0.1189831508245343,0.7585768000509286,0.0486657439298052,0.8115881635452652,0.0405402802238133,0.3603266215158424,0.0930966211718996,0.0111319556471658,0.431330817981264,0.9030875566230474
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(beiSeite)
+
+          
+Do bin i schön ningfalle ! — 
+(laut)
+ Ich glaub Sie sin nit gscheit, diß dät sich jetzt do basse. — Wo isch ihri Herrschaft ?
+
+        
+",18,horsch-neui-hosse,35,5,0.1428571428571428,0.0,0.1237585837227751,0.3853200909591928,0.0,0.4356812415954086,0.0,0.1678496214287503,0.0020068959522611,0.0401379190452243,0.4746308927097781,0.5148584786843683
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(bei Seite)
+
+          
+Ich glaub er saat mer Sie. — Brüchsch kein Angscht ze hann, ’s Herr Ziwel- bloose sin üßgange. Do hesch e Stuehl setz dich. 
+(er zögert)
+ un verzähl mer wäje was de do here kummsch ? Machsch mer e Visit, du bisch awer au gar nit artli hitt.
+
+        
+",19,horsch-neui-hosse,63,5,0.0793650793650793,0.1265796074408139,0.1237585837227751,0.5724802994105074,0.1012085417159985,0.602845162158314,0.0197133196236847,0.1678496214287503,0.0020068959522611,0.0401379190452243,0.4746308927097781,0.6690226193986037
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Weje was, daß i do here komm! 
+(bei Seite)
+ Ja diß kann ich dere awer doch nit saa. 
+(laut)
+ Ha ich komm weje-n-em e Gschäftel.
+
+        
+",20,horsch-neui-hosse,37,4,0.1081081081081081,0.1265796074408139,0.1237585837227751,0.6805953701685123,0.1012085417159985,0.6768332305462866,0.0197133196236847,0.290790126431235,0.0020068959522611,0.0401379190452243,0.4746308927097781,0.7926356628546006
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Ich nein, a doch; ja heschs grad gerode.
+
+        
+",20,horsch-neui-hosse,13,2,0.1538461538461538,0.1265796074408139,0.1237585837227751,0.8423810000215661,0.1012085417159985,0.8834683160145638,0.0197133196236847,0.5366711364362046,0.0020068959522611,0.0401379190452243,0.452889519893615,1.0848924749075082
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Witt du sie denn, denne ablaufe. Die fa- mose Stückle? Em il : 
+(zerstreut)
+ Ablaufe? — Nein hyrothe will i sie.
+
+        
+",21,horsch-neui-hosse,31,2,0.064516129032258,0.1265796074408139,0.1237585837227751,1.884624087044536,1.8605873265316668,1.9485451366651605,0.0197133196236847,0.5366711364362046,1.2223693470628736,0.0401379190452243,0.452889519893615,2.2546362197568586
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Bisch veruckt, wie kann mer denn so ’s Feld hyrothe. Zej saa mer emol d'Wohrheit, do steckt ebbs anders derhinder ?
+
+        
+",21,horsch-neui-hosse,27,3,0.1111111111111111,0.1265796074408139,4.440892098500626e-17,1.7742011936988942,1.8605873265316668,1.81763315970191,0.0197133196236847,0.3688215150074543,1.220362451110612,0.0,0.3222182945574956,2.0846228716976745
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(bei Seite)
+
+          
+I hab mi glauwi verschnappt ? 
+(laut)
+ Rosalie, luej du biscch e guets Maidel, i hab di au gern 
+(bei Seite)
+ ghett! 
+(laut)
+ awer es gitt Saches uff der Welt wo mer nit allewyl faue kann. Zuem Beispiel, ich, ich kann dir un- möjli jetz saa, was i uff-m Herze hab.
+
+        
+",22,horsch-neui-hosse,72,8,0.1111111111111111,0.0,0.0467409733653084,1.7623177870519655,1.759378784815668,1.875500892013216,0.0,0.5023322848812073,1.220362451110612,0.0267265617937403,0.4835889635752859,2.197886838796272
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(auffahrend)
+
+          
+Bisch du verlicht der Herr, wo Sie erwarte? — hein, — zei rud emol mit der Sproch eruß, wenns Herz hesch.
+
+        
+",23,horsch-neui-hosse,31,3,0.0967741935483871,0.0177093651465726,0.0467409733653084,1.749375523088565,1.8031861617571896,1.9477232056260043,0.0328555327061413,0.3793917798787226,1.220362451110612,0.0267265617937403,0.4835889635752859,2.2091233761537428
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(Verlegen)
+
+          
+Ich, ich, — — — es schint mer grad so.
+
+        
+",23,horsch-neui-hosse,18,2,0.1111111111111111,0.0177093651465726,0.0467409733653084,1.5331453815725553,1.8031861617571896,1.7997470688500594,0.0328555327061413,0.133510769873753,1.220362451110612,0.0267265617937403,0.4835889635752859,1.9618972892417488
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosa lie:
+
+          
+(weinend)
+
+          
+Oh jerum! un ich, Emil, un ich, hesch mich denn ganz vergesse. Din Rosalie, bin ....
+
+        
+",24,horsch-neui-hosse,28,3,0.1071428571428571,0.0177093651465726,0.0467409733653084,0.8540483422887117,0.0438073769415217,0.9643285449110068,0.0328555327061413,0.2328762961840516,0.3329960691159354,0.0267265617937403,0.4835889635752859,1.0245071009642426
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(weichend)
+
+          
+Oh geh, saa doch kenn so dumm Dings.
+
+        
+",24,horsch-neui-hosse,15,1,0.0666666666666666,0.0177093651465726,0.0467409733653084,0.8540483422887117,0.0438073769415217,0.9643285449110068,0.0328555327061413,0.2328762961840516,0.3329960691159354,0.0267265617937403,0.4835889635752859,1.0245071009642426
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(folgend)
+
+          
+Was diß heisch du dumm Dings du Tropf 
+(Emil weicht zuciid)
+ du Daadieb, du bisch nit emol werth, daß dich d'Sunn anschint, netter Kerl, i wurd der glich d'Aaue üßtraße. 
+(Fährt auf ihn loß, Emil weicht, stoßt am Tisch an, und fällt hin.)
+
+          
+        
+		
+",25,horsch-neui-hosse,63,6,0.0952380952380952,0.0763097488203476,4.440892098500626e-17,0.757012119786008,0.0438073769415217,0.7814889444294787,0.1025350692906161,0.0993655263102986,0.4131612140369071,0.0,0.3222182945574956,0.7764160981523862
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Oh Rosalie, was hesch gemacht, zey komm und helf mer widder uff d'Bein.
+
+        
+",26,horsch-neui-hosse,19,4,0.2105263157894736,0.0586003836737749,4.440892098500626e-17,0.7694777947360569,0.0,0.7956379331911593,0.0696795365844748,0.2328762961840516,0.4131612140369071,0.0,0.3222182945574956,0.8158383449254993
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Ja ’s leijt mer uff, de wursch ellein uff- stehn könne ?
+
+        
+",26,horsch-neui-hosse,16,4,0.25,0.0586003836737749,4.440892098500626e-17,1.0876941065220778,0.0,1.1476352713044091,0.0696795365844748,0.8898598806815485,0.4131612140369071,0.0,0.0,1.246662842961721
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(bei Seite)
+
+          
+Soll i oder soll i nit? — 
+(laut)
+ Na i will ’s duen. 
+(Zejt am-e-n-Arm.)
+
+        
+",27,horsch-neui-hosse,30,2,0.0666666666666666,0.0586003836737749,4.440892098500626e-17,0.8992335695826347,0.0,1.004957440801766,0.0696795365844748,0.7904943543712499,0.354509030365393,0.0,0.0,1.139900451257041
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(lacht)
+
+          
+Ha, ha, ha, ha! — — —
+
+        
+",27,horsch-neui-hosse,16,1,0.0625,0.0586003836737749,4.440892098500626e-17,0.8992335695826347,0.0,1.004957440801766,0.0696795365844748,0.7904943543712499,0.354509030365393,0.0,0.0,1.139900451257041
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Du brüchsch au nocch ze lache, do luej mi emol an, 
+(Didd uff d'Knej)
+ do sin sie hiwe un driwe uffgsprunge, wie e gschwelti Grummbeer! Was fang ich an! was fang ich an? 
+(secht sich)
+ Un so soll ich jezt d'Dochter uß-m Hüß in d'Eh begehre?
+
+        
+",28,horsch-neui-hosse,62,8,0.1290322580645161,0.0,0.0515004980683033,1.1909865926422811,0.0,1.3872065514135197,0.0,0.9439186485774084,0.2743438854444212,0.2063158666433041,0.0588860708138283,1.6417913181623631
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Diß ish ganz einfach ze ranschiere.
+
+        
+",29,horsch-neui-hosse,9,2,0.2222222222222222,0.0,0.0515004980683033,1.244527067185285,0.0,1.4776794812795366,0.0,0.9594561681691032,0.2743438854444212,0.2063158666433041,0.0588860708138283,1.7703371954098208
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Ganz einfach! De gehsch heim un duesch e Paar anderi an un kummch widder.
+
+        
+",29,horsch-neui-hosse,18,2,0.1111111111111111,0.0,0.0515004980683033,0.8670370257363252,0.0,1.0130862304702553,0.0,0.4515208731370544,0.2743438854444212,0.2063158666433041,0.0588860708138283,1.2524545464415395
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+E mil:
+
+          
+So, grad wie wenn diß so licht wär. I hab die wo i do an hab, nur die Circonstance kauft. I hab zwar noch etlichi Paar d'heim, awer die basse nit do here, ’s hängt d'Grund dran vom Feld.
+
+        
+",30,horsch-neui-hosse,51,3,0.0588235294117647,0.0,0.0515004980683033,1.0610038812884544,0.2438006934598812,1.293933355009419,0.1798773409063758,0.4515208731370544,0.0,0.2063158666433041,0.273698267185492,1.4707314979651005
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Oh du Gibgraue! So hann ihrs alli ihr Krüttbüre. Millione hann ihr d'heim, in de Grumbeersäck unter der Bettlad leije; awer e Stückel Kleid, diß wärd lux!
+
+          
+        
+		
+",31,horsch-neui-hosse,36,2,0.0555555555555555,0.0,0.2605521597621802,1.1720968560758436,0.2438006934598812,1.475074091725712,0.1798773409063758,0.589216234306088,0.0,0.2063158666433041,0.5697154201440217,1.8909823795506293
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+St, st, — nitt so lütt, was meinsch, wenn diß der Herr Ziwelbloos höre dät, oder d'Madam ?
+
+        
+",32,horsch-neui-hosse,26,3,0.1153846153846153,0.0177093651465726,0.2090516616938769,0.8972760605091183,0.287608070401403,1.1968433107220364,0.2127328736125171,0.4357919400999295,0.0,0.0,0.5108293493301934,1.5046039884577984
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Ja die, — hm, d'Wohrheit derf mer jo nitt saa. Diß isch au noch e Linsespaltere!
+
+        
+",32,horsch-neui-hosse,23,2,0.0869565217391304,0.0177093651465726,0.2090516616938769,0.952327245737472,0.287608070401403,1.0939871468695226,0.2127328736125171,0.5326246606394511,0.0,0.0,0.5108293493301934,1.449012370535754
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Um's Gotteswille schweij still, i mein ’s kummt ebber d'Steij eruf.
+
+        
+",33,horsch-neui-hosse,17,2,0.1176470588235294,0.0177093651465726,0.2090516616938769,0.7911482894498153,0.287608070401403,0.8431548462410635,0.2127328736125171,0.3835763711740032,0.0,0.0,0.5108293493301934,1.146194665701716
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Richtig, — jezt awer gschürt. 
+(Wischt ab.)
+
+        
+",33,horsch-neui-hosse,14,1,0.0714285714285714,0.0177093651465726,0.2090516616938769,0.8464555620609152,0.0438073769415217,1.3020088414778104,0.0328555327061413,0.7492774113638252,0.0,0.0,1.1757065453663635,1.6940150679496704
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+So kann i mi unmöjli vorstelle, i geh gschwind un loß mer mini Knejschiwe verstopfe. Adje.
+
+        
+",34,horsch-neui-hosse,21,1,0.0476190476190476,0.0177093651465726,0.0,1.2576084760569248,0.0438073769415217,1.633519262279307,0.0328555327061413,0.6115820501947915,0.4311088868593535,0.0,0.879689392407834,1.4585770491357295
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Poy Rotheranesaft, i glaub ihr welle mich uewer e Hüffe renne ?
+
+        
+",34,horsch-neui-hosse,15,1,0.0666666666666666,0.0,0.0,1.162435669262321,0.0,1.487308880278546,0.0,0.6115820501947915,0.4311088868593535,0.0,0.879689392407834,1.323727468322262
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Oh pardon, i habs gewiß nit gern gedohn. 
+(Halt d'Knej zue un drejt sich erum.)
+
+        
+",35,horsch-neui-hosse,23,3,0.1304347826086956,0.1474232266978918,0.1246425956408224,1.3631666600804653,0.091447961814807,1.901620480650713,0.0,0.5437154000214928,0.4311088868593535,0.0712708314499741,1.295255910487698,1.6602523692979374
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(Mit Nachdruk)
+
+          
+'S i-s-c-ch, k-e-i-n, 
+(etc.)
+ Handwerksburscht,- ’s isch der Herr Federköhl.
+
+        
+",35,horsch-neui-hosse,24,1,0.0416666666666666,0.2005513221376097,0.1246425956408224,1.648685080464277,0.2228700926393724,2.3402516266529974,0.098566598118424,0.5437154000214928,0.4311088868593535,0.0712708314499741,1.295255910487698,2.0648011117383405
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Höllegallee, Sie excusiere, awer ’s isch ihri Schuld, daß i sie nit erkenne kann, Sie dreje mer au d'ganz Zytt de Buckel.
+
+        
+",36,horsch-neui-hosse,30,3,0.1,0.2005513221376097,0.1246425956408224,1.5093065336384162,0.2228700926393724,1.8585216886586464,0.098566598118424,0.2773798861419694,0.4311088868593535,0.0712708314499741,0.636325072828598,1.55469412643865
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+E Wunder.
+
+        
+",36,horsch-neui-hosse,5,1,0.2,0.2005513221376097,0.1246425956408224,1.7733988398961558,0.2228700926393724,2.256069564791043,0.098566598118424,1.1392302034185924,0.0,0.9331211487265972,0.636325072828598,2.3199093385136584
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Nix, Herr Ziwelbloos.
+
+        
+",36,horsch-neui-hosse,7,1,0.1428571428571428,0.2536794175773276,0.1246425956408224,2.0589172602799675,0.3542922234639378,2.694700710793327,0.197133196236848,1.1392302034185924,0.0,0.9331211487265972,0.636325072828598,2.724458080954061
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Ze mach, daß de nüß kommsch. So — 
+(Rosalie ab)
+ Do hann Sie e Stuehl un fete Sie sich newe mich, 
+(Emil zögert)
+ Sie müen sich nit geniere — — — 
+(Emil figt)
+ sehsa — un ver- zähle Sie mer ihri Anleije. - 
+(Bei Seite)
+ Was deifels, der fißt jo do, so stif wie e Holzbod.
+
+        
+",37,horsch-neui-hosse,74,1,0.0135135135135135,0.1062561908794358,0.0,1.641956127945813,0.2628442616491308,2.132412973645214,0.197133196236848,0.9612158435869216,0.0,0.861850317276623,0.2207585547487339,2.140707093066392
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(Stodend)
+
+          
+Herr Ziwelbloos, Sie müen, Sie müen mir erlauwe ! — — —
+
+        
+",38,horsch-neui-hosse,19,1,0.0526315789473684,0.1062561908794358,0.0,1.641956127945813,0.2628442616491308,2.132412973645214,0.197133196236848,0.9612158435869216,0.0,0.861850317276623,0.2207585547487339,2.140707093066392
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(freudig)
+
+          
+Alles, vielmol merci, — adje. 
+(will fortlaufen)
+. x Ziwelblovos: 
+(hält ihn)
+ Heh! nit ze schnell, junger Mann, isch ne verlicht nit guet. Ich mach ne nix, i hab noch nieme nuntergschluckt.
+
+        
+",39,horsch-neui-hosse,51,8,0.1568627450980392,0.1693897927109866,0.0,1.4826427663530155,0.302006606273117,1.901823367739669,0.197133196236848,0.8618503172766232,0.0538886108574191,0.861850317276623,0.0,1.8255853964144948
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+’s fehlt mer nix.
+
+        
+",39,horsch-neui-hosse,7,1,0.1428571428571428,0.1693897927109866,0.0,0.6963045713118776,0.302006606273117,0.9916243340894828,0.197133196236848,0.0,0.0538886108574191,0.0,0.0,0.8755573215678971
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Ze sige Sie doch.
+
+        
+",40,horsch-neui-hosse,7,1,0.1428571428571428,0.1162616972712687,0.0,0.4107861509280658,0.1705844754485516,0.5529931880871988,0.098566598118424,0.0,0.0538886108574191,0.0,0.0,0.4710085791274943
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Ja, 
+(sept sich machinalement)
+.
+
+        
+",40,horsch-neui-hosse,10,1,0.1,0.1162616972712687,0.0,0.8432464339600856,0.1705844754485516,0.8489454616390895,0.098566598118424,0.4917620200099389,0.0538886108574191,0.0,0.0,0.965460752951482
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+(bei Seite)
+
+          
+Der het nit viel Kurasch im Lieb! I mueß-m e bissel helfe. 
+(laut)
+ Also Sie kumme wäje minre Dochter, han sie gsaat.
+
+        
+",40,horsch-neui-hosse,34,5,0.1470588235294117,0.0631336018315508,0.0841489736349892,0.6141923628205446,0.0391623446239862,0.4727665274500765,0.0,0.4917620200099389,0.0538886108574191,0.0,0.0,0.6284124649520798
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(gesticulant)
+
+          
+Diß haw i nit gsaat, je n'ais pas dis cela, im Gegenteil ! au contraire; diß wär jo was ich — — — 
+(bei Seite)
+ Jesses mini Hosse! — 
+(Steif, laut)
+ Diß isch jo mini ganz Hoffnung. 
+(Hält die Knie zu.)
+
+          
+
+		
+",41,horsch-neui-hosse,60,6,0.1,0.084178135775401,0.0841489736349892,0.691556888572551,0.0522164594986483,0.6158871967564039,0.0,0.6437958513989136,0.0,0.0,0.0,0.8585493915410641
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Haw-i ne doch ewe ganz häwi ge- macht, un jezt fist mer ber Mench schun widder do, wie wenn er e Messer verschlukt hät ? 
+(Zu ihm)
+ Also ihri ganz Hoffnung ?
+
+        
+",42,horsch-neui-hosse,39,5,0.1282051282051282,0.084178135775401,0.0841489736349892,1.1240162530049893,0.0522164594986483,1.3075808213821594,0.0,0.8822731145436304,0.0,0.0,0.2679663956538163,1.5896971157169255
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Gewiß. Min Babbe wo Sie ganz guet kenne het mi gheiße, — do here gehn, fur um d'Hand 
+(bei Seite)
+ oh jerum, der lueijt mer d'ganz Zitt uff d'Knej, - 
+(laut)
+ vun ihrer — 
+(b. S.)
+ i glaub er het ebbs gsehn, — 
+(taut)
+ Dochter, — 
+(b. S.)
+ ’s wurd mer schwach, 
+(laut)
+ anzehalte, un i denk....
+
+        
+",43,horsch-neui-hosse,84,12,0.1428571428571428,0.084178135775401,0.1320914880501182,1.329985182118483,0.0522164594986483,1.6461816747613185,0.0,1.0261422308118466,0.0,0.0,0.3216041903908652,1.9587269810047527
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+(b. S.)
+
+          
+Aha dißmol het ers doch ge- paket! — 
+(laut)
+ So also, wärde so witt. Mir ish's ganz erecht. Halt!! zersh noh e Fröij ; kenne Sie au mini Dochter ?
+
+        
+",44,horsch-neui-hosse,46,5,0.108695652173913,0.1726320717941361,0.1320914880501182,1.0460418332807977,0.1070852365875325,1.521008502870537,0.0,0.5939995265880869,0.0,0.0,0.3216041903908652,1.646149349872104
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Oh ja, i mein au, ganz guet. - Ziwelbloos: So, wo henn Sie sie denn kenne gelehrt?
+
+        
+",45,horsch-neui-hosse,25,4,0.16,0.1726320717941361,0.047942514415129,1.17828203293836,0.1070852365875325,1.657960509759468,0.0,0.7914641763232956,0.0,0.0,0.3216041903908652,1.853670791304119
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Ai hab sie als zuefällig am Fenschter gsehn, wenn i zuefällig duch bin gange.
+
+        
+",45,horsch-neui-hosse,18,2,0.1111111111111111,0.088453936018735,0.047942514415129,0.9756497766420996,0.0548687770888842,1.4004777983682255,0.0,0.6394303449343208,0.0,0.0,0.3216041903908652,1.5570740280280435
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+(b. S.)
+
+          
+Zuefälli ! — 
+(laut)
+ Aha uff die Art. Na junger Mann, i denk die Dame, diß heißt mini Frau, — 
+(b. S.)
+ miner Drach, — 
+(laut)
+ un min Döchterle wäre sich zitter vun ihre Huet debarassiert hann, i will ne sauwe daß Sie do sin. 
+(Steht auf)
+ I kumm im Auesblick mitne erin. 
+(Ziwelbloos ab.)
+
+        
+",46,horsch-neui-hosse,80,10,0.125,0.088453936018735,0.047942514415129,0.7236891651425601,0.0548687770888842,0.8918067833334918,0.0662275664246201,0.4543573897391054,0.0,0.0460062882465174,0.0536377947370489,1.0076740789007312
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Was, au noch, un ich soll sie in dere Klei- dung empfange, jeht awer los! — 
+(Zimelbloos mit Salome un Riedele komme her)
+ Oh weh, do sin sie jo schun !
+
+           
+
+		
+",47,horsch-neui-hosse,41,4,0.0975609756097561,0.2194596440135645,0.3482207514099966,1.0217777448717218,0.1658055255611015,1.01718486590032,0.2047446075577383,0.5525297284825648,0.1843066253484212,0.241206573878137,0.0989910584180684,1.1118636490983018
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+(Vorstellend)
+
+          
+Liewi Frau, hm, 
+(b. S.)
+ i grie de Hueschte, 
+(laut)
+ do stell i der Herr Emil Federköhl vor, un dir liebs Rickele hm, hm, hm, dine zuekünftige Herr Gemahl, Hm; denn der Herr do het grad vori mir dich in b’sh begehrt — un, — un, un wil ihr euch schun kenne ze brüch i au witterfch nix ze sauwe!
+
+        
+",48,horsch-neui-hosse,81,8,0.0987654320987654,0.1907748153645121,0.4964030859598528,1.3651208745663497,0.2587866456498534,1.5974500742593687,0.3156320304409653,0.6008843422591466,0.1843066253484212,0.241206573878137,0.2613059486122798,1.6817725390746336
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+ Emil:
+
+          
+(b. S.)
+ Diß isch alles erecht awer i schwitz doch.
+
+        
+",49,horsch-neui-hosse,15,1,0.0666666666666666,0.1907748153645121,0.4964030859598528,1.1764163256645166,0.2587866456498534,1.3980458555571669,0.3156320304409653,0.4034196925239378,0.1843066253484212,0.241206573878137,0.2613059486122798,1.4067506432016177
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Ah, ah mossieu, sie mache uns do e großi Ehr, wahrhaft, beaucu d'honnèr ! Ziwelbloos! 
+(bei Seite)
+ Alle jezt wurds guet, mini Frau fangt schun an franzeesch ze redde.
+
+        
+",49,horsch-neui-hosse,41,3,0.073170731707317,0.1907748153645121,0.6996942129759429,1.4158406760890525,0.2587866456498534,1.6627657673940952,0.5074020881014818,0.662563574021411,0.1843066253484212,0.4734861979824447,0.4275748457115254,1.7338049759619252
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Awer Ziwelbloos; wie kannsch du nurre denne Herr so encombrirt lonn. — Pardo, mos- sieu, donnez moi votre schabo et votre ba- rablui s’il vu plait. Diß genirt Sie jo.
+
+        
+",50,horsch-neui-hosse,41,2,0.048780487804878,0.3574279315314518,0.9858597537713584,1.571321597784838,0.4595649558407702,1.8213152459306368,0.7193116624866945,0.6091592660719097,0.4131012569292275,0.5610633775019185,0.5102087074205858,1.867420973493331
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+ Emil:
+
+          
+(b. S.)
+ Nit um alles vun der Welt. 
+(Hebt sinni  Löcher mit zue.)
+ Oh madame, je vous en prie  lonn Sie nur, er genirt mi gewiß gar nit, nein  pas du tout; un sehn Sie, wenn i nix in der  Hand hab, so komm i mer so dumm vor.
+
+        
+",51,horsch-neui-hosse,64,6,0.09375,0.2782878255560445,0.8154280027757308,1.3322473689277197,0.4313861171486493,1.7145800771628337,0.65707923527045,0.3671178110602341,0.3050595087744084,0.4103909144589626,0.6053118783601671,1.7639590538554946
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Zei Rickele, ruck emol e paar Stuehl her, i mein mer könnte e bissel size, ’s koscht ein Geld,
+
+		            
+
+
+        
+",52,horsch-neui-hosse,25,3,0.12,0.3980202181361945,0.6672456682258745,1.09836856090483,0.4127673667308936,1.112785324418391,0.7939709977748339,0.2591438814974732,0.3050595087744084,0.6799563006798705,0.4429969881659558,1.1180150552223835
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+ Emil:
+
+          
+ Au noch, alles isch geje mi.
+
+        
+",52,horsch-neui-hosse,10,1,0.1,0.6327039806521373,0.6672456682258745,1.583950780078191,0.4127673667308936,1.552477619145722,0.7939709977748339,0.2591438814974732,0.3050595087744084,0.6799563006798705,0.4429969881659558,1.4580972791032376
+comedy,Rickele,F,,,,"
+          
+ Rickele :
+
+          
+(zu Emil)
+ Voila, sige Sie do here, newe mich,  der Babbe wurds permettire ?
+
+        
+",52,horsch-neui-hosse,21,2,0.0952380952380952,0.6327039806521373,0.4639545412097844,1.344526429653655,0.4127673667308936,1.2877577073087934,0.6022009401143175,0.0,0.3050595087744084,0.4476766765755627,0.2767280910667101,1.13104294634293
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Wurum nit, mir sin jo do. Un derno, ihr Kinder, ihr hann euch jo noch nit emol der Brutchmuy genn. Allez, embrassez vous. 
+(Sie küssen sich)
+ So ischs erecht - 
+(b. S.)
+ Wenn ich an dem sin Platz wärd, brücht mer mi nit ze heiße.
+
+        
+",53,horsch-neui-hosse,60,4,0.0666666666666666,0.4660508644851976,0.5217486677880274,1.3544981219223522,0.2119890565399769,1.2299912484697662,0.3240637993044845,0.3063347392775214,0.0762648771936021,0.4010587000742243,0.1940942293576498,1.2983903604011648
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Ziwelbloos, du erlaubsch zue viel. Gell, wo mir ghiroth hann, hann mers nit so gemacht. Unseri Eltere, hann dif Dings unter sih üßge- macht, un mir hann uns vor der Hochzitt küm gsehn noch gekennt.
+
+        
+",54,horsch-neui-hosse,46,5,0.108695652173913,0.4141852624657754,0.3439596673736587,1.2177062809678556,0.1292311467598804,1.0652175001292838,0.2477791853876108,0.3063347392775214,4.440892098500626e-17,0.3565308774855605,0.137295170317697,1.07002169772086
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Oh jeh! Pmer jetz kenn i di werli um deschto besser. 
+(b. S.)
+ I glaub wenn i sie früjer gefennt hät, — — 
+(laut)
+ Apropos will mer jetz jo nett bisamme sin könnte mer die Gschicht glich ganz in Ordnung bringe. Was meinsch, Salome, statt daß mer mini drei Stüle ins Kretschelmeyers verkaufe, die welle uns ue- werhaupt doch nix derfur genn, — — —
+
+        
+",55,horsch-neui-hosse,80,7,0.0875,0.2346837625159429,0.4051044613834764,1.124704391159936,0.0,1.1574056528520449,0.0,0.4181878595023739,4.440892098500626e-17,0.0869654912646527,0.2862668936203292,1.2673430716011491
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Loß mi doch üßredde, ze genn mer sie im Herr — — —
+
+        
+",56,horsch-neui-hosse,16,2,0.125,0.0265640477198589,0.4051044613834764,0.7818813821784809,0.0657110654122826,0.937028931125856,0.049283299059212,0.4181878595023739,4.440892098500626e-17,0.0869654912646527,0.2862668936203292,1.1295352189404966
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelblo os:
+
+          
+Do möcht mer uff der Söij furt du alti Säj nit ein Wort kann mer do saa ohne, — — Rickele: 
+(Steht auf zu ihnen)
+! Awer höre doch uff, vor mim Hochzitter do ze händle, i mueß mi jo schämme !
+
+          
+			
+		
+",57,horsch-neui-hosse,51,6,0.1176470588235294,0.0265640477198589,0.4051044613834764,1.068917333497555,0.0657110654122826,1.364653919825701,0.049283299059212,0.7742165791657153,4.440892098500626e-17,0.0869654912646527,0.2862668936203292,1.5942600925047117
+comedy,Rickele,F,,,,"
+          
+ Rickele:
+
+          
+(Steht auf zu ihnen)
+! Awer höre doch uff, vor  mim Hochzitter do ze händle, i mueß mi jo  schämme !
+
+        
+",58,horsch-neui-hosse,27,3,0.1111111111111111,0.0265640477198589,0.0611447940098177,0.8664839422597101,0.0657110654122826,1.2946607848870877,0.049283299059212,0.6458961997198646,4.440892098500626e-17,0.0,0.2862668936203292,1.3439113426486295
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Ja liewi Frau, also dini Stückle genn me ne au zue dem, was mer schun versproche hann.
+
+        
+",59,horsch-neui-hosse,22,4,0.1818181818181818,0.0265640477198589,0.2136819198641427,0.9923066563653656,0.0657110654122826,1.346151920678203,0.049283299059212,0.9847845638478712,4.440892098500626e-17,0.0,0.3124923564123072,1.5645757962451174
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Oh un der guet Bodde wo sie do befumme, Herr — — —
+
+        
+",59,horsch-neui-hosse,16,2,0.125,0.0531280954397179,0.152537125854325,0.9700865004991184,0.1314221308245653,1.3240297836808692,0.098566598118424,0.8729314436230187,4.440892098500626e-17,0.0,0.163520633109675,1.46368935955047
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Der isch jo verschwunde! - Zej luej unter de Disch, siht er nit d'runter, er het ver- licht Angscht griet. Rickele: Do sin ihr d'Schuld, daß er furt isch, mit eurem Ghändels ! 
+(Weint)
+ — Ament kommt er jezt nimm, hi, hi, hi der Emil, hi, hi, der het schun genue! hi, hi, hi, i geh in minni Stub ! hi, hi, hi. 
+(ab rechts.)
+
+        
+",60,horsch-neui-hosse,95,5,0.0526315789473684,0.0265640477198589,0.152537125854325,0.8273272903072126,0.0657110654122826,1.104714210679727,0.049283299059212,0.8729314436230187,4.440892098500626e-17,0.0,0.163520633109675,1.2614149883302683
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Granateelement, Mohre un Dürke. Dv soll awer glich — —! Hätsch mi Üßredde lonn. Wenn nur der Gückük dini paar Scholle hole dät! 
+(fit hin)
+
+        
+",61,horsch-neui-hosse,34,2,0.0588235294117647,0.3424542671882646,0.4387026666497408,0.9682335413299648,0.2007783101909168,0.9259218942843525,0.4871757505632574,0.5169027239596773,0.4692900663437219,0.1335834677659912,0.2461544948187353,0.9677908311287358
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Diß hawi gewüßt, daß du diß Unglück uff mich schuepfe wursch. Du bisch halt au der Unfehlbar, du hesch au immer erecht, de weisch alles, de kannsch alles, ’s ghört d'r alles, de kennsch alles, un ich soll allewyl alles annemme, jamais!
+
+        
+",62,horsch-neui-hosse,54,6,0.1111111111111111,0.4161658805372105,0.4387026666497407,1.1761427948157617,0.2465022910983203,1.089689830535915,0.4871757505632574,0.427895544043842,0.4692900663437219,0.1335834677659912,0.4697004050567209,1.133320685629667
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Do soll awer doch glich e Krüttkopf 2 vespringe. Fest fallt d'Madam newer mi her, wie e Katz uss e Müüs. Weisch was, daß de so furt origle kannsch ze geh i nüß, sunsch verzürn. i mi au am End noch. 
+(ab links)
+
+          
+        
+		
+",63,horsch-neui-hosse,55,2,0.0363636363636363,0.4161658805372105,0.2861655407954157,0.922128641679066,0.2465022910983203,0.8457286759070982,0.4871757505632574,0.0890071799158353,0.4692900663437219,0.1335834677659912,0.3061797719470459,0.7712673788659228
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+So het ers jedesmol, wie i ihm d'Mei- nung sauwe will, ze geht er pleite. Awer wart i griej dich schun widder. 
+(ruft)
+ Rosalie ! Rosalie! Szene VIII. Salome. — Rosalie.
+
+        
+",64,horsch-neui-hosse,45,2,0.0444444444444444,0.6131606533511421,0.2861655407954157,1.117983303347835,0.1807912256860376,0.7879347305695406,0.6806821797172619,0.0890071799158353,0.7818650900869845,0.1335834677659912,0.3061797719470459,0.6666854193663402
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Was beliebt Madam! 
+(b. S.)
+ Oh, die lueijt awer führ drin; do gitts.
+
+        
+",65,horsch-neui-hosse,21,3,0.1428571428571428,0.6131606533511421,0.2861655407954157,1.117983303347835,0.1807912256860376,0.7879347305695406,0.6806821797172619,0.0890071799158353,0.7818650900869845,0.1335834677659912,0.3061797719470459,0.6666854193663403
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Het Sie nit e Herre sehn d'Steij nab gehn?
+
+        
+",65,horsch-neui-hosse,13,2,0.1538461538461538,0.2972704338827364,0.2472014604476903,0.8542535613325285,0.0457239809074035,0.7971352832194152,0.2427897282132164,0.0890071799158353,0.3125750237432625,0.0,0.2235459102379856,0.8201163293925428
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Doch, Madam, i hab eine gsehn.
+
+        
+",65,horsch-neui-hosse,11,1,0.0909090909090909,0.2235588205337905,0.2472014604476903,0.5028263321871946,0.0,0.4195548526179296,0.2427897282132164,0.0,0.3125750237432625,0.0,0.0,0.4222240381095039
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Ja, awer Madam, wie haw ich wisse fönne daß i ne hab anhewe solle? Es wärd uewerhaupt au arri difficil gsin, denn er isch geloffe wie wenn er Fiehr in de Hosse hät ghet!
+
+        
+",66,horsch-neui-hosse,41,2,0.048780487804878,0.2235588205337905,0.2472014604476903,0.7190564737032046,0.0,0.567530989393875,0.2427897282132164,0.2458810100049695,0.3125750237432625,0.0,0.0,0.6694501250214978
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Sie isch, un blit halt nit gscheit! — Grad dorum het Sies solle duen.
+
+        
+",67,horsch-neui-hosse,19,3,0.1578947368421052,0.1474232266978918,0.2472014604476903,0.6674866452750463,0.091447961814807,0.7657051396294927,0.0,0.2458810100049695,0.0,0.0,0.2148121963716637,0.9329207184078168
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Madam! Sie brüche mir derwäje kein Grobheite ze mache; daß Sie ’s wisse uffs klein Ziel geh i furt un suech mer e-n-andere Platz! I hab schun lang satt do.
+
+        
+",67,horsch-neui-hosse,38,6,0.1578947368421052,0.1474232266978918,0.3584859320764392,0.7581298572266992,0.091447961814807,0.8725864341937595,0.0,0.2458810100049695,0.0,0.0,0.2148121963716637,1.0426618060516917
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Ich glaub Sie wurd au noch surios, wäre mir ze geht Sie hin wo Sie will, ’s guet Lob halt Sie nit uff un ich noch viel wenjer. —
+
+		  
+
+        
+",68,horsch-neui-hosse,34,6,0.1764705882352941,0.2797352237206126,0.1112844716287488,0.9068666067394132,0.1371719427222106,0.9410980038239518,0.0696795365844748,0.3348881899208049,0.0801651449209718,0.0,0.3251914737460307,1.073556777066826
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Au noch, na do gibts noch emol Grambol! Enfin jezt isch's gschehn! I hab schun lang gsat i blick nimm; was mi noch am meischte do furt- dribt, ish die Hochzitterei. Un der Ander, herje wie isch der geloffe; sechs Staffle hett er uff ein- mol genumme. i hab-m nochgeruefe, ebb er pressiert isch? Awer er het mer nit emol kenn Antwort gewe. Er wurd sich allewej d'heim sinne Schade welle üßbessere lon, ha, ha. 
+(lacht)
+
+        
+",69,horsch-neui-hosse,99,7,0.0707070707070707,0.3305630317979093,0.2151124672541156,1.112787061241954,0.1861777079203068,1.1591974727816077,0.1527134183512501,0.4111800584200923,0.1631775437613423,0.0919501595224716,0.355173099794323,1.310427718784817
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+E mil:
+
+          
+(Allewyl in der Dhüer)
+
+          
+St, pst — Rosalie!
+
+        
+",70,horsch-neui-hosse,15,1,0.0666666666666666,0.3305630317979093,0.2151124672541156,1.4463513149530471,0.1861777079203068,1.6207598652699793,0.1527134183512501,0.1652990484151228,0.1631775437613423,0.0919501595224716,1.0430924345416406,1.7528918931231927
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Nit so lüt. — Wo sin Ihri Lytt, ischs g'hier ? Meine Sie, was mir arrewiert isch.
+
+        
+",70,horsch-neui-hosse,23,2,0.0869565217391304,0.1831398051000175,0.2151124672541156,1.15930727152053,0.0947297461054997,1.2610640873707772,0.1527134183512501,0.1652990484151228,0.1631775437613423,0.0919501595224716,0.8282802381699768,1.3917288880162546
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+kumme Sie nur erin, Sie könnes do hinne. au verzähle.
+
+        
+",70,horsch-neui-hosse,15,1,0.0666666666666666,0.1831398051000175,0.5245728638003128,1.3509858057902318,0.0947297461054997,1.466443851872866,0.1527134183512501,0.1652990484151228,0.1631775437613423,0.0919501595224716,0.8282802381699768,1.6194900725773838
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(kommt herein, gedämpft)
+ Also, wo i d'Stäij drunte bin gsin un unter der Hüßdhuer bin gstande, hawi gedenkt ’s fahrt verlicht e Rütsch durch, jo kannsch der inbilde! Ueß Angscht, daß die drowe mer noch komme, ze hawi halt so wie i gewese bin, furt gemüßt.
+
+        
+",71,horsch-neui-hosse,60,4,0.0666666666666666,0.1613952281007155,0.5245728638003128,1.1430932855500875,0.1175917365592015,1.2279567840504853,0.0830338817667753,0.0762918684992874,0.0830123988403705,0.0919501595224716,0.7179009607956097,1.3399978011205191
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(lacht)
+
+          
+ha, ha, ha!
+
+        
+",72,horsch-neui-hosse,11,1,0.0909090909090909,0.1105674200234188,0.420744868174946,0.9371728310475468,0.0685859713611053,1.0098573150928294,0.0,0.0,0.0,0.0,0.6879193347473175,1.103126859402528
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Lach nit so dumm! — Na diß hätte Sie sehn solle! d’Buewe sin mer nochgeloffe, d'Litt sin stehn gebliwe un hann gelacht. Un ich, bin üßgerisse, wie wenn mi e Hund gebisse hät, un ha mi gschämt wie alles!
+
+           
+
+		
+",73,horsch-neui-hosse,51,3,0.0588235294117647,0.1105674200234188,0.5855458418067396,0.4968534093714574,0.0685859713611053,0.5723409357980753,0.0,0.0,0.0,0.0,0.0,0.6297910157447486
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+ha, ha, diß glauwi.
+
+        
+",73,horsch-neui-hosse,9,1,0.1111111111111111,0.1105674200234188,0.5855458418067396,0.4968534093714574,0.0685859713611053,0.5723409357980753,0.0,0.0,0.0,0.0,0.0,0.6297910157447486
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Wo i heim kumm, isch kein Mensch un kein Seel im Hüß gsin; alles zuebschlosse, un wer mueß widder umkehre, bin ich. Zuem Glück hetts no anfange ze reije, do hawi mi wenigstens hinter mim Barebli versteckle könne, un do bin i halt widder.
+
+        
+",74,horsch-neui-hosse,54,6,0.1111111111111111,0.1842790333723647,0.1648009736317936,0.325450670058521,0.1143099522685088,0.4135551145410483,0.0,0.0745153034126618,0.0,0.0,0.0,0.4859958759527677
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Ja, un jet, welle Sie sich doch so widder zaije ?
+
+        
+",75,horsch-neui-hosse,15,1,0.0666666666666666,0.0737116133489458,0.1648009736317936,0.6528542634914508,0.0457239809074035,0.6214496613307826,0.0,0.5662773234226008,0.0,0.0,0.0,0.9045137238296008
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Wurum nit gar, bish e Narr. — I hab ge- denkt Sie könnte mer üß der Noth helfe ?
+
+        
+",75,horsch-neui-hosse,24,2,0.0833333333333333,0.4591412822859362,0.1648009736317936,1.0602342722145983,0.3768618130305045,0.7998922465779399,0.3430261436109039,0.5662773234226008,0.2051493640089245,0.0,0.0,1.0566368863014302
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Was fallt Ihne in. Wie kann denn ich Ihne do ihri Löcher zuestopfe. 
+(b. S.)
+ Hein jezt könnt er mi widder brüche. — 
+(laut)
+ Nein, i kann nit.
+
+        
+",76,horsch-neui-hosse,39,1,0.0256410256410256,0.4591412822859362,0.0,0.9507592986635852,0.3768618130305045,0.6278700966083766,0.3430261436109039,0.5662773234226008,0.2051493640089245,0.0,0.0,0.8402824687088405
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(bittend)
+
+          
+Oh Rosalie, saa diß nit, i weiß jo, daß de so guet stopfe kannsch! Oh geh, due mer denne Gfalle, denk doch e bissel an friejer zeruck, do hawi der au manche gedohn.
+
+        
+",77,horsch-neui-hosse,46,2,0.0434782608695652,0.4591412822859362,0.0,0.9507592986635852,0.3768618130305045,0.6278700966083766,0.3430261436109039,0.5662773234226008,0.2051493640089245,0.0,0.0,0.8402824687088405
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(b. S.)
+
+          
+I brings fascht nit üewers Herz.
+
+        
+",78,horsch-neui-hosse,13,1,0.0769230769230769,0.3854296689369903,0.0,0.8398402917551671,0.3311378321231009,0.4743948587990481,0.3430261436109039,0.4917620200099389,0.2051493640089245,0.0,0.0,0.6465753362958173
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Seij doch nit so hart un loß di bitte, lueij i kneij vordi. mer glich widder uff, sunsch gibts noch größeri Löcher. — Ah, Sie hann Glück do steht grad der Mamsell ihri Näjlad. — Nemme Sie e Stuehl
+
+        
+",79,horsch-neui-hosse,47,6,0.1276595744680851,0.4886535541282355,0.0,0.6698283367235869,0.3311378321231009,0.5514501986863448,0.4303902949117072,0.0890071799158353,0.2051493640089245,0.0,0.1873102888777136,0.4734052868191704
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Jo wäje mir, i will's duen, awer steh - 2 1 - un setze Sie sich do here. 
+(Sucht)
+ Na find i denn kein Mobel.
+
+        
+",80,horsch-neui-hosse,34,1,0.0294117647058823,0.6857890999177039,0.0,1.098950245160265,0.5810232358324225,0.9215097835556424,0.7188412226404172,0.0890071799158353,0.0,0.0,0.1873102888777136,0.4305474274471583
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+(leise)
+
+          
+Poß blitz.
+
+        
+",80,horsch-neui-hosse,8,1,0.125,0.8965131749051316,0.0,1.8792128020902157,0.5810232358324225,1.6782046266559896,1.381116886886619,0.0890071799158353,0.0,0.733456215923778,0.1873102888777136,0.903086233320783
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Alle hopp, dummle Sie sich e bissel; Sie fange jo gar nit an.
+
+        
+",81,horsch-neui-hosse,18,1,0.0555555555555555,0.8965131749051316,0.0,2.3690922940322867,0.5810232358324225,2.2317147558447887,1.381116886886619,0.0890071799158353,0.0,1.0902377185479946,0.1873102888777136,1.552752654391893
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(suchend)
+
+          
+A, i hab halt d'Nodel falle lonn.
+
+        
+",81,horsch-neui-hosse,15,3,0.2,1.1373291139010773,0.1907770271969438,2.848994193915425,0.7625160274996523,2.5379349677501226,1.5336861147203664,0.0890071799158353,0.3145812646389861,1.1792933637253218,0.2423995300170871,1.8253181848302709
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+(Unter d'r Dhüer, hinausgewandt, leise)
+
+          
+Zaj Salome, komm emol doher, un gück emol do nin.
+
+        
+",81,horsch-neui-hosse,24,2,0.0833333333333333,1.0341052287098322,0.1907770271969438,2.5865458659149856,0.7625160274996523,2.164927354310936,1.4463219634195632,0.0,0.3145812646389861,1.1792933637253218,0.0550892411393734,1.50403606048293
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Jesses, Maria un Joseph!
+
+        
+",82,horsch-neui-hosse,8,1,0.125,0.4515400139833734,0.1907770271969438,2.1635836183867774,0.1814927916672298,2.257411672123488,0.8148448920799491,0.614106409402952,0.3145812646389861,1.1792933637253218,0.0550892411393734,2.221850096646348
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(sucht)
+
+          
+I glaub Sie finde sie nit.
+
+        
+",82,horsch-neui-hosse,12,2,0.1666666666666666,0.5549461602753476,0.1907770271969438,1.8343787725861176,0.4947915486591199,1.7964796101082032,0.4930736505805185,0.614106409402952,0.3145812646389861,0.445837147801544,0.0550892411393734,1.8082292161367068
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Nein. Sie isch allewaj zwische d'Spalte vun de Diehle gerutscht.
+
+        
+",82,horsch-neui-hosse,15,1,0.0666666666666666,0.5549461602753476,0.1907770271969438,1.344499280644046,0.4947915486591199,1.2429694809194036,0.4930736505805185,0.614106409402952,0.3145812646389861,0.0890556451773274,0.0550892411393734,1.1585627950655968
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(sieht dieselben)
+
+          
+Oh jerum, d'Madam!
+
+        
+",82,horsch-neui-hosse,12,1,0.0833333333333333,0.314130221279402,0.0,0.8645973807609078,0.3132987569918902,0.93674926901407,0.3405044227467712,0.614106409402952,0.0,0.0,0.0,0.8859972646272191
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Aça, voyons, was isch denn do loos? Zaj Frau, lang mer de Beese. Herr Federköhl wotte sie so guet sin un lueje ebb i nit drüsse bin, un schnell!
+
+          
+
+		
+",83,horsch-neui-hosse,38,6,0.1578947368421052,0.3848641957140759,0.1219003467299406,1.1321615505298346,0.4450654097176197,1.231521404512593,0.4760606422822208,0.727403207524053,0.1173216942189719,0.0886379045582037,0.0711704768255597,1.1665016105687036
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Oh jeh! jezt isch alles verspielt, alles kapüt! d'Hosse un au noch mini Hochzitterei! — Oh Rickele vergib mer. Rickele: 
+(abgewandt)
+ Furt, furt, i will nix meh vun d'r wisse. hi, hi, hi 
+(weint)
+.
+
+        
+",84,horsch-neui-hosse,53,3,0.0566037735849056,0.3848641957140759,0.1219003467299406,0.718621880898217,0.4450654097176197,0.590534916583586,0.4760606422822208,0.1132967981211009,0.1173216942189719,0.0886379045582037,0.0711704768255597,0.3394222713054683
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Ja höre Sie, sin Sie denn noch nitdrüsse ?
+
+        
+",85,horsch-neui-hosse,12,1,0.0833333333333333,0.0707339744346738,0.1219003467299406,0.7000244528009462,0.1317666527257295,0.590724409050414,0.1355562195354495,0.6050588181310399,0.1173216942189719,0.0886379045582037,0.0711704768255597,0.7749565197654723
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+E mil:
+
+          
+Uff de Kneij wott i sie bitte — 
+(b. S.)
+ wenn i könnt, 
+(laut)
+ — ’s isch jo nit minni Schuld!
+
+        
+",85,horsch-neui-hosse,30,4,0.1333333333333333,0.0707339744346738,0.1219003467299406,0.807662934545599,0.1317666527257295,0.7510837798128559,0.1355562195354495,0.738569588004793,0.1173216942189719,0.0886379045582037,0.0711704768255597,0.949228347352053
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Nit Ihri Schuld! Ja bin ich oder Sie dorte gsesse ?
+
+        
+",86,horsch-neui-hosse,14,2,0.1428571428571428,0.0707339744346738,0.1219003467299406,1.0238930760616087,0.1317666527257295,0.8990599165888012,0.1355562195354495,0.9844505980097624,0.1173216942189719,0.0886379045582037,0.0711704768255597,1.1964544342640469
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+C'est tu 
+(tout)
+ juste ! un was hann sie denn dorte gemacht?
+
+        
+",86,horsch-neui-hosse,17,1,0.0588235294117647,0.0,0.0,0.7563289062926819,0.0,0.6042877810902781,0.0,0.8711537998886616,0.0,0.0,0.0,0.9159500883225624
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+Ei ’s Rosalie hett mer ebs an de Hofe ze ranschiere ghett.
+
+        
+",86,horsch-neui-hosse,15,1,0.0666666666666666,0.0,0.0,0.7563289062926819,0.0,0.6042877810902781,0.0,0.8711537998886616,0.0,0.0,0.0,0.9159500883225624
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Was hör ich! Un ich soll au noch dem mini Dochter genn? Gell Rickele witt ne nimm, i wott ne au nimm! Rickele: hi, hi, hi, der wüesht Mensch, er soll anne gehn wo er here kumme isch!
+
+        
+",87,horsch-neui-hosse,50,4,0.08,0.0,0.1051862170437365,0.3944490598160007,0.0,0.3864007723049763,0.0,0.3793917798787226,0.0,0.0,0.0,0.5058734825498258
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Emil:
+
+          
+(traurig)
+
+          
+So geh i halt. Adje, leb wohl! 
+(lang- sam ab)
+.
+
+        
+",88,horsch-neui-hosse,22,6,0.2727272727272727,0.0737116133489458,0.1908509424134051,0.5634244908010629,0.0457239809074035,0.504825909137655,0.0,0.3225696817609887,0.0718514811432255,0.0,0.0929118496417229,0.5751048078196351
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(im Hintergrund)
+
+          
+Do bin i Madam!
+
+        
+",88,horsch-neui-hosse,11,1,0.0909090909090909,0.0737116133489458,0.1908509424134051,0.347194349285053,0.0457239809074035,0.3568497723617096,0.0,0.0766886717560192,0.0718514811432255,0.0,0.0929118496417229,0.3278787209076413
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Zeij komm do her, un saa mer emol wie du do derzue kummsch. Isch diß e Art, hein, daß du im erschte beschte an de — —
+
+		  
+
+        
+",89,horsch-neui-hosse,33,1,0.0303030303030303,0.0737116133489458,0.1908509424134051,0.347194349285053,0.0457239809074035,0.3568497723617096,0.0,0.0766886717560192,0.0718514811432255,0.0,0.0929118496417229,0.3278787209076413
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Halt! Salome, diß saa ich, fur dich schickt sichs nit, — an de Kleider erum flisch ? hein !
+
+        
+",89,horsch-neui-hosse,25,1,0.04,0.5159812934426212,0.1908509424134051,0.7674211076814125,0.3200678663518247,0.7090806794103355,0.0,0.0766886717560192,0.0718514811432255,0.0,0.0929118496417229,0.6316160246962592
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+Ja Madam, er isch derwylsch als sie furt sin gewese, do here kumme, un isch uewerem do here gehn gstulpert un het sich alli zwei Kneij durchgstoße.
+
+        
+",90,horsch-neui-hosse,33,3,0.0909090909090909,0.5159812934426212,0.2259130147613173,0.9351013475438652,0.3200678663518247,0.8337531921831619,0.0,0.2406093450926655,0.0718514811432255,0.0,0.0929118496417229,0.8245586053213388
+comedy,Rickele,F,,,,"
+          
+Ri dele:
+
+          
+(freudig)
+ Oh! i habs gewüeßt, er isch unschuldi.
+
+        
+",90,horsch-neui-hosse,16,2,0.125,0.4422696800936753,0.1402482893916486,0.8188775022272832,0.2743438854444212,0.7717736344602443,0.0,0.1639206733366463,0.0,0.0,0.2831953177079717,0.940888070024344
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Ja wurum hett sie diß nit glich gsaat? Sie isch halt allewyl d'Nämlich!
+
+        
+",91,horsch-neui-hosse,18,3,0.1666666666666666,0.5896929067915672,0.1402482893916486,1.2863713144457771,0.3657918472592282,1.191014204415189,0.0,0.3278413466732927,0.0,0.0,0.5125017626237443,1.436847982978669
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+ Ziwelbloos:
+
+          
+ Un diß alles hett so e Mordthat  genn. Fett kaun i mir au denne Ambarra vor-  stelle wo drinne gsteckt isch !
+
+        
+",91,horsch-neui-hosse,26,3,0.1153846153846153,0.5896929067915672,0.1402482893916486,1.2863713144457771,0.3657918472592282,1.191014204415189,0.0,0.3278413466732927,0.0,0.0,0.5125017626237443,1.436847982978669
+comedy,Rickele,F,,,,"
+          
+ Rickele:
+
+          
+ Drum isch er au so stis gsin. Oh, Babbe,  liewer Babbe, un jezt hesch ne au noch furtgschikt,  zue sim Unglück!
+
+        
+",92,horsch-neui-hosse,29,4,0.1379310344827586,0.1474232266978918,0.1402482893916486,0.8661445560494176,0.091447961814807,0.8387832973665633,0.0,0.3278413466732927,0.0,0.0,0.5125017626237443,1.1331106791900512
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+C'est vrai ma fille! — ja wottsch ne denn doch noch? Rickele: Oh Babbe, i hab ne so gern. Er kann jo nix derfur, daß im diß arrewiert isch.
+
+        
+",93,horsch-neui-hosse,38,3,0.0789473684210526,0.1474232266978918,0.1246425956408224,0.912659338052092,0.091447961814807,0.917788681237646,0.0,0.5058557065049634,0.0,0.0712708314499741,0.7135171017554125,1.2714923520903725
+comedy,Rosalie,F,cook,service_and_sales,lower_middle_class,"
+          
+Rosalie:
+
+          
+(b. S.)
+'S ish doch nit ganz eso wie i gsaat hab!
+
+        
+",94,horsch-neui-hosse,17,1,0.0588235294117647,0.1474232266978918,0.1246425956408224,1.074627183214272,0.091447961814807,1.2026483326223611,0.0,0.8039522854358593,0.0,0.0712708314499741,0.4303217840474406,1.517295144199054
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+Könnt mer denne junge Mensch nit zu- ruck hole lonn.
+
+        
+",94,horsch-neui-hosse,14,3,0.2142857142857142,0.2728942122478864,0.3154196228377662,0.9939282698197032,0.2192759766123032,1.014161663360746,0.4003484132213581,0.6400316120992129,0.1525297543872042,0.4298918628482094,0.2561045802710416,1.2025675995191238
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Diß isch e idé, Alti!! komm her, griesch e Schmuß derfur. So. — Rosalie lauft sie im noch un bringt ne sicher mit, sunsch rauchts! 
+(Rosalie ab.)
+
+        
+",95,horsch-neui-hosse,40,2,0.05,0.2728942122478864,0.3154196228377662,0.9939282698197032,0.2192759766123032,1.014161663360746,0.4003484132213581,0.6400316120992129,0.1525297543872042,0.4298918628482095,0.2561045802710416,1.2025675995191238
+comedy,Rickele,F,,,,"
+          
+Rickele:
+
+          
+Ich dank euch vielmol, liewi Eltere, ohne ihne, hät i nimm lewe könne.
+
+		  
+
+        
+",96,horsch-neui-hosse,19,4,0.2105263157894736,0.2728942122478864,0.4679567486920913,1.139827352198394,0.2192759766123032,1.1841347496015906,0.4003484132213581,0.855979471224735,0.1525297543872042,0.4298918628482095,0.4196252133807167,1.441007862826871
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Oh Schmerz! diß glaub i nit. Kumm emol noch de Flitterwuche. 
+(b. S.)
+ Bi uns ischs noh andersch gsin, mir hann gar keini ghett. 
+(Rosalie kommt mit Federköhl.)
+
+        
+",96,horsch-neui-hosse,40,4,0.1,0.2728942122478864,0.5328543263203839,1.044034595949193,0.2192759766123032,1.0490064869257312,0.4003484132213581,0.6913202471728253,0.1525297543872042,0.4283049186295276,0.3643885663369119,1.2981901436479597
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Gott sei Dank. Also so verlauft ihr Sach. Zaije sie uns doch emol ihri Schade?
+
+        
+",97,horsch-neui-hosse,20,3,0.15,0.2728942122478864,0.6996486597384697,0.9001879740981952,0.2192759766123032,0.8526720084134907,0.4327423540091682,0.5810396015329558,0.1525297543872042,0.4283049186295276,0.5770168798058352,0.9537739586305214
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+ha, ha, ha. 
+(Alle lachen)
+.
+
+        
+",98,horsch-neui-hosse,13,1,0.0769230769230769,0.0,0.5088716325415258,0.5133930752742698,0.0,0.6219181077201613,0.03239394078781,0.5810396015329558,0.0,0.0696838872312922,0.5219276386664616,0.7725415903561264
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Famos, die sin jo a schur 
+(jour)
+ wie e paar alti Strümpf, i versteh ihri Verlejeheit. Am End find sie au noch neij?
+
+        
+",98,horsch-neui-hosse,31,2,0.064516129032258,0.2912826073632293,0.5088716325415258,0.9316440338541826,0.2905116179162113,0.8961691927783887,0.3481324764576169,0.5810396015329558,0.0,0.0696838872312922,0.5219276386664616,0.8271742419060351
+comedy,Salome,F,,,,"
+          
+Salome:
+
+          
+(gerührt)
+
+          
+Ach, der guet Mensch! Ridel e: Ha, ha, ha, armer Emil! ziwelbloos: Komme Sie here liewer Sohn, lonn Sie sich an min Herz drude.
+
+        
+",99,horsch-neui-hosse,39,6,0.1538461538461538,0.3379789635122562,0.4517230202856727,0.8501517729544181,0.3355340328424226,0.7669482782463513,0.4244170903744906,0.3650917424074338,0.0762648771936021,0.114211709819956,0.3859516261264734,0.6264304457182056
+comedy,Ziwelbloos,M,retired_farmer,agriculture,lower_class,"
+          
+Ziwelbloos:
+
+          
+Do hann Sie minni Docter, 
+(b. S.)
+ i bin doch froh, daß er sie noch will, bekumme mer sie doch los! 
+(laut)
+ Awer eins will i ne noh fan, genn sie besser uff sie acht als uf ihri neije Hosse! 
+(Vorhang fällt.)
+
+        
+",100,horsch-neui-hosse,57,8,0.1403508771929824,0.3766130961388007,0.4166714305811521,0.9011506160946896,0.3355340328424226,0.8973169404984336,0.4244170903744906,0.4360505722090375,0.0762648771936021,0.1061710795931267,0.365397915248934,0.6685429507638428

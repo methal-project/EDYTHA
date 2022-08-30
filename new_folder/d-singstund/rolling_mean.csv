@@ -1,0 +1,4373 @@
+drama_type,speaker,sex,job,job_category,social_class,text,progress,short_name,numTokens,numLexTokens,lexRatio,anger_roll_mean,anticipation_roll_mean,arousal_roll_mean,disgust_roll_mean,dominance_roll_mean,fear_roll_mean,joy_roll_mean,sadness_roll_mean,surprise_roll_mean,trust_roll_mean,valence_roll_mean
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(rechts bi dr Thüre vom zweite Plan rieft üse)
+
+          
+Mache-n-ass Ihr jetz emol furt kämme, Schlüch!...
+
+          
+Gott, wie thüet mich dà Mensch efange-n-agaciere!...
+
+          
+Güet, jetz thüet er si schwarze Nase noch in mi hintere
+                        Kochhafe stosse... höre-n-Ihr denn nitt, ass dr Herr
+                        dert in sim Zimmer isch un sich alegt... fahre-n-ab
+                        jetz, nitt ass er I hit scho wieder do atrifft, er ka
+                        wohl denke, ass mi Kàmi nitt alle Tag z'putze-n-isch...
+
+        
+",1,lustig-d-singstund,100,9,0.09,,,,,,,,,,,
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(voruse, links)
+
+          
+Marie!...
+
+        
+",2,lustig-d-singstund,10,1,0.1,,,,,,,,,,,
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Höre-n'-r!... dr Herr, wo mr rieft...
+(antwortet)
+
+          
+Was b'liebt, Herr?
+
+        
+",2,lustig-d-singstund,22,2,0.0909090909090909,,,,,,,,,,,
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(voruse)
+
+          
+Wo hasch mine Hosetràger ane tho?
+
+        
+",2,lustig-d-singstund,12,2,0.1666666666666666,,,,,,,,,,,
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ihre Hosetràger, Herr...
+(fir sich)
+ sine Hosetràger wo
+                        känne jetz sine Hosetràger si?
+(lüt)
+ Aha, se sin 
+in dr
+                        Zuckerbichse, Herr...
+(wàhrend ass se antwortet' links,
+                        kunnt dr Schlüch ine, rechts, zweiter Plan, un hat in
+                        jeder Hand e Kochläffel un schlàckt se-n-ab)
+ So! jetz
+                        versüecht er noch mine Sauce... Wenn dr Herr Tannezapfe
+                        das thàt sàh...
+
+        
+",3,lustig-d-singstund,80,7,0.0875,0.2731550376666579,0.209657731717391,1.1969189025855909,0.3370594619352809,1.7086503570092677,0.3125651145672643,0.0761884457682077,0.0,0.0,0.1872658075933116,1.5323774395286014
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Eüer Herr, Marie, Eüer Herr Tannebibele.
+
+        
+",4,lustig-d-singstund,11,2,0.1818181818181818,0.2317724300949071,0.0798732000352626,1.258399120377818,0.4670759156477556,1.8519156297037376,0.3969366953980212,0.0,0.0,0.0,0.1010120992649003,1.6951496619504252
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Eüer Zapfe, das isch mir doch eithüen, wo-n-Ihr alles
+                        mit em mache, was Ihr wànn... er hat jo ne kurz
+                        G'sicht, Ihr sage-n-em, ich sei's Wiehnàchtskindle,
+                        wenn er kunnt, awer er isch jo erst an de Hosetràger, i
+                        ha dr Zit... nur noch e Wort, Marie...
+
+        
+",4,lustig-d-singstund,65,3,0.0461538461538461,0.203946630864828,0.0798732000352626,1.108859066733248,0.3982436754470337,1.622182903474772,0.3453125152474798,0.0,0.0,0.0,0.1010120992649003,1.4832675684411574
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Grad ha-n-i d'Kuche ne wenig g'mustert, als Kàmifeger
+                        ha-n-i 's Fir untersüecht... awer als Mensch wott i
+                        gern wisse, was dert hinte ne so güet's druf brotet?...
+
+        
+",5,lustig-d-singstund,40,4,0.1,0.2234654192135687,0.176351400456013,1.1379942070461708,0.2605791950455899,1.581207410955851,0.3236662326052549,0.1377900147001318,0.0,0.055166386141369,0.4384095685005834,1.5301939233955344
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Kännt' ich em nitt e wenig Milhüserditsch lehre im Platz
+                        vo Eürem Herr?...
+
+        
+",5,lustig-d-singstund,17,2,0.1176470588235294,0.2234654192135687,0.176351400456013,1.1379942070461708,0.2605791950455899,1.581207410955851,0.3236662326052549,0.1377900147001318,0.0,0.055166386141369,0.4384095685005834,1.5301939233955344
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+I ha ebbes versüecht, wo dert mischotiert im e Hafe uf
+                        em Ofe, was mag das si?
+
+        
+",5,lustig-d-singstund,22,3,0.1363636363636363,0.1447348848840963,0.0964782004207504,0.9775682471953177,0.4931688393520678,1.3182619184557098,0.2106625280352115,0.3123454348156639,0.0,0.055166386141369,0.3373974692356831,1.383193321633821
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ah! un wie finde-n-ihr das Ding?
+
+        
+",6,lustig-d-singstund,12,1,0.0833333333333333,0.6166636005055957,0.0964782004207504,1.4360375661833888,0.8816882324473336,1.3555287456969487,0.6792898362619006,0.3123454348156639,0.0,0.055166386141369,0.3373974692356831,1.058381529077589
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Fin, delizios!...
+
+        
+",6,lustig-d-singstund,7,1,0.1428571428571428,0.6166636005055957,0.7261165090592429,1.965101865844647,0.8816882324473336,1.974390203239092,0.6792898362619006,1.1180388711953555,0.0,0.5789602214310673,0.97183539557534,1.8672228531268515
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+Das isch Caout wie dr Kückücks sàit em doch dr Herr
+                        wieder? Caout... Caout...
+
+        
+",6,lustig-d-singstund,18,1,0.0555555555555555,0.5693190129267759,0.6296383086384925,1.7864266718871538,0.9505204726480556,1.785632969529048,0.6493119387535841,0.9802488564952234,0.0,0.5237938352896981,0.6344379263396569,1.608414404663207
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo, i glaüb; der Herr hat das Ding kaüft.
+
+        
+",6,lustig-d-singstund,14,2,0.1428571428571428,0.5693190129267759,0.6296383086384925,1.7864266718871538,0.9505204726480556,1.785632969529048,0.6493119387535841,0.9802488564952234,0.0,0.523793835289698,0.6344379263396569,1.608414404663207
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(mit Verwunderung)
+
+          
+Ne Caoutchouc-Suppe?...
+
+        
+",6,lustig-d-singstund,9,1,0.1111111111111111,1.2764037077810784,0.6296383086384925,2.43566980412403,0.6294322337977925,2.3824225086634145,1.1903198013645273,0.8056934363796913,0.0,0.523793835289698,0.6344379263396569,2.103811017153231
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Dr Herr sàit, 's thàt eim feist mache... Das wàr nit fir
+                        Eüch, Schlüch, Ihr kännte sunscht nimm in d'Löcher
+                        schlupfe!...
+
+        
+",6,lustig-d-singstund,30,2,0.0666666666666666,0.913077066932258,0.6296383086384925,1.9428570043406936,0.1376644804014437,2.1439842863515493,0.8074603782297419,0.8056934363796913,0.0,0.523793835289698,0.6344379263396569,2.2238394381032904
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+'s isch doch sunderbar, was me-n-efange mit em
+                        Caoutchouc macht!....
+
+          
+
+            
+G'sang
+
+            
+(Madame Angot)
+
+            
+Mit Caoutchouc ka me mache,
+
+            
+Was d'Aüge nur wànn sàh,
+
+            
+Nitt nur allei Spielsache
+
+            
+Ka-n-er de Kinder gà,
+
+            
+
+            
+Make sich omit kleide noch,
+
+            
+Me macht Strumpfbàndel mit,
+
+            
+Un sunst so Dings, das alles doch
+
+            
+Isch g'macht vo Caoutchouc hit!
+
+            
+Un die Sache alle z'sàmmme 
+(bis)
+
+            
+We me se nimm brüche thüet,
+
+            
+Ka me jetz in d'Kuche nàmme,
+
+            
+'s isch noch fir dr Hunger güet.
+
+          
+
+        
+",7,lustig-d-singstund,103,13,0.1262135922330097,0.9673533621542972,0.0506166569133315,1.7039663624893555,0.1645558838726694,1.859992067869252,0.8491381604407675,0.0473276079901661,0.0533293667653043,0.0,0.1572532634461131,1.7057942026838415
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(nimmt 'm sine Läffel)
+
+          
+Zeige, fahre-n-ab jetz in d'Halle, Ihr kämme wieder,
+                        wenn dr Herr furt isch...
+
+        
+",8,lustig-d-singstund,27,1,0.037037037037037,0.9673533621542968,0.0506166569133315,1.703966362489356,0.1645558838726694,1.859992067869252,0.8491381604407675,0.0473276079901661,0.0533293667653043,0.0,0.1572532634461131,1.7057942026838415
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Glich, wie-n-er z'Nacht g'gesse hat... er geht in's
+                        Concert... un wenn Ihr brav sin un jetz gli geh'n, so
+                        versprich i Eüch e-n-Iwerraschung, wenn Ihr z'ruck
+                        kämme.
+
+        
+",8,lustig-d-singstund,42,3,0.0714285714285714,1.12838537134957,0.0506166569133315,1.880628815589933,0.2560904170631054,1.8905866072813609,1.0648154562750514,0.0473276079901661,0.0533293667653043,0.2627225506417129,0.1572532634461131,1.7030058880283043
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Bekumm i e Stätzle vom Hahne?
+
+        
+",9,lustig-d-singstund,9,1,0.1111111111111111,0.4213006764952675,0.8570958195496443,1.6164434935453236,0.2560904170631054,1.7736296542210366,0.5238075936641081,0.4084189023374701,0.0533293667653043,0.5873272682082789,0.1572532634461131,1.659584726949501
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Besser noch... dr ganze Hahne un dr Caoutchouc noch
+                        drzüe....
+
+        
+",9,lustig-d-singstund,14,1,0.0714285714285714,0.2570470032624304,0.8570958195496443,1.8287006006775623,0.2216742969627444,2.2576498439694763,0.3347913482711214,0.8495130855993732,0.0533293667653043,0.5873272682082789,0.1572532634461131,2.336763999452661
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Was! 's Nachtesse vo Eürem Herr?... o Marie, wenn Ihr
+                        das mache, so hirothe mr vierzeh' Tàg frieiher, ich
+                        gang gli Morn uf's G'meinhüs, fir is lo aschlage.
+
+        
+",9,lustig-d-singstund,39,5,0.1282051282051282,0.3424565784998413,1.0983492928452665,1.9193887091476491,0.2798815970238624,2.3228505056975743,0.489583273775475,0.9069187296785264,0.1208319392456233,0.6578759054284627,0.043640926750215,2.4993574880389926
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(voruse)
+
+          
+Marie!
+
+        
+",10,lustig-d-singstund,7,1,0.1428571428571428,0.3424565784998413,1.0983492928452665,1.9193887091476487,0.2798815970238623,2.3228505056975743,0.489583273775475,0.9069187296785264,0.1208319392456233,0.6578759054284627,0.043640926750215,2.499357488038993
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Was b'liebt, Herr?
+
+        
+",10,lustig-d-singstund,7,1,0.1428571428571428,0.1953374689196079,1.0983492928452665,1.817496282869357,0.2227631839337873,2.4071223293999484,0.2997180680164616,0.9069187296785264,0.1208319392456233,0.3951533547867498,0.043640926750215,2.608086849449164
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(voruse)
+
+          
+I find' mine Hàndschig niene.
+
+        
+",10,lustig-d-singstund,11,2,0.1818181818181818,0.2092503685346474,0.2918701302089538,1.2317056340175467,0.2571793040341482,1.716715963496101,0.3255301580917323,0.5458274353312222,0.1208319392456233,0.0705486372201839,0.043640926750215,1.8792548989048372
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Bigr! er isch scho an de Hàndschig... jetz isch's glaüb
+                        Zit, Pech z'kaüfe. I will noch g'schwind geh' ne Kàmi
+                        putze, derno kumm i wieder, wenn i denk ass er furt
+                        isch...
+
+        
+",10,lustig-d-singstund,43,4,0.0930232558139534,0.2092503685346474,0.2918701302089538,0.7547119003914327,0.2571793040341482,0.9744017163603572,0.3255301580917323,0.1047332520693189,0.1208319392456233,0.0705486372201839,0.043640926750215,0.983094810989314
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(voruse)
+
+          
+Awer Marie...
+
+        
+",10,lustig-d-singstund,8,1,0.125,0.0973902973052766,0.0,0.5233901877559954,0.2409128407025265,0.8040645418013781,0.1806846305268949,0.0,0.0,0.0,0.0,0.7415873272824369
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Adie.
+
+          
+Er geht hinte-n-üse, rechts. 's Marie thüet d'Läffel
+                        uf's Tischle rechts.
+
+        
+",11,lustig-d-singstund,22,2,0.0909090909090909,0.0695644980751976,0.0,0.8677073658428356,0.1720806005018046,1.166387077614657,0.1290604503763535,0.2618331301732978,0.2334183009945908,0.0,0.0,0.9715409707813472
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(kunnt ine dur d'zweite Thüre rechts)
+
+          
+He, Marie... ah! de bisch do Màgdle. Ich ha Dr g'rüefe,
+                        hasch mi denn nitt g'hört?
+(Er legt si Stock, si Hüet
+                        un sine Hàndschig uf dr Tisch.)
+
+          
+
+        
+",11,lustig-d-singstund,49,3,0.0612244897959183,0.0510139652551449,0.0,0.9087433208249738,0.1261924403679901,1.2228898994021191,0.0946443302759925,0.4363885502888299,0.2334183009945908,0.0,0.0,1.0581337188546749
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ich ha 's G'hör halt e wenig härt...
+
+        
+",11,lustig-d-singstund,11,1,0.0909090909090909,0.0371010656401053,0.0,0.8339732940026888,0.0917763202676291,1.108023536287637,0.0688322402007218,0.4363885502888299,0.2334183009945908,0.0,0.0,0.952192672100041
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Wenn nur Di Herz nitt so härt isch, as wie 's G'hör.
+
+        
+",12,lustig-d-singstund,17,2,0.1176470588235294,0.0510139652551449,0.0,0.908743320824974,0.1261924403679901,1.2228898994021196,0.0946443302759925,0.4363885502888299,0.2334183009945908,0.0,0.0,1.0581337188546749
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Wo will das üse, Herr...
+
+        
+",12,lustig-d-singstund,9,1,0.1111111111111111,0.0510139652551449,0.0,0.908743320824974,0.1261924403679901,1.2228898994021191,0.0946443302759925,0.4363885502888299,0.2334183009945908,0.0,0.0,1.0581337188546749
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Zeig, Marie, bisch doch nitt so spröd, ich bi jo ledig
+                        un ha ne ziemlig rund Vermöge, wie De weisch...
+
+        
+",12,lustig-d-singstund,28,2,0.0714285714285714,0.0649268648701844,0.0,0.4896561159158488,0.160608560468351,0.7457010004743581,0.1204564203512632,0.1745554201155318,0.0,0.0,0.0,0.7222390286011308
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo, awer Sie lehn sich allewil iwerschwàtze vo Ihrer
+                        alte Cüsine, d'Madame Ribise, wo Ihne ne Last Dummheite
+                        verzehlt iwer mich...
+
+        
+",12,lustig-d-singstund,28,5,0.1785714285714285,0.055651598460158,0.0,0.3984530986732605,0.1376644804014437,0.5696369411866435,0.1032483603010828,0.0,0.0,0.0,0.1243384849286747,0.5484227593574446
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Was frogsch cloch Dü no miner Cüsine un no dem, was sie
+                        sàit, Marie!...
+
+        
+",13,lustig-d-singstund,21,2,0.0952380952380952,0.0695644980751976,0.0,0.4732231254955457,0.1720806005018046,0.6845033043011262,0.1290604503763535,0.0,0.0,0.0,0.1243384849286747,0.6543638061120784
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Oh! ich ha nit z'ferchte, ich bi ne brave Person.
+
+        
+",13,lustig-d-singstund,16,2,0.125,0.055651598460158,0.0,0.3984530986732605,0.1376644804014437,0.5696369411866435,0.1032483603010828,0.0,0.0,0.0,0.1243384849286747,0.5484227593574446
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich weiss es, wege dem g'fallsch mr eso... denk' nur,
+                        alle-n-andere Käche, wo-n-i g'ha ha vor Dir, hàn
+                        Liebster g'ha...
+
+        
+",13,lustig-d-singstund,33,2,0.0606060606060606,0.0417386988451185,0.0,0.3236830718509755,0.1032483603010828,0.4547705780721608,0.077436270225812,0.0,0.0,0.0,0.1243384849286747,0.4424817126028106
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Soldate-n-un so Dings...
+
+        
+",13,lustig-d-singstund,9,2,0.2222222222222222,0.0417386988451185,0.0,0.3236830718509755,0.1032483603010828,0.4547705780721608,0.077436270225812,0.0,0.0,0.0,0.1243384849286747,0.4424817126028106
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+O bi-n-i als gli fertig gsi mit Ihne : mi Cüsine hat als
+                        nog'frogt iwer se un wenn i 's G'ringste g'sàh' ha, so
+                        ha-n-ise vor d'Thüre g'stellt Nümero eis! Awer, Dü,
+                        Marie, Dü bisch brav...
+
+        
+",14,lustig-d-singstund,50,2,0.04,0.055651598460158,0.0,0.2990801072891402,0.1376644804014437,0.4594654524579303,0.1032483603010828,0.0,0.0,0.0,0.0,0.4237641870185353
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Uf jedefall, Herr, bi-n-i brav, un wenn i mr wott lo dr
+                        Hof mache vo Eim, so wàr's nur fir dr bon motif...
+
+        
+",14,lustig-d-singstund,33,6,0.1818181818181818,0.1581435908946601,0.1259424117627307,0.4679572574154072,0.1741639465780357,0.5893315960460412,0.2411610266552944,0.0872777100577657,0.1006932827046861,0.0587905310168199,0.0363674389585125,0.5545115077773897
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Heisch Dü d'Hiroth dr bon motif?
+
+        
+",15,lustig-d-singstund,11,1,0.0909090909090909,0.1859693901247391,0.1259424117627307,0.6174973110599773,0.2429961867787576,0.8190643222750064,0.2927852068058358,0.0872777100577657,0.1006932827046861,0.0587905310168199,0.0363674389585125,0.7663936012866575
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Natirlig, Herr, was meine Sie denn?
+
+        
+",15,lustig-d-singstund,11,2,0.1818181818181818,0.1859693901247391,0.1259424117627307,0.6174973110599773,0.2429961867787576,0.8190643222750064,0.2927852068058358,0.0872777100577657,0.1006932827046861,0.0587905310168199,0.0363674389585125,0.7663936012866575
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Dü hasch ganz recht, Marie, doch möcht i jetz z'Nacht
+                        esse
+
+        
+",15,lustig-d-singstund,17,3,0.1764705882352941,0.1813317569197259,0.1259424117627307,0.7255451504321595,0.231524146745304,0.98770991470163,0.2841811767807456,0.2102412012545057,0.1006932827046861,0.0587905310168199,0.0363674389585125,0.9809017876128742
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Jetz geht's los.
+(lüt)
+ Z'Nacht esse! jà, jà, 's isch
+                        noch wit dervo, vom z'Nachtesse, dà Caoutchouc, da
+                        müess ewe lang koche.
+
+        
+",15,lustig-d-singstund,40,5,0.125,0.2275551667518054,0.2910127177500696,1.068750589114402,0.197108026644943,1.3414973176683354,0.3236507488325613,0.3636610858973966,0.1006932827046861,0.1788187870472478,0.2741592669433224,1.3226858545490503
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Wie sàisch, Caoutchouc?... Racahout witt sage... 's isch
+                        schint's excellent, das Ding, fir d'magere Lit, 's
+                        füllt e wenig d'Ecke-n-üs... i ha's vom e-n-alte
+                        Schüelkamerad, wo-n-i gestert atroffe ha... dà ha-n-i
+                        gar nimm kennt, sa dick isch er worde, 's isch wohr, i
+                        ha-n-en scho vierzig Johr nimm g'sàh g'ha, un das hat
+                        er im Racahout z'verdanke...
+
+        
+",16,lustig-d-singstund,90,4,0.0444444444444444,0.1932771113186824,0.1650703059873389,0.9574717254127876,0.1434005004181705,1.225911839659394,0.2544341150995722,0.2763833758396305,0.0,0.1200282560304278,0.2377918279848098,1.1954878947417442
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ass Sie-n-en scho sa lang nimm g'sàh hàn, Herr?
+
+          
+
+        
+",17,lustig-d-singstund,15,2,0.1333333333333333,0.1793642117036428,0.1650703059873389,0.8827016985905025,0.1089843803178096,1.1110454765449114,0.2286220250243015,0.2763833758396305,0.0,0.1200282560304278,0.2377918279848098,1.0895468479871102
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Nei, ass er so dick worde-n-isch... Dü serviersch mir
+                        jetz alle Tag dervo, Marie.
+
+        
+",17,lustig-d-singstund,23,1,0.0434782608695652,0.1932771113186824,0.1650703059873389,0.9574717254127876,0.1434005004181705,1.225911839659394,0.2544341150995722,0.2763833758396305,0.0,0.1200282560304278,0.2377918279848098,1.1954878947417442
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo, Herr, awer e-n-andermol müess i frieiher afange
+                        koche, denn hit geht's allewil noch e Stund, bis Se
+                        känne z'Nacht esse.
+
+        
+",17,lustig-d-singstund,32,4,0.125,0.1909582947161758,0.1650703059873389,0.9362551118596134,0.1376644804014437,1.1375474265864205,0.2501321000870272,0.1534198846428906,0.0,0.1200282560304278,0.3932149341456532,1.083832400461847
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Noch e Stund... das geht viel z'lang. De weisch, ass ich
+                        gern vorne sitz im e Concert, ass i d'Sàngere ka
+                        b'schaüe... Dr Boursesaal isch ewe lang un mi G'sicht
+                        kurz... ich möcht nitt z'spot ku.
+
+          
+
+            
+G'sang
+
+            
+('s freit mi nitt ass das)
+
+            
+Wenn ich in's Concert gang,
+
+            
+So b'sinn ich mich nitt lang
+
+            
+Un mach' mi glich ganz nooch derzüe,
+
+            
+Um dass ich alles höre thüe
+
+            
+O d'Sàng're zieh'n mich a,
+
+            
+Mehr as ich sage ka.
+
+            
+Wie wird's hit wieder lustig si,
+
+            
+I frei mi scho druf hi!
+
+          
+
+          
+Awer wege dem gieng ich doch nitt gern mit em leere
+                            Mage... Ich kännt awer eigentlig in's Restaurant
+                            geh' esse?...
+
+        
+",18,lustig-d-singstund,137,15,0.1094890510948905,0.132677038551062,0.1553713368414794,0.7256303624751298,0.1422532964148251,0.9443702176463074,0.1882920499699768,0.2402313018449817,0.0,0.1014537567223222,0.3213896813523161,0.984917157546816
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Endlig packt's jetz emol...
+(lüt)
+ Jo, jo, ich glaüb, dr
+                        Herr thàt viel besser.
+
+        
+",19,lustig-d-singstund,27,4,0.1481481481481481,0.132677038551062,0.1553713368414794,0.9312668261645656,0.1422532964148251,1.1954816388816731,0.1882920499699768,0.2402313018449817,0.0,0.1014537567223222,0.4981608550658917,1.213678333063383
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+C'est çà!
+
+        
+",19,lustig-d-singstund,6,1,0.1666666666666666,0.1465899381661016,0.1553713368414794,1.0060368529868506,0.1766694165151861,1.310348001996156,0.2141041400452475,0.2402313018449817,0.0,0.1014537567223222,0.4981608550658917,1.319619379818017
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Awer Ihr Nachtesse, wo jetz uf em Fir isch?
+
+        
+",19,lustig-d-singstund,13,2,0.1538461538461538,0.2691049125538201,0.1553713368414794,1.2575573851316484,0.1078371763144642,1.5385299289501706,0.3256841152124221,0.5020644320182799,0.0,0.1014537567223222,0.4981608550658917,1.562548270585738
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich loss Dir's, Mariettle, stell mr nur e wenig Racahout
+                        z'ruck, fir wenn's Concert üs isch.
+(Er nimmt si Hüet
+                        un si Stock un geht.)
+
+        
+",19,lustig-d-singstund,38,6,0.1578947368421052,0.4718857557617751,0.2932840957211265,1.479008101862002,0.2301699121167453,1.6710655476777063,0.6068205097841458,0.5020644320182799,0.1102637961595791,0.2971933793770705,0.5169749683570963,1.6519247442112237
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo, Herr.
+
+        
+",20,lustig-d-singstund,6,1,0.1666666666666666,0.4978565017098489,0.1379127588796471,1.421197439386528,0.2944133363040858,1.6253217167655964,0.6550030779246512,0.2618331301732978,0.1102637961595791,0.1957396226547483,0.3510083931656235,1.514996966944712
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ah! i ha doch g'wisst, ass mr ebbes fehlt! mine
+                        Brille... gang, hol mr se doch, denn die derf i nitt
+                        vergesse.
+
+        
+",20,lustig-d-singstund,32,5,0.15625,0.4212948249394462,0.1379127588796471,1.1131006731790687,0.2909717242940497,1.291009812082372,0.5708197912582661,0.2618331301732978,0.1102637961595791,0.1957396226547483,0.1742372194520479,1.2191218024238168
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Sie brüche se jo nitt, Herr, Se hàn je Ihre Lorgnette.
+
+        
+",20,lustig-d-singstund,16,1,0.0625,0.4212948249394461,0.1379127588796471,1.1131006731790687,0.2909717242940497,1.291009812082372,0.5708197912582661,0.2618331301732978,0.1102637961595791,0.1957396226547483,0.1742372194520479,1.2191218024238168
+comedy,group,sex_unknown,job_unknown,job_category_unknown,social_class_unknown,"
+          
+Herr Tahnezapfe
+
+          
+(grifft sine Säck)
+
+          
+Jo, 's isch wohr... un mi Hüsschlissel... i ha-n-en...
+                        güet, De brüchsch nitt uf mi z'warte.
+
+        
+",21,lustig-d-singstund,32,5,0.15625,0.2765192111676645,0.2967578146426705,0.9282105148029488,0.3047381723341941,1.116197332498898,0.449511172397018,0.1047332520693189,0.1102637961595791,0.2288776628185867,0.281040227277392,1.0561990029956898
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Merci Mariettle.
+
+        
+",21,lustig-d-singstund,6,1,0.1666666666666666,0.0946077173822686,0.1588450557630233,0.6946985990758725,0.2340296166824543,1.0182468975321943,0.2070929129382003,0.1047332520693189,0.0,0.0331380401638384,0.106803007825344,0.9699108840785188
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Amüsiere Sie sich güet.
+
+        
+",21,lustig-d-singstund,7,2,0.2857142857142857,0.0667819181521896,0.1588450557630233,0.975448519880006,0.1651973764817324,1.2062225675516782,0.1554687327876589,0.6004474331593459,0.0,0.0331380401638384,0.106803007825344,1.268840865499583
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Oh, im Concert in dr Bourse ha-n-ich nie kei lange
+                        Zit.
+
+        
+",21,lustig-d-singstund,18,3,0.1666666666666666,0.0704920247162001,0.1588450557630233,0.995387193699282,0.1743750085084953,1.2368535977155402,0.1623519568077311,0.6004474331593459,0.0,0.0331380401638384,0.106803007825344,1.297091811300819
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ich fir mi Theil gang liewer in dr Cercle... 's isch
+                        viel luschtiger dert.
+
+        
+",21,lustig-d-singstund,18,4,0.2222222222222222,0.1178366122950198,0.1588450557630233,1.0788507003231946,0.1055427683077735,1.2251273850872215,0.1923298543160477,0.738530253907139,0.0,0.0331380401638384,0.106803007825344,1.3093815795804482
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(lüegt uf d'Uehre)
+
+          
+Bol Siewene... i ha grad noch dr Zit, ane z'ku... i
+                        müess halt nochher z'Nacht esse... 's schmeckt mr derno
+                        desto besser... Adie, Marie...
+
+          
+
+        
+",22,lustig-d-singstund,41,8,0.1951219512195122,0.1157496773527639,0.0,1.0670296101392047,0.1003803502927193,1.2212833654877842,0.1568873403783975,0.6992552843811443,0.0583545752486477,0.0,0.0909019024968387,1.2644265566166095
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Adie, Herr...
+
+          
+
+            
+G'sang
+
+            
+(rutsch hi, rutsch her)
+
+            
+'s isch d'höchste Zit,
+
+            
+Wenn Sie ne güeter Platz wànn ha,
+
+            
+Denn 's isch noch wit,
+
+            
+Drum g'schwind e Tràpple g'schla,
+
+            
+Ich wärm Ene derwilst Ihr Bett.
+
+          
+
+        
+",22,lustig-d-singstund,47,7,0.1489361702127659,0.0918989922984104,0.0,1.019641920047754,0.0413812872635291,1.1036748296149812,0.1126380431065048,0.6992552843811443,0.1250455183899593,0.0,0.0909019024968387,1.1114031968626426
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+
+            
+Dü kunnsch in's Testament, Mariett',
+
+          
+
+        
+",23,lustig-d-singstund,11,2,0.1818181818181818,0.10581189191345,0.290005377515866,0.9283351146266796,0.0757974073638901,1.307870397951271,0.1384501331817755,0.2035411032911172,0.1250455183899593,0.0,0.4790435899746897,1.0802050412345026
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Beide.
+
+          
+
+            
+Doch jetz isch's Zit,
+
+            
+Denn 's isch misegs noch wit.
+
+            
+(Herr Tannezapfe geht hinte-n-üse, links.)
+
+          
+
+        
+",23,lustig-d-singstund,26,2,0.0769230769230769,0.1104495251184631,0.290005377515866,0.9532584569007746,0.0872694473973437,1.3461591856560984,0.1470541632068658,0.2035411032911172,0.1250455183899593,0.0,0.4790435899746897,1.1155187234860473
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Beide.
+
+          
+
+            
+Doch jetz isch's Zit,
+
+            
+Denn 's isch misegs noch wit.
+
+            
+(Herr Tannezapfe geht hinte-n-üse, links.)
+
+          
+
+        
+",23,lustig-d-singstund,26,2,0.0769230769230769,0.0491920379246039,0.290005377515866,0.7950249234545771,0.1216855674977046,1.2430190351699346,0.0912641756232785,0.0654582825433242,0.1250455183899593,0.0,0.4790435899746897,0.9972879084517838
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(allei, deckt dr Tisch)
+
+          
+Endlig, i ha g'meint, er kunnt nitt furt!... Dà güete
+                        Herr! wenn er wisse thàt, ass sie Nachtesse g'rischtet
+                        isch un ass ich's verzehre will mit em Schlüch... 's
+                        isch halt, fir mi Hochzit z'avanciere... Dà Idee wàr in
+                        mine zwe erste, wo-n-i g'ha ha, nie iku... im Herr
+                        Gager üs dr Fresheweid un im Herr Papegài üs dr Cité...
+                        schöne Mànner, i müess es sage... awer Farceurs, wo
+                        glaüb eher im Mond wàre geh' d'Kàminer putze, ebb se mr
+                        vom Hirothe g'redt hätte... I ha miesse do ane ku züe
+                        der Giesserei üse, fir das z'finde... 's isch g'wiss
+                        possig, scho dreimol ha-n-i jetz dr Platz g'changiert
+                        un allemol hat, sich's troffe, ass e Kàmifeger dernàwe
+                        wohnt... was mir 
+gar nit g'macht hat, denn mi Herz hat
+                        vo jeher fir Kàmifeger stärker g'schla... zwei Sache
+                        b'sunders gfalle mr bi dere Sorte Lit... ihre wisse
+                        Zähn un ihre schrecklige-n-Aüge...
+
+          
+
+            
+G'sang
+
+	    
+(müess i denn) bis.
+
+            
+Schaüt mich e Kàmifeger a - feger a,
+
+            
+So klopft mr 's Herz von Freid,
+
+            
+Vor Lust ha-n-ich scho Gàns'hüt g'ha - Gàns'hüt g'ha,
+
+            
+Wenn Ein' mr ebbes sàit,
+
+            
+Un zeigt er erst noch sine Zähn,
+
+            
+Derno erst isch er schön,
+
+            
+Schäut mich e Kàmifeger a - feger a,
+
+            
+So kunnt mi d'Gàns'hüt a.
+
+          
+
+          
+So, jetz isch dr Tisch deckt, jetz wird mi dr Schlüch
+                        gli noch mache z'warte...
+(Me klopft a hinte, rechts.)
+
+                        Aha, do isch er... ich kenn 'n, er schmeckt vo zeh'
+                        Schritt scho no Rüess... Entrez!...
+
+        
+",24,lustig-d-singstund,318,26,0.0817610062893081,0.1846540628400263,0.3405382721562143,0.8664893733051823,0.1705916251814275,1.231515372309217,0.2671726180788778,0.0271060283752582,0.1082899958494596,0.0128545709067748,0.429782818182634,0.984973888279814
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Was sieh-n-i? mi Kàmifeger üs der Frescheweid!
+
+        
+",25,lustig-d-singstund,16,1,0.0625,0.4813604958998958,0.3405382721562143,1.1442702090952437,0.1607584480098958,1.406246570498697,0.586206045835661,0.0271060283752582,0.0415990527081479,0.0128545709067748,0.429782818182634,1.1521946918399724
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Herr Gager!
+
+          
+
+        
+",25,lustig-d-singstund,5,1,0.2,0.4952733955149352,0.0505328946403483,0.954827093712184,0.1951745681102568,1.0140753321429234,0.6120181359109317,0.0271060283752582,0.0415990527081479,0.0128545709067748,0.0416411307047829,0.8844628660470478
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Jà, dr Gager, dr unglicklige Gager! dass isch nitt schön
+                        vo Eüch, Jumpfer Marie!
+
+        
+",25,lustig-d-singstund,21,2,0.0952380952380952,0.4813604958998957,0.3103478855573179,1.111875516718714,0.1607584480098958,1.1740415752403848,0.586206045835661,0.3794843972536189,0.0458122687770717,0.0971188922852514,0.3159683103036013,1.1354426497756371
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Ihr hàn g'wiss schlecht g'handelt gege mir... Ich, wo
+                        wàhrend drei Monet in Eüch ganz vernarrt gsi bi' wo fir
+                        Eüch in's engste Kàmi g'schlupft wàr, ich sieh' am e
+                        schöne Morge, ass Ihr furt sin üs Eürem Platz, ohne mir
+                        nur e Wörtle z'schnüfe dervo... Nun-de-bib noch emol!
+                        Ihr hàn Eüch g'wiss schlecht ufg'fiehrt gege mir...
+
+        
+",26,lustig-d-singstund,69,8,0.1159420289855072,0.5050327896893057,0.3103478855573179,1.1344613329316802,0.1263423279095349,1.1726325282434016,0.6011949945898193,0.4255957064523963,0.0458122687770717,0.0971188922852514,0.3159683103036013,1.151444745902096
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ich will's I expliziere, Herr Gager...
+(fir sich)
+
+                        Herrje, wenn der Schlüch jetz kunnt.
+
+        
+",26,lustig-d-singstund,23,2,0.0869565217391304,0.5303462131029603,0.2598149909169696,1.123384172345692,0.1032483603010828,1.1631720944913544,0.607849775008389,0.3984896780771378,0.0042132160689237,0.0842643213784766,0.2743271795988183,1.1358064196014062
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Tag un Nacht ha-n-i g'frogt und g'süecht un ha endlig
+                        erfahre, ass Ihr bi dr Giesserei hinte im e-n-alte
+                        Knochepeter sine Suppe koche, und do ha-n-i mi halt
+                        glich uf dr Weg g'macht, un do bi-n-i...
+
+        
+",27,lustig-d-singstund,49,7,0.1428571428571428,0.2296646658673654,0.2598149909169696,0.8725419038727187,0.1032483603010828,1.0111343992555435,0.3750098325584211,0.4732991438409373,0.1101746192315782,0.214932997829691,0.2743271795988183,1.0517424472743322
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ohne mich z'preveniere...
+
+        
+",27,lustig-d-singstund,7,1,0.1428571428571428,0.2018388666372863,0.9480273184708904,1.5370299597846142,0.0344161201003609,1.4910026835209316,0.8933311448794082,0.4732991438409373,0.1101746192315782,0.5886058703772494,0.6580653147065803,1.379610058555982
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Bi-n-i ebbe nitt recht ku, oder bi-n-i z'viel do?
+
+        
+",27,lustig-d-singstund,18,2,0.1111111111111111,0.2018388666372863,0.6882123275539207,1.3052115099557997,0.0344161201003609,1.2161700773089874,0.8933311448794082,0.1209207749625766,0.1059614031626544,0.5043415489987729,0.3837381351077619,1.022689228072759
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Isch dr Alt viellicht e Hitzkopf?
+
+        
+",27,lustig-d-singstund,9,1,0.1111111111111111,0.1642536732328369,0.6882123275539207,1.207855666920548,0.0344161201003609,1.1027127611914882,0.8525301060499793,0.0748094657637991,0.1059614031626544,0.5043415489987729,0.3837381351077619,0.9007460851916662
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Marie, ich sieh scho, siter ass ich do bi, thien Ihr
+                        mich grad nitt mit Liewenswörtle iwerhiffe...
+                        Nun-de-bib noch emol!... Hat ebbe einer mi Platz ignu
+                        bi Euch?
+
+        
+",28,lustig-d-singstund,37,1,0.027027027027027,0.0,0.6882123275539207,1.4406592211533489,0.0,1.664640685491279,0.6635138606569926,0.0748094657637991,0.1059614031626544,0.5043415489987729,1.1109533550824715,1.5616769973338664
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Herr Gager!
+
+        
+",28,lustig-d-singstund,5,1,0.2,0.0278257992300789,0.6882123275539207,1.461108343927712,0.0688322402007218,1.7595557184104131,0.6215696726220699,0.0,0.0,0.3736728725475584,1.1109533550824715,1.6315435258547493
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Ah! jetz kunnt's mr... 's wird dà Kàmifeger üs dr Cité
+                        si, wo Eüch als vor mir dr Hof g'macht hat, wo mir
+                        schade thüet...
+
+        
+",28,lustig-d-singstund,32,3,0.09375,0.2416592376067722,0.0,0.8713375143335547,0.0688322402007218,1.201032840436479,0.0516241801505414,0.0,0.0,0.0,0.7272152199747096,1.1377081677134748
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Was, er weisst's?
+
+        
+",28,lustig-d-singstund,11,1,0.0909090909090909,0.5423407848423673,0.0,1.251270713676735,0.0688322402007218,1.4878882289821211,0.3780324907859733,0.0,0.0,0.0,0.7272152199747096,1.3637877050289338
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Ich kenn 'n nitt, awer ich will Achtung gà uf sine
+                        Manöver, und wenn i ne verwitsch do ummenander, sao hat
+                        er si letscht Kàmi üsg'rackelt...
+
+        
+",29,lustig-d-singstund,32,3,0.09375,0.5423407848423673,0.0,1.3920000377552535,0.0688322402007218,1.6975462015888936,0.3780324907859733,0.1745554201155318,0.0,0.0,0.7272152199747096,1.59163518210844
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Nu jo! wenn er dr Schlüch sieht...
+(lüt)
+ das isch
+                        awer...
+
+        
+",29,lustig-d-singstund,21,2,0.0952380952380952,0.6926815584601648,0.0,1.4956993840790385,0.0688322402007218,1.522974756645352,0.5412366461036893,0.1745554201155318,0.0,0.0,0.3535423474271512,1.28228557424474
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Kalt mach i ne, Nun-de-bib noch emol!
+
+        
+",29,lustig-d-singstund,11,1,0.0909090909090909,0.6648557592300858,0.0,1.3461593304344686,0.0,1.2932420304163867,0.4896124659531479,0.1745554201155318,0.0,0.0,0.3535423474271512,1.070403480735472
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(geht rechts)
+
+          
+Jà, worum denn mache-n-Ihr ne kalt, dà Mann? wil er
+                        ordentliger gsi isch as Ihr, un mir si Herz un si Hand
+                        offriert hat?
+
+        
+",29,lustig-d-singstund,36,4,0.1111111111111111,0.4510223208533924,0.1623023587832829,1.2180215533493493,0.0,1.3266446162712415,0.4896124659531479,0.1745554201155318,0.0,0.0,0.3535423474271512,1.2049894159096162
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Eh bien, jà, i bi g'hirothe, un wenn Eüch mi Mann do
+                        atrifft...
+
+          
+
+        
+",30,lustig-d-singstund,19,2,0.1052631578947368,0.1503407736177974,0.4725974878959785,1.1199002531579652,0.0,1.3963970961509242,0.1632041553177159,0.4421832630976345,0.0,0.0,0.6829650060219755,1.3829973180759865
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(salütirt)
+
+          
+Ah! derno isch's ebbes anders... Do blibt mr nur noch,
+                        si Courage z'bewundere, wo-n-er g'ha hat,
+(fir sich)
+ so
+                        ne Dummheit hätt Kein g'macht üs dr Frescheweid.
+
+        
+",30,lustig-d-singstund,43,5,0.1162790697674418,0.2104770830649164,0.4725974878959785,1.2323241573400856,0.0,1.4154006976905074,0.2284858174448023,0.2676278429821024,0.0,0.0669339960253538,0.8598619955175536,1.41082796541148
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+'s isch viellicht Eüer Mann
+(dr Herr Papagài kunnt
+                        hinte-n-ine, rechts)
+. Was ha-n-i g'sàit?
+
+        
+",30,lustig-d-singstund,25,3,0.12,0.0694115758571452,0.4725974878959785,0.6809313148378141,0.0229440800669072,0.8463277363566093,0.0824897221772668,0.2676278429821025,0.0,0.0669339960253538,0.5063196480904024,0.910893210223706
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+O je!... mi Feger üs der Cité...
+
+        
+",31,lustig-d-singstund,15,1,0.0666666666666666,0.3700931230927403,0.4725974878959785,1.0608645141809945,0.0229440800669072,1.1331831249022517,0.4088980328126988,0.2676278429821025,0.0,0.0669339960253538,0.5063196480904024,1.1369727475391649
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Ne Co... Colleg!
+
+        
+",31,lustig-d-singstund,9,1,0.1111111111111111,0.6707746703283353,0.3102951291126956,1.3446782106469857,0.0229440800669072,1.2355577950726198,0.7353063434481307,0.2676278429821025,0.0,0.0669339960253538,0.5063196480904024,1.1825520030308363
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(lislig züem Marie)
+
+          
+Ihr brüche kei Angst z'ha... I will I nitt
+                        compromettiere.
+
+        
+",31,lustig-d-singstund,19,1,0.0526315789473684,0.6707746703283353,0.6680818024335136,1.9987936836948184,0.0229440800669072,1.3293860938645352,1.686848503098156,0.0,0.0,0.0669339960253538,0.1768969894955781,1.0510713577208628
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(lislig züem Papegài, ditet uf der Gager)
+
+          
+Mi Mann!
+
+        
+",31,lustig-d-singstund,14,2,0.1428571428571428,0.6106383608812163,0.6680818024335136,1.9567344415519567,0.0229440800669072,1.4152114786283383,1.6215668409710695,0.2618331301732978,0.0,0.0,0.0,1.1371644489251227
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(lislig züem Papegài)
+
+          
+Siter drei Monet
+(lislig züem Gager)
+ Er isch nitt recht
+                        z'friede, ass Ihr do sin...
+
+        
+",31,lustig-d-singstund,26,2,0.0769230769230769,0.6013630944711899,0.9087804049749074,2.045130365379248,0.0,1.665150438664788,1.604358780920889,0.5842573047403743,0.0,0.0,0.3369780435579514,1.4902529147465695
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(fir sich)
+
+          
+Ich glaüb's scho.
+
+        
+",32,lustig-d-singstund,10,2,0.2,0.4510223208533924,0.9087804049749074,1.8551637657076576,0.0,1.521722744391967,1.441154625603173,0.5842573047403743,0.0,0.0,0.3369780435579514,1.3772131460888402
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(lislig züem Papegài)
+
+          
+'s geht 'm glaüb nur halwer, Eüch do az'treffe.
+
+        
+",32,lustig-d-singstund,17,1,0.0588235294117647,0.1503407736177974,0.9087804049749074,1.4752305663644774,0.0,1.2348673558463248,1.1147463149677417,0.5842573047403743,0.0,0.0,0.3369780435579514,1.151133608773381
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Ich dà... dà... danks wohl.
+
+        
+",32,lustig-d-singstund,13,2,0.1538461538461538,0.3006815472355949,0.2406986025413938,0.7292697938364384,0.0,0.9278588829019055,0.3264083106354319,0.5842573047403743,0.0,0.0,0.3369780435579514,0.9915665832592544
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(in alle Beide lislig)
+
+          
+Sin still... sin still...
+(lüt un wàhrend ass Beide sich
+                        dr Ricke kehre un sich nitt traüe alüege)
+ Liewer
+                        Mann...
+
+        
+",32,lustig-d-singstund,32,5,0.15625,0.3006815472355949,0.2406986025413938,0.682684978670209,0.0,0.8142610609800396,0.3264083106354319,0.3224241745670761,0.0,0.0,0.4783949825288118,0.8328043080532488
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(fir sich)
+
+          
+Se thüet 'm e Bàre-n-abinde.
+
+        
+",32,lustig-d-singstund,13,1,0.0769230769230769,0.6013630944711899,0.0,0.9243755696379086,0.0,0.7745999140795773,0.6528166212708639,0.0,0.0,0.0,0.1414169389708604,0.6351680150441716
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Se losst en bla... bla... blaü alaüfe.
+
+        
+",33,lustig-d-singstund,15,1,0.0666666666666666,0.7517038680889875,0.0,1.114342169309499,0.0,0.9180276083523982,0.8160207765885797,0.0,0.0,0.0,0.1414169389708604,0.7482077837019012
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Dà Herr isch dr Cüsin, wo-n-ich Dr scho vielmol vo-n-'m
+                        g'redt ha...
+
+        
+",33,lustig-d-singstund,20,1,0.05,0.7795296673190665,0.0,1.263882222954069,0.0688322402007218,1.1477603345813634,0.8676449567391213,0.0,0.0,0.0,0.1414169389708604,0.9600898772111688
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(fir sich)
+
+          
+Ich bi-n-en, dr Cüsin...
+
+        
+",33,lustig-d-singstund,13,1,0.0769230769230769,0.929870440936864,0.0,1.453848822625659,0.0688322402007218,1.2911880288541844,1.0308491120568373,0.0,0.0,0.0,0.1414169389708604,1.0731296458688984
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Ich bi dr Cü... Cü...
+
+        
+",33,lustig-d-singstund,12,1,0.0833333333333333,1.2305519881724591,0.0,1.669272851017291,0.0688322402007218,1.377154280411534,1.3572574226922691,0.0,0.0,0.0,0.0,1.1162002427711035
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Er isch mr ku ne kleine Visite abstatte. 's isch
+
+          
+g'wiss 's erstemol. Dü sàisch nit?...
+
+        
+",33,lustig-d-singstund,22,2,0.0909090909090909,0.929870440936864,0.0,1.289339651674111,0.0688322402007218,1.0902988918658918,1.0308491120568373,0.0,0.0,0.0,0.0,0.8901207054556448
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Er isch we... we... wexiert.
+
+        
+",34,lustig-d-singstund,13,1,0.0769230769230769,0.929870440936864,0.0,1.289339651674111,0.0688322402007218,1.0902988918658916,1.0308491120568373,0.0,0.0,0.0,0.0,0.8901207054556448
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(fir sich)
+
+          
+Was fir e Hundscharacter!
+
+        
+",34,lustig-d-singstund,10,2,0.2,1.5034077361779747,0.0,1.8996659967159009,0.0,1.4342769427282112,1.6320415531771597,0.0,0.0,0.0,0.0,1.1303976865772951
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Dü brietelsch ebbes... ich kenn Di... De wirsch jetz
+                        glich in Zorn g'rothe un uf eimol wird's üsbreche...
+
+          
+
+        
+",34,lustig-d-singstund,24,3,0.125,1.2027261889423797,0.0,1.6604621214512392,0.0,1.3570795267893412,1.305633242541728,0.1745554201155318,0.0,0.0,0.0,1.1321656263413424
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Bi-biger...
+
+        
+",34,lustig-d-singstund,7,1,0.1428571428571428,1.20272618894238,0.0,1.6604621214512392,0.0,1.3570795267893412,1.305633242541728,0.1745554201155318,0.0,0.0,0.0,1.1321656263413424
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(fir sich)
+
+          
+Er isch in sim Recht... 's isch dr Mann .. . ich will mi
+                        üs em Staüb mache...
+(Er geht uf de Zeche gege dr
+                        Thüre).
+
+        
+",34,lustig-d-singstund,36,5,0.1388888888888889,1.262862498389499,0.0,1.8208863557669863,0.0,1.5402453880625333,1.370914904668814,0.2792886721848511,0.0,0.0,0.0,1.314090020052138
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Ich gang a-ab...
+(Er macht 's Gliche).
+
+        
+",35,lustig-d-singstund,16,2,0.125,1.1125217247717014,0.0,1.8695122600495573,0.0,1.7550467930002474,1.2077107493510983,0.2792886721848511,0.0,0.0,0.2555365530999339,1.4642060499669982
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Güet!... se mache si dervo.
+
+        
+",35,lustig-d-singstund,13,2,0.1538461538461538,0.6614994039183089,0.0,1.299612461034787,0.0,1.324763710181784,0.7180982833979502,0.2792886721848511,0.0,0.0,0.2555365530999339,1.1250867439938097
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Das isch im Schlüch si Stimm'.
+(Se geht geh 's Riegele
+                        stosse. Lüt)
+ 's isch mi Herr... Wenn er Eüch do
+                        findet...
+
+        
+",35,lustig-d-singstund,33,4,0.1212121212121212,0.9549967542990028,0.0,1.7053806540495782,0.0172080600501804,1.6807484936381345,0.8126064060944437,0.1047332520693189,0.0,0.0,0.4323077268135095,1.366200352062256
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Do in das Cabinet...
+(Se stosst ne in's linke Cabinet,
+                        erster Plan)
+ un sin rüehig.
+(zum Papegài)
+ Un Ihr...
+
+        
+",36,lustig-d-singstund,30,3,0.1,0.654315207063408,0.1863708000822794,1.4931682015153045,0.0172080600501804,1.6471610512802286,0.4861980954590116,0.1047332520693189,0.0,0.0,0.4323077268135095,1.3602954656071409
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài.
+
+          
+Thien mi nur nitt züe Eürem Ha-halbwilde vo Mann...
+
+        
+",36,lustig-d-singstund,12,1,0.0833333333333333,0.594178897616289,0.1863708000822794,1.3327439671995571,0.0172080600501804,1.4639951900070367,0.4209164333319252,0.0,0.0,0.0,0.4323077268135095,1.1783710718963454
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(macht 's Cabinet uf rechts, erster Plan)
+
+          
+In das do, un mücke-n-I nitt...
+
+        
+",36,lustig-d-singstund,21,4,0.1904761904761904,0.4438381239984913,0.326148900143989,1.2548186687164553,0.0172080600501804,1.4886473852248296,0.2577122780142093,0.1309165650866487,0.0,0.0,0.3045394502635425,1.2697699999072083
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(klopft)
+
+          
+He... Marie!
+
+          
+(Marie macht d'Thüre-n-nf hinte, rechts.)
+
+        
+",36,lustig-d-singstund,20,1,0.05,0.2934973503806938,0.326148900143989,1.5420370769531866,0.0172080600501804,2.061677889373079,0.0945081226964933,0.1309165650866487,0.0,0.0,0.8156125564634106,1.6830418283946589
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(kunnt ine)
+
+          
+Do bi-n-i jetz... fröhlig wie ne Vogel in dr Luft... un
+                        mit eme Appetit... tiens, isch dr Brotes no nitt uf em
+                        Tisch?...
+
+        
+",37,lustig-d-singstund,36,1,0.0277777777777777,0.0,0.326148900143989,1.4177275320954323,0.0,2.1250090511302737,0.0,0.654582825433245,0.0,0.0,0.6388413827498349,1.897623174485225
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+'s isch unmöglich fir hit z'Owe, dr Herr isst d'heim..
+
+        
+",37,lustig-d-singstund,16,3,0.1875,0.1095024488218912,0.1397781000617096,1.4264978696157762,0.0229440800669072,2.04393714320074,0.1260108302619911,0.654582825433245,0.0,0.0,0.6388413827498349,1.82343573389979
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Was verzähle-n-Ihr do!... i ha-n-en grad g'sah abfahre
+                        in's Concert.
+
+        
+",37,lustig-d-singstund,20,1,0.05,0.1095024488218912,0.1397781000617096,1.9240380503424528,0.0229440800669072,2.864159124887834,0.1260108302619911,0.654582825433245,0.0,0.0,1.3660566027245444,2.703347461454354
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+'s macht nit, er kunnt wieder...
+
+        
+",37,lustig-d-singstund,10,1,0.1,0.1095024488218912,0.0,2.050589253108125,0.0229440800669072,3.054308334607756,0.1260108302619911,0.5236662603465959,0.0,0.0,1.7493614323744455,2.762064563358352
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Sunscht gang i uns geh lo abschla' uf em G'meinhüs...
+                        Kei Hahne, kei Hochzit!...
+
+        
+",38,lustig-d-singstund,20,3,0.15,0.232809784099083,0.2518848235254614,1.8842075147676571,0.1418311725539058,2.6551191113336694,0.3274495128589648,0.698221680462128,0.2013865654093722,0.1175810620336398,1.3110232040916028,2.5631424909652387
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Un d'Andere, wo dert inne krüppe!...
+
+        
+",38,lustig-d-singstund,15,1,0.0666666666666666,0.533491331334678,0.2518848235254614,1.841952741875282,0.1418311725539059,2.3130005820589945,0.6538578234943968,0.1745554201155318,0.2013865654093722,0.1175810620336398,1.3110232040916028,2.105679597042179
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Das isch gli g'schàh.
+(Er geht in d'Kuche zweite Plan
+                        rechts.)
+
+        
+",38,lustig-d-singstund,18,1,0.0555555555555555,0.4239888825127867,0.8109972237723,2.1686238979727515,0.1188870924869986,2.900608382364001,0.5278469932324056,0.1745554201155318,0.2013865654093722,0.1175810620336398,1.3110232040916028,2.620216339348302
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(züem Papegài, wo d'Thüre ufmacht)
+
+          
+Dr Herr wird jetz gli an dr Tisch geh.
+
+        
+",38,lustig-d-singstund,20,1,0.05,0.4518146817428657,0.8109972237723,1.820623770890645,0.1877193326877205,2.3101191269058714,0.579471173382947,0.1745554201155318,0.2013865654093722,0.1175810620336398,0.583807984116893,1.952186705303006
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(zeigt si)
+
+          
+Sa-sapristi... ich verstick...
+
+        
+",38,lustig-d-singstund,10,1,0.1,1.0418906993348014,0.8109972237723,2.205276869699756,0.1877193326877205,2.1220872128954893,0.579471173382947,0.1745554201155318,0.2013865654093722,0.1175810620336398,0.0727348779170251,1.793257191605257
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(züem Gager, wo si zeigt)
+
+          
+s' isch der Herr, wo kunnt zu z'Nacht esse
+
+        
+",39,lustig-d-singstund,20,1,0.05,0.9464091632876884,0.5591124002468384,2.044013653776472,0.1376644804014437,2.0345509639774706,0.4296566709365147,0.0,0.0,0.0,0.0,1.6777497603624574
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(kunnt ine mit em Hahne un mit dr Supne)
+
+          
+Do isch das Dings, 's schint mr nitt iwel g'rothe
+                        z'si!...
+(Er stellt alles uf dr Tisch.)
+
+        
+",39,lustig-d-singstund,36,2,0.0555555555555555,0.6457276160520935,0.5591124002468384,1.87517444055107,0.1376644804014437,2.062182534341987,0.1032483603010828,0.2618331301732978,0.0,0.0,0.0,1.7934414386662574
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Das stopft... me müess e-n-aparter Mage ha fir dr
+                        Caoutchouc.
+(Se mache dr Tisch in d'Mittle.)
+
+        
+",39,lustig-d-singstund,26,2,0.0769230769230769,0.7960683896698911,0.0,1.561978799795941,0.1376644804014437,1.4458063900515987,0.2664525156187988,0.2618331301732978,0.0,0.0,0.0,1.2459572547429556
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(sitzt an's andre End' vom Tisch)
+
+          
+Jo, un g'schwind e wenig.
+(Dr Schlüch nimmt
+                        d'Suppeschüssle un isst mit em grosse Löffel.)
+ Oh a,
+                        Ihr esse jo d'Suppe-n-alle, lehn doch e wenig fir der
+                        Herr...
+
+        
+",40,lustig-d-singstund,50,2,0.04,0.9324962636726488,0.0,1.6771753726452456,0.1032483603010828,1.4743677212099375,0.403844580861244,0.2618331301732978,0.0,0.0,0.0,1.2530559766460512
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Fir was, Ihr mache-n-'m e-n-andere...
+
+        
+",40,lustig-d-singstund,13,1,0.0769230769230769,0.6431017933163085,0.0,1.1952704652709931,0.1032483603010828,1.232796825344891,0.7302528914966759,0.2618331301732978,0.0,0.0,0.0,1.111753430514079
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(macht d'Thüre ne wenig uf)
+
+          
+Das isch e G'schrnàckle... nun-de-bib...
+(macht züe).
+
+        
+",40,lustig-d-singstund,21,3,0.1428571428571428,0.6152759940862295,0.0,1.8227064129160369,0.0344161201003609,2.167999669617459,0.6786287113461346,0.4363885502888299,0.0,0.0,0.6814308082664905,1.8294676102778908
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(macht d'Thüre uf)
+
+          
+Das schmeckt fi- fi-fin
+(Er macht wieder züe).
+
+        
+",41,lustig-d-singstund,19,3,0.1578947368421052,0.6152759940862295,0.0,2.388588428087873,0.0344161201003609,3.0184482812088325,0.6786287113461346,0.3491108402310639,0.0,0.0,1.362861616532981,2.4172926679317106
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(ssellt d'Schüssle-n-ab)
+
+          
+So, jetz isch d'Schüssle süfer... wenn Eüer Herr do wàr,
+                        so wàr er g'wiss z'friede mit dr Arwet... jetz wà mr
+                        hinter's Hàhnle
+(Er film si Teller.)
+
+        
+",41,lustig-d-singstund,45,5,0.1111111111111111,0.4705003803144477,0.0962794410165575,2.4088996831279226,0.0481825681405053,3.178698775003171,0.525749392058527,0.5769717147118948,0.0,0.0,1.4976528339561614,2.7132998420392185
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(füllt d'Gläser)
+
+          
+Awer z'erscht, vor allem, wà mr nf Eüre G'sundhcit
+                        trinke, Marie, un uf unsre Liewe!
+(Se stosse-n-a).
+
+        
+",42,lustig-d-singstund,33,3,0.0909090909090909,0.5880740587673113,0.0962794410165575,2.562882700921815,0.0137664480401443,3.377241765068113,0.3367331466655402,0.751527134827427,0.0,0.0,1.4976528339561614,2.896445839606633
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Uf unser Hochzit!
+
+          
+
+            
+G'sang
+
+            
+(trutz nitt so)
+
+            
+G'sundheit denn uf d'Hochzit hi,
+
+            
+G'sundheit uf unsre Liewe,
+
+            
+Bol wà mr jetz glicklig si,
+
+            
+Mr wànn's nimm üse schiewe.
+
+          
+
+        
+",42,lustig-d-singstund,38,11,0.2894736842105263,0.3642545165369074,0.0962794410165575,2.6049153953772994,0.0137664480401443,3.6727502454542673,0.0103248360301082,1.1799813478382783,0.0,0.0,1.4976528339561614,3.2742380457170155
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+
+            
+'s isch so güet, wenn Herz un Hand
+
+            
+Uf Erde sich thien finde,
+
+            
+Un wenn d'Liewe-n-isch ihr Band,
+
+            
+Wo sie thüet z'sàmme binde.
+
+          
+
+          
+
+        
+",43,lustig-d-singstund,33,6,0.1818181818181818,0.4521845688838503,0.0962794410165575,2.0245622938398133,0.1014637602895959,2.695432374539315,0.1056374474514036,1.0927036377805124,0.0,0.0,0.816222025689671,2.475057576727407
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Beide.
+
+          
+
+            
+Drum G'sundheit uf d'Hochzit hi,
+
+            
+G'sundheit uf unsre Liewe,
+
+            
+Bol wà mr jetz glicklig si,
+
+            
+Bol wà mr glicklig si.
+
+          
+
+          
+(Se schlage an ihre Gläser dr Tact.)
+
+        
+",43,lustig-d-singstund,37,9,0.2432432432432432,0.4521845688838503,0.0962794410165575,1.4352253913215578,0.1014637602895959,1.8100407675134789,0.1056374474514036,1.150888777819023,0.0,0.0,0.1347912174231806,1.8492579395603357
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Beide.
+
+          
+
+            
+Drum G'sundheit uf d'Hochzit hi,
+
+            
+G'sundheit uf unsre Liewe,
+
+            
+Bol wà mr jetz glicklig si,
+
+            
+Bol wà mr glicklig si.
+
+          
+
+          
+(Se schlage an ihre Gläser dr Tact.)
+
+        
+",44,lustig-d-singstund,37,9,0.2432432432432432,0.4466194090378345,0.0,1.4125866353812762,0.0876973122494515,1.785906542922016,0.0953126114212953,1.155768463492235,0.0,0.0,0.0,1.7440076329011067
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(kunnt hinte ine rechts)
+
+          
+Was sieh-n-i do?
+
+        
+",44,lustig-d-singstund,14,1,0.0714285714285714,0.1926178565822129,0.0,1.1434070447380789,0.1565295524501734,1.5588022216987352,0.1469367915718367,0.9812130433767028,0.0,0.0,0.0,1.5537629134305964
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Dr Herr!
+(Se steht uf.)
+
+        
+",44,lustig-d-singstund,11,2,0.1818181818181818,0.1296687511920613,0.0,1.0073051638794768,0.1909456725505344,1.405791674791581,0.1727488816471074,0.8145919605391494,0.0,0.0,0.0,1.397603432378648
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(ohne sich z'derangiere)
+
+          
+Dr Herr... i bi verwischt!
+
+        
+",44,lustig-d-singstund,14,1,0.0714285714285714,0.0695644980751975,0.0,0.9602223177719192,0.1720806005018047,1.4479067014339653,0.1290604503763535,0.7273142504813835,0.0,0.0,0.0,1.4790697216044453
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(kunnt fire)
+
+          
+Ne Kàmifeger an mim Tisch?
+
+        
+",44,lustig-d-singstund,12,1,0.0833333333333333,0.0973902973052765,0.0,0.9221232726451312,0.2409128407025265,1.3980954641872336,0.1806846305268949,0.4945736903273406,0.0,0.0,0.0,1.387155179007705
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Derangiere Sie sieh nitt wege mir, Herr Tannebi...
+
+        
+",45,lustig-d-singstund,12,1,0.0833333333333333,0.1252160965353556,0.0,0.8840242275183433,0.3097450809032485,1.348284226940502,0.2323088106774363,0.2618331301732978,0.0,0.0,0.0,1.2952406364109643
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(züem Marie)
+
+          
+So, so... kasch Dü mir expliziere, Marie...
+
+        
+",45,lustig-d-singstund,17,1,0.0588235294117647,0.1252160965353556,0.0,0.8840242275183433,0.3097450809032484,1.348284226940502,0.2323088106774363,0.2618331301732978,0.0,0.0,0.0,1.2952406364109643
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+('s Mül voll)
+
+          
+Ich will's Ihne sage, Herr...
+
+        
+",45,lustig-d-singstund,14,3,0.2142857142857142,0.1205784633303424,0.0,0.7633592493700445,0.2982730408697948,1.1273397377467431,0.223704780652346,0.0,0.0,0.0674850484418187,0.0,1.2061442592162943
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich red' nitt mit Eüch...
+
+        
+",45,lustig-d-singstund,9,1,0.1111111111111111,0.1205784633303424,0.0,0.7633592493700444,0.2982730408697948,1.1273397377467431,0.223704780652346,0.0,0.0,0.0674850484418187,0.0,1.206144259216294
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Herr... ich ha's Ihne nitt traüe sage bis dohi.. eh
+                        bien...
+
+        
+",45,lustig-d-singstund,17,2,0.1176470588235294,0.1066655637153028,0.3102951291126956,0.9704011216995556,0.2638569207694338,1.3690812430575852,0.1978926905770753,0.2676278429821024,0.0,0.0674850484418187,0.3294226585948243,1.5042906519434898
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Eh bien?
+
+        
+",45,lustig-d-singstund,6,2,0.3333333333333333,0.0927526641002633,0.6205902582253912,1.1774429940290667,0.2294408006690729,1.6108227483684274,0.1720806005018046,0.5352556859642051,0.0,0.0674850484418187,0.6588453171896487,1.8024370446706852
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich bi... er isch... kunnt's bol üse-n-endlig?
+
+        
+",45,lustig-d-singstund,16,1,0.0625,0.0927526641002633,0.6205902582253912,1.1774429940290667,0.2294408006690729,1.6108227483684274,0.1720806005018046,0.5352556859642051,0.0,0.0674850484418187,0.6588453171896487,1.8024370446706852
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+Mi Mann!
+
+        
+",46,lustig-d-singstund,4,1,0.25,0.083477397690237,0.6205902582253912,1.0122439592373027,0.2064967206021656,1.4024139155375448,0.1548725404516241,0.5352556859642051,0.0,0.0,0.6588453171896487,1.4438211594914625
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Di Mann?
+
+        
+",46,lustig-d-singstund,6,2,0.3333333333333333,0.0695644980751975,0.6205902582253912,0.9374739324150176,0.1720806005018046,1.2875475524230622,0.1290604503763535,0.5352556859642051,0.0,0.0,0.6588453171896487,1.3378801127368285
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Das isch jetz wieder emol e güete...
+
+        
+",46,lustig-d-singstund,10,1,0.1,0.0556515984601579,0.3102951291126956,0.5808920064409364,0.1376644804014437,0.816073320883255,0.1032483603010828,0.2676278429821024,0.0,0.0,0.3294226585948243,0.8278516265003653
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Hein?
+
+        
+",46,lustig-d-singstund,5,1,0.2,0.0695644980751975,0.0,0.3738501341114252,0.1720806005018047,0.574331815572413,0.1290604503763535,0.0,0.0,0.0,0.0,0.5297052337731696
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(redt si üs)
+
+          
+I ha die Hüehn do 'g'meint
+(wàhrend der Zit isst er
+                        allewil furt un furt).
+
+        
+",46,lustig-d-singstund,24,2,0.0833333333333333,0.0417386988451184,0.0,0.4727425589271559,0.1032483603010828,0.6200278111652304,0.077436270225812,0.0,0.0,0.0,0.3108462123216868,0.6294695711111749
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo, Herr, verzeihe Se mr, wenn ich's Ihne nitt frieiher
+                        scho g'stande ha, ich weiss ewe, ass viel Persone
+                        d'g'hirothene Màgd nitt gern hàn...
+
+        
+",46,lustig-d-singstund,34,3,0.088235294117647,0.0510139652551448,0.1286376005610006,0.6677184469214785,0.1261924403679901,0.8855662097493188,0.0946443302759925,0.1837200196001755,0.0,0.0735551815218254,0.5183044313110278,0.9590205699548064
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Doch, doch, ich ha se recht gern... ich ha Dr jo sogar
+                        emol züeg'redt...
+(fir sich)
+ 's isch güet, ass i's
+                        weiss...
+(lüt)
+ und das isch...
+(zïem Schlüch, wo nitt
+                        bougiert)
+ Derangier Di nitt, mi Liewer, mach nur furt.
+
+        
+",47,lustig-d-singstund,60,7,0.1166666666666666,0.084030686563773,0.1837680008014294,0.8482922369683206,0.1016094974391608,1.0689735993833176,0.1228368817415752,0.2624571708573937,0.0,0.1050788307454648,0.7082271958570743,1.1573334140448328
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+('s Mül voll)
+
+          
+Sie sin gar sa güet...
+
+        
+",47,lustig-d-singstund,12,3,0.25,0.084030686563773,0.1837680008014294,0.9636445872118944,0.1016094974391608,1.200804856804545,0.1228368817415752,0.2624571708573937,0.0,0.1725638791872836,0.7082271958570743,1.4453219347209665
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Er hat kei iwel G'sicht... vo witem, ohne Brille,
+                        g'fallt er mr eso ziemlig... Allons Marie, mach Dr 
+kei
+                        bös Gebliet... un kumm do zwische-n-uns Zwei ku sitze.
+                       
+(Er sitzt am Marie si Platz.)
+
+        
+",48,lustig-d-singstund,49,7,0.1428571428571428,0.1692204204793984,0.1837680008014294,0.9570132047486594,0.1494883351021999,1.0838780800459715,0.1756598550243753,0.2624571708573937,0.0958333655579319,0.1725638791872836,0.7082271958570743,1.2926553613461909
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(bringt e Couvert un e Stüehl)
+
+          
+Was, Sie erlaüwe?... O, was sin Sie fir e güeter Herr.
+                       
+(Se sitzt in d'Mittle.)
+
+        
+",48,lustig-d-singstund,33,4,0.1212121212121212,0.2513472570958169,0.1837680008014294,0.8409490395352961,0.1666963951523803,0.9375963869178406,0.2701679777208687,0.2624571708573937,0.0958333655579319,0.1725638791872836,0.3973809835353875,1.0904993382050994
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Das isch wohr... 's isch g'wiss e-n-Ehr...
+
+        
+",48,lustig-d-singstund,13,2,0.1538461538461538,0.2420719906857906,0.3992365640173891,1.0512411824120744,0.1437523150854731,1.120143227835479,0.5775646352372542,0.5173839738571481,0.0958333655579319,0.4921830164234112,0.47136226058327,1.3145456037608902
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Doch, doch... das heisst, i bi scho uf em neüe
+                        Quartierplatz gsi, uf eimol rieft mr ebber, un wo-n-i
+                        lüeg, isch's e güeter Frind, wo optirt hat un jetz
+                        z'Basel wohnt, un dà hat mir e Last Dings verzählt... i
+                        bi gar nimm vo-n-'m ku... un wo-n-i derno in d'Bourse
+                        ku bi, so hat's scho lang ag'fange g'ha... derno bi-n-i
+                        halt wieder umkehrt, denn de weisch, wenn i nitt fire
+                        ka...
+
+        
+",49,lustig-d-singstund,101,10,0.099009900990099,0.1979249496851308,0.3441061637769603,0.9797265598016264,0.1408023619340136,1.096432314838021,0.528722411711455,0.6481133267385684,0.0958333655579319,0.4606593671997718,0.2814394960372236,1.3048968947625643
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Jà do, was witt halt... un derno ha-n-i o denkt, mi
+                        Racahout-Suppe erwartet mi d'heim... wottsch mr
+                        d'Suppeschüssle passiere...
+
+        
+",50,lustig-d-singstund,31,3,0.0967741935483871,0.2072002160951571,0.615131925039179,1.0951447061966657,0.1637464420009209,1.217711244655189,0.5459304717616353,0.6481133267385684,0.0958333655579319,0.3931743187579529,0.2814394960372236,1.35729484655139
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+D'Suppeschüssle?... do isch se, Herr...
+(Er git's 'm.)
+
+        
+",50,lustig-d-singstund,19,1,0.0526315789473684,0.1220104821795316,0.615131925039179,1.101776088659901,0.1158676043378818,1.3346380214137628,0.4931074984788353,0.6481133267385684,0.0,0.3931743187579529,0.2814394960372236,1.5099614199261655
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(will si serviere)
+
+          
+'s isch jo gar nit drin !
+
+        
+",50,lustig-d-singstund,14,1,0.0714285714285714,0.0677094447931922,0.615131925039179,1.1189478290575336,0.1674917844884232,1.4352237189490762,0.4502235559328832,0.6481133267385684,0.0,0.3931743187579529,0.2814394960372236,1.6123531057292515
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+'s isch halt mi Mann... Herr...
+
+        
+",50,lustig-d-singstund,10,3,0.3,0.0769847112032185,0.2710257612622186,0.7635264827346226,0.1904358645553305,1.0637160548570046,0.1428268984164979,0.2094665041386381,0.0,0.0,0.0,1.1293832058329183
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ah! mi Alter, Dü hasch alle g'gesse.
+
+        
+",51,lustig-d-singstund,13,2,0.1538461538461538,0.0881150308952501,0.2710257612622186,0.8051874165118204,0.2179687606356192,1.1667105086288077,0.1634765704767144,0.0,0.0,0.0,0.3280218164866437,1.2164099070901169
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Se mien mr halt verzeihe, Herr, 's Marie hat mr ewe
+                        g'sàit, se thàt eirn feisst mache...
+
+        
+",51,lustig-d-singstund,23,3,0.1304347826086956,0.0881150308952501,0.0,0.6242636044213971,0.2179687606356192,0.9901778968000672,0.1634765704767144,0.0,0.0,0.0,0.3280218164866437,0.9466507991282463
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+'s isch wohr, Dü bisch scho nitt so dick... enfin, macht
+                        nit, làng mr dr Hahne...
+
+        
+",51,lustig-d-singstund,24,3,0.125,0.0695644980751974,0.0,0.6836319046277908,0.1720806005018046,1.0758421454544471,0.1290604503763535,0.0,0.0,0.0,0.4983795185532663,0.9808332691704612
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Mi Mann hàt en grad entàmiert; wo Sie ine ku sin...
+
+        
+",51,lustig-d-singstund,15,3,0.2,0.0417386988451184,0.0,0.6999385778921127,0.1032483603010828,1.1195167464545135,0.0774362702258121,0.0,0.0,0.0,0.7407845918781696,1.062255084846048
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+I ha noch nit dervo g'gesse as zwei Stätzle., zwei
+                        Fattig, d'Làwere un 's Hintere...
+
+        
+",52,lustig-d-singstund,22,1,0.0454545454545454,0.0324634324350921,0.0,0.6500918933439227,0.0803042802341755,1.0429391710448583,0.0602282101756316,0.0,0.0,0.0,0.7407845918781696,0.9916277203429592
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Un 's G'stell, das wird doch noch bliwe?
+
+        
+",52,lustig-d-singstund,13,1,0.0769230769230769,0.0463763320501316,0.0,0.574141818952616,0.1147204003345364,0.8951146037509969,0.0860403002509023,0.0,0.0,0.0,0.4127627753915258,0.8218779307486944
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Mr wànn's hoffe... Mr theile's mitnander.
+(Er serviert
+                        dr Herr Tannezapfe un sich nochher.)
+
+        
+",52,lustig-d-singstund,23,4,0.1739130434782608,0.044057515447625,0.2063378824841736,0.69698540224024,0.1089843803178096,1.0366637776327017,0.0817382852383572,0.1179522956273854,0.0,0.0,0.5725488185347578,0.9893282750828444
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(fir sich)
+
+          
+Er hat e güeter Schluck, si Mann.
+
+        
+",52,lustig-d-singstund,15,5,0.3333333333333333,0.1004837183307335,0.2063378824841736,0.5939716989868261,0.0998067482910467,0.8245844257042776,0.1401367233453714,0.1179522956273854,0.0,0.0,0.4021911164681352,0.8308560376963072
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Das geht e Länge, un d'Andere...
+
+        
+",53,lustig-d-singstund,14,1,0.0714285714285714,0.4011652655663285,0.2063378824841736,0.8080581714211142,0.0998067482910467,0.8380324870208883,0.4665450339808034,0.1179522956273854,0.0,0.0,0.159786043143232,0.7636316658269117
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(wo ig'schànkt hat)
+
+          
+G'sundheit, Herr... ich weiss nitt... awer Sie geh'nr
+                        jetz emol recht... Sie hàn e güeter Keigel...
+
+          
+
+        
+",53,lustig-d-singstund,27,4,0.1481481481481481,0.4081217153738482,0.2063378824841736,0.8454431848322568,0.1170148083412271,0.8954656685781297,0.4794510790184387,0.1179522956273854,0.0,0.0,0.159786043143232,0.8166021892042286
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(lustig)
+
+          
+Er findet, ich heb e güeter Keigel...
+
+        
+",53,lustig-d-singstund,14,3,0.2142857142857142,0.3895711825537955,0.2063378824841736,0.7457498157358766,0.0711266482074125,0.7423105177588194,0.4450349589180778,0.1179522956273854,0.0,0.0,0.159786043143232,0.6753474601980501
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Wo Sie inne ku sin, so ha-n-ich grad 's Marie...
+
+        
+",53,lustig-d-singstund,16,2,0.125,0.3826147327462758,0.0,0.8218296382634008,0.053918588157232,0.9342947593110074,0.4321289138804425,0.0,0.0,0.0,0.3636076099873548,0.8772256151380926
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+So hasch Dü grad 's Marie?...
+
+        
+",54,lustig-d-singstund,11,2,0.1818181818181818,0.3308261630681805,0.0,1.039475104851474,0.0745682602174486,1.355954490314116,0.3823345057985185,0.0,0.0,0.0,0.7272152199747096,1.335530199505063
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Mache singe, 's isch schad, ass Sie's nitt g'hört hàn.
+
+        
+",54,lustig-d-singstund,16,2,0.125,0.0301446158325854,0.0,0.6595419055082938,0.0745682602174486,1.0690991017684737,0.0559261951630865,0.0,0.0,0.0,0.7272152199747096,1.109450662189604
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Eh bien! singe's noch emol...
+
+        
+",54,lustig-d-singstund,11,3,0.2727272727272727,0.032463432435092,0.2068634194084637,0.8598781760798723,0.0803042802341754,1.325982074571104,0.0602282101756317,0.1784185619880681,0.0,0.0,0.9468303257045924,1.3964991296365958
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+
+            
+G'sang
+
+            
+(trutz nitt so)
+
+            
+'s isch so schön, wenn Herz un Hand
+
+            
+Uf Erde sich thien finde,
+
+            
+Un wenn d'Liewe-n-isch ihr Band,
+
+            
+Wo sie thüet z'sàmme binde.
+
+          
+
+        
+",54,lustig-d-singstund,39,7,0.1794871794871795,0.0985567823224453,0.2810962739561693,1.0447992484131674,0.1325293249525124,1.4887432720105025,0.1247166742008472,0.3539075617171134,0.0012037760196925,0.0240755203938504,1.0252095198756834,1.539634120371688
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Mitnander.
+
+          
+
+            
+'s isch so schön, wenn Herz un Hand
+
+            
+Uf Erde sich thien finde,
+
+            
+Un wenn d'Liewe-n-isch ihr Band,
+
+            
+Wenn d'Liewe-n-isch ihr Band.
+
+            
+(Se schlage dr Takt an de Gläser.)
+
+          
+
+        
+",55,lustig-d-singstund,44,10,0.2272727272727272,0.151314813730611,0.3330592721395632,0.9603665878668688,0.1851477123021833,1.2461694221612925,0.1819042410536244,0.4767498615274451,0.0020464192334772,0.0409283846695457,0.7164673458080922,1.249311905261133
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Mitnander.
+
+          
+
+            
+'s isch so schön, wenn Herz un Hand
+
+            
+Uf Erde sich thien finde,
+
+            
+Un wenn d'Liewe-n-isch ihr Band,
+
+            
+Wenn d'Liewe-n-isch ihr Band.
+
+            
+(Se schlage dr Takt an de Gläser.)
+
+          
+
+        
+",55,lustig-d-singstund,44,10,0.2272727272727272,0.1901599455237372,0.3850222703229571,0.8011639004982853,0.2033499795514933,0.8887292091976,0.2132797178311309,0.5995921613377769,0.0028890624472619,0.057781248945241,0.4077251717405011,0.8530486433959441
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Mitnander.
+
+          
+
+            
+'s isch so schön, wenn Herz un Hand
+
+            
+Uf Erde sich thien finde,
+
+            
+Un wenn d'Liewe-n-isch ihr Band,
+
+            
+Wenn d'Liewe-n-isch ihr Band.
+
+            
+(Se schlage dr Takt an de Gläser.)
+
+          
+
+        
+",56,lustig-d-singstund,44,10,0.2272727272727272,0.2429179769319029,0.436985268506351,0.965501330315325,0.2559683669011643,1.0562663501919374,0.2704672846839081,0.7224344611481086,0.0037317056610467,0.0746341132209364,0.4625906076602648,1.002682292062671
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Eh bien! güeter Frind, Dü gehsch mr jetz...
+
+        
+",56,lustig-d-singstund,14,4,0.2857142857142857,0.2405991603293964,0.3852694136542351,0.9060710093196448,0.2502323468844375,0.9776873116019696,0.2661652696713629,0.6778298206510917,0.0037317056610467,0.0746341132209364,0.4076868312277941,0.9176775443565937
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Sag emol, mi Held, verzähl mr emol, was Dich azoge hat,
+                        fir Kàmifeger z'lehre...
+
+        
+",56,lustig-d-singstund,23,4,0.1739130434782608,0.2473573806484353,0.4683062866097106,1.0571903664202251,0.1922712821493737,1.1446048273071732,0.2789768682924603,0.6791119946356219,0.0025279296413542,0.1587601653492745,0.5724466357766212,1.1090726845305747
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(macht e wenig uf, fir sich)
+
+          
+Tiens, dr Herr isst mit em Mann
+(macht züe).
+
+        
+",57,lustig-d-singstund,23,6,0.2608695652173913,0.2493505736512152,0.4163432884263168,1.3695864794126176,0.1511249348331564,1.6456334906927033,0.2847947165706787,0.6435474048830562,0.0016852864275694,0.1419073010735792,0.8582966039901028,1.4972307776378422
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Was i ho nie ha kanne begriffe, das isch, ass Ihr frieih
+                        scho so schwarz sin, vor ebb Ihr im e Kàmi gsi sin.
+
+        
+",57,lustig-d-singstund,31,3,0.0967741935483871,0.2058678086530758,0.3643802902429228,1.2550957341437676,0.1214506275503927,1.554673925108021,0.2448152097680819,0.5207051050727245,0.0008426432137847,0.1250544367978839,0.8034311680703393,1.4182244934742043
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Eh! grad das mache mr, ass mr in de Kàmi nitt schwarz
+                        werde... Was mi Lewensg'schichte abelangt... soll i se
+                        afange?...
+
+        
+",57,lustig-d-singstund,29,4,0.1379310344827586,0.1531097772449101,0.4675648566158766,1.3560492990842952,0.0688322402007218,1.7704962137481195,0.1876276429153048,0.5316767267534439,0.0,0.1082015725221886,1.0950808664416651,1.690612496437033
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Die schwàtze doch noch bis morn am Morge... das isch
+                        sicher...
+
+        
+",58,lustig-d-singstund,18,4,0.2222222222222222,0.2213237142462891,0.4883413371766251,1.3833480783602308,0.0516241801505413,1.7394615610456663,0.2563236755365274,0.3978628052623926,0.0,0.1082015725221886,0.930369537144253,1.703822557897615
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Das Ding wird interessant... Wart e wenig... 's Marie
+                        holt jetz 's Kaffee... Trinksch Dü's gern, 's Kaffee?
+
+        
+",58,lustig-d-singstund,27,3,0.1111111111111111,0.1484721440398969,0.7380569594976423,1.3708667692037673,0.0573602001672681,1.7938837738275208,0.2343456584151939,0.4048116511489928,0.0,0.1316237115764136,1.0818420603598826,1.82588377543358
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Ich spei grad nitt druf...
+
+        
+",58,lustig-d-singstund,8,1,0.125,0.0937209196289512,0.7380569594976423,1.3916734071210115,0.0458881601338145,1.9455399511347475,0.1713402432841983,0.3175339410912268,0.0,0.1316237115764136,1.468341876201347,2.1680037612141496
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Wàhrend der Zit will ich geh mi Frack üszieh' un dr
+                        Nachtrock alege...
+
+        
+",58,lustig-d-singstund,17,2,0.1176470588235294,0.0983585528339644,0.7380569594976423,1.4165967493951066,0.0573602001672682,1.9838287388395748,0.1799442733092885,0.3175339410912268,0.0,0.1316237115764136,1.468341876201347,2.203317443465694
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Wart mr do... nur zwei Minüte.
+(Er geht dur d'zweite
+                        Thüre links.)
+
+          
+
+        
+",58,lustig-d-singstund,21,2,0.0952380952380952,0.1122714524490039,1.0004310188360912,1.4937206567067438,0.0917763202676291,2.008045826447656,0.2887394316720283,0.1837200196001754,0.0,0.218726506658296,1.4025566963295677,2.183738409747516
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jetz fahre-n-ab...
+(fir sich)
+ ass d'Andere o känne
+                        üsrisse...
+
+        
+",59,lustig-d-singstund,18,1,0.0555555555555555,0.3377826128757002,0.8245069737189951,1.668064113786948,0.0917763202676291,2.090198751925848,0.5335456646486023,0.1837200196001754,0.0,0.218726506658296,1.4025566963295677,2.1415936424841613
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ich kenn ewe dr Herr Tannezapfe, er wird nie fertig mit
+                        froge, er isch so wunderfitzig!... Do, gehn do ine
+(se
+                        zeigt 'm d'Thüre hinte links)
+. Ich sag 'm, Ihr seige
+                        furt, derno geht er geh schlofe, un nochher...
+
+        
+",59,lustig-d-singstund,54,2,0.037037037037037,0.3424202460807134,0.4175216238947966,1.3694283357836308,0.1032483603010828,1.744386613704219,0.4868276491487132,0.0,0.0,0.0871027950818823,1.0079451743940198,1.720315976290668
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(stosst 'n)
+
+          
+Jo, jo, sin z'friede
+(er geht ine, se macht d'Thüre
+                        züe)
+. Un jetz g'schwind furt mit de-n-Andere.
+
+        
+",60,lustig-d-singstund,33,2,0.0606060606060606,0.3424202460807134,0.6582202264361905,1.2487232673865958,0.1032483603010828,1.6089102666737642,0.4868276491487132,0.322424174567076,0.0,0.0871027950818823,0.8732445510771955,1.5272758776332302
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(voruse)
+
+          
+Do bi-n-i jetz wieder.
+
+        
+",60,lustig-d-singstund,12,1,0.0833333333333333,0.3563331456957529,0.6582202264361905,1.3234932942088808,0.1376644804014437,1.7237766297882469,0.5126397392239839,0.322424174567076,0.0,0.0871027950818823,0.8732445510771955,1.6332169243878645
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(kunnt wieder z'ruck)
+
+          
+'s geht nitt.
+(Se geht in d'Kuche, zweite Thüre
+                        rechts.)
+
+        
+",60,lustig-d-singstund,23,1,0.0434782608695652,0.8672549725116505,0.2406986025413938,1.7353758319082635,0.4811003201734736,1.7525828201255025,1.128312738589908,0.322424174567076,0.0,0.7881676519251387,0.5925145966578853,1.540232502773777
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(macht si Thüre uf)
+
+          
+Er will jetz noch 's Kaffee nàh?.. Nun-de-bib! was fir e
+                        Faction!
+
+        
+",60,lustig-d-singstund,23,3,0.1304347826086956,0.6668006076879206,0.2406986025413938,1.7818780257274358,0.4811003201734736,2.00982326650887,0.9107071981662868,0.4969795946826082,0.0,0.7881676519251387,0.7628722987245079,1.7927974873580372
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(kunnt züem Cabinet üse)
+
+          
+Me-n-isch doch wiethig schlecht: do inne... I will
+                        e-n-andrer Pla-atz süeche...
+(Er isch ganz duss un
+                        macht d'Thüre züe.)
+
+        
+",61,lustig-d-singstund,37,5,0.1351351351351351,0.6528877080728811,0.2406986025413938,1.8823277094745807,0.4466842000731127,2.1624091711574724,0.8848951080910161,0.5707576894006522,0.0,0.7881676519251387,0.8650869199644816,1.942011881179096
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(hat welle-n-üse ku)
+
+          
+Oho! dr Mann!
+
+          
+(Papegài geht gege-n-em Cabinet vom Gager, dà macht
+                        g'schwind si Thüre züe.)
+
+        
+",61,lustig-d-singstund,31,5,0.1612903225806451,0.6528877080728811,0.0,1.6009295987266043,0.4466842000731127,1.6209551761850467,0.8848951080910161,0.2483335148335756,0.0,0.7881676519251387,0.3747869445465697,1.3604025717110058
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(kunnt ine)
+
+          
+Eh bien! Marie, isch 's Kaffee g'rischtet?...
+
+        
+",61,lustig-d-singstund,17,2,0.1176470588235294,0.6389748084578416,0.3102951291126956,1.807971471056116,0.4122680799727517,1.8626966814958887,0.8590830180157454,0.5159613578156784,0.0,0.7881676519251387,0.704209603141394,1.6585489644382014
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Oho! dr He-err
+(er blibt hinte steh).
+
+        
+",62,lustig-d-singstund,16,1,0.0625,0.4148216292624994,0.3102951291126956,1.4336072306307086,0.0344161201003609,1.7131693624617583,0.4610231709225133,0.5159613578156784,0.0,0.0,0.704209603141394,1.5751703054563708
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(züem Papegài, wo-n-er fir dr Schlüch nimmt)
+
+          
+Allons, mi Alter, kumm setz Di an Tisch.
+
+        
+",62,lustig-d-singstund,25,4,0.16,0.3967212834670529,0.3102951291126956,1.2149002013220898,0.0516241801505414,1.429566021430572,0.446728523407196,0.3414059377001462,0.0,0.0,0.6978628093180933,1.3438616094372826
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Zeig... kumm... sitz wieder an Di Platz
+(er setzt si).
+
+        
+",62,lustig-d-singstund,18,2,0.1111111111111111,0.4106341830820924,0.3102951291126956,1.114450517574944,0.0860403002509023,1.27698011678197,0.4725406134824667,0.2676278429821023,0.0,0.0,0.5956481880781197,1.1946472156162238
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài.
+
+          
+I-i kumm
+(fir sich)
+ er nimmt mi fir dr A-Ander...
+
+        
+",62,lustig-d-singstund,15,3,0.2,0.8115429127295524,0.3102951291126956,1.52559111511752,0.0860403002509023,1.5161623284919454,0.9077516943297091,0.2676278429821023,0.0,0.0,0.4934335668381461,1.3908242792744665
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Allons denn!
+
+          
+
+        
+",62,lustig-d-singstund,6,1,0.1666666666666666,0.825455812344592,0.0,1.318549242788009,0.1204564203512632,1.2744208231811034,0.93356378440498,0.0,0.0,0.0,0.1640109082433218,1.0926778865472708
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+We-wenn's halt nitt anderscht ka si...
+(Er setzt si am
+                        Schlüch si Platz un isst, 's G'sicht ganz nooch bim
+                        Teller.)
+
+        
+",63,lustig-d-singstund,32,5,0.15625,0.584910574556116,0.0,1.0943853923012312,0.1204564203512632,1.1690971404234602,0.6724371358966345,0.0737780947180436,0.0,0.0,0.1640109082433218,1.0617073778415604
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Marie, eh bien! kunnt das Kaffee bol?...
+
+        
+",63,lustig-d-singstund,14,2,0.1428571428571428,0.5166966375547369,0.3102951291126956,1.2432389544215792,0.1376644804014437,1.3800788780654438,0.6037411032754119,0.3414059377001463,0.0,0.0,0.3294226585948242,1.3244000381973926
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(kunnt üs dr Küche mit eme Plateau, mit Kaffee,
+                        Tasse un Zucker druf)
+
+          
+Do, Herr...
+(fir sich)
+ Was! dr Schlüch isch wieder an dr
+                        Tisch z'ruckku?
+(Se stellt dr Plateau uf dr Tisch.)
+
+        
+",63,lustig-d-singstund,48,3,0.0625,0.6122861867615887,0.3102951291126956,1.4856893360070629,0.1261924403679901,1.647066525815936,0.7039398434621322,0.5159613578156784,0.0,0.0,0.3294226585948242,1.592293678797174
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(b'schaüt dr Papegài, wo isst)
+
+          
+Ah ça... er fangt wieder a z'esse, halt' 'n doch ab...
+                        er macht si sunscht weh...
+
+        
+",64,lustig-d-singstund,31,4,0.1290322580645161,0.356639020734097,0.3102951291126956,1.3345306177077816,0.2605184478593503,1.586635528292533,0.4278697727705,0.5206696170092937,0.1945758637952457,0.0,0.4571909351447912,1.551012970516079
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(kunnt uf d'linke Site vom Papegài)
+
+          
+Ihr verspringe noch, 's isch sicher
+(erkennt 'n, fir
+                        sich)
+ dr Papegài! Jetz wird's schön geh züem Glick hat
+                        dr Herr e kurz G'sicht...
+(Se geht hinter dr Tisch
+                        z'ruck.)
+
+        
+",64,lustig-d-singstund,51,8,0.1568627450980392,0.4354809806160943,0.375248876841938,1.4561900096444016,0.2475217326677675,1.623354046138391,0.5140581736842882,0.6742224917722084,0.1956291678124767,0.1195870368352614,0.5257727300444958,1.6072313669226834
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(serviert dr Kaffee un dr Zucker)
+
+          
+Versüech mr jetz emol das Kaffee do... mr wànn lüege,
+                        was De sàisch derzüe
+(er git im Papegài e Tasse, er
+                        trinkt)
+. Eh bien! was haltsch dervo?
+
+        
+",65,lustig-d-singstund,45,3,0.0666666666666666,0.3846199375790017,0.8178071945351691,1.761450433458748,0.2704658127346747,1.967031488560074,0.4659845716073822,0.7788629590422328,0.1956291678124767,0.1195870368352614,0.7453878357743786,1.9786405060294137
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài.
+
+          
+'s isch güet, Ihr' Ka-Ka...
+
+        
+",65,lustig-d-singstund,9,1,0.1111111111111111,0.3707070379639622,0.5075120654224735,1.4048685074846663,0.2360496926343138,1.4955572570202669,0.4401724815321115,0.5112351160601302,0.1956291678124767,0.1195870368352614,0.4159651771795543,1.4686120197929502
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Hein?
+
+        
+",65,lustig-d-singstund,5,1,0.2,0.2890303883721498,0.5075120654224735,1.237188152721468,0.2819378527681284,1.3434359723842573,0.3657858314206618,0.336679695944598,0.1956291678124767,0.1195870368352614,0.4159651771795543,1.3066594259478026
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Er redt eso possig, was hat er denn?
+
+        
+",65,lustig-d-singstund,13,1,0.0769230769230769,0.1715946239822607,0.5075120654224735,1.0313093255410788,0.2164440854774901,1.251125844742436,0.258269001415593,0.3319714367509828,0.0010533040172309,0.1195870368352614,0.2881969006295873,1.2583828446508871
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+'s isch mögli... zeig jetz, güeter Frind, loss jetz Di
+                        Kaffee fir e Minüte un verzahl mr jetz das Ding
+                       
+(b'schaüt 'n)
+ 's schint mr allewil... eh.. alleweg
+                        isch's 'n nitt!...
+
+        
+",66,lustig-d-singstund,44,7,0.1590909090909091,0.1697252979647431,0.6494250050508417,1.067063949846421,0.2262361055029765,1.2895572223982203,0.2689973460551905,0.2548836599829546,0.0945118252796392,0.0551814405719072,0.4366839480025966,1.3040593252114103
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Do hà mr's...
+(lüt un herzhaft)
+ Wer das, Herr?...
+
+        
+",66,lustig-d-singstund,21,3,0.1428571428571428,0.2699524803766082,0.2068666873576104,1.056707213090837,0.2262361055029766,1.271359340760562,0.3778001162670012,0.0764650979948861,0.0945118252796392,0.0551814405719072,0.4527637405574812,1.1885432684585966
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Di Mann!
+
+        
+",66,lustig-d-singstund,6,2,0.3333333333333333,0.2838653799916477,0.2068666873576104,1.131477239913122,0.2606522256033375,1.3862257038750443,0.4036122063422719,0.0764650979948861,0.0945118252796392,0.0551814405719072,0.4527637405574812,1.2944843152132306
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Eh,lüeg emol, 's isch dà Kàmifeger nitt vo vorig.
+
+        
+",66,lustig-d-singstund,16,2,0.125,0.2699524803766082,0.517161816470306,1.3385191122426332,0.2262361055029765,1.6279672091858863,0.3778001162670012,0.3440929409769888,0.0945118252796392,0.0551814405719072,0.7821863991523056,1.5926307079404265
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Dr Herr will mich glaüb ha?
+
+        
+",67,lustig-d-singstund,9,2,0.2222222222222222,0.2560395807615687,0.517161816470306,1.263749085420348,0.1918199854026156,1.5131008460714035,0.3519880261917305,0.3440929409769888,0.0945118252796392,0.0551814405719072,0.7821863991523056,1.4866896611857925
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài.
+
+          
+Dr Herr spa-spa-spasst.
+
+        
+",67,lustig-d-singstund,6,1,0.1666666666666666,0.1790669468970888,0.3102951291126955,1.1063350691783858,0.195024680568712,1.4379509505697614,0.2550712806383447,0.2676278429821023,0.0,0.0,0.5651175568795918,1.384794784218664
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich ha halt mine Brille nitt. Enfin, wenn Dü sicher
+                        bisch...
+
+        
+",67,lustig-d-singstund,17,4,0.2352941176470588,0.0765209478827172,0.3102951291126955,0.6930470466743639,0.1892886605519851,0.9883728655549788,0.1419664954139889,0.2676278429821023,0.0,0.0,0.3294226585948242,0.9867631966323162
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Natirlig bi-n-i sicher... awer 's isch jetz glaüb Zit,
+                        ass er heim geht.
+
+          
+
+        
+",67,lustig-d-singstund,20,3,0.15,0.0626080482676777,0.3102951291126955,0.6182770198520788,0.1548725404516242,0.8735065024404962,0.1161544053387182,0.2676278429821023,0.0,0.0,0.3294226585948242,0.8808221498776823
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(steht uf)
+
+          
+I ga-gang...
+
+        
+",67,lustig-d-singstund,8,1,0.125,0.0486951486526382,0.0,0.6838830661135532,0.1204564203512632,1.031006188721007,0.0903423152634475,0.5236662603465958,0.0,0.0,0.0,1.0543360948797376
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Nitt, vor eb er mir die G'schichte verzählt hat.
+
+        
+",67,lustig-d-singstund,14,1,0.0714285714285714,0.0626080482676777,0.0,0.7586530929358383,0.1548725404516242,1.1458725518354893,0.1161544053387182,0.5236662603465958,0.0,0.0,0.0,1.1602771416343711
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài.
+
+          
+Was fir e G'schi-G'schi-G'schichte?
+
+        
+",68,lustig-d-singstund,7,1,0.1428571428571428,0.3354637962731937,0.0,0.9890462386344484,0.0860403002509023,1.2029952141521665,0.3909385358236087,0.5236662603465958,0.0,0.0,0.0,1.1744745854405627
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ah ça, er stosst glaüb a jetz?
+
+        
+",68,lustig-d-singstund,12,2,0.1666666666666666,0.3424202460807135,0.0,1.0264312520455907,0.1032483603010828,1.2604283957094076,0.4038445808612441,0.5236662603465958,0.0,0.0,0.0,1.2274451088178795
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(steht uf)
+
+          
+Güe - güetnacht...
+
+        
+",68,lustig-d-singstund,9,1,0.1111111111111111,0.3424202460807135,0.0,1.4486192242811464,0.1032483603010828,1.889402313529725,0.4038445808612441,1.047332520693192,0.0,0.0,0.0,1.9109875400563985
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(macht 'n z'bliwe)
+
+          
+Nur noch e wenig... das alles ist nitt recht klar
+(züem
+                        Marie)
+ gib mr mine Brille...
+
+        
+",68,lustig-d-singstund,28,5,0.1785714285714285,0.3479854059267293,0.0,1.1517762643561693,0.1170148083412272,1.449666580639415,0.4141694168913524,0.5236662603465958,0.0,0.0,0.1022146212399734,1.3750838469487692
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(verwirrt)
+
+          
+Ihre Brille... i ha se verlegt... weiss nitt, wo se
+                        sìn...
+
+        
+",68,lustig-d-singstund,19,1,0.0526315789473684,0.3201596066966502,0.0,1.7948756373276318,0.0481825681405053,1.5973812004180843,0.9136183619119578,0.5236662603465958,0.0,0.9046154725982978,0.1022146212399734,1.4525780520453548
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich will se scho finde... Zind mr...
+
+        
+",69,lustig-d-singstund,11,2,0.1818181818181818,0.2971811161169234,0.0,1.8684871779453427,0.345690624989221,1.6737583148365094,0.8989599756156824,0.5236662603465958,0.0,0.9046154725982978,0.1022146212399734,1.3819157587156812
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Hör'sch mi oder nitt?...
+
+        
+",69,lustig-d-singstund,9,1,0.1111111111111111,0.311094015731963,0.0,1.943257204767628,0.3801067450895819,1.7886246779509918,0.924772065690953,0.5236662603465958,0.0,0.9046154725982978,0.1022146212399734,1.4878568054703152
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo, Herr
+(lislig züem Papegài)
+ mache-n-ass Ihr furt
+                        kämme, sunscht bi-n-i verlore
+(se geht in d'Mittle).
+
+          
+
+        
+",69,lustig-d-singstund,30,3,0.1,0.3203692821419893,0.0,1.5709159170802622,0.4030508251564891,1.2362283355403292,0.9419801257411338,0.0,0.0,0.9046154725982978,0.1022146212399734,0.8749417387348858
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+
+            
+Ich will's jetz wisse!
+
+            
+'s liege, das nutzt nit meh,
+
+            
+Nur e schlecht G'wisse
+
+            
+Thüet widersteh.
+
+          
+
+        
+",69,lustig-d-singstund,24,3,0.125,0.3240793887059998,0.0,1.4954175893178738,0.4122284571832521,1.1235677260199777,0.9488633497612058,0.0,0.0,0.9046154725982978,0.0,0.7979303651070856
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+
+            
+Er will's jetz wisse!
+
+            
+Drum will ich mit 'm geh,
+
+            
+Ass er mi G'wisse
+
+            
+Glaübt wiss wie Schnee.
+
+          
+
+        
+",70,lustig-d-singstund,24,1,0.0416666666666666,0.3240793887059998,0.0,0.702778162701841,0.4122284571832521,0.7461203800123425,0.3977902245900591,0.0,0.0,0.0,0.0,0.5085540665012322
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegai.
+
+          
+
+            
+Er will's jetz wisse!
+
+            
+'s liege, das nutzt nit meh,
+
+            
+Ich, uf mi G'wisse,
+
+            
+Blib nitt do steh.
+
+          
+
+        
+",70,lustig-d-singstund,27,2,0.074074074074074,0.0463763320501316,0.0,0.4603274088587278,0.1147204003345364,0.6973748359584342,0.0860403002509024,0.2618331301732978,0.0,0.0,0.0,0.6949080381347059
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài.
+
+          
+Kunnsch mo-orn dure, ass ich do wart... wo isch d'Thüre?
+                       
+(Er geht mit vorg'streckte Hànd links, vor em Tisch
+                        verbi.)
+
+        
+",70,lustig-d-singstund,30,1,0.0333333333333333,0.0185505328200525,0.8350432477895933,0.8460771057079963,0.0458881601338145,1.0530624179855377,0.200382256675299,0.2618331301732978,0.0,0.1742055901637647,0.5614599088386201,1.0760290869389249
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+(kunnt züe sim Cabinet üse)
+
+          
+Ich gieng jetz gern emol ab
+(cr sieht im Dunkle e
+                        Kàmifeger, fir sich)
+ wer isch' das? nun-de-bib! 's isch 
+
+                        dr Mann.
+(Er geht hintere, dr Schlüch kunnt züem
+                        hintere Zimmer üse, links, un geht rechts.)
+
+        
+",71,lustig-d-singstund,57,5,0.087719298245614,0.0694115758571452,0.9122258081261936,1.0816011233277032,0.1271195475650144,1.2380424499466844,0.4019511127953098,0.3720651419334032,0.1281288517128685,0.21833869907686,0.6859348402322246,1.2672182134817174
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(geht immer vorsichtig rechts)
+
+          
+Wenn i nur d'Kuche kännt finde...
+
+        
+",71,lustig-d-singstund,15,2,0.1333333333333333,0.3239264664879475,1.2072638169221614,1.6732400666814946,0.3672674042464619,1.758216346762951,0.847452060722591,0.3720651419334032,0.1281288517128685,0.21833869907686,1.0153695187111365,1.6370875796821998
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(voruse)
+
+          
+Jetz wà mr emol sàh...
+
+        
+",71,lustig-d-singstund,11,1,0.0909090909090909,0.3517522657180266,1.2072638169221614,1.8227801203260647,0.4360996444471838,1.9879490729919165,0.8990762408731324,0.3720651419334032,0.1281288517128685,0.21833869907686,1.0153695187111365,1.848969673191468
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+G'schwind do ine.
+(Er geht ins linke Cabinet hinte, wo
+                        d'Thüre-n-uf isch.)
+
+        
+",72,lustig-d-singstund,22,2,0.0909090909090909,0.3517522657180266,1.2072638169221614,1.822780120326065,0.4360996444471838,1.9879490729919165,0.8990762408731324,0.3720651419334032,0.1281288517128685,0.21833869907686,1.0153695187111365,1.848969673191468
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài.
+
+          
+Dert...
+(Er geht links ine, erster Plan.)
+
+        
+",72,lustig-d-singstund,14,1,0.0714285714285714,0.3517522657180266,0.9313329693794066,1.7906526102589453,0.4360996444471838,2.162332603299057,0.7331101042981943,0.3720651419334032,0.1281288517128685,0.0441331089130952,0.4539096098725162,1.9164904834590124
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+'s isch nit z'mache...
+(Er geht rechts iue, erster Plan.
+                        Alle mache-n-ihre Thüre züe.)
+
+        
+",72,lustig-d-singstund,25,1,0.04,0.2916159562709076,1.4132628092896449,2.0084441485177678,0.3319241769490766,2.6605788344914645,0.5143331881280032,0.2618331301732978,0.0,0.0,0.3294346784789116,2.315197944994162
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(kunnt z'erscht ine, stellt 's Liecht uf dr Tisch,
+                        un sieht dr Papegai nimmig)
+
+          
+Ah! er isch furt!
+('s Theater wird heiter.)
+
+        
+",72,lustig-d-singstund,32,2,0.0625,0.0278257992300789,1.1182248004936768,1.5780525067335638,0.0688322402007218,2.3783143211757016,0.0516241801505415,0.5236662603465959,0.0,0.0,0.0,2.21647242990985
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(kunnt ine, er hat sine Brille-n-uf dr Nase)
+
+          
+Jetz, wo-n-i mine Brille ha, wà mr emol lüege... Eh
+                        bien! wo isch er denn? hasch g'sàh, ass er si dervo
+                        g'macht hat... er wird wohl wisse worum... Oh! ich merk
+                        ebbes... Marie... do steckt ebbes derhinter.
+
+        
+",73,lustig-d-singstund,66,6,0.0909090909090909,0.004637633205013,1.2216565101979089,1.6177377571196132,0.0114720400334535,2.4105686584300585,0.0086040300250903,0.7001532513983961,0.0,0.0,0.1098075528649413,2.2885235703524893
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Ich merk' o, ass Sie nitt heiter sàhn un ass Sie allewil
+                        Sache fire bringe...
+
+        
+",73,lustig-d-singstund,19,2,0.1052631578947368,0.004637633205013,1.2216565101979089,1.6550762494621365,0.0114720400334535,2.371510421341682,0.0086040300250903,0.438320121225098,0.0,0.0,0.4206537651866281,2.2583987855805034
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Worum isch er denn furt, das bezigt doch...
+
+        
+",74,lustig-d-singstund,13,1,0.0769230769230769,0.0324634324350921,0.6625441099510703,1.301454062679987,0.0803042802341754,1.841439309007438,0.0602282101756318,0.438320121225098,0.0,0.0,0.4206537651866281,1.80975692650874
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Das bezigt gar nit
+(fir sich)
+ Oh! ne güeter Idee! Dr
+                        Schlüch isch jo dert...
+(lüt)
+ Un züedàm isch er gar
+                        nitt furt, er isch dert in mim Zimmer.
+(Se zeigt 's
+                        Cabinet hinte links.)
+
+        
+",74,lustig-d-singstund,49,4,0.0816326530612244,0.1076338192439908,0.1034317097042318,1.098911585778499,0.0803042802341754,1.404460738816005,0.1418302878344897,0.438320121225098,0.0,0.0,0.5974249389002038,1.4345140337731397
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+In Dim Zimmer?
+
+        
+",74,lustig-d-singstund,7,1,0.1428571428571428,0.1354596184740699,0.1034317097042318,1.0373576533052913,0.1491365204348973,1.3197065061348117,0.1934544679850312,0.1764869910517999,0.0,0.0,0.5974249389002038,1.3046249116631483
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Worum nitt, mi Mann?
+
+        
+",74,lustig-d-singstund,8,1,0.125,0.1308219852690567,0.0,0.8481323492746717,0.1376644804014437,1.0577194426514895,0.1848504379599409,0.0,0.0,0.0,0.4876173860352623,1.0206916777112407
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Eh bien, zeig, rief 'm...
+(er geht links).
+
+        
+",74,lustig-d-singstund,17,2,0.1176470588235294,0.1447348848840962,0.3102951291126956,0.956281796788452,0.1720806005018046,1.253764952369514,0.2106625280352116,0.2676278429821023,0.0,0.0,0.5061938323083999,1.219073733100431
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(geht hintere)
+
+          
+Wenn Se nur das brüche, fir sich z'versichere... putze
+                        Se nur Ihre Brille... Se wàrde sàh, eb's nitt mi Mann
+                        isch.
+(Se macht d'Thüre vom Cabinet uf hinte links.)
+
+                        Kumm, Schlüch, dr Herr will mit Dr rede.
+(Se nimmt dr
+                        Gager bi dr Hand un fiehrt 'n ine.)
+
+        
+",75,lustig-d-singstund,70,9,0.1285714285714285,0.1534099019279809,0.3102951291126956,1.0359694009031637,0.1108963869900518,1.346385615612943,0.2010419579720006,0.325812983020613,0.0,0.0,0.6625286723487047,1.305143615525176
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Kumm emol nächer, güeter Frind...
+
+        
+",75,lustig-d-singstund,10,4,0.4,0.085195964926602,0.3102951291126956,0.7727346507890756,0.1281044470402323,1.0809935287984078,0.132345925350778,0.325812983020613,0.0,0.0,0.485757498635129,1.072833079057061
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(b'schaüt 'n ganz nooch)
+
+          
+Scho wieder e-n-Anderer?...
+
+        
+",75,lustig-d-singstund,15,2,0.1333333333333333,0.0712830653115625,0.3102951291126956,0.8974213964362063,0.0936883269398713,1.276528735881102,0.1065338352755072,0.510258219815723,0.0,0.0,0.485757498635129,1.3416248351690694
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich, wo 'n erkennt)
+
+          
+Dr Gager anstatt dr Schlüch?...
+
+          
+
+            
+G'sang
+
+            
+(Ich bin der Doktor Eisenbart)
+
+            
+Ich bi glaüb nimm recht bi Vernunft!
+
+            
+Was isch mit mim Hüs?
+
+            
+'s isch glaüb e Kàmifegerzunft,
+
+            
+Ich kumm gar nimm drüs!
+
+            
+'s hat küm als Ein dr Tisch verlo,
+
+            
+So sitzt e-n-And'rer wieder do!
+
+            
+Wo me hi nur stellt dr Füess,
+
+            
+Sieht me nit as Rüess!
+
+            
+(züem Marie)
+
+            
+Zeig, lüeg mi a, 
+(bis)
+
+            
+Marie, Dü bisch schuld do dra!
+
+            
+Zeig, lüeg mi a, 
+(bis)
+
+            
+Dü bisch schuld do dra.
+
+            
+(züem Marie)
+
+            
+Eh bien, Marie?
+
+          
+
+        
+",76,lustig-d-singstund,126,11,0.0873015873015873,0.0986177514238892,0.3667124253150038,1.0399093570951758,0.0936883269398713,1.461735975237485,0.1362073180605465,0.5589178276306507,0.0,0.0,0.6185049941477107,1.5084044685704645
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Eh bien... was?
+
+        
+",77,lustig-d-singstund,7,1,0.1428571428571428,0.0847048518088497,0.6770075544276994,1.2469512294246872,0.0592722068395104,1.703477480548327,0.1103952279852758,0.8265456706127534,0.0,0.0,0.9479276527425352,1.80655086129766
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Isch en jetz das o, Di Mann?...
+
+        
+",77,lustig-d-singstund,13,2,0.1538461538461538,0.0621169351499255,0.6770075544276994,1.0924935984876905,0.0860403002509022,1.4959904541904154,0.0942037079732161,0.7683605305742428,0.0,0.0,0.7915928127022303,1.6145399321182812
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(blickt im Gager)
+
+          
+I mein's emol, Herr, ass es ne isch...
+
+        
+",77,lustig-d-singstund,18,2,0.1111111111111111,0.0690733849574452,0.6770075544276994,1.129878611898833,0.1032483603010827,1.5534236357476567,0.1071097530108515,0.7683605305742428,0.0,0.0,0.7915928127022303,1.6675104554955982
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(lislig züem Marie)
+
+          
+Verstande...
+
+        
+",77,lustig-d-singstund,8,1,0.125,0.0551604853424057,0.6770075544276994,0.8556518126071321,0.0688322402007218,1.1281557024359976,0.0812976629355808,0.5839152937791329,0.0,0.0,0.7915928127022303,1.1868366058743225
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Was... dà Dicke do?
+
+        
+",77,lustig-d-singstund,9,1,0.1111111111111111,0.0556515984601579,0.6205902582253912,0.8627039055927327,0.1376644804014437,1.1726811893085798,0.1032483603010829,0.535255685964205,0.0,0.0,0.6588453171896487,1.231939065982195
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Isch's e Wunder, Herr? Sie hàn 'n so viel mache
+                            z'esse.
+
+          
+(Se stupft dr Gager.)
+
+        
+",77,lustig-d-singstund,25,2,0.08,0.0695644980751975,0.0,0.8175222603842869,0.1720806005018046,1.0878893956794755,0.1290604503763536,0.4862779974398357,0.0,0.4862779974398361,0.0,1.0657353778564702
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Nun-de-bib noch emol... das isch wohr... Se hà mich
+                            g'schoppt...
+
+        
+",78,lustig-d-singstund,15,1,0.0666666666666666,0.0556515984601579,0.0,0.7427522335620019,0.1376644804014437,0.9730230325649932,0.1032483603010829,0.4862779974398357,0.0,0.4862779974398361,0.0,0.9597943311018362
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Was... Dü bisch's, wo...
+
+        
+",78,lustig-d-singstund,11,1,0.0909090909090909,0.0695644980751975,0.0,0.8175222603842871,0.1720806005018046,1.0878893956794755,0.1290604503763536,0.4862779974398357,0.0,0.4862779974398361,0.0,1.0657353778564702
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(bloost 'm)
+
+          
+Hout.
+(Se geht in d'Mittle hinter dr Tisch.)
+
+        
+",78,lustig-d-singstund,18,1,0.0555555555555555,0.0695644980751975,0.0,0.8175222603842871,0.1720806005018046,1.0878893956794755,0.1290604503763536,0.4862779974398357,0.0,0.4862779974398361,0.0,1.0657353778564702
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Un dr Racahout... un 's hat mi nitt iwel uftriwe...
+                            Nun-de-bib noch emol!
+
+        
+",78,lustig-d-singstund,18,1,0.0555555555555555,0.0417386988451184,0.0,0.6679822067397169,0.1032483603010827,0.8581566694505106,0.0774362702258122,0.4862779974398357,0.0,0.4862779974398361,0.0,0.8538532843472023
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Do hat mi denn mi Schüelkamerad nitt trumpiert... 's
+                            macht feist, nur hat er mr nitt g'sàit, ass es so
+                            g'schwind geht...
+
+          
+
+        
+",78,lustig-d-singstund,29,2,0.0689655172413793,0.0417386988451184,0.0,0.4629025844210158,0.1032483603010827,0.702828188553983,0.0774362702258122,0.0,0.0,0.0,0.2555365530999338,0.5809789388364923
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Eh bien, mr wànn wieder an dr Tisch sitze. Nunde-bib
+                            noch emol...
+
+        
+",79,lustig-d-singstund,17,1,0.0588235294117647,0.0417386988451184,0.6205902582253912,1.0265263827246085,0.1032483603010827,1.4160439254046324,0.0774362702258122,0.535255685964205,0.0,0.0,0.9143818702895826,1.389153817800151
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+'s isch sunderbar, jetz schwört er, un noch ohne
+                            az'stosse.
+
+        
+",79,lustig-d-singstund,16,2,0.125,0.0278257992300789,0.6205902582253912,0.9517563559023232,0.0688322402007218,1.3011775622901496,0.0516241801505415,0.535255685964205,0.0,0.0,0.9143818702895826,1.2832127710455172
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich ha das nitt ungern... Eh bien, 's isch mr recht,
+                            kumm Alter, wieder an dr Tisch, me ka besser
+                            schwàtze.
+
+        
+",79,lustig-d-singstund,30,5,0.1666666666666666,0.0333909590760947,0.7447083098704694,1.1546771667773923,0.0825986882408662,1.5948436270694102,0.0619490161806498,0.6423068231570461,0.0,0.0,1.17735966032217,1.5975005000796618
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+C'est ça 
+(se sitze, dr Gager am Platz vom Papegài)
+ Kännt i viellicht die Platte ha dert?
+
+        
+",79,lustig-d-singstund,23,1,0.0434782608695652,0.0333909590760947,0.7447083098704694,1.1546771667773923,0.0825986882408662,1.5948436270694102,0.0619490161806498,0.6423068231570461,0.0,0.0,1.17735966032217,1.597500500079662
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(zieht se z'ruck)
+
+          
+Jà halt! nei, Dü hasch jetz g'nüe g'gesse...
+(züem Marie)
+do, rüm das alles eweg... 
+(Marie tràit's ufs Tischle links, mit dr Bouteille.)
+
+        
+",80,lustig-d-singstund,43,3,0.0697674418604651,0.2036982346813939,0.7447083098704694,1.142593800471999,0.1970773014982094,1.3437866426806384,0.2948343720651142,0.6423068231570461,0.0,0.2627225506417129,0.921823107222236,1.4021837513546238
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich wott ewe nitt, ass es Dir sott schlecht werde...
+                        De bisch jetz scho ganz bleich.
+(züem Marie)
+Nimm o d'Kaffeekanne furt... 
+(Marie nimmt dr Plateau mit em Kaffee.)
+
+        
+",80,lustig-d-singstund,42,4,0.0952380952380952,0.2106546844889137,0.1241180516450782,0.7160834018142569,0.2142853615483899,0.8432048724858188,0.3077404171027497,0.1992737555903957,0.0,0.2627225506417129,0.2629777900325872,0.834345797201603
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Jo, jo... Dü hasch Di Kaffee g'ha... De nimmsch jetz
+                            nit meh as e Glasle Rhum... denn dr Rhum, dà thüet
+                            eim das Ding als wieder e wenig vertriwe...
+
+        
+",81,lustig-d-singstund,38,2,0.0526315789473684,0.2106546844889137,0.1241180516450782,0.7160834018142568,0.2142853615483899,0.8432048724858185,0.3077404171027497,0.1992737555903957,0.0,0.2627225506417129,0.2629777900325872,0.834345797201603
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Bi mir isch nit z'vertriwe-n-as dr Hunger...
+
+        
+",81,lustig-d-singstund,13,2,0.1538461538461538,0.3433946384553463,0.0,0.8392095400970447,0.2005189135082456,0.742577434644784,0.2974155810726414,0.0922226183975546,0.0,0.2627225506417129,0.0,0.5689062573012166
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+A propos... De hasch mr die G'schichte noch allewil
+                            nitt verzahlt!...
+
+        
+",81,lustig-d-singstund,17,2,0.1176470588235294,0.3573075380703859,0.0,1.1624120453796307,0.2349350336086065,1.1328725195810492,0.323227671147912,0.0922226183975546,0.0,0.2627225506417129,0.3108462123216868,0.9864937349031236
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(wo in d'Kuche will geh mit em Kaffeeg'schirr, blibt
+                        steh', fir sich)
+
+          
+Allons, bon 
+(lislig züem Gager)
+Sage-n-Ihr hewe 's Zahnweh un mache-n-I fremd...
+
+        
+",81,lustig-d-singstund,38,1,0.0263157894736842,0.473768910085642,0.0,1.2410660802517586,0.0860403002509023,1.1976894301904455,0.3909385358236089,0.0922226183975546,0.0,0.0,0.3108462123216868,1.0387931756163966
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Wo fehlt's?...
+
+        
+",82,lustig-d-singstund,8,2,0.25,0.4807253598931618,0.0,1.1787227074281934,0.1032483603010827,1.0999218266490989,0.4038445808612442,0.0,0.0,0.0,0.3108462123216868,0.9043972975603928
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(steht uf)
+
+          
+Mi Zahn, wo mr scho so lang Malàschte macht... awer
+                            jetz gang i ne geh lo üsrisse, jetz schiew i's nimm
+                            uf... ich verzähl Ihne das Ding morn... jetz müess
+                            er üse...
+
+        
+",82,lustig-d-singstund,44,6,0.1363636363636363,0.5284661279167182,0.2432251085074614,1.623716764443787,0.1282757864442211,1.666245687042472,0.4787518320844603,0.3491108402310638,0.1006932827046861,0.0587905310168199,0.4323925023135107,1.532777108491881
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Das isch jetz doch ärgerlig, enfin, De kunnsch
+                            wieder.
+
+        
+",82,lustig-d-singstund,15,1,0.0666666666666666,0.4179868133343488,0.2432251085074614,1.4472098689305004,0.197108026644943,1.7029397863332112,0.5303760122350017,0.3491108402310638,0.1006932827046861,0.0587905310168199,0.4323925023135107,1.6958110128673904
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Eb i wieder kumm!
+(lislig züem Marie)
+ derno...
+
+        
+",82,lustig-d-singstund,14,1,0.0714285714285714,0.4040739137193093,0.2432251085074614,1.1240073636479144,0.162691906544582,1.312644701396946,0.5045639221597311,0.3491108402310638,0.1006932827046861,0.0587905310168199,0.1215462899918238,1.2782235352654834
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(hat si Stüehl eweg g'stellt un kunnt jetz wieder an
+                        dr Tisch)
+
+          
+Do, nimm noch e Gläsle Rhum, 's isch o güet fir's
+                            Zahnweh...
+
+          
+
+        
+",83,lustig-d-singstund,32,3,0.09375,0.2128948153056057,0.2432251085074614,0.920565248633984,0.1856359866114893,1.1979853511095062,0.3041664417862902,0.3491108402310638,0.1006932827046861,0.0587905310168199,0.1215462899918238,1.1981312082249334
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Das isch emol e Feger!...
+
+        
+",83,lustig-d-singstund,12,1,0.0833333333333333,0.4996634629261612,0.2432251085074614,1.2257284211548791,0.1512198665111284,1.3699743765406658,0.6047626623464515,0.3491108402310638,0.1006932827046861,0.0587905310168199,0.1215462899918238,1.3182696987857585
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Allons... Güetnacht Herr Tannebibele.
+
+        
+",83,lustig-d-singstund,8,1,0.125,0.4658355945176443,0.0,0.8555043909615703,0.160608560468351,0.918516879261775,0.555667501198506,0.0,0.0,0.0,0.0,0.795830934608904
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Tannezapfe, güeter Frind, Herkül Tannezapfe...
+
+        
+",83,lustig-d-singstund,11,3,0.2727272727272727,0.4472850616975917,0.0,0.7558110218651903,0.1147204003345363,0.7653617284424649,0.5212513810981452,0.0,0.0,0.0,0.0,0.6545762056027254
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(lacht)
+
+          
+Ah! Sie sin e Herkül, Sie 
+(er schlat em uf d'Achsle un an dr Büch)
+ Farceur...
+
+        
+",83,lustig-d-singstund,26,2,0.0769230769230769,0.4472850616975917,0.0,0.966905007982968,0.1147204003345363,1.0798486873526236,0.5212513810981452,0.2618331301732978,0.0,0.0,0.0,0.9963474212219848
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(züem Marie)
+
+          
+Er isch charmant... un ganz güet uferzoge...
+
+        
+",84,lustig-d-singstund,15,4,0.2666666666666666,0.34473906268322,0.0,0.9275273232995684,0.1089843803178095,1.120286615750251,0.4081465958737893,0.3540557485708527,0.0,0.0,0.0,1.0906971357577138
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Güetnacht Marie... làwe Se wohl, Herr.
+(fir sich im hinteregeh)
+Ass ich furtgang... sàll sin Schnàcketànz 
+(singt fir sich)
+
+          
+
+            
+Nei, nei, das thüet dr Gager nitt,
+
+            
+Er möcht noch ebbes esse hit...
+
+          
+
+          
+Ich will emol prawiere, in d'Kuche z'witsche...
+
+        
+",84,lustig-d-singstund,57,4,0.0701754385964912,0.3516955124907397,0.0,0.9649123367107107,0.12619244036799,1.1777197973074922,0.4210526409114246,0.3540557485708527,0.0,0.0,0.0,1.1436676591350303
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+
+            
+Güetnacht, ich müess jetz scheide,
+
+            
+'s wàr mir no nitt verleide,
+
+            
+Doch ha-n-i Weh am Zahn. 
+(bis)
+
+            
+'s isch mir jetz leid, 
+(bis)
+
+            
+Verderbt isch jetz mi Freid.
+
+          
+
+          
+
+        
+",85,lustig-d-singstund,42,3,0.0714285714285714,0.5082765316772585,0.0,1.0803557703151228,0.2135174634221744,1.0619805680228969,0.5644084142515164,0.360333427495673,0.2594344850603277,0.0,0.0,1.0325992351491915
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie, Herr Tannezapfe.
+
+          
+
+            
+'isch uns jetz leid, 
+(bis)
+
+            
+Verderbt isch unser Freid.
+
+          
+
+          
+(Dr Gager macht dr gliche, as gieng er furt un schlicht awer in d'Kuche, zweite Thüre rechts).
+
+        
+",85,lustig-d-singstund,41,4,0.0975609756097561,0.505957715074752,0.0,1.1871903511551556,0.2077814434054476,1.2219507237757508,0.5601063992389713,0.360333427495673,0.2594344850603277,0.0,0.1277682765499669,1.146520293309714
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Marie, Herr Tannezapfe.
+
+          
+
+            
+'isch uns jetz leid, 
+(bis)
+
+            
+Verderbt isch unser Freid.
+
+          
+
+          
+(Dr Gager macht dr gliche, as gieng er furt un schlicht awer in d'Kuche, zweite Thüre rechts).
+
+        
+",86,lustig-d-singstund,41,4,0.0975609756097561,0.5129141648822717,0.0,1.1327776304256008,0.2249895034556281,1.1440114960281007,0.5730124442766067,0.0985002973223749,0.2594344850603277,0.0,0.2555365530999339,0.9892975003540668
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Endlig ha-n-i Di jetz ab 
+(lüt)
+ 's isch efange spot, Herr... wenn Se jetz giengte geh schlofe?...
+
+        
+",86,lustig-d-singstund,27,4,0.1481481481481481,0.5129141648822717,0.0,1.2386857078803284,0.2249895034556281,1.2399221321648788,0.5730124442766067,0.0062776789248199,0.2594344850603277,0.0,0.4323077268135095,1.0306922744373126
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Sag... Marie... 's isch doch possig... grad denk i
+                            jetz no iwer ebbes... Ass Einer ka uf eimol feisst
+                            werde, wenn er züem Exempel Racahout isst, das ka
+                            me viellicht noch versteh...
+
+        
+",87,lustig-d-singstund,42,4,0.0952380952380952,0.2122326176466767,0.0,1.0886845467777062,0.2249895034556281,1.3153657184960896,0.2466041336411747,0.137194244011469,0.2594344850603277,0.0,0.6141115318071869,1.1954762768201244
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo... dr Herr hat's jo g'sàh.
+
+        
+",87,lustig-d-singstund,11,1,0.0909090909090909,0.0556515984601579,0.0,0.9732411131732944,0.1376644804014437,1.4311049477806848,0.1032483603010829,0.1309165650866487,0.0,0.0,0.6141115318071869,1.3065447008059636
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Di Mann hat Racahout g'gesse, güet, awer explizier
+                            mr emol, wie sine Kleider, wo kei Racahout g'gesse
+                            hàn, sich känne versteh züem eso ne Wachsthum?
+
+        
+",87,lustig-d-singstund,34,3,0.088235294117647,0.0579704150626645,0.0,0.8664065323332615,0.1434005004181705,1.271134792027831,0.107550375313628,0.1309165650866487,0.0,0.0,0.48634325525722,1.1926236426454409
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+'s isch eigentlig wohr... er wird dr Girtel
+                            ufg'macht ha... doch i will jetz glaüb geh schlofe,
+                            awer z'erscht will i die zwei Briefe lese, wo mr dr
+                            Portner gà hat im ufegeh
+(er nimmt se-n-üs em Sack un b'schaüt se)
+Tiens, dà do isch vo miner Cüsine Ribise 
+(er steckt dr ander wieder in Sack)
+
+        
+",88,lustig-d-singstund,70,6,0.0857142857142857,0.0556515984601579,0.0,0.7346486092191336,0.1376644804014437,1.0728758485701495,0.1032483603010829,0.1309165650866487,0.0,0.0,0.358574978707253,1.0433889022333735
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Se wird wieder e Bosheit ufbringe... lese Sie's
+                            morn.
+
+        
+",88,lustig-d-singstund,14,2,0.1428571428571428,0.0486951486526381,0.3518480902341923,1.1320823980417267,0.4470919019083222,1.2714358915065715,0.0903423152634475,0.1309165650866487,0.0,0.0,0.1818038049936774,1.2218580571152362
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Nei, denn 's isch viellicht pressiert... zind mr e
+                        wenig.
+(Marie nimmt 's Liecht un zindet, Er liest)
+Liewer Cüsin, ich ha schöne Sache erfahre iwer Eüer Marie 
+(er haltet)
+ Hein?
+
+        
+",89,lustig-d-singstund,44,5,0.1136363636363636,0.0473038586911342,0.3518480902341923,0.8946733571189401,0.4436502898982861,0.8976502803182701,0.0877611062559205,0.0,0.0,0.0,0.0,0.8204004127415022
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Aïe! aïe!
+
+          
+(Se zieht 's Liecht z'ruck.)
+
+        
+",89,lustig-d-singstund,18,2,0.1111111111111111,0.4322361962943212,0.3518480902341923,1.3122486230302537,0.5637440296337596,1.0295366021520125,0.5615751602874272,0.0,0.0,0.3940838259625693,0.0,0.8762871860386088
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Zind mr denn
+(liest)
+Se hat schint's Liebschafte...
+
+        
+",89,lustig-d-singstund,15,1,0.0666666666666666,0.4507867291143739,0.3518480902341923,1.4119419921266336,0.6096321897675743,1.1826917529713223,0.595991280387788,0.0,0.0,0.3940838259625693,0.0,1.0175419150447875
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(kunnt mit em Liecht nächer, fir sich)
+
+          
+Die hat wohrschinlig alles erfahre!...
+
+        
+",90,lustig-d-singstund,18,2,0.1111111111111111,0.5964898695271582,0.3518480902341923,1.5769852495241288,0.5981601497341206,1.287830659539316,0.7505914056804139,0.0,0.0,0.3940838259625693,0.0,1.095268001450972
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(liest)
+
+          
+Mit drei Kàm...
+(er kehrt 's Blätt um).
+
+        
+",90,lustig-d-singstund,17,1,0.0588235294117647,0.6243156687572372,0.0,1.0860700372455276,0.3403569083777835,1.0104587400392515,0.8022155858309553,0.0,0.0,0.3940838259625693,0.0,0.8469492411844936
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Ich bi verlore
+('s kunnt ere ne Idee)
+Ah !
+
+        
+",90,lustig-d-singstund,17,2,0.1176470588235294,0.7690912825290189,0.0,1.246128626188204,0.3265904603376391,1.10793988906628,0.9550949051185628,0.0,0.0,0.3940838259625693,0.0,0.9176125911403694
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Mit drei Kàm... was will se mit dem sage?
+
+        
+",90,lustig-d-singstund,14,1,0.0714285714285714,0.3841589449258319,0.0,0.8285533602768904,0.2064967206021656,0.976053567232538,0.4812808510870563,0.0,0.0,0.0,0.0,0.8617258178432629
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(zindet dr Brief a)
+
+          
+Oh! Bosheite will se sage.
+
+        
+",90,lustig-d-singstund,14,1,0.0714285714285714,0.3563331456957529,0.0,0.6790133066323202,0.1376644804014437,0.7463208410035727,0.4296566709365149,0.0,0.0,0.0,0.0,0.649843724333995
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Das wà mr jetz gli sàh... Herrje! ich brenn!
+(schreit)
+Firio! Firio!... 
+(Er wirft dr Brief an Bode un schreit, wie wenn 's ganze Hüs in Flamme wàr. Uf si Gschrei kämme-n-alle drei Kàmifeger üse ku z'springe uf dr Herr Tannezapfe.)
+
+        
+",91,lustig-d-singstund,60,9,0.15,0.3697596277511565,0.0,0.9677421956046972,0.2150455423509118,1.2210578455109191,0.3616387702361571,0.2817510249609205,0.0826422198978503,0.0939214167621726,0.0,1.1714410886469435
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(kunnt ku z'springe)
+
+          
+Firio!
+
+        
+",91,lustig-d-singstund,9,1,0.1111111111111111,0.3419338285210775,0.0,0.8182021419601272,0.1462133021501899,0.991325119281954,0.3100145900856157,0.2817510249609205,0.0826422198978503,0.0939214167621726,0.0,0.959558995137676
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(ganz verstört)
+
+          
+A ça... schneits denn Kàmifeger hit?
+
+        
+",91,lustig-d-singstund,14,2,0.1428571428571428,0.2055059545183196,0.0,0.9024623415802376,0.1806294222505509,1.2731653583207925,0.1726225248431704,0.4661962617560304,0.0826422198978503,0.0939214167621726,0.0,1.3271930761012225
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Mitnander.
+
+          
+Wott me nitt grad meine,
+
+          
+'s sin sunscht niene Keine -
+
+          
+Nit as Kàmifeger hit
+
+          
+Trifft me-n-a bi jedem Schritt!
+
+          
+Alles schmeekt no Kohle,
+
+          
+'s isch züem Kückück hole!
+
+          
+Ich verstand kei Wort dervo,
+
+          
+Was die mache do!
+
+        
+",92,lustig-d-singstund,48,5,0.1041666666666666,0.1776801552882405,0.0,0.8524303240810029,0.111797182049829,1.207477028429246,0.120998344692629,0.4661962617560304,0.0826422198978503,0.0939214167621726,0.1454430439949419,1.2912933281028676
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Mitnander.
+
+          
+Wott me nitt grad meine,
+
+          
+'s sin sunscht niene Keine -
+
+          
+Nit as Kàmifeger hit
+
+          
+Trifft me-n-a bi jedem Schritt!
+
+          
+Alles schmeekt no Kohle,
+
+          
+'s isch züem Kückück hole!
+
+          
+Ich verstand kei Wort dervo,
+
+          
+Was die mache do!
+
+        
+",92,lustig-d-singstund,48,5,0.1041666666666666,0.1776801552882405,0.0,0.9519383602263382,0.111797182049829,1.371521424766665,0.120998344692629,0.4661962617560304,0.0826422198978503,0.0939214167621726,0.2908860879898838,1.4672756736137802
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Mitnander.
+
+          
+Wott me nitt grad meine,
+
+          
+'s sin sunscht niene Keine -
+
+          
+Nit as Kàmifeger hit
+
+          
+Trifft me-n-a bi jedem Schritt!
+
+          
+Alles schmeekt no Kohle,
+
+          
+'s isch züem Kückück hole!
+
+          
+Ich verstand kei Wort dervo,
+
+          
+Was die mache do!
+
+        
+",93,lustig-d-singstund,48,5,0.1041666666666666,0.0139128996150393,0.0,0.5727509077277063,0.0344161201003609,0.917401122323916,0.0258120900752708,0.1844452367951095,0.0,0.0,0.4363291319848257,1.008620886154015
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Das isch 's Bouquet!
+
+        
+",93,lustig-d-singstund,10,1,0.1,0.3145944468506343,0.0,0.9526841070708866,0.0344161201003609,1.2042565108695582,0.3522204007107028,0.1844452367951095,0.0,0.0,0.4363291319848257,1.2347004234694736
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe
+
+          
+(verstört)
+
+          
+Was will das sage?...
+
+        
+",93,lustig-d-singstund,11,1,0.0909090909090909,0.3285073464656738,0.0,0.8279973614237559,0.0688322402007218,1.008721303786864,0.3780324907859735,0.0,0.0,0.0,0.4363291319848257,0.9659086673574656
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Drei Kàm... mi Cüsine hat schint's recht g'ha in
+                            ihrem Brief .
+
+          
+
+        
+",94,lustig-d-singstund,17,2,0.1176470588235294,0.3424202460807134,0.0,0.8032593521007056,0.1032483603010828,0.959543270563928,0.4038445808612442,0.0,0.0,0.0,0.2908860879898838,0.8958673686011867
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(geht uf 'n züe)
+
+          
+Eh bien, Herr... ich will Ihne liewer gli d'ganze
+                            Wohret sage.
+
+        
+",94,lustig-d-singstund,22,6,0.2727272727272727,0.3470578792857265,0.1034317097042318,1.055420580831163,0.1147204003345364,1.3275613102551522,0.4124486108863344,0.2500026882621171,0.0,0.0,0.4322314635434631,1.3518628938328263
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager
+
+          
+(fir sich)
+
+          
+Das will i o höre!
+
+        
+",94,lustig-d-singstund,11,1,0.0909090909090909,0.6477394265213215,0.1034317097042318,1.3358457440290077,0.1147204003345364,1.4503723024633757,0.7388569215217664,0.2500026882621171,0.0,0.0,0.2867884195485212,1.401960085637373
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+'s isch keiner vo dàne drei mi Mann!
+(se geht züem Schlüch)
+Awer das isch dà, wo-n-i hiroth mit dr Eh'stir, wo Sie mir versproche hàn...
+
+        
+",94,lustig-d-singstund,36,2,0.0555555555555555,0.3470578792857265,0.1034317097042318,0.9559125446858274,0.1147204003345364,1.1635169139177333,0.4124486108863344,0.2500026882621171,0.0,0.0,0.2867884195485213,1.175880548321914
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch
+
+          
+(macht Grimasse)
+
+          
+Ah! 's git e-n-Eh'stir?...
+
+        
+",95,lustig-d-singstund,14,1,0.0714285714285714,0.3192320800556475,0.1034317097042318,1.283557498949579,0.0458881601338145,1.6502423861098383,0.360824430735793,0.2500026882621171,0.0,0.0,0.7978615257483892,1.490310051957826
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Ich ha Dir e-n-Eh'stir versproche?
+
+        
+",95,lustig-d-singstund,11,2,0.1818181818181818,0.3192320800556475,0.1034317097042318,1.283557498949579,0.0458881601338145,1.6502423861098383,0.360824430735793,0.2500026882621171,0.0,0.0,0.7978615257483892,1.490310051957826
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jo, Herr!...
+(presentiert dr Schlüch)
+Dr Herr Schlüch üs em Didemergàssle, d'andere zwei sin mine Cüsin, mi Cüsin Gager un mi Cüsin Pagepài.
+
+        
+",95,lustig-d-singstund,34,3,0.088235294117647,0.3516955124907397,0.0,1.1312749722665467,0.1261924403679901,1.4244902517198157,0.4210526409114247,0.0,0.0,0.0,0.5110731061998679,1.1408416392276304
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Papegài
+
+          
+(fir sich)
+
+          
+Si Cü - Cüsin?
+
+        
+",95,lustig-d-singstund,10,1,0.1,0.3516955124907397,0.0,1.131274972266547,0.1261924403679901,1.4244902517198157,0.4210526409114246,0.0,0.0,0.0,0.5110731061998679,1.1408416392276304
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Gager.
+
+          
+Verstande!...
+
+        
+",95,lustig-d-singstund,5,1,0.2,0.3516955124907397,0.0,1.131274972266547,0.1261924403679901,1.4244902517198157,0.4210526409114246,0.0,0.0,0.0,0.5110731061998679,1.1408416392276304
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Schlüch.
+
+          
+Wo mine zwei Zige gàn.
+(Dr Gager git 'm d'Hand).
+
+        
+",96,lustig-d-singstund,17,1,0.0588235294117647,0.3516955124907397,0.0,0.6540899643582252,0.1261924403679901,0.708032053298745,0.4210526409114246,0.0,0.0,0.0,0.0,0.6145300420824504
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+De hättsch's denn gli sotte sage. Eh bien, morn isch
+                            's Brütesse un... doch halt, i ha jo noch e Brief
+                            im Sack, wo-n-i noch g'schwind müess lese.
+(Er nimmt dr Brief üs em Sack un liest
+                            lislig.)
+
+        
+",96,lustig-d-singstund,53,4,0.0754716981132075,0.3447390626832199,0.3310716096734439,0.8682173429501621,0.1089843803178096,0.9618914218852062,0.4081465958737893,0.133813921491051,0.0,0.0,0.1647113292974121,0.975307658695997
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie
+
+          
+(fir sich)
+
+          
+Wenn's nur nitt wieder...
+
+        
+",96,lustig-d-singstund,11,1,0.0909090909090909,0.6083195442787096,0.3310716096734439,1.048763804100582,0.0172080600501804,0.942436508792228,0.6657226663084994,0.133813921491051,0.0,0.0,0.1647113292974121,0.9188777379990992
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Herr Tannezapfe.
+
+          
+Wie-n-i gsàit ha, Ihr Herre-n-un Dame, morn isch 's
+                            Esse, un mi güeter Frind in Basel ladet mi grad i,
+                            fir morn ku dr Zug z'bschaüe... wenn Ihr wànn, so
+                            geh mr z,Mittag uf Basel, ich zahl d'Reis'.
+(fir sich)
+Was frog ich derno, ich zieh's im Marie ab vo dr Eh'stir...
+
+        
+",97,lustig-d-singstund,76,14,0.1842105263157894,0.3955345676268617,0.5321276612358395,0.9801666106727176,0.0221246486359463,1.0094502655905566,0.4362613144368009,0.1712186543729507,0.0,0.0,0.21665527358132,1.1261499953667378
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Marie.
+
+          
+Jetz isch's üs un nit meh dra,
+
+          
+Un hat das Stick eüch g'falle,
+
+          
+So thien ihr in d'Hànd recht schla
+
+          
+Un riefe Bravo! Alle.
+
+        
+",98,lustig-d-singstund,32,3,0.09375,0.5795490311106583,0.5321276612358395,1.246714997007428,0.0221246486359463,1.235386883471138,0.4362613144368009,0.1712186543729507,0.0,0.0,0.21665527358132,1.260240442272206
+comedy,Herr PAPEGAI,M,chimney_sweeper,elementary_professions,,"
+          
+Mitnander.
+
+          
+Jetz isch's üs un nitt me dra,
+
+          
+Un hat das Stick eüch gfalle,
+
+          
+So thien ihr in d' Hànd recht schla,
+
+          
+So stark as Jeder ka.
+
+        
+",98,lustig-d-singstund,33,5,0.1515151515151515,0.6899577092009361,0.5321276612358395,1.4944946451443049,0.0221246486359463,1.448581824326913,0.5150560431355236,0.1712186543729507,0.0759734340650087,0.0,0.21665527358132,1.4298071294035786
+comedy,Herr GAGER,M,chimney_sweeper,elementary_professions,,"
+          
+Mitnander.
+
+          
+Jetz isch's üs un nitt me dra,
+
+          
+Un hat das Stick eüch gfalle,
+
+          
+So thien ihr in d' Hànd recht schla,
+
+          
+So stark as Jeder ka.
+
+        
+",99,lustig-d-singstund,33,5,0.1515151515151515,0.7934099374836944,0.2010560515623956,1.4533768878669595,0.0049165885857658,1.2930510334817444,0.5809447267966108,0.0374047328818993,0.1519468681300174,0.0,0.0519439442839078,1.1326551531667706
+comedy,Herr SCHLÜCH,M,chimney_sweeper,elementary_professions,,"
+          
+Mitnander.
+
+          
+Jetz isch's üs un nitt me dra,
+
+          
+Un hat das Stick eüch gfalle,
+
+          
+So thien ihr in d' Hànd recht schla,
+
+          
+So stark as Jeder ka.
+
+        
+",99,lustig-d-singstund,33,5,0.1515151515151515,0.6031370683383773,0.2010560515623956,1.3212233366606558,0.0049165885857658,1.2193905857918774,0.3333311448599013,0.0374047328818993,0.2279203021950261,0.0,0.0519439442839078,1.076142302982684
+comedy,Herr TANNEZAPFE,M,rentier,rentiers,,"
+          
+Mitnander.
+
+          
+Jetz isch's üs un nitt me dra,
+
+          
+Un hat das Stick eüch gfalle,
+
+          
+So thien ihr in d' Hànd recht schla,
+
+          
+So stark as Jeder ka.
+
+        
+",100,lustig-d-singstund,33,5,0.1515151515151515,0.6256491758449082,0.0,1.2576669788822166,1.1102230246251566e-17,1.0787163813036815,0.3151789147948904,0.0,0.3038937362600348,0.0,0.0,0.812357195430959
+comedy,Marie,F,cook,service_and_sales,,"
+          
+Mitnander.
+
+          
+Jetz isch's üs un nitt me dra,
+
+          
+Un hat das Stick eüch gfalle,
+
+          
+So thien ihr in d' Hànd recht schla,
+
+          
+So stark as Jeder ka.
+
+        
+",100,lustig-d-singstund,33,5,0.1515151515151515,0.5520433904513895,0.0,1.2388982406843825,1.1102230246251566e-17,1.0659747042788754,0.393973643493613,0.0,0.3798671703250435,0.0,0.0,0.8478334356568633
