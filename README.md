@@ -1,8 +1,9 @@
 Analyse_emotion
 -----------------
 
-- Sources pour stages analyse d'émotions pour les pièces théâtres alsaciennes
-- Les sources étaient originalement dans plusieurs dépôts dépendamment de leur origine et elles ont été collectées ici pour faciliter la manipulation
+- Sources pour le stage de Qinyue Liu, concernant l'analyse d'émotions dans les pièces de théâtre en alsacien
+- Outil pour l'analyse de la dynamique des émotions développé par Qinyue Liu
+- Stage encadré par Delphine Bernhard et Pablo Ruiz à l'Université de Strasbourg (LiLPa UR 1339 dans le cadre du projet [MeThAl](https://methal.pages.unistra.fr)).
 
 ## Contenu
 
