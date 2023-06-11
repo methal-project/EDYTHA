@@ -1,7 +1,7 @@
-Analyse_emotion
+EDYTHA - Emotion Dynamics in Theater in Alsatian
 -----------------
 
-- Sources pour le stage de Qinyue Liu, concernant l'analyse d'émotions dans les pièces de théâtre en alsacien
+- Travaux de stage de Qinyue Liu, concernant l'analyse d'émotions dans les pièces de théâtre en alsacien
 - Outil pour l'analyse de la dynamique des émotions développé par Qinyue Liu
 - Stage encadré par Delphine Bernhard et Pablo Ruiz à l'Université de Strasbourg (LiLPa UR 1339 dans le cadre du projet [MeThAl](https://methal.pages.unistra.fr)).
 
