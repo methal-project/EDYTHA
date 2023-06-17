@@ -261,3 +261,9 @@ python3 graphic.py --mode single --pieces arnold-der-pfingstmontag,am-letzte-mas
 ```
 Il faut simplement utiliser --savepath avec chemin vers le  répertoire pour sauvegarder les images. (le répertoire doit existe déjà)
 
+
+## Licence
+
+- Le nouveau code créé dans le cadre du stage est sous licence GNU 3.0
+- À noter que la version originale du script [`avgEmoValues.py`](./emotions/avgEmoValues.py), par [Priya22](https://github.com/Priya22/EmotionDynamics/blob/master/code/avgEmoValues.py) était sous licence MIT
+- Les ressources lexicales exploitées par l'outil sont sous diverses licences, voir le dossier des [ressources](./source_files)
