@@ -1,5 +1,6 @@
 EDYTHA - Emotion Dynamics for Theater in Alsatian
 -----------------
+[[English version]](README.md)
 
 - Travaux de stage de Qinyue Liu, concernant l'analyse d'émotions dans les pièces de théâtre en alsacien
 - Outil pour l'analyse de la dynamique des émotions développé par Qinyue Liu

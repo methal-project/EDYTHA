@@ -1,6 +1,6 @@
 EDYTHA - Emotion Dynamics for Theater in Alsatian
 -----------------
-[Version en français](README-fr.md)
+[[Version en français]](README-fr.md)
 
 - Sources for Qinyue Liu's internship on the analysis of emotions in Alsatian theater plays.
 - Tool for emotion analysis developed by Qinyue Liu.
@@ -57,6 +57,7 @@ A description of the directories in the repository follows. You can also find a 
 
 
 <a name="tutorial">
+
 ## Tutorial
 
 #### pre_treatment
